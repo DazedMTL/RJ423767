@@ -1,0 +1,12 @@
+# Ignore all files
+*.*
+
+# Except
+!*.json
+!*.zip
+!*.7z
+!*.csv
+!*.ks
+!.gitignore
+!README.md
+package.json

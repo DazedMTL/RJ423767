@@ -1,0 +1,5 @@
+[preload  storage="./data/bgimage/game300-4.jpg"  ]
+[preload  storage="./data/bgimage/game300-3.jpg"  ]
+[preload  storage="./data/bgimage/game300-2.jpg"  ]
+[preload  storage="./data/bgimage/game300-1.jpg"  ]
+[return]

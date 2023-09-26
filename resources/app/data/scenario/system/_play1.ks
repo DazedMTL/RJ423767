@@ -1,0 +1,5 @@
+[preload  storage="./data/fgimage/default/game200.png"  ]
+[preload  storage="./data/bgimage/game121-0.jpg"  ]
+[preload  storage="./data/bgimage/game121.jpg"  ]
+[preload  storage="./data/bgimage/game100.jpg"  ]
+[return]

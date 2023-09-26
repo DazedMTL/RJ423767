@@ -1,0 +1,7 @@
+[preload  storage="./data/bgimage/gamblack.jpg"  ]
+[preload  storage="./data/bgimage/game104.jpg"  ]
+[preload  storage="./data/bgimage/game100.jpg"  ]
+[preload  storage="./data/bgimage/rouka.jpg"  ]
+[preload  storage="./data/bgimage/game101.jpg"  ]
+[preload  storage="./data/bgimage/title.jpg"  ]
+[return]
