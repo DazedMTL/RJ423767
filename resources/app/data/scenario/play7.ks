@@ -4,11 +4,11 @@
 What kind of training do you want to do?[p]
 [_tb_end_text]
 
-[glink  color="black"  storage="play7.ks"  size="20"  text="土下座"  target="*p1"  y="190"  x="510"  width="120"  height="20"  ]
-[glink  color="black"  storage="play7.ks"  size="20"  text="足舐め"  target="*p2"  x="510"  y="250"  width="120"  height="20"  ]
-[glink  color="black"  storage="play7.ks"  size="20"  text="アナル舐め"  target="*p3"  x="510"  y="310"  width="120"  height="20"  ]
-[glink  color="black"  storage="play7.ks"  size="20"  text="セックス"  target="*p4"  x="510"  y="370"  width="120"  height="20"  ]
-[glink  color="black"  storage="play7.ks"  size="20"  width="120"  height="20"  y="430"  x="510"  text="調教を終わる"  target="*p9"  ]
+[glink  color="black"  storage="play7.ks"  size="20"  text="Kneeling down"  target="*p1"  y="190"  x="510"  width="120"  height="20"  ]
+[glink  color="black"  storage="play7.ks"  size="20"  text="Foot licking"  target="*p2"  x="510"  y="250"  width="120"  height="20"  ]
+[glink  color="black"  storage="play7.ks"  size="20"  text="Anal licking"  target="*p3"  x="510"  y="310"  width="120"  height="20"  ]
+[glink  color="black"  storage="play7.ks"  size="20"  text="Sex"  target="*p4"  x="510"  y="370"  width="120"  height="20"  ]
+[glink  color="black"  storage="play7.ks"  size="20"  width="120"  height="20"  y="430"  x="510"  text="Training is finished"  target="*p9"  ]
 [s  ]
 *p1
 
@@ -25,9 +25,9 @@ What do you want to teach?[p]
 
 [_tb_end_text]
 
-[glink  color="black"  storage="play7.ks"  size="20"  text="挨拶"  width="100"  height="20"  y="290"  x="520"  target="*p1a"  ]
-[glink  color="black"  storage="play7.ks"  size="20"  text="謝罪"  x="520"  y="360"  width="100"  height="20"  target="*p1b"  ]
-[glink  color="black"  storage="play7.ks"  size="20"  text="懇願"  width="100"  height="20"  y="430"  x="520"  target="*p1c"  ]
+[glink  color="black"  storage="play7.ks"  size="20"  text="Greeting"  width="100"  height="20"  y="290"  x="520"  target="*p1a"  ]
+[glink  color="black"  storage="play7.ks"  size="20"  text="Apology"  x="520"  y="360"  width="100"  height="20"  target="*p1b"  ]
+[glink  color="black"  storage="play7.ks"  size="20"  text="Begging"  width="100"  height="20"  y="430"  x="520"  target="*p1c"  ]
 [s  ]
 *p1a
 
@@ -518,8 +518,8 @@ Aaaaaahhhhhhhhhhhhhhhhhhhh♥[p]
 Here it comes...![p]
 [_tb_end_text]
 
-[glink  color="black"  storage="play7.ks"  size="20"  target="*p4a3"  text="中に出す"  x="510"  y="360"  width="110"  height="20"  ]
-[glink  color="black"  storage="play7.ks"  size="20"  target="*p4a4"  text="外に出す"  width="110"  height="20"  y="430"  x="510"  ]
+[glink  color="black"  storage="play7.ks"  size="20"  target="*p4a3"  text="I'm going to cum inside"  x="510"  y="360"  width="110"  height="20"  ]
+[glink  color="black"  storage="play7.ks"  size="20"  target="*p4a4"  text="Release it outside"  width="110"  height="20"  y="430"  x="510"  ]
 [s  ]
 *p4a3
 
@@ -751,8 +751,8 @@ Ora ora...[p]
 
 [_tb_end_text]
 
-[glink  color="black"  storage="play7.ks"  size="20"  target="*p4b3"  text="中に出す"  x="510"  y="360"  width="110"  height="20"  ]
-[glink  color="black"  storage="play7.ks"  size="20"  target="*p4b4"  text="外に出す"  width="110"  height="20"  y="430"  x="510"  ]
+[glink  color="black"  storage="play7.ks"  size="20"  target="*p4b3"  text="I'm going to cum inside"  x="510"  y="360"  width="110"  height="20"  ]
+[glink  color="black"  storage="play7.ks"  size="20"  target="*p4b4"  text="To take it outside"  width="110"  height="20"  y="430"  x="510"  ]
 [s  ]
 *p4b3
 
@@ -834,8 +834,8 @@ Alright, let's end it here for today.[p]
 Should I make you wear bloomers for a change of pace?[p]
 [_tb_end_text]
 
-[glink  color="black"  storage="play7.ks"  size="20"  text="ブルマを穿かせる"  x="500"  y="360"  width="170"  height="20"  target="*p4c1"  ]
-[glink  color="black"  storage="play7.ks"  size="20"  text="穿かせない"  target="*p4a"  width="170"  height="20"  y="430"  x="500"  ]
+[glink  color="black"  storage="play7.ks"  size="20"  text="Should I make you wear bloomers?"  x="500"  y="360"  width="170"  height="20"  target="*p4c1"  ]
+[glink  color="black"  storage="play7.ks"  size="20"  text="Not wearing them"  target="*p4a"  width="170"  height="20"  y="430"  x="500"  ]
 [s  ]
 *p4c1
 
@@ -1063,8 +1063,8 @@ I'm about to... cum soon...[p]
 
 [_tb_end_text]
 
-[glink  color="black"  storage="play7.ks"  size="20"  target="*p4a3"  text="中に出す"  x="510"  y="360"  width="110"  height="20"  ]
-[glink  color="black"  storage="play7.ks"  size="20"  target="*p4a4"  text="外に出す"  x="510"  y="430"  width="110"  height="20"  ]
+[glink  color="black"  storage="play7.ks"  size="20"  target="*p4a3"  text="I'm going to cum inside"  x="510"  y="360"  width="110"  height="20"  ]
+[glink  color="black"  storage="play7.ks"  size="20"  target="*p4a4"  text="Release it outside"  x="510"  y="430"  width="110"  height="20"  ]
 [s  ]
 *p9
 

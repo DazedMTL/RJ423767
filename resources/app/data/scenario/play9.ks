@@ -5,12 +5,12 @@
 Well, what should we do?[p]
 [_tb_end_text]
 
-[glink  color="black"  storage="play9.ks"  size="20"  text="アナルセックス"  y="130"  width="160"  height="20"  x="500"  target="*p1"  ]
-[glink  color="black"  storage="play9.ks"  size="20"  text="野外調教"  y="190"  width="160"  height="20"  x="500"  target="*p2"  ]
-[glink  color="black"  storage="play9.ks"  size="20"  text="コスプレ撮影"  y="250"  width="160"  height="20"  x="500"  target="*p3"  ]
-[glink  color="black"  storage="play9.ks"  size="20"  text="体育館露出"  y="310"  width="160"  height="20"  x="500"  target="*p4"  ]
-[glink  color="black"  storage="play9.ks"  size="20"  text="自宅調教"  y="370"  width="160"  height="20"  x="500"  target="*p5"  ]
-[glink  color="black"  storage="kaori2.ks"  size="20"  text="戻る"  y="430"  width="160"  height="20"  x="500"  ]
+[glink  color="black"  storage="play9.ks"  size="20"  text="Anal sex"  y="130"  width="160"  height="20"  x="500"  target="*p1"  ]
+[glink  color="black"  storage="play9.ks"  size="20"  text="Outdoor training"  y="190"  width="160"  height="20"  x="500"  target="*p2"  ]
+[glink  color="black"  storage="play9.ks"  size="20"  text="Cosplay photoshoot"  y="250"  width="160"  height="20"  x="500"  target="*p3"  ]
+[glink  color="black"  storage="play9.ks"  size="20"  text="Exhibition in the gymnasium"  y="310"  width="160"  height="20"  x="500"  target="*p4"  ]
+[glink  color="black"  storage="play9.ks"  size="20"  text="Home Training"  y="370"  width="160"  height="20"  x="500"  target="*p5"  ]
+[glink  color="black"  storage="kaori2.ks"  size="20"  text="Go back"  y="430"  width="160"  height="20"  x="500"  ]
 [s  ]
 *p1
 
@@ -165,8 +165,8 @@ Ugh...[p]
 [_tb_end_text]
 
 [jump  storage="play9.ks"  target="*p2f"  cond="f.pan==2"  ]
-[glink  color="black"  storage="play9.ks"  size="20"  text="浣腸する"  x="520"  y="360"  width="110"  height="20"  target="*p2a"  ]
-[glink  color="black"  storage="play9.ks"  size="20"  text="浣腸しない"  y="430"  x="520"  width="110"  height="20"  target="*p2b"  ]
+[glink  color="black"  storage="play9.ks"  size="20"  text="Enema"  x="520"  y="360"  width="110"  height="20"  target="*p2a"  ]
+[glink  color="black"  storage="play9.ks"  size="20"  text="I won't do an enema"  y="430"  x="520"  width="110"  height="20"  target="*p2b"  ]
 [s  ]
 *p2a
 
@@ -217,8 +217,8 @@ Y-Yes... I... want to poop...[p]
 Well, what should we do now?[p]
 [_tb_end_text]
 
-[glink  color="black"  storage="play9.ks"  size="20"  text="懇願させる"  x="500"  y="360"  width="160"  height="20"  target="*p2a1"  ]
-[glink  color="black"  storage="play9.ks"  size="20"  text="玉を舐めさせる"  width="160"  height="20"  y="430"  x="500"  target="*p2a2"  ]
+[glink  color="black"  storage="play9.ks"  size="20"  text="Begging"  x="500"  y="360"  width="160"  height="20"  target="*p2a1"  ]
+[glink  color="black"  storage="play9.ks"  size="20"  text="Let them lick my balls"  width="160"  height="20"  y="430"  x="500"  target="*p2a2"  ]
 [s  ]
 *p2a1
 
@@ -514,8 +514,8 @@ Chupa♥[p]
 Now, where should I go?[p]
 [_tb_end_text]
 
-[glink  color="black"  storage="play9.ks"  size="20"  text="体育館"  height="20"  width="100"  y="360"  x="520"  target="*p2b1"  ]
-[glink  color="black"  storage="play9.ks"  size="20"  text="中庭"  y="430"  x="520"  width="100"  height="20"  target="*p2b2"  ]
+[glink  color="black"  storage="play9.ks"  size="20"  text="Gymnasium"  height="20"  width="100"  y="360"  x="520"  target="*p2b1"  ]
+[glink  color="black"  storage="play9.ks"  size="20"  text="Courtyard"  y="430"  x="520"  width="100"  height="20"  target="*p2b2"  ]
 [s  ]
 *p2b1
 
@@ -1759,8 +1759,8 @@ Ah... Yes...[p]
 Well, it's a holiday today... I wonder what should we do?[p]
 [_tb_end_text]
 
-[glink  color="black"  storage="play9.ks"  size="20"  text="香織を呼び出す"  width="140"  height="20"  y="360"  x="490"  target="*p5a"  ]
-[glink  color="black"  storage="play9.ks"  size="20"  text="香織の家に行く"  width="140"  height="20"  y="430"  x="490"  target="*p5b"  ]
+[glink  color="black"  storage="play9.ks"  size="20"  text="Call Kaori"  width="140"  height="20"  y="360"  x="490"  target="*p5a"  ]
+[glink  color="black"  storage="play9.ks"  size="20"  text="Go to Kaori's house"  width="140"  height="20"  y="430"  x="490"  target="*p5b"  ]
 [s  ]
 *p5a
 

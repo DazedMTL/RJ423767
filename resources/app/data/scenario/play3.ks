@@ -4,10 +4,10 @@
 What are you doing?[p]
 [_tb_end_text]
 
-[glink  color="black"  storage="play3.ks"  size="20"  text="キス"  x="500"  y="220"  width="120"  height="20"  _clickable_img=""  target="*sx1"  ]
-[glink  color="black"  storage="play3.ks"  size="20"  text="下着チェック"  x="500"  y="290"  width="120"  height="20"  _clickable_img=""  target="*sx2"  ]
-[glink  color="black"  storage="play3.ks"  size="20"  text="飲尿"  x="500"  y="360"  width="120"  height="20"  _clickable_img=""  target="*sx3"  ]
-[glink  color="black"  storage="kaori1.ks"  size="20"  text="戻る"  target="*ka00"  x="500"  y="430"  width="120"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="play3.ks"  size="20"  text="Kiss"  x="500"  y="220"  width="120"  height="20"  _clickable_img=""  target="*sx1"  ]
+[glink  color="black"  storage="play3.ks"  size="20"  text="Checking underwear"  x="500"  y="290"  width="120"  height="20"  _clickable_img=""  target="*sx2"  ]
+[glink  color="black"  storage="play3.ks"  size="20"  text="Drinking urine"  x="500"  y="360"  width="120"  height="20"  _clickable_img=""  target="*sx3"  ]
+[glink  color="black"  storage="kaori1.ks"  size="20"  text="Go back"  target="*ka00"  x="500"  y="430"  width="120"  height="20"  _clickable_img=""  ]
 [s  ]
 *sx1
 
@@ -54,9 +54,9 @@ No, thank you![p]
 (Hmm, they're resisting strongly) (That just means they really hate kissing me from the bottom of their heart...)[p]
 [_tb_end_text]
 
-[glink  color="black"  storage="play3.ks"  size="20"  target="*sx1aa"  text="脅迫"  x="530"  y="290"  width="100"  height="20"  _clickable_img=""  ]
-[glink  color="black"  storage="play3.ks"  size="20"  target="*sx1ab"  text="説得"  x="530"  y="360"  width="100"  height="20"  _clickable_img=""  ]
-[glink  color="black"  storage="play3.ks"  size="20"  target="*sx1ac"  text="挑発"  x="530"  y="430"  width="100"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="play3.ks"  size="20"  target="*sx1aa"  text="Coercion"  x="530"  y="290"  width="100"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="play3.ks"  size="20"  target="*sx1ab"  text="Persuasion"  x="530"  y="360"  width="100"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="play3.ks"  size="20"  target="*sx1ac"  text="Provocation"  x="530"  y="430"  width="100"  height="20"  _clickable_img=""  ]
 [s  ]
 *sx1aa
 
@@ -1385,8 +1385,8 @@ Alright, if you want it that badly, I'll give it to you.[p]
 #
 [_tb_end_text]
 
-[glink  color="black"  storage="play3.ks"  size="20"  target="*sx3i1"  text="そのままで"  x="500"  y="430"  width="120"  height="20"  ]
-[glink  color="black"  storage="play3.ks"  size="20"  target="*sx3i2"  text="鼻フックする"  y="360"  x="500"  width="120"  height="20"  ]
+[glink  color="black"  storage="play3.ks"  size="20"  target="*sx3i1"  text="As it is"  x="500"  y="430"  width="120"  height="20"  ]
+[glink  color="black"  storage="play3.ks"  size="20"  target="*sx3i2"  text="Nose hook"  y="360"  x="500"  width="120"  height="20"  ]
 [s  ]
 *sx3i1
 

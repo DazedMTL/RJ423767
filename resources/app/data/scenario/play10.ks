@@ -1047,10 +1047,10 @@ Y-Yes...[p]
 Who are you calling out?[p]
 [_tb_end_text]
 
-[glink  color="black"  storage="play10.ks"  size="20"  text="早瀬みちる"  target="*seito2aa"  width="120"  height="20"  x="510"  y="220"  ]
-[glink  color="black"  storage="play10.ks"  size="20"  text="赤井のあ"  target="*seito2bb"  width="120"  height="20"  x="510"  y="360"  ]
-[glink  color="black"  storage="play10.ks"  size="20"  text="津山さなえ"  target="*seito2cc"  width="120"  height="20"  x="510"  y="430"  ]
-[glink  color="black"  storage="play10.ks"  size="20"  text="藤野あやめ"  target="*seito2dd"  width="120"  height="20"  y="290"  x="510"  ]
+[glink  color="black"  storage="play10.ks"  size="20"  text="Michiru Hayase"  target="*seito2aa"  width="120"  height="20"  x="510"  y="220"  ]
+[glink  color="black"  storage="play10.ks"  size="20"  text="Akai Noa"  target="*seito2bb"  width="120"  height="20"  x="510"  y="360"  ]
+[glink  color="black"  storage="play10.ks"  size="20"  text="Tsuyama Sanae"  target="*seito2cc"  width="120"  height="20"  x="510"  y="430"  ]
+[glink  color="black"  storage="play10.ks"  size="20"  text="Ayame Fujino"  target="*seito2dd"  width="120"  height="20"  y="290"  x="510"  ]
 [s  ]
 *seito2a
 

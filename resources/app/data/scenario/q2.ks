@@ -16,9 +16,9 @@ Alright, let's start![p]
 Question 1: What is the first name of the protagonist, Nikuyama?[p]
 [_tb_end_text]
 
-[glink  color="black"  storage="q2.ks"  size="20"  text="剛"  x="545"  y="290"  width="90"  height="20"  _clickable_img=""  target="*a1b"  ]
-[glink  color="black"  storage="q2.ks"  size="20"  target="*a1b"  text="武"  x="545"  y="360"  width="90"  height="20"  _clickable_img=""  ]
-[glink  color="black"  storage="q2.ks"  size="20"  target="*a1a"  text="猛"  x="545"  y="430"  width="90"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="q2.ks"  size="20"  text="Takeshi"  x="545"  y="290"  width="90"  height="20"  _clickable_img=""  target="*a1b"  ]
+[glink  color="black"  storage="q2.ks"  size="20"  target="*a1b"  text="Takeshi"  x="545"  y="360"  width="90"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="q2.ks"  size="20"  target="*a1a"  text="Takeshi"  x="545"  y="430"  width="90"  height="20"  _clickable_img=""  ]
 [s  ]
 *a1a
 
@@ -43,9 +43,9 @@ Question 1: What is the first name of the protagonist, Nikuyama?[p]
 Question 2: Who is Akai's boyfriend?[p]
 [_tb_end_text]
 
-[glink  color="black"  storage="q2.ks"  size="20"  target="*a2b"  text="筒井"  x="530"  y="290"  width="100"  height="20"  _clickable_img=""  ]
-[glink  color="black"  storage="q2.ks"  size="20"  target="*a2a"  text="三好"  x="530"  y="360"  width="100"  height="20"  _clickable_img=""  ]
-[glink  color="black"  storage="q2.ks"  size="20"  target="*a2b"  text="松永"  x="530"  y="430"  width="100"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="q2.ks"  size="20"  target="*a2b"  text="Tsutsui"  x="530"  y="290"  width="100"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="q2.ks"  size="20"  target="*a2a"  text="Miyoshi"  x="530"  y="360"  width="100"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="q2.ks"  size="20"  target="*a2b"  text="Matsunaga"  x="530"  y="430"  width="100"  height="20"  _clickable_img=""  ]
 [s  ]
 *a2a
 
@@ -70,9 +70,9 @@ Question 2: Who is Akai's boyfriend?[p]
 Question 3: What were the girls doing in the gymnasium at the beginning of the game?[p]
 [_tb_end_text]
 
-[glink  color="black"  storage="q2.ks"  size="20"  target="*a3a"  text="バレー"  x="520"  y="290"  width="130"  height="20"  _clickable_img=""  ]
-[glink  color="black"  storage="q2.ks"  size="20"  target="*a3b"  text="バスケ"  x="520"  y="360"  width="130"  height="20"  _clickable_img=""  ]
-[glink  color="black"  storage="q2.ks"  size="20"  target="*a3b"  text="バドミントン"  x="520"  y="430"  width="130"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="q2.ks"  size="20"  target="*a3a"  text="Volleyball"  x="520"  y="290"  width="130"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="q2.ks"  size="20"  target="*a3b"  text="Basketball"  x="520"  y="360"  width="130"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="q2.ks"  size="20"  target="*a3b"  text="Badminton"  x="520"  y="430"  width="130"  height="20"  _clickable_img=""  ]
 [s  ]
 *a3a
 
@@ -97,9 +97,9 @@ Question 3: What were the girls doing in the gymnasium at the beginning of the g
 Question 4: What is the title of the AV featuring a female teacher that Nikuyama was watching at home?[p]
 [_tb_end_text]
 
-[glink  color="black"  storage="q2.ks"  size="20"  target="*a4a"  text="女教師お漏らし授業"  x="490"  y="290"  width="210"  height="20"  _clickable_img=""  ]
-[glink  color="black"  storage="q2.ks"  size="20"  target="*a4b"  text="女教師濡れた放課後"  x="490"  y="360"  width="210"  height="20"  _clickable_img=""  ]
-[glink  color="black"  storage="q2.ks"  size="20"  target="*a4b"  text="女教師恥辱の全裸授業"  x="490"  y="430"  width="210"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="q2.ks"  size="20"  target="*a4a"  text="Female Teacher's Peeing Lesson"  x="490"  y="290"  width="210"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="q2.ks"  size="20"  target="*a4b"  text="Wet After School with a Female Teacher"  x="490"  y="360"  width="210"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="q2.ks"  size="20"  target="*a4b"  text="AV Title: Naked Lesson of Humiliation for Female Teacher"  x="490"  y="430"  width="210"  height="20"  _clickable_img=""  ]
 [s  ]
 *a4a
 
@@ -124,9 +124,9 @@ Question 4: What is the title of the AV featuring a female teacher that Nikuyama
 Question 5: What is the selling price of the brainwashing device Psycho-SX?[p]
 [_tb_end_text]
 
-[glink  color="black"  storage="q2.ks"  size="20"  target="*a5b"  text="４４０００円"  x="500"  y="290"  width="150"  height="20"  _clickable_img=""  ]
-[glink  color="black"  storage="q2.ks"  size="20"  target="*a5a"  text="２９８００円"  x="500"  y="360"  width="150"  height="20"  _clickable_img=""  ]
-[glink  color="black"  storage="q2.ks"  size="20"  target="*a5b"  text="２６９８０円"  x="500"  y="430"  width="150"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="q2.ks"  size="20"  target="*a5b"  text="44,000 yen"  x="500"  y="290"  width="150"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="q2.ks"  size="20"  target="*a5a"  text="29,800 yen"  x="500"  y="360"  width="150"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="q2.ks"  size="20"  target="*a5b"  text="26,980 yen"  x="500"  y="430"  width="150"  height="20"  _clickable_img=""  ]
 [s  ]
 *a5a
 
@@ -151,9 +151,9 @@ Question 5: What is the selling price of the brainwashing device Psycho-SX?[p]
 Question 6: What is the name of the female gym teacher in charge?[p]
 [_tb_end_text]
 
-[glink  color="black"  storage="q2.ks"  size="20"  target="*a6b"  text="江村"  x="530"  y="290"  width="100"  height="20"  _clickable_img=""  ]
-[glink  color="black"  storage="q2.ks"  size="20"  target="*a6b"  text="遠野"  x="530"  y="360"  width="100"  height="20"  _clickable_img=""  ]
-[glink  color="black"  storage="q2.ks"  size="20"  text="木崎"  x="530"  y="430"  width="100"  height="20"  _clickable_img=""  target="*a6a"  ]
+[glink  color="black"  storage="q2.ks"  size="20"  target="*a6b"  text="Emura"  x="530"  y="290"  width="100"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="q2.ks"  size="20"  target="*a6b"  text="Tono"  x="530"  y="360"  width="100"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="q2.ks"  size="20"  text="Kirisaki"  x="530"  y="430"  width="100"  height="20"  _clickable_img=""  target="*a6a"  ]
 [s  ]
 *a6a
 
@@ -178,9 +178,9 @@ Question 6: What is the name of the female gym teacher in charge?[p]
 The name of the delinquent student who was falsely accused of breaking glass by Nikuyama is?[p]
 [_tb_end_text]
 
-[glink  color="black"  storage="q2.ks"  size="20"  target="*a7b"  text="滝川"  x="530"  y="290"  width="100"  height="20"  _clickable_img=""  ]
-[glink  color="black"  storage="q2.ks"  size="20"  target="*a7b"  text="上杉"  x="530"  y="360"  width="100"  height="20"  _clickable_img=""  ]
-[glink  color="black"  storage="q2.ks"  size="20"  target="*a7a"  text="柴田"  x="530"  y="430"  width="100"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="q2.ks"  size="20"  target="*a7b"  text="Takigawa"  x="530"  y="290"  width="100"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="q2.ks"  size="20"  target="*a7b"  text="Uesugi"  x="530"  y="360"  width="100"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="q2.ks"  size="20"  target="*a7a"  text="Shibata"  x="530"  y="430"  width="100"  height="20"  _clickable_img=""  ]
 [s  ]
 *a7a
 
@@ -205,9 +205,9 @@ The name of the delinquent student who was falsely accused of breaking glass by 
 Question 8: What is Tsuyama Sanae's desired future occupation?[p]
 [_tb_end_text]
 
-[glink  color="black"  storage="q2.ks"  size="20"  text="ケーキ屋"  target="*a8a"  x="510"  y="290"  width="130"  height="20"  _clickable_img=""  ]
-[glink  color="black"  storage="q2.ks"  size="20"  target="*a8b"  text="花屋"  x="510"  y="360"  width="130"  height="20"  _clickable_img=""  ]
-[glink  color="black"  storage="q2.ks"  size="20"  target="*a8b"  text="おもちゃ屋"  x="510"  y="430"  width="130"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="q2.ks"  size="20"  text="Cake shop owner"  target="*a8a"  x="510"  y="290"  width="130"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="q2.ks"  size="20"  target="*a8b"  text="Florist"  x="510"  y="360"  width="130"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="q2.ks"  size="20"  target="*a8b"  text="Toy store owner"  x="510"  y="430"  width="130"  height="20"  _clickable_img=""  ]
 [s  ]
 *a8a
 
@@ -232,9 +232,9 @@ Question 8: What is Tsuyama Sanae's desired future occupation?[p]
 Question 9: What is the name of the third batter in the baseball club?[p]
 [_tb_end_text]
 
-[glink  color="black"  storage="q2.ks"  size="20"  target="*a9b"  text="笹倉"  x="530"  y="290"  width="100"  height="20"  _clickable_img=""  ]
-[glink  color="black"  storage="q2.ks"  size="20"  target="*a9b"  text="東川"  x="530"  y="360"  width="100"  height="20"  _clickable_img=""  ]
-[glink  color="black"  storage="q2.ks"  size="20"  target="*a9a"  text="熊田"  x="530"  y="430"  width="100"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="q2.ks"  size="20"  target="*a9b"  text="Sasakura"  x="530"  y="290"  width="100"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="q2.ks"  size="20"  target="*a9b"  text="Toukawa"  x="530"  y="360"  width="100"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="q2.ks"  size="20"  target="*a9a"  text="Kumada"  x="530"  y="430"  width="100"  height="20"  _clickable_img=""  ]
 [s  ]
 *a9a
 
@@ -259,9 +259,9 @@ Question 9: What is the name of the third batter in the baseball club?[p]
 Question 10: What is the color of the handle of the scissors on the physical education instructor's desk?[p]
 [_tb_end_text]
 
-[glink  color="black"  storage="q2.ks"  size="20"  target="*a0b"  text="水色"  x="530"  y="290"  width="100"  height="20"  _clickable_img=""  ]
-[glink  color="black"  storage="q2.ks"  size="20"  text="緑"  x="530"  y="360"  width="100"  height="20"  _clickable_img=""  target="*a0a"  ]
-[glink  color="black"  storage="q2.ks"  size="20"  target="*a0b"  text="黄色"  x="530"  y="430"  width="100"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="q2.ks"  size="20"  target="*a0b"  text="Light blue"  x="530"  y="290"  width="100"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="q2.ks"  size="20"  text="Green"  x="530"  y="360"  width="100"  height="20"  _clickable_img=""  target="*a0a"  ]
+[glink  color="black"  storage="q2.ks"  size="20"  target="*a0b"  text="Yellow"  x="530"  y="430"  width="100"  height="20"  _clickable_img=""  ]
 [s  ]
 *a0a
 

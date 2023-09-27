@@ -5,11 +5,11 @@
 Please select an ending (※Save recommended)[p]
 [_tb_end_text]
 
-[glink  color="black"  storage="end.ks"  size="20"  y="190"  x="490"  width="140"  height="20"  text="エンディング１"  target="*e1"  ]
-[glink  color="black"  storage="end.ks"  size="20"  text="エンディング２"  target="*e2"  width="140"  height="20"  y="250"  x="490"  ]
-[glink  color="black"  storage="end.ks"  size="20"  text="エンディング３"  width="140"  height="20"  x="490"  y="310"  target="*e3"  ]
-[glink  color="black"  storage="end.ks"  size="20"  text="エンディング４"  width="140"  height="20"  x="490"  y="370"  target="*e4"  ]
-[glink  color="black"  storage="mein.ks"  size="20"  target="*aa2"  text="戻る"  x="490"  y="430"  width="140"  height="20"  ]
+[glink  color="black"  storage="end.ks"  size="20"  y="190"  x="490"  width="140"  height="20"  text="Ending 1"  target="*e1"  ]
+[glink  color="black"  storage="end.ks"  size="20"  text="Ending 2"  target="*e2"  width="140"  height="20"  y="250"  x="490"  ]
+[glink  color="black"  storage="end.ks"  size="20"  text="Ending 3"  width="140"  height="20"  x="490"  y="310"  target="*e3"  ]
+[glink  color="black"  storage="end.ks"  size="20"  text="Ending 4"  width="140"  height="20"  x="490"  y="370"  target="*e4"  ]
+[glink  color="black"  storage="mein.ks"  size="20"  target="*aa2"  text="Go back"  x="490"  y="430"  width="140"  height="20"  ]
 [s  ]
 *e1
 
@@ -987,8 +987,7 @@ I understand.[p]
 (If as a result Kaori gets fired, well, there's no helping it. It's a shame she won't be used for sexual favors at the school anymore...[p]
 but I have to give up on that.) (Since she's completely brainwashed, it's easy to manipulate Kaori, but how can I create a situation for an explanation...)[p]
 (Hmm...? Tomorrow is the closing ceremony... In that case, maybe...) (... That's right... If it comes to this...[p]
-I'll make Kaori experience the ultimate humiliation...!) (Hehehe... It's getting interesting... Uhihihihi!)[p]
-...[p]
+I'll make Kaori experience the ultimate humiliation...!) (Hehehe... It's getting interesting... Uhihihihi!)...[p]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
