@@ -709,7 +709,7 @@ Grind, grind, grind![p]
 #Kirishima
 Ahii♥ Ku...[p]
 ngh...[p]
-nnnnnーーーーhh♥[p]
+nnnnnhh♥[p]
 #
 ・・・・・・・・・[p]
 

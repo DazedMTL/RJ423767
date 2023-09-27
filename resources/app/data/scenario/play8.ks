@@ -205,7 +205,7 @@ I'm reaching my limit soon...[p]
 Ahh♥...[p]
 Hau...[p]
 Damee...[p]
-Nnnnーーーーーーhh♥[p]
+Nnnnhh♥[p]
 #
 [_tb_end_text]
 
@@ -3581,7 +3581,7 @@ Oraa![p]
 #Kaori
 Ahh♥ ...[p]
 I-I'll say it...![p]
-P-Please cum inside meeeーーー♥[p]
+P-Please cum inside meee♥[p]
 #Nikuyama
 Say Please impregnate me![p]
 , damn it![p]
