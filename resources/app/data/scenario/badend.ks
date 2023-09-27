@@ -4,14 +4,11 @@
 
 [tb_start_text mode=1 ]
 #Nikuyama
-(If it comes to this...[p]
-I'll just forcefully do it) (They're already brainwashed enough, so even if I rape them, I can easily manipulate them afterwards) (But it's lunch break now.[p]
-It would be bad if someone hears us, so let's wait until after school) Well, if you say so, there's no other choice.[p]
+(If it comes to this... I'll just forcefully do it) (They're already brainwashed enough, so even if I rape them, I can easily manipulate them afterwards)[p]
+(But it's lunch break now. It would be bad if someone hears us, so let's wait until after school) Well, if you say so, there's no other choice.[p]
 Let's skip the sexual treatment this time and instead have a counseling session.[p]
 #Kirishima
-...[p]
-Understood.[p]
-Excuse me.[p]
+... Understood. Excuse me.[p]
 #
 [_tb_end_text]
 
@@ -19,9 +16,7 @@ Excuse me.[p]
 [bg  time="1000"  method="crossfade"  storage="game100.jpg"  ]
 [tb_start_text mode=1 ]
 #
-Hehehe...[p]
-I've been waiting for this day for so long...[p]
-Today, I'm finally going to thrust my cock into them![p]
+Hehehe... I've been waiting for this day for so long... Today, I'm finally going to thrust my cock into them![p]
 I can't wait for after school...![p]
 
 [_tb_end_text]
@@ -42,38 +37,29 @@ They should be coming soon.[p]
 #Kirishima
 Sorry, I'm late.[p]
 #Nikuyama
-No, no, it's okay.[p]
-Well then, shall we start the counseling session right away?[p]
+No, no, it's okay. Well then, shall we start the counseling session right away?[p]
 #Kirishima
-Are we really doing this so late?[p]
-Couldn't we do it tomorrow...[p]
+Are we really doing this so late? Couldn't we do it tomorrow...[p]
 #Nikuyama
 It's fine because you're late, muhihihi.[p]
 #Kirishima
 Huh?[p]
 #Nikuyama
-Ah, no, I meant you.[p]
-Well then, for now, please take off your clothes and get completely naked.[p]
+Ah, no, I meant you. Well then, for now, please take off your clothes and get completely naked.[p]
 [_tb_end_text]
 
 [chara_mod  name="桐嶋"  time="600"  cross="true"  storage="chara/1/game13.png"  ]
 [tb_start_text mode=1 ]
 #Kirishima
-Huh!?[p]
-Why do I have to be completely naked...[p]
+Huh!? Why do I have to be completely naked...[p]
 #Nikuyama
-It's a physical examination.[p]
-We're going to check how advanced the symptoms of nymphomania are.[p]
+It's a physical examination. We're going to check how advanced the symptoms of nymphomania are.[p]
 #Kirishima
 D-Do I have to take off everything...?[p]
 #Nikuyama
-It's just an examination.[p]
-There's no need to be embarrassed at this point.[p]
-If you refuse to follow my instructions, then we'll have to come up with a different plan.[p]
+It's just an examination. There's no need to be embarrassed at this point. If you refuse to follow my instructions, then we'll have to come up with a different plan.[p]
 #Kirishima
-F-Fine...[p]
-I understand...[p]
-I just have to undress, right?[p]
+F-Fine... I understand... I just have to undress, right?[p]
 
 [_tb_end_text]
 
@@ -86,31 +72,22 @@ I-I undressed...[p]
 #Nikuyama
 Okay, then I'll take the clothes you undressed from and keep them here.[p]
 #Kirishima
-Huh?[p]
-W-Wait...[p]
-Please give them back![p]
+Huh? W-Wait... Please give them back![p]
 #Nikuyama
-With this, Kirishima-sensei won't be able to escape even if they wanted to.[p]
-Unless they have the courage to go out in public completely naked, that is.[p]
+With this, Kirishima-sensei won't be able to escape even if they wanted to. Unless they have the courage to go out in public completely naked, that is.[p]
 #Kirishima
-W-What do you mean!?[p]
-If you do anything strange...[p]
-I'll sue you![p]
+W-What do you mean!? If you do anything strange... I'll sue you![p]
 #Nikuyama
-Oh, it's just treatment.[p]
-Sex therapy, you know.[p]
+Oh, it's just treatment. Sex therapy, you know.[p]
 #Kirishima
 I-I definitely said that I don't want that![p]
 #Nikuyama
-Kirishima-sensei has no right to refuse.[p]
-If I were to leave a perverted teacher like you unchecked, it would be dangerous for the students.[p]
+Kirishima-sensei has no right to refuse. If I were to leave a perverted teacher like you unchecked, it would be dangerous for the students.[p]
 So, I'll thoroughly correct you with my cock, muhihihihi.[p]
 #Kirishima
-N-No![p]
-S-Someone...![p]
+N-No! S-Someone...![p]
 #Nikuyama
-Where do you think you can escape dressed like that?[p]
-Hey, behave yourself![p]
+Where do you think you can escape dressed like that? Hey, behave yourself![p]
 #Kirishima
 Ahh!?[p]
 [_tb_end_text]
@@ -121,34 +98,22 @@ Ahh!?[p]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="烈火翔ける.mp3"  ]
 [tb_start_text mode=1 ]
 #Kirishima
-Ahh![p]
-P-Please let go...![p]
+Ahh! P-Please let go...![p]
 #Nikuyama
-Don't struggle.[p]
-I'll make you feel good right away with my cock.[p]
+Don't struggle. I'll make you feel good right away with my cock.[p]
 #Kirishima
-Stop...[p]
-This is rape![p]
-I will report this to the police![p]
+Stop... This is rape! I will report this to the police![p]
 #Nikuyama
-Shut up, you perverted woman.[p]
-You don't have any rights.[p]
-Just stay quiet and accept my cock.[p]
+Shut up, you perverted woman. You don't have any rights. Just stay quiet and accept my cock.[p]
 #Kirishima
-No...[p]
-someone...[p]
-someone![p]
+No... someone... someone![p]
 #Nikuyama
-No one's coming....[p]
-Hey, stop struggling![p]
-If you keep thrashing around, I'll enter a different hole, you know?[p]
+No one's coming.... Hey, stop struggling! If you keep thrashing around, I'll enter a different hole, you know?[p]
 Muhihihihi.[p]
 #Kirishima
-Nooo![p]
-Help meee![p]
+Nooo! Help meee![p]
 #Nikuyama
-Behave yourself...[p]
-Alright, here I come![p]
+Behave yourself... Alright, here I come![p]
 #Kirishima
 Ahh!![p]
 
@@ -157,39 +122,23 @@ Ahh!![p]
 [bg  time="1000"  method="crossfade"  storage="game251-1.jpg"  ]
 [tb_start_text mode=1 ]
 #Nikuyama
-I'm in![p]
-Muhuhuhu, I finally shoved my cock into that arrogant woman![p]
+I'm in! Muhuhuhu, I finally shoved my cock into that arrogant woman![p]
 #Kirishima
-Noo...[p]
-P-Please pull it out...![p]
+Noo... P-Please pull it out...![p]
 #Nikuyama
-Ohh, what a good pussy this is.[p]
-It's irresistible...![p]
-Truly a perverted woman, as expected![p]
+Ohh, what a good pussy this is. It's irresistible...! Truly a perverted woman, as expected![p]
 #Kirishima
-Ahh![p]
-Ahh...[p]
-It's...[p]
-big...[p]
-Ahh![p]
+Ahh! Ahh... It's... big... Ahh![p]
 #Nikuyama
-How does it feel to taste a man's cock after so long?[p]
-It feels good, doesn't it?[p]
-Guhihihi.[p]
+How does it feel to taste a man's cock after so long? It feels good, doesn't it? Guhihihi.[p]
 #Kirishima
-I-It's just disgusting![p]
-Let go...![p]
+I-It's just disgusting! Let go...![p]
 #Nikuyama
-Don't hold back, you wanted it so badly, right?[p]
-Now, let me hear you moan with pleasure![p]
+Don't hold back, you wanted it so badly, right? Now, let me hear you moan with pleasure![p]
 #
-Zumm![p]
-Zumm![p]
-Zumm![p]
+Zumm! Zumm! Zumm![p]
 #Kirishima
-Ahh!?...[p]
-Ahh...[p]
-Hii![p]
+Ahh!?... Ahh... Hii![p]
 #Nikuyama
 Hey, say that my cock feels good![p]
 
@@ -199,72 +148,41 @@ Hey, say that my cock feels good![p]
 [bg  time="1000"  method="crossfade"  storage="game251-2.jpg"  ]
 [tb_start_text mode=1 ]
 #Kirishima
-It...[p]
-feels...[p]
-good...[p]
-Ahh...[p]
+It... feels... good... Ahh...[p]
 #Nikuyama
-Kukuku, it's useless to resist.[p]
-There's no way a perverted woman like you can win against my cock.[p]
-Ora![p]
+Kukuku, it's useless to resist. There's no way a perverted woman like you can win against my cock. Ora![p]
 #
-Zumm![p]
-Zumm![p]
+Zumm! Zumm![p]
 #Kirishima
-Ahh...[p]
-Ahh...[p]
-I won't...[p]
-lose...[p]
-to a cock...![p]
+Ahh... Ahh... I won't... lose... to a cock...![p]
 #Nikuyama
-Hehehe, even though you were secretly masturbating with a vibrator, you're quite bold to say that.[p]
-You were imagining being violated while pleasuring yourself, right?[p]
+Hehehe, even though you were secretly masturbating with a vibrator, you're quite bold to say that. You were imagining being violated while pleasuring yourself, right?[p]
 Huh?[p]
 #
-Squelch![p]
-Splat![p]
+Squelch! Splat![p]
 #Kirishima
-Ahh!?[p]
-Th-there's no way...[p]
-Ahh![p]
+Ahh!? Th-there's no way... Ahh![p]
 #Nikuyama
-You're lucky, your wish has come true.[p]
-A real cock feels better than a vibrator, right?[p]
-Ora![p]
+You're lucky, your wish has come true. A real cock feels better than a vibrator, right? Ora![p]
 #
-Squelch![p]
-Squelch![p]
+Squelch! Squelch![p]
 #Kirishima
-Ahh...[p]
-Ahh...[p]
-It feels...[p]
-good...![p]
+Ahh... Ahh... It feels... good...![p]
 #Nikuyama
-It's useless to lie.[p]
-Listen to this sound.[p]
+It's useless to lie. Listen to this sound.[p]
 #
-Squelch![p]
-Splat![p]
-Squelch![p]
+Squelch! Splat! Squelch![p]
 #Kirishima
-Nn...[p]
-Nhaa...[p]
-Ahnn![p]
+Nn... Nhaa... Ahnn![p]
 #Nikuyama
-You're making such lewd noises.[p]
-Even though I just entered you, your body is fully prepared to accept me.[p]
+You're making such lewd noises. Even though I just entered you, your body is fully prepared to accept me.[p]
 Your body desires to be violated by me![p]
 #
-Squelch![p]
-Splat![p]
-Squelch![p]
+Squelch! Splat! Squelch![p]
 #Kirishima
-Ahh...[p]
-Th-there's no way...[p]
-Ahh![p]
+Ahh... Th-there's no way... Ahh![p]
 #Nikuyama
-I see, I see.[p]
-Well then, let me get serious for a moment.[p]
+I see, I see. Well then, let me get serious for a moment.[p]
 #Kirishima
 Ahh!?[p]
 
@@ -273,34 +191,19 @@ Ahh!?[p]
 [bg  time="1000"  method="crossfade"  storage="game251-3.jpg"  ]
 [tb_start_text mode=1 ]
 #
-Squelch![p]
-Squelch![p]
-Squelch![p]
-Splat![p]
-Squish![p]
-Squish![p]
+Squelch! Squelch! Squelch! Splat! Squish! Squish![p]
 #Kirishima
-Ahh...[p]
-Unngh!...[p]
-Hii![p]
+Ahh... Unngh!... Hii![p]
 #Nikuyama
 Horehore, the feeling of being raped in the doggy style position must be exciting for a perverted woman like you.[p]
 #
-Squelch![p]
-Squelch![p]
-Splat![p]
+Squelch! Squelch! Splat![p]
 #Kirishima
-Ahh...[p]
-D-Don't...[p]
-go deep inside me...[p]
-Ahh![p]
+Ahh... D-Don't... go deep inside me... Ahh![p]
 #Nikuyama
-How does it feel to have your uterus forcefully penetrated?[p]
-I don't mean to brag, but there isn't a woman who hasn't been satisfied by my cock, ora![p]
+How does it feel to have your uterus forcefully penetrated? I don't mean to brag, but there isn't a woman who hasn't been satisfied by my cock, ora![p]
 #
-Bang![p]
-Bang![p]
-Bang![p]
+Bang! Bang! Bang![p]
 #Kirishima
 Ahh![p]
 Haan ♥[p]
@@ -308,99 +211,60 @@ Haan ♥[p]
 No matter how high and mighty you act, in the end, women become females when they're penetrated by a cock![p]
 Guhihihihi![p]
 #
-Bang![p]
-Bang![p]
-Bang![p]
+Bang! Bang! Bang![p]
 #Kirishima
-Kuh...[p]
-Ahn...[p]
+Kuh... Ahn...[p]
 Ahii ♥[p]
 #Nikuyama
-It's the best feeling to make a cheeky female submit with my cock![p]
-Ora ora![p]
+It's the best feeling to make a cheeky female submit with my cock! Ora ora![p]
 #
-Bang![p]
-Bang![p]
-Bang![p]
-Bang![p]
+Bang! Bang! Bang! Bang![p]
 #Kirishima
-Nhaa![p]
-Ahh![p]
-Ahh![p]
-Ahh![p]
+Nhaa! Ahh! Ahh! Ahh![p]
 ♥[p]
 #Nikuyama
 You have wicked tits, ora![p]
 #
-*Squeeze...[p]
-Rub![p]
-Rub![p]
+*Squeeze... Rub! Rub![p]
 *[p]
 #Kirishima
 Haan ♥[p]
 #Nikuyama
 Muhuhu[p]
 #
-Bang![p]
-Bang![p]
-Bang![p]
-Bang![p]
+Bang! Bang! Bang! Bang![p]
 #Kirishima
-Nhi...[p]
-Ahh![p]
+Nhi... Ahh![p]
 Ahnn ♥[p]
 #Nikuyama
-All you can do is moan, huh?[p]
-Try saying that it doesn't feel good, you perverted woman![p]
+All you can do is moan, huh? Try saying that it doesn't feel good, you perverted woman![p]
 #
-Bang![p]
-Bang![p]
-Bang![p]
-Bang![p]
+Bang! Bang! Bang! Bang![p]
 #Kirishima
 Kuu...[p]
 Unn ♥ Unnn ♥[p]
 #Nikuyama
 Alright, time to accelerate even more...![p]
 #
-Bang![p]
-Bang![p]
-Bang![p]
-Bang![p]
+Bang! Bang! Bang! Bang![p]
 #Kirishima
 Ahh!?[p]
 Nnghh♥[p]
 #Nikuyama
-Oh, are you about to cum?[p]
-How does it feel to be made to cum by a man you looked down upon, Kirishima-sensei?[p]
+Oh, are you about to cum? How does it feel to be made to cum by a man you looked down upon, Kirishima-sensei?[p]
 #
-Bang![p]
-Bang![p]
-Bang![p]
-Bang![p]
+Bang! Bang! Bang! Bang![p]
 #Kirishima
-Ahh...[p]
-Unn![p]
-Unn![p]
+Ahh... Unn! Unn![p]
 Ahh ♥[p]
 #Nikuyama
-Fuhaa...[p]
-I've been holding back too, so I'm reaching my limit.[p]
-I'll release plenty inside you soon, hehehe![p]
+Fuhaa... I've been holding back too, so I'm reaching my limit. I'll release plenty inside you soon, hehehe![p]
 #
-Bang![p]
-Bang![p]
-Bang![p]
-Bang![p]
+Bang! Bang! Bang! Bang![p]
 #Kirishima
-Eh!?[p]
-I-Inside...!?[p]
-N-No, not that...[p]
-Ahh![p]
+Eh!? I-Inside...!? N-No, not that... Ahh![p]
 #Nikuyama
-Uhh...[p]
-Ooh...[p]
-I'm cumming![p]
+Uhh... Ooh... I'm cumming![p]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game251-4.jpg"  ]
@@ -409,74 +273,43 @@ I'm cumming![p]
 #
 Dopu![p]
 #Kirishima
-Ahhhhh![p]
-Noooooo![p]
+Ahhhhh! Noooooo![p]
 #Nikuyama
-Ooh...[p]
-Uh...[p]
-Uhi.[p]
+Ooh... Uh... Uhi.[p]
 #
 Dopu pyu pyu pyu...![p]
 #Kirishima
-Haaa...[p]
-Hot...[p]
-Inside...[p]
+Haaa... Hot... Inside...[p]
 Ahh ♥[p]
 #
-Pyu...[p]
-Pyupyuu...[p]
+Pyu... Pyupyuu...[p]
 #Nikuyama
-Ugh...[p]
-I did it, I did it.[p]
-I poured plenty inside that cheeky Kaori Kirishima...[p]
-Guhihihi.[p]
+Ugh... I did it, I did it. I poured plenty inside that cheeky Kaori Kirishima... Guhihihi.[p]
 #Kirishima
-Haa...[p]
-Haa...[p]
-Ugh...[p]
-It's cruel...[p]
+Haa... Haa... Ugh... It's cruel...[p]
 #Nikuyama
-For a perverted woman like you, being trained through creampie rape is the best.[p]
-Did you finally realize it?[p]
+For a perverted woman like you, being trained through creampie rape is the best. Did you finally realize it?[p]
 Uhyahyahya.[p]
 #Kirishima
-Higuu...[p]
-Again...[p]
-To the worst...[p]
-Physical education teacher...[p]
+Higuu... Again... To the worst... Physical education teacher...[p]
 t[p]
 #Nikuyama
 Oh, come to think of it, your first experience was also being raped by a physical education teacher, right?[p]
-I forgot.[p]
-You were born to be raped by a physical education teacher.[p]
-That's your destiny.[p]
-Uhahaha.[p]
+I forgot. You were born to be raped by a physical education teacher. That's your destiny. Uhahaha.[p]
 #Kirishima
-Uku...[p]
-I-I won't forgive...[p]
-Absolutely...[p]
-I'll definitely sue you![p]
+Uku... I-I won't forgive... Absolutely... I'll definitely sue you![p]
 #Nikuyama
-Oh?[p]
-You still have the energy to say such things?[p]
-It seems your defiant attitude hasn't been cured yet.[p]
-Looks like I'll have to train you with my cock even more.[p]
-Muhuhu.[p]
+Oh? You still have the energy to say such things? It seems your defiant attitude hasn't been cured yet.[p]
+Looks like I'll have to train you with my cock even more. Muhuhu.[p]
 #Kirishima
-What!?[p]
-Th-That's...![p]
+What!? Th-That's...![p]
 #Nikuyama
-Did you think it would be over with just one shot?[p]
-Don't worry, I'll keep violating you.[p]
-The night is still long, you horny woman.[p]
+Did you think it would be over with just one shot? Don't worry, I'll keep violating you. The night is still long, you horny woman.[p]
 I'll thoroughly educate you with my cock until you become a submissive bitch.[p]
 #Kirishima
-N-No...[p]
-Someone...[p]
-help meee![p]
+N-No... Someone... help meee![p]
 #Nikuyama
-No one's coming.[p]
-Now, be quiet.[p]
+No one's coming. Now, be quiet.[p]
 #Kirishima
 Ahh!?[p]
 #
@@ -500,75 +333,50 @@ Ahh♥ Ahh♥ Ahh♥[p]
 [bg  time="1000"  method="crossfade"  storage="game156.jpg"  ]
 [tb_start_text mode=1 ]
 #Nikuyama
-Hey, you're completely addicted to my cock, you perverted woman![p]
-Moaning with such a sweet voice![p]
-Does it feel that good?[p]
+Hey, you're completely addicted to my cock, you perverted woman! Moaning with such a sweet voice! Does it feel that good?[p]
 Hey, hey.[p]
 #
 *Sound effects*[p]
 #Kirishima
-Ahh![p]
-Hii...[p]
+Ahh! Hii...[p]
 Ahh♥[p]
 #Nikuyama
 Say that it feels good.[p]
 #
 *Sound effects*[p]
 #Kirishima
-Ahh...[p]
-It feels...[p]
+Ahh... It feels...[p]
 Haaan♥[p]
 #Nikuyama
-Hey, say it louder![p]
-Say that my cock feels good![p]
+Hey, say it louder! Say that my cock feels good![p]
 #
 *Sound effects*[p]
 #Kirishima
-Ahh![p]
-Y-Your...[p]
-cock...[p]
-feels...[p]
-good...![p]
+Ahh! Y-Your... cock... feels... good...![p]
 Ahh♥[p]
 #Nikuyama
 Alright, you said it well.[p]
 *smooch*[p]
 #Kirishima
-Mmm!?...[p]
-Nnnnhhh♥ Nnnhh...[p]
-Nchu...[p]
+Mmm!?... Nnnnhhh♥ Nnnhh... Nchu...[p]
 ♥[p]
 #Nikuyama
-Hey, stick out your tongue...[p]
-*smooch*...[p]
+Hey, stick out your tongue... *smooch*...[p]
 *kiss*[p]
 #Kirishima
-Nn...[p]
-chu...[p]
-l-licking...[p]
+Nn... chu... l-licking...[p]
 ahh♥[p]
 #Nikuyama
-Muhuhu, you're actively entangling your tongue...[p]
-Mchu...[p]
-Lick lick lick...[p]
-From now on, I'll treat you as my personal pet for sexual release...[p]
+Muhuhu, you're actively entangling your tongue... Mchu... Lick lick lick... From now on, I'll treat you as my personal pet for sexual release...[p]
 Chubaa.[p]
 #
 *Sound effects*[p]
 #Kirishima
-Ahh♥...[p]
-Chum...[p]
-Lick lick...[p]
-Chubaa...[p]
-Ahfuu♥ Nnn...[p]
-Nnnn♥ (I'm cummingggg♥)[p]
+Ahh♥... Chum... Lick lick... Chubaa... Ahfuu♥ Nnn... Nnnn♥ (I'm cummingggg♥)[p]
 #Nikuyama
-You're already mine![p]
-Ora![p]
+You're already mine! Ora![p]
 #
-Bachiun![p]
-Bachiun![p]
-Bachiun![p]
+Bachiun! Bachiun! Bachiun![p]
 #Kirishima
 Ahhhhhhh♥♥[p]
 #
@@ -580,35 +388,24 @@ Ahhhhhhh♥♥[p]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
 #Nikuyama
-Phew...[p]
-I did it, I did it.[p]
-Five times?[p]
-No, six times.[p]
-I'm really tired....[p]
-Is it already this late?[p]
+Phew... I did it, I did it. Five times? No, six times. I'm really tired.... Is it already this late?[p]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game252.jpg"  ]
 [tb_cg  id="156"  ]
 [tb_start_text mode=1 ]
 #Nikuyama
-This person seems to be at their limit, so I'll go easy on them for now.[p]
-Starting tomorrow, I'll treat them as a sexual service meat toilet and take care of them with my penis every day.[p]
-Got it?[p]
-Answer me![p]
+This person seems to be at their limit, so I'll go easy on them for now. Starting tomorrow, I'll treat them as a sexual service meat toilet and take care of them with my penis every day.[p]
+Got it? Answer me![p]
 #
 Peshi![p]
 #Kirishima
 Y-Yes...[p]
 #Nikuyama
-Alright, I'll give you back your clothes.[p]
-I'll leave them here.[p]
-Lock up when you're done changing and go home.[p]
+Alright, I'll give you back your clothes. I'll leave them here. Lock up when you're done changing and go home.[p]
 See ya.[p]
 #Kirishima
-......[p]
-Uh...[p]
-uhh...[p]
+...... Uh... uhh...[p]
 #
 ・・・・・・・・・[p]
 [_tb_end_text]
@@ -620,14 +417,9 @@ uhh...[p]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Radio.mp3"  ]
 [tb_start_text mode=1 ]
 #
-Finally, I've violated that Kaori Kirishima.[p]
-It took quite some time to brainwash them...[p]
-But it was worth the patience, as they ended up getting really into it, like a lovey-dovey group sex scene.[p]
-If I had been more forceful from the beginning, maybe it would have been okay.[p]
-Anyway, starting tomorrow, I can violate that arrogant Kirishima as much as I want.[p]
-Goodbye to days filled with masturbation...[p]
-Ahh, I'm tired.[p]
-I should go to sleep and recover my energy for tomorrow.[p]
+Finally, I've violated that Kaori Kirishima. It took quite some time to brainwash them... But it was worth the patience, as they ended up getting really into it, like a lovey-dovey group sex scene.[p]
+If I had been more forceful from the beginning, maybe it would have been okay. Anyway, starting tomorrow, I can violate that arrogant Kirishima as much as I want.[p]
+Goodbye to days filled with masturbation... Ahh, I'm tired. I should go to sleep and recover my energy for tomorrow.[p]
 Hehehe...[p]
 [_tb_end_text]
 
@@ -638,31 +430,20 @@ Hehehe...[p]
 #
 Ding Dong![p]
 #Nikuyama
-...[p]
-Mmm...[p]
+... Mmm...[p]
 #
 
 Ding Dong![p]
 #Nikuyama
-...[p]
-Mmm...[p]
-What is it?...[p]
-Is it morning?[p]
+... Mmm... What is it?... Is it morning?[p]
 #
-Ding Dong![p]
-Ding Dong![p]
+Ding Dong! Ding Dong![p]
 #Nikuyama
-Intercom...?[p]
-What, it's still 5 o'clock.[p]
-Who is it, this early in the morning...[p]
+Intercom...? What, it's still 5 o'clock. Who is it, this early in the morning...[p]
 #
-Ding Dong![p]
-Ding Dong![p]
+Ding Dong! Ding Dong![p]
 #Nikuyama
-Shut up...[p]
-I'm coming out now![p]
-Ugh...[p]
-Here I go.[p]
+Shut up... I'm coming out now! Ugh... Here I go.[p]
 #
 Gacha[p]
 #Police officer
@@ -672,26 +453,15 @@ Are you Takeshi Nikuyama?[p]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="music58.mp3"  ]
 [tb_start_text mode=1 ]
 #Nikuyama
-Huh...?[p]
-The police...?[p]
+Huh...? The police...?[p]
 #Police officer
-There is an arrest warrant for suspicion of rape.[p]
-Please come with us to the police station.[p]
+There is an arrest warrant for suspicion of rape. Please come with us to the police station.[p]
 #Nikuyama
-Wha...!?[p]
-R-Rape...!?[p]
-W-What are you talking about!?[p]
-I haven't done anything...![p]
+Wha...!? R-Rape...!? W-What are you talking about!? I haven't done anything...![p]
 #Police officer
-We will talk at the police station.[p]
-For now, please come with us.[p]
+We will talk at the police station. For now, please come with us.[p]
 #Nikuyama
-Ugh...![p]
-(D-Did Kirishima run to the police...!?[p]
-Or did someone see...?[p]
-) (Damn it...![p]
-Using rough methods out of desperation was a mistake after all...![p]
-)[p]
+Ugh...! (D-Did Kirishima run to the police...!? Or did someone see...?) (Damn it...! Using rough methods out of desperation was a mistake after all...!)[p]
 #
 [v0] 00 - [BAD END][p]
 
@@ -714,31 +484,18 @@ Dopyupyupyu!![p]
 #Kirishima
 Ahhhhhhh♥[p]
 #Nikuyama
-Ugh...[p]
-Ahh...[p]
+Ugh... Ahh...[p]
 #
-Squirting...[p]
-Squirt![p]
+Squirting... Squirt![p]
 #Kirishima
 Ahh...[p]
 ♥[p]
 #Nikuyama
-Oh...[p]
-I came so much...[p]
-What a perverted pussy...[p]
-I've been completely drained...[p]
-Mmm...[p]
+Oh... I came so much... What a perverted pussy... I've been completely drained... Mmm...[p]
 #Kirishima
-Haa...[p]
-Haa...[p]
-Eh...?[p]
-Inside...!?[p]
-N-No way...![p]
-W-Why would you do something like this...![p]
-I-I specifically said you wouldn't let it out...![p]
+Haa... Haa... Eh...? Inside...!? N-No way...! W-Why would you do something like this...! I-I specifically said you wouldn't let it out...![p]
 #Nikuyama
-Well, that was the plan.[p]
-But Kirishima-sensei's pussy felt so good that I couldn't help but squirt, guhahaha.[p]
+Well, that was the plan. But Kirishima-sensei's pussy felt so good that I couldn't help but squirt, guhahaha.[p]
 
 [_tb_end_text]
 

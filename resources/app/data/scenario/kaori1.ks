@@ -23,8 +23,7 @@ Okay, let's call Kaori Kirishima for now.[p]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="捜査会議.mp3"  ]
 [tb_start_text mode=1 ]
 #Kaori
-What do you need?[p]
-I'm busy right now.[p]
+What do you need? I'm busy right now.[p]
 #Nikuyama
 Well, there's something I need to talk about.[p]
 [_tb_end_text]
@@ -112,11 +111,8 @@ Time's up.[p]
 
 [tb_start_text mode=1 ]
 #
-Damn it![p]
-That Kirishima, ignoring my call...![p]
-They must be really pissed off about what happened yesterday...[p]
-Well, whatever.[p]
-I'll make them fully aware of the position they're in when I call them after school...[p]
+Damn it! That Kirishima, ignoring my call...! They must be really pissed off about what happened yesterday...[p]
+Well, whatever. I'll make them fully aware of the position they're in when I call them after school...[p]
 [_tb_end_text]
 
 [jump  storage="mein.ks"  target="*aa"  ]

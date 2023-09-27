@@ -29,32 +29,23 @@ Aann♥[p]
 #Nikuyama
 Hehehe, it seems like they've really taken a liking to anal.[p]
 #
-*Squelch![p]
-* *Slurp![p]
+*Squelch! * *Slurp![p]
 *[p]
 #Kaori
-Ahh...[p]
-No...[p]
-my butt...[p]
+Ahh... No... my butt...[p]
 Nhaa♥[p]
 #Nikuyama
-How does it feel to be used for sexual pleasure all the way to your excretory hole?[p]
-This pervert must be excited![p]
+How does it feel to be used for sexual pleasure all the way to your excretory hole? This pervert must be excited![p]
 #
-*Squelch![p]
-* *Slurp![p]
+*Squelch! * *Slurp![p]
 *[p]
 #Kaori
-Ku...[p]
-Ahh...[p]
-Haah♥ Th-there's no way...[p]
+Ku... Ahh... Haah♥ Th-there's no way...[p]
 Ahh♥[p]
 #Nikuyama
 I'm gonna make you come with anal...![p]
 #
-*Squelch![p]
-* *Squelch![p]
-* *Squelch![p]
+*Squelch! * *Squelch! * *Squelch![p]
 *[p]
 #Kaori
 Ahh...[p]
@@ -70,18 +61,14 @@ Stopppp♥[p]
 Ahhh...[p]
 nghh♥[p]
 #Nikuyama
-Whoa...[p]
-being squeezed out...[p]
+Whoa... being squeezed out...[p]
 #
 *[p]
 #Kaori
-Nnnn♥...[p]
-Inside my butt...[p]
+Nnnn♥... Inside my butt...[p]
 Ahh♥[p]
 #Nikuyama
-Fuu...[p]
-I came...[p]
-You have such a sexy asshole.[p]
+Fuu... I came... You have such a sexy asshole.[p]
 #
 ・・・・・・・・・[p]
 [_tb_end_text]
@@ -93,28 +80,21 @@ You have such a sexy asshole.[p]
 #Nikuyama
 Hey, clean my dick that got dirty with your poop.[p]
 #Kaori
-Y-Yes...[p]
-*squelch*...[p]
+Y-Yes... *squelch*...[p]
 *lick lick lick*[p]
 #Nikuyama
 Hehehehe[p]
 #Kaori
-*Squelch*...[p]
-*Mmm*...[p]
+*Squelch*... *Mmm*...[p]
 *Suck*[p]
 #Nikuyama
-...[p]
-Did it become clean?[p]
+... Did it become clean?[p]
 #Kaori
-*Lick lick*...[p]
-*Suck*...[p]
-Yes...[p]
+*Lick lick*... *Suck*... Yes...[p]
 #Nikuyama
-Alright, then I'll take care of you again with your anus.[p]
-Show me your butt.[p]
+Alright, then I'll take care of you again with your anus. Show me your butt.[p]
 #Kaori
-Ah...[p]
-Th-that...[p]
+Ah... Th-that...[p]
 #
 ・・・・・・・・・[p]
 
@@ -129,15 +109,10 @@ Th-that...[p]
 #Nikuyama
 Ora, ikuyagare with your anus...![p]
 #
-*Squelch![p]
-* *Splash![p]
+*Squelch! * *Splash![p]
 *[p]
 #Kaori
-Ahhhh![p]
-I'm...[p]
-I'm coming![p]
-In my anus...[p]
-I'm coming![p]
+Ahhhh! I'm... I'm coming! In my anus... I'm coming![p]
 #
 ・・・・・・・・・[p]
 [_tb_end_text]
@@ -149,20 +124,13 @@ I'm coming![p]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Grease_Slide_Trap.mp3"  ]
 [tb_start_text mode=1 ]
 #Nikuyama
-Phew...[p]
-In the end, I came three times in your anus.[p]
-Hey, don't forget to say hello.[p]
+Phew... In the end, I came three times in your anus. Hey, don't forget to say hello.[p]
 #Kaori
-Th-thank you very much for thoroughly educating the lewd hole of Kaori's...[p]
-butt with your...[p]
-penis...[p]
+Th-thank you very much for thoroughly educating the lewd hole of Kaori's... butt with your... penis...[p]
 #Nikuyama
-Seriously, even though you're a female teacher, you have such a perverted anus.[p]
-Be grateful that I'll continue to manage it with my penis from now on.[p]
+Seriously, even though you're a female teacher, you have such a perverted anus. Be grateful that I'll continue to manage it with my penis from now on.[p]
 #Kaori
-Uhh...[p]
-Yes...[p]
-Thank you very much...[p]
+Uhh... Yes... Thank you very much...[p]
 #
 ・・・・・・・・・[p]
 [_tb_end_text]
@@ -173,9 +141,7 @@ Thank you very much...[p]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
 #Nikuyama
-Alright, today's training is over.[p]
-Good job, you can go home now.[p]
-I'll make sure to train you thoroughly again tomorrow.[p]
+Alright, today's training is over. Good job, you can go home now. I'll make sure to train you thoroughly again tomorrow.[p]
 #Kaori
 Excuse me...[p]
 #
@@ -210,23 +176,15 @@ Ugh...[p]
 #Nikuyama
 Before our walk, we definitely have to do this.[p]
 #Kaori
-Ah...[p]
-No...[p]
-Ahh...![p]
+Ah... No... Ahh...![p]
 #Nikuyama
 It's a big service, one liter, muhihihi.[p]
 #Kaori
-U...[p]
-ku...[p]
-it's...[p]
-hard...[p]
-nghh...[p]
+U... ku... it's... hard... nghh...[p]
 #Nikuyama
-I'll plug you with an anal plug so you won't leak.[p]
-With this, you won't be able to poop on your own, muhihi.[p]
+I'll plug you with an anal plug so you won't leak. With this, you won't be able to poop on your own, muhihi.[p]
 #Kaori
-Ah...[p]
-Hah...[p]
+Ah... Hah...[p]
 
 [_tb_end_text]
 
@@ -241,34 +199,20 @@ Hey, move your butt more.[p]
 #
 Peshi![p]
 #Kaori
-Ahh...[p]
-D-Don't...[p]
-don't spank my...[p]
-butt...[p]
+Ahh... D-Don't... don't spank my... butt...[p]
 #Nikuyama
 How does it feel to walk around the school building, which is always bustling with students, completely naked and wearing a collar, like a dog?[p]
 Hehehe.[p]
 #Kaori
-Ku...[p]
-Nn...[p]
-My...[p]
-my stomach...[p]
-Haahh...[p]
+Ku... Nn... My... my stomach... Haahh...[p]
 #Nikuyama
-Oh, my stomach hurts so I can't focus on that.[p]
-Hahaha.[p]
+Oh, my stomach hurts so I can't focus on that. Hahaha.[p]
 #Kaori
-H...[p]
-hurry...[p]
-let me...[p]
-cum...[p]
+H... hurry... let me... cum...[p]
 #Nikuyama
-Do you want to poop quickly?[p]
-Hm?[p]
+Do you want to poop quickly? Hm?[p]
 #Kaori
-Y-Yes...[p]
-I...[p]
-want to poop...[p]
+Y-Yes... I... want to poop...[p]
 #Nikuyama
 Well, what should we do now?[p]
 [_tb_end_text]
@@ -280,24 +224,15 @@ Well, what should we do now?[p]
 
 [tb_start_text mode=1 ]
 #Nikuyama
-If you want to poop, you better ask properly.[p]
-Do you know how to ask?[p]
-Kaori.[p]
+If you want to poop, you better ask properly. Do you know how to ask? Kaori.[p]
 #Kaori
-P-Please...[p]
-m-master...[p]
-please film me...[p]
-in the courtyard...[p]
-as I...[p]
-release a smelly poop...[p]
+P-Please... m-master... please film me... in the courtyard... as I... release a smelly poop...[p]
 #Nikuyama
 Oh, you want to poop in the courtyard instead of the bathroom?[p]
 #Kaori
-Y-Yes...[p]
-Please let me do it in the courtyard...[p]
+Y-Yes... Please let me do it in the courtyard...[p]
 #Nikuyama
-And you're even asking me to film you while you poop, you pervert![p]
-Guhahaha.[p]
+And you're even asking me to film you while you poop, you pervert! Guhahaha.[p]
 #Kaori
 Y-Yes...[p]
 Nhahh♥[p]
@@ -312,8 +247,7 @@ Th-Thank you...[p]
 
 [tb_start_text mode=1 ]
 #Nikuyama
-No, you can't.[p]
-You'll have to hold your poop for now.[p]
+No, you can't. You'll have to hold your poop for now.[p]
 #Kaori
 Th-That's...![p]
 #Nikuyama
@@ -321,17 +255,11 @@ Instead, I'll let you lick my balls.[p]
 #Kaori
 W-What...[p]
 #Nikuyama
-What, you don't want to lick my balls?[p]
-You don't want to poop, huh?[p]
-Hm?[p]
+What, you don't want to lick my balls? You don't want to poop, huh? Hm?[p]
 #Kaori
-N-No...[p]
-I-I want to...[p]
-l-lick them...[p]
-P-Please let me lick your balls...[p]
+N-No... I-I want to... l-lick them... P-Please let me lick your balls...[p]
 #Nikuyama
-That's right, that's right.[p]
-You can lick as much as you want.[p]
+That's right, that's right. You can lick as much as you want.[p]
 [_tb_end_text]
 
 [stopbgm  time="1000"  fadeout="true"  ]
@@ -343,57 +271,38 @@ You can lick as much as you want.[p]
 Lero lero lero lero...[p]
 lerong♥[p]
 #Nikuyama
-That's right, lick it carefully.[p]
-There's precious semen inside.[p]
+That's right, lick it carefully. There's precious semen inside.[p]
 #Kaori
-Y-Yes...[p]
-*sucking sound* *licking sound* ♥...[p]
-Ughh...[p]
+Y-Yes... *sucking sound* *licking sound* ♥... Ughh...[p]
 #Nikuyama
-What's wrong?[p]
-You're sweating so much, it must taste good, hehehe.[p]
+What's wrong? You're sweating so much, it must taste good, hehehe.[p]
 #Kaori
 Lick, lick, lick...[p]
 *sucking sound* *licking sound* ♥[p]
 #Nikuyama
 I wonder what kind of expression the students would make if they saw Kaori Kirishima desperately sucking on my sweaty balls because she wants to poop, hehehe.[p]
 #Kaori
-Lick...[p]
-Haa...[p]
-My, my stomach...[p]
+Lick... Haa... My, my stomach...[p]
 #Nikuyama
-Hey, your tongue is slacking off.[p]
-If you don't put some effort into licking, I'll make you do it forever.[p]
+Hey, your tongue is slacking off. If you don't put some effort into licking, I'll make you do it forever.[p]
 #Kaori
 Y-Yes...[p]
 Chupi♥ Chupi♥[p]
 #Nikuyama
 Uhahaha, that's the way to go.[p]
 #Kaori
-Lick, lick♥...[p]
-Suck...[p]
-slurp♥...[p]
-Lick, lick, lick, lick, lick, haaah...[p]
-haaah...[p]
-slurp♥...[p]
+Lick, lick♥... Suck... slurp♥... Lick, lick, lick, lick, lick, haaah... haaah... slurp♥...[p]
 nghh[p]
 #Nikuyama
-Alright, well, it's fine.[p]
-I'll let you poop soon.[p]
+Alright, well, it's fine. I'll let you poop soon.[p]
 #Kaori
-Chubaa...[p]
-Th-thank you...[p]
+Chubaa... Th-thank you...[p]
 #Nikuyama
-Let's go to the courtyard.[p]
-Oh, you wouldn't happen to want to use the restroom, would you?[p]
+Let's go to the courtyard. Oh, you wouldn't happen to want to use the restroom, would you?[p]
 #Kaori
-N-No...[p]
-I want to do it...[p]
-in the courtyard...[p]
+N-No... I want to do it... in the courtyard...[p]
 #Nikuyama
-That's right, isn't it?[p]
-You're a pervert, after all.[p]
-Uhahaha.[p]
+That's right, isn't it? You're a pervert, after all. Uhahaha.[p]
 [_tb_end_text]
 
 *p2a3
@@ -407,25 +316,15 @@ Uhahaha.[p]
 #Nikuyama
 Alright, greet the camera.[p]
 #Kaori
-Ugh...[p]
-I-I'm Kaori Kirishima...[p]
-From now on...[p]
-I'm going to...[p]
-poop, so...[p]
-please watch...[p]
+Ugh... I-I'm Kaori Kirishima... From now on... I'm going to... poop, so... please watch...[p]
 #Nikuyama
 Your voice is small.[p]
 #
 *[p]
 #Kaori
-Ahhh...[p]
-I'm Kaori Kirishima...[p]
-From now on...[p]
-I'm going to...[p]
-poop, so please watch...![p]
+Ahhh... I'm Kaori Kirishima... From now on... I'm going to... poop, so please watch...![p]
 #Nikuyama
-Alright, I'm going to remove the plug now, but don't leak right away.[p]
-If you leak, I'll give you an enema again.[p]
+Alright, I'm going to remove the plug now, but don't leak right away. If you leak, I'll give you an enema again.[p]
 #Kaori
 Y-Yes...[p]
 [_tb_end_text]
@@ -435,29 +334,15 @@ Y-Yes...[p]
 #
 *sound of fabric being pulled down*[p]
 #Kaori
-Hii!...[p]
-Gu...[p]
-Haauu...![p]
+Hii!... Gu... Haauu...![p]
 #Nikuyama
-Not yet.[p]
-Don't release it yet.[p]
+Not yet. Don't release it yet.[p]
 #Kaori
-Hii...[p]
-I-It's impossible...[p]
-I...[p]
-I'm already...[p]
-going to...[p]
-come out...[p]
-ugh...[p]
+Hii... I-It's impossible... I... I'm already... going to... come out... ugh...[p]
 #Nikuyama
 Tighten your anus.[p]
 #Kaori
-Guhii...![p]
-Gi...[p]
-nhaa...[p]
-haguuu...[p]
-a...[p]
-ahi.[p]
+Guhii...! Gi... nhaa... haguuu... a... ahi.[p]
 #Nikuyama
 Alright, you can poop.[p]
 [_tb_end_text]
@@ -467,23 +352,15 @@ Alright, you can poop.[p]
 #
 Bubyu byu byu byu byu![p]
 #Kaori
-...[p]
-Nn![p]
-Ahh...![p]
+... Nn! Ahh...![p]
 #Nikuyama
-Whoa![p]
-It's flying with incredible force![p]
-It's jumping 2 meters![p]
-Gyahaha![p]
+Whoa! It's flying with incredible force! It's jumping 2 meters! Gyahaha![p]
 #
 Bubyu byu byu byu byu![p]
 #Kaori
-Ahh...[p]
-Don't look...[p]
+Ahh... Don't look...[p]
 #Nikuyama
-I'm capturing it perfectly with the camera.[p]
-Oh, it stinks![p]
-Hyahaha![p]
+I'm capturing it perfectly with the camera. Oh, it stinks! Hyahaha![p]
 #
 ・・・・・・・・・[p]
 
@@ -507,43 +384,29 @@ Ahh♥[p]
 [bg  time="1000"  method="crossfade"  storage="game188-2.jpg"  ]
 [tb_start_text mode=1 ]
 #
-*Spank![p]
-Spank![p]
-Spank![p]
+*Spank! Spank! Spank![p]
 *[p]
 #Kaori
 Ahh♥...[p]
 Unhaa♥[p]
 #Nikuyama
-How does it feel to be violated like livestock outside?[p]
-You must be excited, huh?[p]
+How does it feel to be violated like livestock outside? You must be excited, huh?[p]
 #
-*Spank![p]
-Spank![p]
-Spank![p]
+*Spank! Spank! Spank![p]
 *[p]
 #Kaori
-Ahh♥...[p]
-I-I'm getting excited...[p]
+Ahh♥... I-I'm getting excited...[p]
 Unhaa♥[p]
 #Nikuyama
-Don't lie, moaning so loudly![p]
-What if someone hears?[p]
-People might come![p]
-Kukukuku.[p]
+Don't lie, moaning so loudly! What if someone hears? People might come! Kukukuku.[p]
 #
-*Spank![p]
-Spank![p]
-Spank![p]
+*Spank! Spank! Spank![p]
 *[p]
 #Kaori
-Nn...[p]
-Iyaa...[p]
-Hii♥...[p]
+Nn... Iyaa... Hii♥...[p]
 Ahiiii♥[p]
 #Nikuyama
-I'm going to cum inside you plenty.[p]
-Ora.[p]
+I'm going to cum inside you plenty. Ora.[p]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game188-3.jpg"  ]
@@ -551,16 +414,13 @@ Ora.[p]
 #
 Dopu!![p]
 #Kaori
-Nnnn...[p]
-Ahh...[p]
-Nhihhhh♥...[p]
+Nnnn... Ahh... Nhihhhh♥...[p]
 #Nikuyama
 Ora, impregnate you, female cow...![p]
 #
 *[p]
 #Kaori
-Unhaa♥...[p]
-Ahh...[p]
+Unhaa♥... Ahh...[p]
 Hafuu♥[p]
 #
 ・・・・・・・・・[p]
@@ -583,49 +443,33 @@ Raise your butt higher.[p]
 #Kaori
 Ahn♥ D-Don't spank my butt...[p]
 #Nikuyama
-Hehehe, how does it feel?[p]
-Walking around the school campus, where there are usually many students, completely naked with a collar around your neck, being made to walk like an animal?[p]
+Hehehe, how does it feel? Walking around the school campus, where there are usually many students, completely naked with a collar around your neck, being made to walk like an animal?[p]
 #Kaori
 Ku...[p]
 #Nikuyama
-Hey, your master is listening.[p]
-Answer the question.[p]
+Hey, your master is listening. Answer the question.[p]
 #
 *[p]
 #Kaori
-Unhh...[p]
-It's frustrating...[p]
+Unhh... It's frustrating...[p]
 #Nikuyama
-Is it just frustration?[p]
-You're frustrated and excited, aren't you, you perverted slut![p]
+Is it just frustration? You're frustrated and excited, aren't you, you perverted slut![p]
 #
 *[p]
 #Kaori
-Ahn♥ Who...[p]
-is...[p]
-excited...[p]
+Ahn♥ Who... is... excited...[p]
 #Nikuyama
-Don't lie.[p]
-Can't you completely abandon your pride yet?[p]
-Just admit that you're a masochistic pervert and be honest.[p]
-Deep down, you want to become my sex slave, don't you?[p]
-Just say, Please make me your sex slave, Nikuyama-sama.[p]
+Don't lie. Can't you completely abandon your pride yet? Just admit that you're a masochistic pervert and be honest.[p]
+Deep down, you want to become my sex slave, don't you? Just say, Please make me your sex slave, Nikuyama-sama.[p]
 #Kaori
-W-Who...[p]
-would...[p]
-never become a slave to a despicable man like you...[p]
-I would rather die than accept...![p]
+W-Who... would... never become a slave to a despicable man like you... I would rather die than accept...![p]
 #Nikuyama
-Hmph, you're a stubborn woman.[p]
-But I'll make sure to make you say, Please make me your slave, no matter what.[p]
+Hmph, you're a stubborn woman. But I'll make sure to make you say, Please make me your slave, no matter what.[p]
 Muhuhu.[p]
 #Kaori
-I will never...[p]
-submit...[p]
+I will never... submit...[p]
 #Nikuyama
-(Gahaha, it's laughable that you haven't realized you've already become a sex slave![p]
-You arrogant brat.[p]
-)[p]
+(Gahaha, it's laughable that you haven't realized you've already become a sex slave! You arrogant brat.)[p]
 [_tb_end_text]
 
 [stopbgm  time="1000"  fadeout="true"  ]
@@ -638,38 +482,23 @@ Unh...[p]
 #Nikuyama
 Hey, lick it properly with all your heart, you female pig.[p]
 #Kaori
-*gulp*...[p]
-*kiss*...[p]
+*gulp*... *kiss*...[p]
 *slurp*[p]
 #Nikuyama
-How about it?[p]
-Does the sweaty ball sack taste good after a day of sweating?[p]
+How about it? Does the sweaty ball sack taste good after a day of sweating?[p]
 #Kaori
-Lero lero lero...[p]
-ngh...[p]
-It's bitter...[p]
-and smelly...[p]
+Lero lero lero... ngh... It's bitter... and smelly...[p]
 chu bu♥[p]
 #Nikuyama
-Kukuku, that arrogant Kaori Kirishima is kneeling naked and sucking on my balls.[p]
-It feels amazing, muhihihi.[p]
+Kukuku, that arrogant Kaori Kirishima is kneeling naked and sucking on my balls. It feels amazing, muhihihi.[p]
 #Kaori
-K-Ku...[p]
-Chu-ba♥...[p]
-Nngh...[p]
-R-Remember...[p]
-Once the training program is over and I'm free...[p]
+K-Ku... Chu-ba♥... Nngh... R-Remember... Once the training program is over and I'm free...[p]
 Lero lero lero♥[p]
 #Nikuyama
-Oh?[p]
-You're feeling vengeful?[p]
-You're a strong-willed person...[p]
-Alright, I'll let you suck on my balls for another 10 minutes.[p]
+Oh? You're feeling vengeful? You're a strong-willed person... Alright, I'll let you suck on my balls for another 10 minutes.[p]
 Put some effort into it and lick them.[p]
 #Kaori
-Kuh...[p]
-Yes...[p]
-Chu-ba♥ Lero lero lero...[p]
+Kuh... Yes... Chu-ba♥ Lero lero lero...[p]
 Chupa♥[p]
 #
 ・・・・・・・・・[p]
@@ -702,15 +531,11 @@ The empty gymnasium is too big and creepy.[p]
 #Nikuyama
 Alright, let's do a rhythmic gymnastics performance.[p]
 #Kaori
-Huh...[p]
-H-Here?[p]
+Huh... H-Here?[p]
 #Nikuyama
-Of course.[p]
-You're going to dance rhythmic gymnastics butt naked.[p]
-If you slack off, there will be punishment.[p]
+Of course. You're going to dance rhythmic gymnastics butt naked. If you slack off, there will be punishment.[p]
 #Kaori
-Kuh...[p]
-Yes...[p]
+Kuh... Yes...[p]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -722,46 +547,31 @@ Yes...[p]
 [playbgm  volume="60"  time="1000"  loop="true"  storage="マダムの口紅.mp3"  ]
 [tb_start_text mode=1 ]
 #Kaori
-...[p]
-Nn...[p]
-Haah...[p]
+... Nn... Haah...[p]
 #Nikuyama
-Hey, I told you to do it seriously.[p]
-When it comes to rhythmic gymnastics, shouldn't you be smiling?[p]
-Do it with a smile.[p]
+Hey, I told you to do it seriously. When it comes to rhythmic gymnastics, shouldn't you be smiling? Do it with a smile.[p]
 #Kaori
 *smiles*[p]
 #Nikuyama
-Good.[p]
-Now, raise your leg higher.[p]
+Good. Now, raise your leg higher.[p]
 #Kaori
-Kuh...[p]
-Haah...[p]
+Kuh... Haah...[p]
 #Nikuyama
-Act as if all the students in the school are watching.[p]
-Open up wide with the feeling that everyone will see everything, even your butt hole.[p]
+Act as if all the students in the school are watching. Open up wide with the feeling that everyone will see everything, even your butt hole.[p]
 #Kaori
-Nhaa...[p]
-Nn...[p]
+Nhaa... Nn...[p]
 #Nikuyama
-Hey, you've forgotten to smile.[p]
-Dance as if saying Everyone, look at my pussy![p]
+Hey, you've forgotten to smile. Dance as if saying Everyone, look at my pussy![p]
 #Kaori
 Th-that...[p]
 Fuu ♥[p]
 #Nikuyama
-Say it out loud.[p]
-Look at my naughty pussy and asshole![p]
+Say it out loud. Look at my naughty pussy and asshole![p]
 #Kaori
-Ahh...[p]
-I-I want you to...[p]
-look at my...[p]
-naughty pussy and...[p]
+Ahh... I-I want you to... look at my... naughty pussy and...[p]
 ♥[p]
 #Nikuyama
-Good![p]
-All the students are watching![p]
-Guhahaha![p]
+Good! All the students are watching! Guhahaha![p]
 #
 ・・・・・・・・・[p]
 [_tb_end_text]
@@ -774,21 +584,14 @@ Guhahaha![p]
 *Squish...[p]
 ♥*[p]
 #Nikuyama
-It's a reward for you.[p]
-You can suck it as much as you want, hehe.[p]
+It's a reward for you. You can suck it as much as you want, hehe.[p]
 #Kaori
-*Kuh...[p]
-Chubaa ♥...[p]
+*Kuh... Chubaa ♥...[p]
 ♥*[p]
 #Nikuyama
-What are you glaring at?[p]
-Acting rebellious, huh?[p]
-You actually love cock, don't you?[p]
-Muhuhu.[p]
+What are you glaring at? Acting rebellious, huh? You actually love cock, don't you? Muhuhu.[p]
 #Kaori
-Mmm...[p]
-Lick, lick, lick...[p]
-♥...[p]
+Mmm... Lick, lick, lick... ♥...[p]
 nchu ♥[p]
 #Nikuyama
 Kukuku, you should focus on milking out the semen.[p]
@@ -799,13 +602,10 @@ Ku...[p]
 [bg  time="1000"  method="crossfade"  storage="game144-2.jpg"  ]
 [tb_start_text mode=1 ]
 #Kaori
-*Squish...[p]
-Squelch...[p]
+*Squish... Squelch...[p]
 *[p]
 #Nikuyama
-Oh, good.[p]
-Keep it up.[p]
-You're getting into it.[p]
+Oh, good. Keep it up. You're getting into it.[p]
 #Kaori
 Chubaa![p]
 Zu chu ♥[p]
@@ -813,31 +613,24 @@ Zu chu ♥[p]
 Who would have thought that strict, intellectual female teacher would become so skilled at giving blowjobs.[p]
 Well, they were born a pervert, so they must have had the talent from the beginning.[p]
 #Kaori
-Chubu![p]
-Jupu![p]
+Chubu! Jupu![p]
 Lero lero lero lero lero ♥[p]
 #Nikuyama
-Oh, impressive.[p]
-Do you want to drink semen that badly?[p]
+Oh, impressive. Do you want to drink semen that badly?[p]
 #Kaori
-Chum ♥...[p]
-I just want to finish quickly...[p]
+Chum ♥... I just want to finish quickly...[p]
 Chubaa ♥[p]
 #Nikuyama
-Kukuku, I see, I see.[p]
-However, my dick isn't that easy to...[p]
+Kukuku, I see, I see. However, my dick isn't that easy to...[p]
 #Kaori
 Jupu ♥ Jupo ♥ Chubaa...[p]
 Nchuuu ♥[p]
 #Nikuyama
-Ohh!?[p]
-Th-This is irresistible...[p]
-My cock is about to melt...[p]
+Ohh!? Th-This is irresistible... My cock is about to melt...[p]
 #Kaori
 Jupu ♥ Chum ♥ Lero lero lero lero ♥ Jupo ♥ Jupo jupo jupo ♥[p]
 #Nikuyama
-Oh...[p]
-I'm about to cum...[p]
+Oh... I'm about to cum...[p]
 
 [_tb_end_text]
 
@@ -849,8 +642,7 @@ Dopu~!![p]
 Nn...[p]
 Gokku ♥[p]
 #Nikuyama
-Ohh...[p]
-I'm being squeezed...[p]
+Ohh... I'm being squeezed...[p]
 #Kaori
 Chuuu...[p]
 Gokun ♥[p]
@@ -858,24 +650,14 @@ Gokun ♥[p]
 Ohh...[p]
 Haaah[p]
 #Kaori
-Churuchuru...[p]
-Gokku ♥...[p]
-Gokku ♥...[p]
-Chuppu ♥ Lero lero lero...[p]
-Chummu ♥...[p]
+Churuchuru... Gokku ♥... Gokku ♥... Chuppu ♥ Lero lero lero... Chummu ♥...[p]
 Lero lero lero ♥[p]
 #Nikuyama
-Phew...[p]
-What amazing blowjob skills.[p]
-They're better than a professional.[p]
+Phew... What amazing blowjob skills. They're better than a professional.[p]
 #Kaori
-Lero lero lero...[p]
-Chupo ♥...[p]
-Thank you for letting me drink your delicious semen.[p]
+Lero lero lero... Chupo ♥... Thank you for letting me drink your delicious semen.[p]
 #Nikuyama
-Yes, it felt good.[p]
-Your attitude of serving my cock was good.[p]
-You have grown quite a bit as a sex slave.[p]
+Yes, it felt good. Your attitude of serving my cock was good. You have grown quite a bit as a sex slave.[p]
 
 
 [_tb_end_text]
@@ -886,11 +668,9 @@ You have grown quite a bit as a sex slave.[p]
 [chara_show  name="桐嶋"  time="1000"  wait="true"  storage="chara/1/game51.png"  width="399"  height="939"  left="408"  top="-3"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #Kaori
-I don't want to become a sex slave...[p]
-I just wanted it to end quickly...[p]
+I don't want to become a sex slave... I just wanted it to end quickly...[p]
 #Nikuyama
-Hehehe, you're acting all sassy because you want to be bullied, huh?[p]
-Alright, alright, I'll take you back to the instructor's office and give you plenty of love with my cock.[p]
+Hehehe, you're acting all sassy because you want to be bullied, huh? Alright, alright, I'll take you back to the instructor's office and give you plenty of love with my cock.[p]
 #Kaori
 Ku...[p]
 #
@@ -907,12 +687,9 @@ Ku...[p]
 [playbgm  volume="60"  time="1000"  loop="true"  storage="Indomitable.mp3"  ]
 [tb_start_text mode=1 ]
 #Nikuyama
-Let's take a break.[p]
-Stay connected here...[p]
-and...[p]
+Let's take a break. Stay connected here... and...[p]
 #Kaori
-Ku...[p]
-If we're taking a break, let me sit down...[p]
+Ku... If we're taking a break, let me sit down...[p]
 #Nikuyama
 No, you should behave like a livestock.[p]
 #Kaori
@@ -921,13 +698,9 @@ I-I'm not just some livestock...[p]
 Oh, you're being defiant.[p]
 *caresses*[p]
 #Kaori
-Ku...[p]
-Ahh...[p]
-If you're going to violate me...[p]
-please finish it quickly...[p]
+Ku... Ahh... If you're going to violate me... please finish it quickly...[p]
 #Nikuyama
-Hey hey, you're speaking quite boldly, aren't you?[p]
-Are you saying those things just because you want my cock quickly?[p]
+Hey hey, you're speaking quite boldly, aren't you? Are you saying those things just because you want my cock quickly?[p]
 #Kaori
 W-Who...[p]
 [_tb_end_text]
@@ -939,8 +712,7 @@ You're lying![p]
 #
 Hard![p]
 #Kaori
-Ahh![p]
-It hurts...![p]
+Ahh! It hurts...![p]
 [_tb_end_text]
 
 [bg  time="100"  method="crossfade"  storage="game183-4.jpg"  ]
@@ -948,8 +720,7 @@ It hurts...![p]
 #Nikuyama
 Say that you want my cock properly.[p]
 #Kaori
-I-I don't want...[p]
-a cock...[p]
+I-I don't want... a cock...[p]
 [_tb_end_text]
 
 [bg  time="100"  method="crossfade"  storage="game183-5.jpg"  ]
@@ -957,8 +728,7 @@ a cock...[p]
 #
 *[p]
 #Kaori
-Ahh![p]
-D-Don't hit my butt...[p]
+Ahh! D-Don't hit my butt...[p]
 [_tb_end_text]
 
 [bg  time="100"  method="crossfade"  storage="game183-4.jpg"  ]
@@ -966,20 +736,15 @@ D-Don't hit my butt...[p]
 #Nikuyama
 You want a cock, don't you?[p]
 #Kaori
-Y-Yes...[p]
-I...[p]
-want it...[p]
+Y-Yes... I... want it...[p]
 #Nikuyama
-That's right.[p]
-Don't resist, you horny woman.[p]
+That's right. Don't resist, you horny woman.[p]
 #Kaori
 Ugh...[p]
 #Nikuyama
-But don't think you can easily get a cock.[p]
-If you want it, ask for it properly.[p]
+But don't think you can easily get a cock. If you want it, ask for it properly.[p]
 #Kaori
-B-Begging...?[p]
-Why would I do something like that...?[p]
+B-Begging...? Why would I do something like that...?[p]
 
 [_tb_end_text]
 
@@ -988,13 +753,7 @@ Why would I do something like that...?[p]
 #
 *[p]
 #Kaori
-Ahh!?[p]
-I-I...[p]
-I'll do it...[p]
-I'll do it, so...[p]
-p-please...[p]
-give me...[p]
-a c-cock...[p]
+Ahh!? I-I... I'll do it... I'll do it, so... p-please... give me... a c-cock...[p]
 
 [_tb_end_text]
 
@@ -1003,31 +762,19 @@ a c-cock...[p]
 #
 *[p]
 #Kaori
-Ahh![p]
-It hurts...![p]
+Ahh! It hurts...![p]
 #Nikuyama
-Do you think you can get a cock with such begging?![p]
-Don't be spoiled![p]
+Do you think you can get a cock with such begging?! Don't be spoiled![p]
 #Kaori
-*Gasp*...[p]
-I-I'm sorry...[p]
-P-Please...[p]
-give me...[p]
-N-Nikuyama-sama's strong cock...[p]
+*Gasp*... I-I'm sorry... P-Please... give me... N-Nikuyama-sama's strong cock...[p]
 #
 *[p]
 #Kaori
 ♥[p]
 #Nikuyama
-30 points![p]
-Your heart isn't in it at all![p]
-Pour your desire for more cock into it![p]
+30 points! Your heart isn't in it at all! Pour your desire for more cock into it![p]
 #Kaori
-O-Okay...![p]
-U-Um...[p]
-P-Please...[p]
-take good care of Kaori's naughty pussy with Nikuyama-sama's cock...[p]
-Please...![p]
+O-Okay...! U-Um... P-Please... take good care of Kaori's naughty pussy with Nikuyama-sama's cock... Please...![p]
 #Nikuyama
 No, no![p]
 #
@@ -1035,8 +782,7 @@ No, no![p]
 #Kaori
 Nhyi ♥[p]
 #Nikuyama
-I can't feel the desperation of wanting a cock from you![p]
-Be more like a horny woman and beg more aggressively![p]
+I can't feel the desperation of wanting a cock from you! Be more like a horny woman and beg more aggressively![p]
 
 
 [_tb_end_text]
@@ -1044,63 +790,42 @@ Be more like a horny woman and beg more aggressively![p]
 [bg  time="100"  method="crossfade"  storage="game183-4.jpg"  ]
 [tb_start_text mode=1 ]
 #Kaori
-S-Stop it already![p]
-Why do I have to say such things?![p]
-You're completely mistaken if you think you can make me obey you with violence...![p]
+S-Stop it already! Why do I have to say such things?! You're completely mistaken if you think you can make me obey you with violence...![p]
 #Nikuyama
-What was that...?[p]
-Kukuku, it seems like this livestock has forgotten their place.[p]
-I'll make them remember it in their body once again.[p]
+What was that...? Kukuku, it seems like this livestock has forgotten their place. I'll make them remember it in their body once again.[p]
 #Kaori
-I'm not some livestock![p]
-Just because my butt was slapped...[p]
+I'm not some livestock! Just because my butt was slapped...[p]
 [_tb_end_text]
 
 [bg  time="100"  method="crossfade"  storage="game183-6.jpg"  ]
 [tb_start_text mode=1 ]
 #
-*smack![p]
-* *throb![p]
+*smack! * *throb![p]
 *[p]
 #Kaori
 Ahn ♥ Aaannn ♥[p]
 #Nikuyama
-You insolent bitch![p]
-It's punishment time![p]
-Take this![p]
+You insolent bitch! It's punishment time! Take this![p]
 #
-*smack![p]
-* *thwack![p]
+*smack! * *thwack![p]
 *[p]
 #Kaori
-Ahh ♥ S-Stop...[p]
-it...[p]
+Ahh ♥ S-Stop... it...[p]
 Ahh ♥[p]
 #Nikuyama
-Hey, you've got a big butt that's worth spanking![p]
-Hey![p]
+Hey, you've got a big butt that's worth spanking! Hey![p]
 #
-*smack![p]
-* *thwack![p]
+*smack! * *thwack![p]
 *[p]
 #Kaori
-Hii...[p]
-M-Mou...[p]
-Ahh...[p]
-Stop...[p]
-Ahh...[p]
-Ahnn...[p]
+Hii... M-Mou... Ahh... Stop... Ahh... Ahnn...[p]
 #Nikuyama
 Did you realize your position!?[p]
 #
-*smack![p]
-* *thwack![p]
-* *spank![p]
+*smack! * *thwack! * *spank![p]
 *[p]
 #Kaori
-Ahh ♥...[p]
-I-I understand, so please...[p]
-Ahh ♥ Please, stop...[p]
+Ahh ♥... I-I understand, so please... Ahh ♥ Please, stop...[p]
 
 [_tb_end_text]
 
@@ -1108,43 +833,28 @@ Ahh ♥ Please, stop...[p]
 [tb_cg  id="183"  ]
 [tb_start_text mode=1 ]
 #Nikuyama
-What's wrong?[p]
-Aren't you supposed to be resistant to violence?[p]
-Hm?[p]
+What's wrong? Aren't you supposed to be resistant to violence? Hm?[p]
 #Kaori
-Ugh...[p]
-I-I apologize...[p]
-Please, don't hit me anymore...[p]
+Ugh... I-I apologize... Please, don't hit me anymore...[p]
 #Nikuyama
 Do you understand what happens when livestock like you show an insolent attitude?[p]
 #Kaori
-Ugh...[p]
-I-I understand...[p]
+Ugh... I-I understand...[p]
 #Nikuyama
-What's this, do you still have something to complain about?[p]
-Hm?[p]
+What's this, do you still have something to complain about? Hm?[p]
 #Kaori
-N-No...[p]
-There's nothing like that...[p]
+N-No... There's nothing like that...[p]
 #Nikuyama
-Then, ask for my cock again.[p]
-Say it with all your heart, while I stroke you.[p]
+Then, ask for my cock again. Say it with all your heart, while I stroke you.[p]
 #Kaori
-Nn ♥...[p]
-Y-Yes...[p]
-Lewd Kaori...[p]
-Kaori can't resist anymore...[p]
+Nn ♥... Y-Yes... Lewd Kaori... Kaori can't resist anymore...[p]
 Please, quickly penetrate Kaori's pussy with Nikuyama-sama's strong cock and correct Kaori's naughty nature ♥♥[p]
 #Nikuyama
-Guhahaha, you're begging with all your might, throwing away your pride![p]
-Hehehe![p]
-Aren't you ashamed?[p]
+Guhahaha, you're begging with all your might, throwing away your pride! Hehehe! Aren't you ashamed?[p]
 #Kaori
-Y-...[p]
-You told me to do it, right...?![p]
+Y-... You told me to do it, right...?![p]
 #Nikuyama
-Hehehe, did spanking your butt have that much of an effect?[p]
-Alright, alright, I'll penetrate you just as you wished.[p]
+Hehehe, did spanking your butt have that much of an effect? Alright, alright, I'll penetrate you just as you wished.[p]
 With my strong cock...[p]
 
 [_tb_end_text]
@@ -1160,8 +870,7 @@ With my strong cock...[p]
 #Kaori
 Ahn ♥[p]
 #Nikuyama
-Here, it's the eagerly awaited cock.[p]
-Savor it well.[p]
+Here, it's the eagerly awaited cock. Savor it well.[p]
 #Kaori
 Nhaa...[p]
 Ahn ♥[p]
@@ -1170,41 +879,29 @@ Ahn ♥[p]
 [bg  time="1000"  method="crossfade"  storage="game188-2.jpg"  ]
 [tb_start_text mode=1 ]
 #
-*Spank![p]
-* *Spank![p]
-* *Spank![p]
+*Spank! * *Spank! * *Spank![p]
 *[p]
 #Kaori
 Ahn ♥...[p]
 Nhaa ♥[p]
 #Nikuyama
-How does it feel to be violated like a livestock outside?[p]
-You must be excited, huh?[p]
+How does it feel to be violated like a livestock outside? You must be excited, huh?[p]
 #
-*Spank![p]
-* *Spank![p]
-* *Spank![p]
+*Spank! * *Spank! * *Spank![p]
 *[p]
 #Kaori
-Ahh ♥...[p]
-I-I'm getting excited...[p]
+Ahh ♥... I-I'm getting excited...[p]
 Haanng ♥[p]
 #Nikuyama
-Don't lie, your pussy is squeezing so tight![p]
-Your pleasure can't be hidden, you female pig![p]
+Don't lie, your pussy is squeezing so tight! Your pleasure can't be hidden, you female pig![p]
 #
-*Spank![p]
-* *Spank![p]
-* *Spank![p]
+*Spank! * *Spank! * *Spank![p]
 *[p]
 #Kaori
-Nn...[p]
-Iya...[p]
-Hi ♥...[p]
+Nn... Iya... Hi ♥...[p]
 Ahiiii ♥[p]
 #Nikuyama
-I'll cum inside you plenty and impregnate you.[p]
-Ora![p]
+I'll cum inside you plenty and impregnate you. Ora![p]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game188-3.jpg"  ]
@@ -1219,8 +916,7 @@ Ora, it's time for impregnation...![p]
 #
 *[p]
 #Kaori
-Nhaa ♥...[p]
-Aa...[p]
+Nhaa ♥... Aa...[p]
 Afu ♥[p]
 #
 ・・・・・・・・・[p]
@@ -1237,31 +933,23 @@ Afu ♥[p]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Grease_Slide_Trap.mp3"  ]
 [tb_start_text mode=1 ]
 #Nikuyama
-Phew, it's already this late.[p]
-I got really into training.[p]
-It seems like you were enjoying yourself quite a bit too, Kaori.[p]
+Phew, it's already this late. I got really into training. It seems like you were enjoying yourself quite a bit too, Kaori.[p]
 #Kaori
-...[p]
-The training program should be over by now.[p]
-Please don't call me so casually...[p]
+... The training program should be over by now. Please don't call me so casually...[p]
 #Nikuyama
-Oh, my apologies.[p]
-That's right, Kaori-sensei hasn't officially become my flesh toilet yet, muhihihi.[p]
+Oh, my apologies. That's right, Kaori-sensei hasn't officially become my flesh toilet yet, muhihihi.[p]
 #Kaori
 I don't intend for something like that to last forever...[p]
 #Nikuyama
-Hehehe, is that so?[p]
-You can go home now.[p]
+Hehehe, is that so? You can go home now.[p]
 #Kaori
-...[p]
-Excuse me.[p]
+... Excuse me.[p]
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
 [tb_start_text mode=1 ]
 #
-Phew, outdoor training is really stimulating and the best.[p]
-Although if we do it too much, someone might find us...[p]
+Phew, outdoor training is really stimulating and the best. Although if we do it too much, someone might find us...[p]
 But I can't stop.[p]
 [_tb_end_text]
 
@@ -1281,47 +969,36 @@ Walk with your butt raised higher.[p]
 #
 Peshi![p]
 #Kaori
-Ahh...[p]
-Please don't spank my butt...[p]
+Ahh... Please don't spank my butt...[p]
 #Nikuyama
-Hehehe, how does it feel?[p]
-Walking down the hallway that's usually filled with students, with your pussy and butt hole fully exposed?[p]
+Hehehe, how does it feel? Walking down the hallway that's usually filled with students, with your pussy and butt hole fully exposed?[p]
 How does it feel to walk on all fours like a dog, wearing a collar?[p]
 #Kaori
-Ugh...[p]
-It's, it's nothing...[p]
+Ugh... It's, it's nothing...[p]
 #Nikuyama
-Is that true?[p]
-Imagine this, being dragged by me in front of all the students, walking in this miserable state.[p]
+Is that true? Imagine this, being dragged by me in front of all the students, walking in this miserable state.[p]
 #Kaori
 *panting*[p]
 #Nikuyama
 I wonder what the students would think when they see the dignified and noble Kirishima-sensei, being dragged around naked with a collar by the despised sexual harassment gym teacher?[p]
-They would understand immediately.[p]
-It would be clear who the winner and loser is, who the master and slave is.[p]
+They would understand immediately. It would be clear who the winner and loser is, who the master and slave is.[p]
 Hehehehe.[p]
 #Kaori
-*panting* ...[p]
-Ahh...[p]
+*panting* ... Ahh...[p]
 Nnghh ♥[p]
 #Nikuyama
-Hey hey, don't get excited just from imagining it.[p]
-You perverted dog![p]
+Hey hey, don't get excited just from imagining it. You perverted dog![p]
 #
 Peshi![p]
 #Kaori
-Ahh ♥...[p]
-I-I'm not excited or anything...[p]
+Ahh ♥... I-I'm not excited or anything...[p]
 #Nikuyama
-Don't lie.[p]
-It looks like drool is about to drip from your pussy.[p]
-You really are a perverted masochist, aren't you?[p]
+Don't lie. It looks like drool is about to drip from your pussy. You really are a perverted masochist, aren't you?[p]
 #Kaori
 Th-that...[p]
 ugh[p]
 #Male voice
-Oh...[p]
-Is someone there?[p]
+Oh... Is someone there?[p]
 #Nikuyama
 ！？[p]
 
@@ -1334,8 +1011,7 @@ Is someone there?[p]
 #Kaori
 Kyaaa!?[p]
 #Vice Principal
-Eh...!?[p]
-K-Kaori Kirishima-sensei...!?[p]
+Eh...!? K-Kaori Kirishima-sensei...!?[p]
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
@@ -1344,26 +1020,17 @@ K-Kaori Kirishima-sensei...!?[p]
 [chara_show  name="教頭"  time="1000"  wait="true"  storage="chara/6/game49-2.png"  width="403"  height="948"  left="773"  top="11"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #Vice Principal
-Kirishima-sensei and...[p]
-Nikuyama-sensei...[p]
-W-What on earth is going on here...!?[p]
+Kirishima-sensei and... Nikuyama-sensei... W-What on earth is going on here...!?[p]
 #Kaori
 Th-this is...[p]
 #Nikuyama
 V-Vice Principal, there is a reason behind this...[p]
 #Vice Principal
-What is the situation...?[p]
-Something like this happening within the school...[p]
-It's, it's indecent...[p]
-P-Please explain...![p]
+What is the situation...? Something like this happening within the school... It's, it's indecent... P-Please explain...![p]
 #Nikuyama
-(Calm down...[p]
-The Vice Principal is easily swayed.[p]
-I should be able to deceive them![p]
-) Didn't I mention before that I was counseling Kirishima-sensei?[p]
+(Calm down... The Vice Principal is easily swayed. I should be able to deceive them!) Didn't I mention before that I was counseling Kirishima-sensei?[p]
 #Vice Principal
-Yes...[p]
-I had heard about that...[p]
+Yes... I had heard about that...[p]
 #Kaori
 ・・・・・・[p]
 #Nikuyama
@@ -1373,8 +1040,7 @@ E-Exhibitionism desire...?[p]
 #Kaori
 Ngh...!?[p]
 #Nikuyama
-That's right.[p]
-She has a desire to be naked in front of others and be seen in embarrassing situations.[p]
+That's right. She has a desire to be naked in front of others and be seen in embarrassing situations.[p]
 [_tb_end_text]
 
 [tb_image_show  time="1000"  storage="default/game200.png"  width="297"  height="264"  x="486"  y="287"  _clickable_img=""  name="img_205"  ]
@@ -1383,8 +1049,7 @@ She has a desire to be naked in front of others and be seen in embarrassing situ
 #Vice Principal
 I-Is that true, Kirishima-sensei...?[p]
 #Kaori
-Eh...[p]
-Th-That is...[p]
+Eh... Th-That is...[p]
 #Nikuyama
 Kirishima-sensei, now that we've been found out, let's be honest and talk about it.[p]
 #Kaori
@@ -1394,21 +1059,17 @@ Ugh...[p]
 [chara_mod  name="桐嶋"  time="600"  cross="true"  storage="chara/1/game46.png"  ]
 [tb_start_text mode=1 ]
 #Kaori
-A-Actually...[p]
-that's true...[p]
+A-Actually... that's true...[p]
 #Vice Principal
-I see...[p]
-So Kirishima-sensei had such a fetish...[p]
+I see... So Kirishima-sensei had such a fetish...[p]
 #Kaori
-Y-Yes...[p]
-that's right...[p]
+Y-Yes... that's right...[p]
 #Nikuyama
 So, you see, I was counseling her after receiving a consultation, but her exhibitionism desire has been increasing and she sometimes feels the urge to get naked during class.[p]
 #Vice Principal
 I-If you do something like that, it will be a big problem.[p]
 #Nikuyama
-That's right.[p]
-So, in order to relieve her sexual desires, she was wandering around the school naked at night like this.[p]
+That's right. So, in order to relieve her sexual desires, she was wandering around the school naked at night like this.[p]
 It was to suppress her perverted sexual urges even a little bit.[p]
 [_tb_end_text]
 
@@ -1416,18 +1077,13 @@ It was to suppress her perverted sexual urges even a little bit.[p]
 [tb_image_hide  time="1000"  ]
 [tb_start_text mode=1 ]
 #Vice Principal
-I-I see...[p]
-I understand the situation, but...[p]
-um, why were you wearing a collar and dressed like a dog?[p]
+I-I see... I understand the situation, but... um, why were you wearing a collar and dressed like a dog?[p]
 Was that also a kind of sexual preference...?[p]
 #Nikuyama
-That's right.[p]
-It was the person's own request to not only be seen naked, but also to be wearing a collar like a dog.[p]
+That's right. It was the person's own request to not only be seen naked, but also to be wearing a collar like a dog.[p]
 Right, Kirishima-sensei?[p]
 #Kaori
-Eh...[p]
-I-I see...[p]
-t-that's right...[p]
+Eh... I-I see... t-that's right...[p]
 #Vice Principal
 I see...[p]
 *gulp*[p]
@@ -1436,57 +1092,38 @@ I see...[p]
 #Nikuyama
 So, Vice Principal, is there any way we can't just pretend we didn't see anything?[p]
 #Vice Principal
-H-However...[p]
-even if she has some issues in her heart, we can't just overlook this kind of behavior...[p]
+H-However... even if she has some issues in her heart, we can't just overlook this kind of behavior...[p]
 If it were to be exposed to the public, it would become a big problem...[p]
 #Nikuyama
-(Damn...[p]
-I was convinced by brainwashing, but can't you just let this slide...?[p]
-If it comes to this...[p]
-) Vice Principal, if it's possible, could you please cooperate in treating Kirishima-sensei's mental state?[p]
+(Damn... I was convinced by brainwashing, but can't you just let this slide...? If it comes to this...)[p]
+Vice Principal, if it's possible, could you please cooperate in treating Kirishima-sensei's mental state?[p]
 #Vice Principal
-Eh...[p]
-Cooperation?[p]
-What exactly...[p]
+Eh... Cooperation? What exactly...[p]
 #Nikuyama
-I want you to help relieve Kirishima-sensei's sexual frustration...[p]
-(smirks)[p]
+I want you to help relieve Kirishima-sensei's sexual frustration... (smirks)[p]
 #Vice Principal
-P-Penis...!?[p]
-Th-That means...[p]
+P-Penis...!? Th-That means...[p]
 #Nikuyama
-It's sex.[p]
-After this, we always have sex in the courtyard to relieve Kirishima-sensei's sexual frustration.[p]
+It's sex. After this, we always have sex in the courtyard to relieve Kirishima-sensei's sexual frustration.[p]
 But this time, I was wondering if I could ask the Vice Principal for help...[p]
 #Kaori
-Eh...[p]
-S-So, something like that...!?[p]
+Eh... S-So, something like that...!?[p]
 #Vice Principal
-Th-th-th-th-there's no way we can do something like that![p]
-H-having s-s-sex with K-Kirishima-sensei...![p]
+Th-th-th-th-there's no way we can do something like that! H-having s-s-sex with K-Kirishima-sensei...![p]
 #Nikuyama
-I think of it as helping someone...[p]
-Come on, let's ask Kirishima-sensei for help too.[p]
+I think of it as helping someone... Come on, let's ask Kirishima-sensei for help too.[p]
 #Kaori
-Uhh...[p]
-Umm, Vice Principal...[p]
+Uhh... Umm, Vice Principal...[p]
 #Vice Principal
-W-What is it...[p]
-Kirishima-sensei...[p]
+W-What is it... Kirishima-sensei...[p]
 #Kaori
-V-Vice Principal, could you please comfort my lewd body with your...[p]
-penis?[p]
+V-Vice Principal, could you please comfort my lewd body with your... penis?[p]
 #Vice Principal
-Haa...!?[p]
-Is that...[p]
-really...?[p]
+Haa...!? Is that... really...?[p]
 #Kaori
-P-Please, Vice Principal...[p]
-T-Take care of me with your...[p]
-penis...[p]
+P-Please, Vice Principal... T-Take care of me with your... penis...[p]
 #Vice Principal
-H-Ha...[p]
-Haahhh...[p]
+H-Ha... Haahhh...[p]
 #
 ・・・・・・・・・[p]
 [_tb_end_text]
@@ -1500,82 +1137,42 @@ Haahhh...[p]
 [playbgm  volume="60"  time="1000"  loop="true"  storage="Indomitable.mp3"  ]
 [tb_start_text mode=1 ]
 #Vice Principal
-K-Kirishima-kun...[p]
-Ahh...[p]
-Kirishima-kun!![p]
+K-Kirishima-kun... Ahh... Kirishima-kun!![p]
 #
-Pan![p]
-Pan![p]
-Pan![p]
+Pan! Pan! Pan![p]
 #Kaori
-Ahh...[p]
-Vice Principal...[p]
-Ahh...[p]
-Nooo...[p]
+Ahh... Vice Principal... Ahh... Nooo...[p]
 Ahh♥[p]
 #Vice Principal
-Y-You, who is a serious and excellent...[p]
-teacher...![p]
-To think that you...[p]
-you were such a...[p]
-such a lewd woman...![p]
+Y-You, who is a serious and excellent... teacher...! To think that you... you were such a... such a lewd woman...![p]
 What on earth...![p]
 #
-Pan![p]
-Pan![p]
-Pan![p]
+Pan! Pan! Pan![p]
 #Kaori
-Kuh...[p]
-Haan♥...[p]
-I-I...[p]
+Kuh... Haan♥... I-I...[p]
 Aahh♥[p]
 #Vice Principal
-Haa...[p]
-This is outrageous...[p]
-What an indecent body...![p]
-Well, I've been wanting to violate you like this for a long time...[p]
-This indecent body of yours...![p]
-Uhuhuhu![p]
+Haa... This is outrageous... What an indecent body...! Well, I've been wanting to violate you like this for a long time...[p]
+This indecent body of yours...! Uhuhuhu![p]
 #
-Pan![p]
-Pan![p]
-Pan![p]
+Pan! Pan! Pan![p]
 #Kaori
-Ahh♥...[p]
-Th-that...[p]
+Ahh♥... Th-that...[p]
 Unhaa♥[p]
 #Vice Principal
-Ohh...[p]
-I can't resist...[p]
-Sex with a female teacher...![p]
-In this sacred school...![p]
-What a sense of immorality...![p]
+Ohh... I can't resist... Sex with a female teacher...! In this sacred school...! What a sense of immorality...![p]
 Muhooo![p]
 #
-Pan![p]
-Pan![p]
-Pan![p]
-Pan![p]
+Pan! Pan! Pan! Pan![p]
 #Kaori
-Ahh...[p]
-Ahh...[p]
+Ahh... Ahh...[p]
 Ahh♥[p]
 #Vice Principal
-Haa...[p]
-I can't resist...![p]
-Haa...[p]
-I can't resist...![p]
-Ohh...[p]
-Kirishima-kun...![p]
-Kirishima-kun...!![p]
+Haa... I can't resist...! Haa... I can't resist...! Ohh... Kirishima-kun...! Kirishima-kun...!![p]
 #
-Pan![p]
-Pan![p]
-Pan![p]
-Pan![p]
+Pan! Pan! Pan! Pan![p]
 #Kaori
-Ahh...[p]
-Unn...[p]
+Ahh... Unn...[p]
 Ahiiiiii♥[p]
 #
 ・・・・・・・・・[p]
@@ -1591,22 +1188,13 @@ Ahiiiiii♥[p]
 [playbgm  volume="30"  time="1000"  loop="true"  storage="Grease_Slide_Trap.mp3"  ]
 [tb_start_text mode=1 ]
 #Vice Principal
-I-I did it in the heat of the moment...[p]
-I've done something outrageous...[p]
-I-I hope you're okay, Nikuyama-kun?[p]
+I-I did it in the heat of the moment... I've done something outrageous... I-I hope you're okay, Nikuyama-kun?[p]
 #Nikuyama
-Don't worry, Vice Principal.[p]
-This is part of therapy.[p]
-It's a medical procedure.[p]
+Don't worry, Vice Principal. This is part of therapy. It's a medical procedure.[p]
 #Vice Principal
-A-a medical procedure...[p]
-I-is that so, a medical procedure![p]
-I-I haven't done anything wrong...[p]
-right?[p]
+A-a medical procedure... I-is that so, a medical procedure! I-I haven't done anything wrong... right?[p]
 #Nikuyama
-Of course.[p]
-It's with their consent.[p]
-Right, Kirishima-sensei?[p]
+Of course. It's with their consent. Right, Kirishima-sensei?[p]
 #Kaori
 Eh...[p]
 
@@ -1615,39 +1203,27 @@ Eh...[p]
 [chara_mod  name="桐嶋"  time="600"  cross="true"  storage="chara/1/game46.png"  ]
 [tb_start_text mode=1 ]
 #Kaori
-Y-Yes.[p]
-It's because I...[p]
-asked for it...[p]
+Y-Yes. It's because I... asked for it...[p]
 
 [_tb_end_text]
 
 [chara_mod  name="教頭"  time="600"  cross="true"  storage="chara/6/game49-3.png"  ]
 [tb_start_text mode=1 ]
 #Vice Principal
-Y-Yes![p]
-I just helped because Kirishima-kun asked me to...[p]
-I haven't done anything wrong![p]
-Hahaha.[p]
+Y-Yes! I just helped because Kirishima-kun asked me to... I haven't done anything wrong! Hahaha.[p]
 #Nikuyama
-However, if this matter were to leak to others, it would become troublesome.[p]
-Let's keep it a secret, for the sake of both of us.[p]
+However, if this matter were to leak to others, it would become troublesome. Let's keep it a secret, for the sake of both of us.[p]
 #Vice Principal
-Ah, yes, of course.[p]
-This matter must not be known by anyone.[p]
-It should remain our secret.[p]
+Ah, yes, of course. This matter must not be known by anyone. It should remain our secret.[p]
 #Nikuyama
-It would be helpful.[p]
-If strange rumors were to spread, it would also be troublesome for Kirishima-sensei.[p]
+It would be helpful. If strange rumors were to spread, it would also be troublesome for Kirishima-sensei.[p]
 Since therapy is still necessary from now on, right, Kirishima-sensei?[p]
 #Kaori
 Y-Yes...[p]
 #Vice Principal
-Ah, from now on...[p]
-if there is ever a need for assistance in that...[p]
-therapy, I will always be willing to help, um.[p]
+Ah, from now on... if there is ever a need for assistance in that... therapy, I will always be willing to help, um.[p]
 #Nikuyama
-Yes, that's right.[p]
-When Kirishima-sensei's sexual desire becomes uncontrollable, they might need to rely on the Vice Principal's help.[p]
+Yes, that's right. When Kirishima-sensei's sexual desire becomes uncontrollable, they might need to rely on the Vice Principal's help.[p]
 Hehehehe.[p]
 #Kaori
 ...[p]
@@ -1666,49 +1242,38 @@ Hehehehe.[p]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Grease_Slide_Trap.mp3"  ]
 [tb_start_text mode=1 ]
 #Nikuyama
-Phew...[p]
-I was worried about what would happen if the Vice Principal found out, but I managed to deceive them somehow.[p]
+Phew... I was worried about what would happen if the Vice Principal found out, but I managed to deceive them somehow.[p]
 #Kaori
 W-Why did I tell such a lie...[p]
 #Nikuyama
-Should I have answered that I'm training them as a slave for correcting their nymphomania?[p]
-Being an exhibitionist would still be better, right?[p]
+Should I have answered that I'm training them as a slave for correcting their nymphomania? Being an exhibitionist would still be better, right?[p]
 #Kaori
 Ugh...[p]
 #Nikuyama
 I had been covering up the fact that you've been coming to this gym instructor's office every day by saying that we were doing counseling.[p]
-So, in that flow, I had no choice but to say that.[p]
-It's better than having it exposed that you're a horny slut who's obsessed with dicks, isn't it?[p]
+So, in that flow, I had no choice but to say that. It's better than having it exposed that you're a horny slut who's obsessed with dicks, isn't it?[p]
 #Kaori
-B-But...[p]
-to go as far as involving the Vice Principal...[p]
-with my body...[p]
+B-But... to go as far as involving the Vice Principal... with my body...[p]
 #Nikuyama
 By involving the Vice Principal like that, it also serves as a way to keep them quiet.[p]
 #Kaori
-Ugh...[p]
-But even so...[p]
+Ugh... But even so...[p]
 #Nikuyama
 Hehehe[p]
 #Kaori
-Th-That's not true![p]
-Who would want someone like you...![p]
+Th-That's not true! Who would want someone like you...![p]
 #Nikuyama
-So, how was the Vice Principal's dick?[p]
-It seemed like they were trying their best for their age, but well, it probably doesn't compare to mine, right?[p]
+So, how was the Vice Principal's dick? It seemed like they were trying their best for their age, but well, it probably doesn't compare to mine, right?[p]
 Hm?[p]
 #Kaori
-I-I don't know anything like that...![p]
-The training is already over, right?[p]
-I'm going home![p]
+I-I don't know anything like that...! The training is already over, right? I'm going home![p]
 
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
 [tb_start_text mode=1 ]
 #
-Phew...[p]
-Well, it's a relief that the one who found out was the Vice Principal, who is easily susceptible to brainwashing.[p]
+Phew... Well, it's a relief that the one who found out was the Vice Principal, who is easily susceptible to brainwashing.[p]
 Since they only care about their own self-preservation, I don't have to worry about the secret being leaked.[p]
 Anyway, from now on, I'll have to be careful with outdoor training...[p]
 [_tb_end_text]
@@ -1729,14 +1294,11 @@ Anyway, from now on, I'll have to be careful with outdoor training...[p]
 #Nikuyama
 Sorry to keep you waiting, Vice Principal.[p]
 #Vice Principal
-Hehehe, I've been waiting for you, Mr.[p]
-Nikuyama.[p]
+Hehehe, I've been waiting for you, Mr. Nikuyama.[p]
 #Kaori
 ・・・[p]
 #Vice Principal
-Kirishima-sensei, today I am your master.[p]
-Shall we go for a nighttime stroll then?[p]
-Mufufufu.[p]
+Kirishima-sensei, today I am your master. Shall we go for a nighttime stroll then? Mufufufu.[p]
 #Kaori
 Y-Yes...[p]
 #
@@ -1747,32 +1309,23 @@ Y-Yes...[p]
 [bg  time="1000"  method="crossfade"  storage="game159-1.jpg"  ]
 [tb_start_text mode=1 ]
 #Vice Principal
-Mufufufu, your butt is completely exposed.[p]
-How does it feel, Kirishima-sensei?[p]
+Mufufufu, your butt is completely exposed. How does it feel, Kirishima-sensei?[p]
 #Kaori
-Y-Yes, Vice Principal...[p]
-I-I'm excited...[p]
+Y-Yes, Vice Principal... I-I'm excited...[p]
 #Vice Principal
-I never imagined that Kirishima-sensei would be such an exhibitionist pervert.[p]
-They always put on a composed face in front of us.[p]
+I never imagined that Kirishima-sensei would be such an exhibitionist pervert. They always put on a composed face in front of us.[p]
 #Kaori
 I-I'm sorry, Vice Principal...[p]
 #Vice Principal
-You know, ever since you came here, I've always wanted to have you in my arms at least once.[p]
-I want to touch your plump body gently.[p]
+You know, ever since you came here, I've always wanted to have you in my arms at least once. I want to touch your plump body gently.[p]
 #Kaori
 ♥[p]
 #Vice Principal
-However, as the Vice Principal, I shouldn't be able to do such a thing.[p]
-How many times have I violated you in my dreams...[p]
+However, as the Vice Principal, I shouldn't be able to do such a thing. How many times have I violated you in my dreams...[p]
 #Kaori
-Nn...[p]
-ku...[p]
+Nn... ku...[p]
 #Vice Principal
-I never imagined that my dream would come true in this way...[p]
-Ahh...[p]
-I can't resist anymore![p]
-Let's go to the courtyard![p]
+I never imagined that my dream would come true in this way... Ahh... I can't resist anymore! Let's go to the courtyard![p]
 #Kaori
 Ahh...[p]
 #
@@ -1786,48 +1339,27 @@ Ahh...[p]
 [playbgm  volume="60"  time="1000"  loop="true"  storage="Indomitable.mp3"  ]
 [tb_start_text mode=1 ]
 #
-Pan![p]
-Pan![p]
-Pan![p]
+Pan! Pan! Pan![p]
 #Kaori
 Ahh...[p]
 haa♥[p]
 #Vice Principal
-Haa...[p]
-I can't resist anymore![p]
-No matter how many times I hold you, I can't get enough...[p]
-Fooh![p]
+Haa... I can't resist anymore! No matter how many times I hold you, I can't get enough... Fooh![p]
 #
-Pan![p]
-Pan![p]
-Pan![p]
+Pan! Pan! Pan![p]
 #Kaori
-Ahh...[p]
-♥...[p]
+Ahh... ♥...[p]
 nnn♥[p]
 #Vice Principal
-How is it?[p]
-Does my dick feel good?[p]
-Hm?[p]
+How is it? Does my dick feel good? Hm?[p]
 #
-Pan![p]
-Pan![p]
-Pan![p]
+Pan! Pan! Pan![p]
 #Kaori
-Nngh...[p]
-It feels...[p]
-so good...[p]
-Ahhh...[p]
+Nngh... It feels... so good... Ahhh...[p]
 #Vice Principal
-This lewd teacher...![p]
-It's outrageous![p]
-It's so...[p]
-mmmph![p]
+This lewd teacher...! It's outrageous! It's so... mmmph![p]
 #
-Pan![p]
-Pan![p]
-Pan![p]
-Pan![p]
+Pan! Pan! Pan! Pan![p]
 #Kaori
 Ahh...[p]
 haa♥[p]
@@ -1844,27 +1376,17 @@ haa♥[p]
 [playbgm  volume="30"  time="1000"  loop="true"  storage="Grease_Slide_Trap.mp3"  ]
 [tb_start_text mode=1 ]
 #Vice Principal
-Haa...[p]
-How about it, Kirishima?[p]
-Did my dick help relieve your sexual frustration?[p]
-Hm?[p]
+Haa... How about it, Kirishima? Did my dick help relieve your sexual frustration? Hm?[p]
 #Kaori
-Y-Yes...[p]
-It...[p]
-felt good...[p]
+Y-Yes... It... felt good...[p]
 #Vice Principal
-Is that so?[p]
-Is that so?[p]
-I also got satisfied, hehehehe.[p]
+Is that so? Is that so? I also got satisfied, hehehehe.[p]
 #Nikuyama
-That's good.[p]
-With this, Kirishima-sensei's mind should calm down for a while.[p]
+That's good. With this, Kirishima-sensei's mind should calm down for a while.[p]
 #Vice Principal
-I'll help you anytime.[p]
-Because of my age, I can't do it every day though.[p]
+I'll help you anytime. Because of my age, I can't do it every day though.[p]
 #Kaori
-Y-Yes...[p]
-Thank you very much...[p]
+Y-Yes... Thank you very much...[p]
 #
 ・・・・・・・・・[p]
 
@@ -1883,8 +1405,7 @@ Today, you'll be the model for the photography club.[p]
 #Kaori
 Again...[p]
 #Nikuyama
-This is also part of the training program.[p]
-Don't forget that it's Kaori-sensei herself who wants to act as a cosplay model.[p]
+This is also part of the training program. Don't forget that it's Kaori-sensei herself who wants to act as a cosplay model.[p]
 #Kaori
 Y-Yes, I understand...[p]
 #
@@ -1907,27 +1428,21 @@ Y-Yes, I understand...[p]
 #Tabata
 Oh, being able to have a photo shoot with Kirishima-sensei as the model again is the best![p]
 #Nikuyama
-It seems that Kirishima-sensei herself said she wants to do it again.[p]
-She experienced the pleasure of being photographed during the previous shoot.[p]
+It seems that Kirishima-sensei herself said she wants to do it again. She experienced the pleasure of being photographed during the previous shoot.[p]
 #Kaori
 Y-Yes, it has become a habit...[p]
 #Tabata
-If you're okay with us, we can take pictures anytime![p]
-Kirishima-sensei can rival even popular cosplayers.[p]
+If you're okay with us, we can take pictures anytime! Kirishima-sensei can rival even popular cosplayers.[p]
 Right, Nikuyama?[p]
 #Kimoto
-Y-Yeah.[p]
-There are still plenty of costumes...[p]
-I want them to wear all of them, hehehe.[p]
+Y-Yeah. There are still plenty of costumes... I want them to wear all of them, hehehe.[p]
 #Kaori
-Th-Thank you...[p]
-I'm happy.[p]
+Th-Thank you... I'm happy.[p]
 #
 *Snap![p]
 *[p]
 #Tabata
-It's fine![p]
-That pose is the best![p]
+It's fine! That pose is the best![p]
 #
 ・・・・・・・・・[p]
 
@@ -1936,8 +1451,7 @@ That pose is the best![p]
 [bg  time="1000"  method="crossfade"  storage="game264-2.jpg"  ]
 [tb_start_text mode=1 ]
 #Tabata
-Stick your butt out more![p]
-That's it![p]
+Stick your butt out more! That's it![p]
 #
 *Snap![p]
 *[p]
@@ -1946,9 +1460,7 @@ I wonder if this is okay...?[p]
 #Tabata
 Yes, yes, with a more provocative expression![p]
 #
-*Snap![p]
-* *Snap![p]
-* ・・・・・・・・・[p]
+*Snap! * *Snap! * ・・・・・・・・・[p]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game264-3.jpg"  ]
@@ -1956,21 +1468,15 @@ Yes, yes, with a more provocative expression![p]
 #Kimoto
 Y-Yeah, as I thought, this costume doesn't fit...[p]
 #Kaori
-U-um...[p]
-I'm sorry, it's too tight...[p]
-but I like this costume...[p]
+U-um... I'm sorry, it's too tight... but I like this costume...[p]
 #Tabata
-No, it's the best![p]
-This one is much more erotic...[p]
+No, it's the best! This one is much more erotic...[p]
 *panting*[p]
 #
 *Snap![p]
 *[p]
 #Kaori
-Y-Yes...[p]
-If that's the case, then it's fine...[p]
-(Ah...[p]
-Nn♥)[p]
+Y-Yes... If that's the case, then it's fine... (Ah... Nn♥)[p]
 #
 ・・・・・・・・・[p]
 [_tb_end_text]
@@ -1983,8 +1489,7 @@ Nn♥)[p]
 *Snap![p]
 *[p]
 #Kaori
-Hmm...[p]
-Am I properly hidden...?[p]
+Hmm... Am I properly hidden...?[p]
 
 [_tb_end_text]
 
@@ -1994,71 +1499,44 @@ Am I properly hidden...?[p]
 I-I'm fine![p]
 *panting*[p]
 #Kimoto
-Whoa...![p]
-Live-action version of Aisha...[p]
-no, it surpasses the real thing completely![p]
-Haa haa haa...[p]
+Whoa...! Live-action version of Aisha... no, it surpasses the real thing completely! Haa haa haa...[p]
 #Nikuyama
-Are you okay, Kirishima-sensei?[p]
-This bold costume...[p]
-If you don't like it, you can refuse, you know?[p]
+Are you okay, Kirishima-sensei? This bold costume... If you don't like it, you can refuse, you know?[p]
 #Kaori
-N-No...[p]
-I'm fine.[p]
-It's a c-cute costume...[p]
-Please keep taking pictures.[p]
+N-No... I'm fine. It's a c-cute costume... Please keep taking pictures.[p]
 #Tabata
-O-Of course![p]
-Foooooo![p]
+O-Of course! Foooooo![p]
 #
-*Snap![p]
-* *Snap![p]
+*Snap! * *Snap![p]
 *[p]
 #Kaori
-(Ah...[p]
-I'm sure they think I'm a perverted exhibitionist...[p]
-dressed like this...[p]
-) (Half of my nipples are visible...[p]
-and my crotch is barely covered by the slit...[p]
-)[p]
+(Ah... I'm sure they think I'm a perverted exhibitionist... dressed like this...) (Half of my nipples are visible...[p]
+and my crotch is barely covered by the slit...)[p]
 #Kimoto
 Can you try shaking your hips from side to side like the victory pose animation?[p]
 #Kaori
-Eh, shake my hips...?[p]
-But if I move my body, my nipples will...[p]
+Eh, shake my hips...? But if I move my body, my nipples will...[p]
 #Nikuyama
 (Gulp)[p]
 #Kaori
 O-Okay, I got it.[p]
 *sways hips*[p]
 #Kimoto
-That's right, that's right![p]
-Oh, it's perfect![p]
-Foooo![p]
+That's right, that's right! Oh, it's perfect! Foooo![p]
 #Tabata
-Oh![p]
-Amazing!![p]
+Oh! Amazing!![p]
 #
-*Snap![p]
-* *Snap![p]
-* *Snap![p]
+*Snap! * *Snap! * *Snap![p]
 *[p]
 #Kaori
-Nn...[p]
-M-My nipples are visible...[p]
+Nn... M-My nipples are visible...[p]
 #Tabata
 Woooh![p]
 #
-*Snap![p]
-* *Snap![p]
-* *Snap![p]
+*Snap! * *Snap! * *Snap![p]
 *[p]
 #Kaori
-(Ah...[p]
-My body feels...[p]
-hot...[p]
-Haah♥...[p]
-)[p]
+(Ah... My body feels... hot... Haah♥...)[p]
 #
 ・・・・・・・・・[p]
 [_tb_end_text]
@@ -2073,25 +1551,19 @@ Haah♥...[p]
 #Nikuyama
 Hehehe, it seems you were quite excited being photographed in that erotic costume.[p]
 #Kaori
-I-I'm not...[p]
-excited...[p]
-Ahh♥...[p]
+I-I'm not... excited... Ahh♥...[p]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game193-2.jpg"  ]
 [tb_start_text mode=1 ]
 #Nikuyama
-Don't lie![p]
-Then why is your pussy so wet like this![p]
+Don't lie! Then why is your pussy so wet like this![p]
 #Kaori
 Unnh♥[p]
 #Nikuyama
-Geez, you're such an exhibitionist pervert.[p]
-I'm going to punish you thoroughly with my cock.[p]
-Be prepared.[p]
+Geez, you're such an exhibitionist pervert. I'm going to punish you thoroughly with my cock. Be prepared.[p]
 #Kaori
-Nn...[p]
-H-Hai...[p]
+Nn... H-Hai...[p]
 Haah♥[p]
 #
 ・・・・・・・・・[p]
@@ -2107,11 +1579,9 @@ Haah♥[p]
 #Nikuyama
 Well, let's exercise in the gymnasium today.[p]
 #Kaori
-Eh!?[p]
-Ah, I-I don't want to do that anymore...[p]
+Eh!? Ah, I-I don't want to do that anymore...[p]
 #Nikuyama
-No, as a sex slave, it's important to maintain your physique.[p]
-Hurry up and change into a leotard.[p]
+No, as a sex slave, it's important to maintain your physique. Hurry up and change into a leotard.[p]
 #Kaori
 Y-Yes...[p]
 #
@@ -2127,17 +1597,13 @@ Y-Yes...[p]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="いつもの放課後.mp3"  ]
 [tb_start_text mode=1 ]
 #Table tennis club member
-Ah, Mr.[p]
-Nikuyama!...[p]
-and Ms.[p]
-Kirishima...[p]
+Ah, Mr. Nikuyama!... and Ms. Kirishima...[p]
 #Nikuyama
 Today, I'll be using the corner again.[p]
 #Judo Club Member
 Oh, Osu![p]
 #Kaori
-S-Sorry.[p]
-Lately, I haven't been getting enough exercise...[p]
+S-Sorry. Lately, I haven't been getting enough exercise...[p]
 #Judo Club Member
 Oh no, please feel free to use it![p]
 #Nikuyama
@@ -2153,36 +1619,21 @@ Y-Yes...[p]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="マダムの口紅.mp3"  ]
 [tb_start_text mode=1 ]
 #Judo Club Member
-(Wow![p]
-As expected, Kirishima-sensei's body is amazing...![p]
-)[p]
+(Wow! As expected, Kirishima-sensei's body is amazing...!)[p]
 #Table tennis club member
-(That plump butt...[p]
-it's too erotic![p]
-And her breasts are bouncing...[p]
-)[p]
+(That plump butt... it's too erotic! And her breasts are bouncing...)[p]
 #Kaori
-*panting* (Ah...[p]
-everyone is watching me...[p]
-)[p]
+*panting* (Ah... everyone is watching me...)[p]
 #Nikuyama
-It's fine.[p]
-Why don't you raise your legs higher?[p]
+It's fine. Why don't you raise your legs higher?[p]
 #Kaori
 *moans*[p]
 #Basketball Club Member
-(Oh![p]
-Such a deep wedgie...![p]
-)[p]
+(Oh! Such a deep wedgie...!)[p]
 #Judo Club Member
-(This is definitely a full-on erotic swimsuit, right...?[p]
-But since Kirishima-sensei said it's a leotard, maybe this is normal in rhythmic gymnastics...[p]
-)[p]
+(This is definitely a full-on erotic swimsuit, right...? But since Kirishima-sensei said it's a leotard, maybe this is normal in rhythmic gymnastics...)[p]
 #Kaori
-(Ah...[p]
-with everyone's gaze...[p]
-my body...[p]
-Nn♥)[p]
+(Ah... with everyone's gaze... my body... Nn♥)[p]
 #Nikuyama
 Now, do the Y-balance there![p]
 #Kaori
@@ -2190,19 +1641,11 @@ Nn♥[p]
 #Boys
 Oooo!![p]
 #Kaori
-(Ah...[p]
-if I spread my crotch like this...[p]
-Nhaa♥)[p]
+(Ah... if I spread my crotch like this... Nhaa♥)[p]
 #Nikuyama
-Keep it up...[p]
-keep it up...[p]
-it's fine, hehehe.[p]
+Keep it up... keep it up... it's fine, hehehe.[p]
 #Kaori
-(Ah...[p]
-No...[p]
-My juices are dripping from down there...[p]
-I'm such a perverted slut...[p]
-Nnngggghhh♥)[p]
+(Ah... No... My juices are dripping from down there... I'm such a perverted slut... Nnngggghhh♥)[p]
 #
 ・・・・・・・・・[p]
 [_tb_end_text]
@@ -2219,15 +1662,12 @@ Shall we stop here for today, Kirishima-sensei?[p]
 #Kaori
 Y-Yes...[p]
 #Nikuyama
-Well then, shall we stretch in the equipment storage room as usual and go home?[p]
-Taking care of our bodies after exercise is important, you know.[p]
+Well then, shall we stretch in the equipment storage room as usual and go home? Taking care of our bodies after exercise is important, you know.[p]
 I'll make sure to loosen you up properly, hehehe.[p]
 #Kaori
-Yes...[p]
-Please...[p]
+Yes... Please...[p]
 #Nikuyama
-Well then, let's go.[p]
-You guys better keep practicing properly.[p]
+Well then, let's go. You guys better keep practicing properly.[p]
 #Judo Club Member
 Oh, Osu...![p]
 [_tb_end_text]
@@ -2240,36 +1680,19 @@ Oh, Osu...![p]
 #Kaori
 Suck♥*[p]
 #Nikuyama
-Hehehe, you're getting excited from being watched, aren't you?[p]
-Towards the end, your face completely turned into a perverted expression.[p]
+Hehehe, you're getting excited from being watched, aren't you? Towards the end, your face completely turned into a perverted expression.[p]
 #Kaori
-*Squish...[p]
-Suck...[p]
-Like that...[p]
-Nchu...[p]
+*Squish... Suck... Like that... Nchu...[p]
 ♥*[p]
 #Nikuyama
-You even made a stain in your crotch.[p]
-Did those guys notice too?[p]
-Hehehe.[p]
+You even made a stain in your crotch. Did those guys notice too? Hehehe.[p]
 #Kaori
-*Squish...[p]
-Suck...[p]
-N-No...[p]
-Ahh...[p]
-Lick...[p]
-Lick...[p]
+*Squish... Suck... N-No... Ahh... Lick... Lick...[p]
 ♥*[p]
 #Nikuyama
-They might suspect something about the stretching.[p]
-They might be eavesdropping on us even now.[p]
-If we take too long, someone might come in, hehehe.[p]
+They might suspect something about the stretching. They might be eavesdropping on us even now. If we take too long, someone might come in, hehehe.[p]
 #Kaori
-*Squish...[p]
-Suck...[p]
-Lick lick lick...[p]
-♥ Please...[p]
-come quickly...[p]
+*Squish... Suck... Lick lick lick... ♥ Please... come quickly...[p]
 *[p]
 #Nikuyama
 If you want to finish quickly, put some effort into sucking.[p]
@@ -2282,28 +1705,21 @@ Juppu♥ Chubba♥ Lero lero lero♥ Chuuu♥*[p]
 [bg  time="1000"  method="crossfade"  storage="game144-5.jpg"  ]
 [tb_start_text mode=1 ]
 #Nikuyama
-I...[p]
-I'm going to cum...[p]
+I... I'm going to cum...[p]
 #
 Dopu!![p]
 #Kaori
 Mmm...[p]
 *Gulp* ♥ *Kiss* *Gulp* ♥[p]
 #Nikuyama
-Ohh...[p]
-I can't take it anymore...[p]
+Ohh... I can't take it anymore...[p]
 #
 Bububu...[p]
 #Kaori
-*Chu...[p]
-Gokun♥...[p]
-Kuchu...[p]
-Amu♥...[p]
+*Chu... Gokun♥... Kuchu... Amu♥...[p]
 *[p]
 #Nikuyama
-Phew...[p]
-It feels refreshing.[p]
-Having a perverted female teacher suck me off in the equipment storage room is truly exceptional.[p]
+Phew... It feels refreshing. Having a perverted female teacher suck me off in the equipment storage room is truly exceptional.[p]
 #Kaori
 Ku...[p]
 #Nikuyama
@@ -2329,8 +1745,7 @@ Huh...?[p]
 #Nikuyama
 Instead, please stay at home tomorrow and don't go out.[p]
 #Kaori
-Ah...[p]
-Yes...[p]
+Ah... Yes...[p]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -2341,8 +1756,7 @@ Yes...[p]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="いつものカフェで待ち合わせ_2.mp3"  ]
 [tb_start_text mode=1 ]
 #Nikuyama
-Well, it's a holiday today...[p]
-I wonder what should we do?[p]
+Well, it's a holiday today... I wonder what should we do?[p]
 [_tb_end_text]
 
 [glink  color="black"  storage="play9.ks"  size="20"  text="香織を呼び出す"  width="140"  height="20"  y="360"  x="490"  target="*p5a"  ]
@@ -2360,12 +1774,9 @@ Alright, should I call Kaori?[p]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
 #Kaori
-Please don't call me on my day off.[p]
-I also have a personal life...[p]
+Please don't call me on my day off. I also have a personal life...[p]
 #Nikuyama
-Shut up.[p]
-A perverted woman like you doesn't have a personal life.[p]
-Hurry up and greet me while being completely naked.[p]
+Shut up. A perverted woman like you doesn't have a personal life. Hurry up and greet me while being completely naked.[p]
 #Kaori
 Ugh...[p]
 [_tb_end_text]
@@ -2373,17 +1784,13 @@ Ugh...[p]
 [chara_mod  name="桐嶋"  time="600"  cross="true"  storage="chara/1/game51.png"  ]
 [tb_start_text mode=1 ]
 #Kaori
-Th-Thank you for taking the time on a holiday...[p]
-Please guide me thoroughly with your penis all day...[p]
+Th-Thank you for taking the time on a holiday... Please guide me thoroughly with your penis all day...[p]
 #Nikuyama
-Today, I'm going to thoroughly train your dick until you can't stand anymore.[p]
-Be prepared, hehehe.[p]
+Today, I'm going to thoroughly train your dick until you can't stand anymore. Be prepared, hehehe.[p]
 #Kaori
-Ugh...[p]
-Yes...[p]
+Ugh... Yes...[p]
 #Nikuyama
-Alright, for now I'll rape you.[p]
-Come here![p]
+Alright, for now I'll rape you. Come here![p]
 #Kaori
 Kyaaah!?[p]
 #
@@ -2395,8 +1802,7 @@ Kyaaah!?[p]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="music54.mp3"  ]
 [tb_start_text mode=1 ]
 #
-*Slap![p]
-* *Slap![p]
+*Slap! * *Slap![p]
 *[p]
 #Kaori
 Ahh♥ Ahh♥ ...[p]
@@ -2404,8 +1810,7 @@ Ahh♥[p]
 #Nikuyama
 Hehehe, free delivery health service is the best from the morning.[p]
 #
-*Slap![p]
-* *Slap![p]
+*Slap! * *Slap![p]
 *[p]
 #Kaori
 Ahh♥ Unhahh...[p]
@@ -2414,29 +1819,21 @@ Nhihh♥[p]
 It's great to have a perverted female teacher like you as a pet, so I don't have to worry about sexual release.[p]
 Muhihihihi.[p]
 #Kaori
-Ahh♥...[p]
-No, stop...[p]
+Ahh♥... No, stop...[p]
 Ahii♥[p]
 #Nikuyama
 Hey, say something, you female pig.[p]
 Gyahaha[p]
 #Kaori
-Nngh...[p]
-It feels...[p]
-good...[p]
-Ahh...[p]
+Nngh... It feels... good... Ahh...[p]
 Ahh♥[p]
 #Nikuyama
-Liar![p]
-You're about to cum, so stop pretending and acting tough, damn it![p]
+Liar! You're about to cum, so stop pretending and acting tough, damn it![p]
 #
-*Slap![p]
-* *Slap![p]
-* *Slap![p]
+*Slap! * *Slap! * *Slap![p]
 *[p]
 #Kaori
-Ahh♥...[p]
-Ku...[p]
+Ahh♥... Ku...[p]
 Nnnnghhh♥[p]
 #
 ・・・・・・・・・[p]
@@ -2449,43 +1846,33 @@ Nnnnghhh♥[p]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="いつものカフェで待ち合わせ_2.mp3"  ]
 [tb_start_text mode=1 ]
 #Nikuyama
-Hey, clean properly.[p]
-If you slack off, there will be punishment.[p]
+Hey, clean properly. If you slack off, there will be punishment.[p]
 #Kaori
-I...[p]
-understand...[p]
+I... understand...[p]
 #Nikuyama
-What kind of response is that?[p]
-It should be Yes, Master.[p]
+What kind of response is that? It should be Yes, Master.[p]
 #
 *[p]
 #Kaori
-Ahn...[p]
-Y-Yes, Master...[p]
+Ahn... Y-Yes, Master...[p]
 #Nikuyama
-What's with that face?[p]
-Do you have a complaint?[p]
+What's with that face? Do you have a complaint?[p]
 #Kaori
 W-Why am I doing something like this...[p]
 #Nikuyama
-I'm using my day off to give a dirty girl some cock education.[p]
-It's only natural for her to show gratitude by doing some cleaning, right?[p]
+I'm using my day off to give a dirty girl some cock education. It's only natural for her to show gratitude by doing some cleaning, right?[p]
 #Kaori
 Ku...[p]
 #Nikuyama
-It's my job to teach arrogant female teachers like you the joy of serving a man.[p]
-This is also part of your education, understood?[p]
+It's my job to teach arrogant female teachers like you the joy of serving a man. This is also part of your education, understood?[p]
 #Kaori
-Ku...[p]
-What kind of education is this...[p]
+Ku... What kind of education is this...[p]
 #Nikuyama
 Don't talk back![p]
 #
 *[p]
 #Kaori
-Ahn...[p]
-Kuh...[p]
-I-I'm sorry, Master...[p]
+Ahn... Kuh... I-I'm sorry, Master...[p]
 #
 ・・・・・・・・・[p]
 [_tb_end_text]
@@ -2498,20 +1885,15 @@ I-I'm sorry, Master...[p]
 #Kaori
 I-I finished cleaning...[p]
 #Nikuyama
-Hmmm, it's become quite clean, hasn't it?[p]
-As expected, having women do the cleaning is the best.[p]
+Hmmm, it's become quite clean, hasn't it? As expected, having women do the cleaning is the best.[p]
 #Kaori
 ・・・・・・[p]
 #Nikuyama
-However, it's taking too much time.[p]
-You need to work more quickly if you want to become a proper slave.[p]
+However, it's taking too much time. You need to work more quickly if you want to become a proper slave.[p]
 #Kaori
-I...[p]
-I'm sorry...[p]
+I... I'm sorry...[p]
 #Nikuyama
-Well, fine.[p]
-As a reward for your labor, I'll give you my cock.[p]
-Show me your butt.[p]
+Well, fine. As a reward for your labor, I'll give you my cock. Show me your butt.[p]
 #Kaori
 Y-Yes...[p]
 #
@@ -2527,36 +1909,21 @@ Y-Yes...[p]
 #
 *[p]
 #Kaori
-Ahh...[p]
-Nnghh...[p]
-Haa...[p]
-Ahh...[p]
+Ahh... Nnghh... Haa... Ahh...[p]
 #Nikuyama
 Hey, since I'm raping you, don't just moan, show me a little resistance.[p]
 #
-*Slap![p]
-* *Slap![p]
-* *Slap![p]
+*Slap! * *Slap! * *Slap![p]
 *[p]
 #Kaori
-Kuh...[p]
-Nnn...[p]
-Noo...[p]
-Ahh...[p]
-Ahn...[p]
-Ahh...[p]
+Kuh... Nnn... Noo... Ahh... Ahn... Ahh...[p]
 #Nikuyama
 Hehehe, it seems that the best way to discipline a cheeky woman is with my cock.[p]
 #
-*Slap![p]
-* *Slap![p]
-* *Slap![p]
+*Slap! * *Slap! * *Slap![p]
 *[p]
 #Kaori
-Ahh...[p]
-Ahh...[p]
-Ahh...[p]
-Haa...[p]
+Ahh... Ahh... Ahh... Haa...[p]
 ♥[p]
 #Nikuyama
 I will teach your body thoroughly so that you can never defy my cock again in your future life, Guhahaha.[p]
@@ -2575,12 +1942,10 @@ I will teach your body thoroughly so that you can never defy my cock again in yo
 #Kaori
 Th-thank you very much for training me with your penis for a long time today...[p]
 #Nikuyama
-Hey, I'm tired from spending the whole day with a horny woman.[p]
-You can go home now, but be prepared because I'll train you at school again tomorrow.[p]
+Hey, I'm tired from spending the whole day with a horny woman. You can go home now, but be prepared because I'll train you at school again tomorrow.[p]
 Be ready for it.[p]
 #Kaori
-Yes...[p]
-Thank you for your hard work...[p]
+Yes... Thank you for your hard work...[p]
 #
 ・・・・・・・・・[p]
 [_tb_end_text]
@@ -2602,8 +1967,7 @@ Let's go to Kaori's house.[p]
 #Kaori
 Please don't come to my house on my day off...[p]
 #Nikuyama
-It's your day off, but you are under my control.[p]
-I don't know what you'll do if I let a horny woman like you roam freely.[p]
+It's your day off, but you are under my control. I don't know what you'll do if I let a horny woman like you roam freely.[p]
 #Kaori
 No way...[p]
 #Nikuyama
@@ -2611,11 +1975,9 @@ Hey, don't space out.[p]
 #Kaori
 Huh...?[p]
 #Nikuyama
-The training has already begun.[p]
-Hurry up and take off all your clothes and greet me.[p]
+The training has already begun. Hurry up and take off all your clothes and greet me.[p]
 #Kaori
-Ugh...[p]
-Yes...[p]
+Ugh... Yes...[p]
 [_tb_end_text]
 
 [mask  time="300"  effect="fadeIn"  color="0x000000"  ]
@@ -2623,9 +1985,7 @@ Yes...[p]
 [mask_off  time="300"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
 #Kaori
-W-Welcome...[p]
-Thank you for coming all the way here on my day off...[p]
-I apologize for the inconvenience...[p]
+W-Welcome... Thank you for coming all the way here on my day off... I apologize for the inconvenience...[p]
 Please spend the whole day training and disciplining the naughty side of me...[p]
 #Nikuyama
 Alright, for now, I'll give you a good spanking, so show me your butt.[p]
@@ -2642,37 +2002,24 @@ Kyaa!?[p]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Indomitable.mp3"  ]
 [tb_start_text mode=1 ]
 #
-*Spank![p]
-* *Spank![p]
+*Spank! * *Spank![p]
 *[p]
 #Kaori
-Ahh...[p]
-Ahh...[p]
-Please don't be rough...[p]
-Ahh...[p]
+Ahh... Ahh... Please don't be rough... Ahh...[p]
 #Nikuyama
-Shut up.[p]
-I'll discipline this insolent girl with rape, ora![p]
+Shut up. I'll discipline this insolent girl with rape, ora![p]
 #
-*Spank![p]
-* *Spank![p]
+*Spank! * *Spank![p]
 *[p]
 #Kaori
-Ahh...[p]
-Haa...[p]
-Ahn...[p]
-Aaahhh...[p]
+Ahh... Haa... Ahn... Aaahhh...[p]
 #Nikuyama
-You're moaning with sweet voices while being raped...[p]
-Aren't you ashamed as a teacher, ora![p]
+You're moaning with sweet voices while being raped... Aren't you ashamed as a teacher, ora![p]
 #
-*Spank![p]
-* *Spank![p]
-* *Spank![p]
+*Spank! * *Spank! * *Spank![p]
 *[p]
 #Kaori
-K...[p]
-Nn♥...[p]
+K... Nn♥...[p]
 Ahiiii♥[p]
 #
 ・・・・・・・・・[p]
@@ -2686,14 +2033,11 @@ Ahiiii♥[p]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="いつものカフェで待ち合わせ_2.mp3"  ]
 [tb_start_text mode=1 ]
 #Nikuyama
-Ahh, I'm hungry.[p]
-Is the food not ready yet?[p]
+Ahh, I'm hungry. Is the food not ready yet?[p]
 #Kaori
-I-I'm cooking right now...[p]
-Please wait a little longer.[p]
+I-I'm cooking right now... Please wait a little longer.[p]
 #Nikuyama
-Don't be so slow.[p]
-I'm hungry and I'm going to discipline you with rape.[p]
+Don't be so slow. I'm hungry and I'm going to discipline you with rape.[p]
 #Kaori
 W-Why am I doing something like this...[p]
 #Nikuyama
@@ -2701,11 +2045,9 @@ What, do you have a complaint?[p]
 #Kaori
 N-No...[p]
 #Nikuyama
-Hurry up and make it.[p]
-But if the taste is bad, I'll punish you.[p]
+Hurry up and make it. But if the taste is bad, I'll punish you.[p]
 #Kaori
-K...[p]
-Yes...[p]
+K... Yes...[p]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -2715,42 +2057,28 @@ Yes...[p]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="マダムの口紅.mp3"  ]
 [tb_start_text mode=1 ]
 #Nikuyama
-*Munch munch*...[p]
-Hm, this is pretty tasty, isn't it?[p]
+*Munch munch*... Hm, this is pretty tasty, isn't it?[p]
 #Kaori
 *Sucking sounds*...[p]
 Mmm[p]
 #Nikuyama
 It tastes even better when you suck my dick while eating, hehehe.[p]
 #Kaori
-*Munch*...[p]
-*Lick*...[p]
-*Suck*...[p]
+*Munch*... *Lick*... *Suck*...[p]
 #Nikuyama
-*Munch munch munch*...[p]
-Both cooking and fellatio are about the feeling.[p]
-The desire to please the other person.[p]
+*Munch munch munch*... Both cooking and fellatio are about the feeling. The desire to please the other person.[p]
 Do you understand?[p]
 #Kaori
-*Mmm...[p]
-*Suck*...[p]
-*Lick*...[p]
-Yes...[p]
+*Mmm... *Suck*... *Lick*... Yes...[p]
 #Nikuyama
-Being fucked with a dick and serving men is a woman's happiness.[p]
-*Munch munch*...[p]
-Today, you must be the happiest, right?[p]
+Being fucked with a dick and serving men is a woman's happiness. *Munch munch*... Today, you must be the happiest, right?[p]
 #Kaori
-*Suck*...[p]
-Th-There's no way I could be happy...[p]
-*Lick*...[p]
+*Suck*... Th-There's no way I could be happy... *Lick*...[p]
 *Suck* ♥[p]
 #Nikuyama
-Hehehe, you're such a disobedient one.[p]
-Good, good, once you finish eating, I'll take care of you with my cock again, munch munch munch.[p]
+Hehehe, you're such a disobedient one. Good, good, once you finish eating, I'll take care of you with my cock again, munch munch munch.[p]
 #Kaori
-K...[p]
-*Suck*...[p]
+K... *Suck*...[p]
 *Suck* ♥[p]
 #
 ・・・・・・・・・[p]
@@ -2764,34 +2092,24 @@ K...[p]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="music54.mp3"  ]
 [tb_start_text mode=1 ]
 #
-*Sucking sounds*...[p]
-*Slurp*...[p]
+*Sucking sounds*... *Slurp*...[p]
 #Kaori
-Nn...[p]
-Haa ♥...[p]
+Nn... Haa ♥...[p]
 Fuu[p]
 #Nikuyama
-Come on, move your hips properly.[p]
-Shake that big butt up and down.[p]
+Come on, move your hips properly. Shake that big butt up and down.[p]
 #Kaori
-Kuh...[p]
-Yes...[p]
-Ahh...[p]
-Unh...[p]
+Kuh... Yes... Ahh... Unh...[p]
 Haahh ♥[p]
 #
 *Slurp*[p]
 #Nikuyama
-Don't just pleasure yourself, you female pig.[p]
-Pretend you're a sex toy and jerk off my cock.[p]
+Don't just pleasure yourself, you female pig. Pretend you're a sex toy and jerk off my cock.[p]
 #Kaori
-Kuh...[p]
-Nn...[p]
-Yes...[p]
+Kuh... Nn... Yes...[p]
 Ahh ♥ Ahfu ♥[p]
 #
-*Sucking sounds*...[p]
-*Slurp*...[p]
+*Sucking sounds*... *Slurp*...[p]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -2802,28 +2120,19 @@ Ahh ♥ Ahfu ♥[p]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Radio.mp3"  ]
 [tb_start_text mode=1 ]
 #Kaori
-T-today...[p]
-Thank you for guiding me with your...[p]
-penis for such a long time...[p]
+T-today... Thank you for guiding me with your... penis for such a long time...[p]
 #Nikuyama
 Hmmm, is that all?[p]
 #Kaori
-Th-thank you for making the lewd me...[p]
-cum multiple times with your...[p]
-penis...[p]
-raping me...[p]
-and filling me up with your cum...[p]
+Th-thank you for making the lewd me... cum multiple times with your... penis... raping me... and filling me up with your cum...[p]
 #Nikuyama
-Well, I guess it's fine.[p]
-Don't forget what you've been pounded into today.[p]
+Well, I guess it's fine. Don't forget what you've been pounded into today.[p]
 #Kaori
 Y-Yes...[p]
 #Nikuyama
-Alright, then I'm going home now.[p]
-Be prepared, because starting tomorrow, I'll thoroughly train you at school.[p]
+Alright, then I'm going home now. Be prepared, because starting tomorrow, I'll thoroughly train you at school.[p]
 #Kaori
-Yes...[p]
-Th-thank you for your hard work...[p]
+Yes... Th-thank you for your hard work...[p]
 #
 ・・・・・・・・・[p]
 [_tb_end_text]

@@ -298,11 +298,9 @@ I wonder how many questions I got right~?[p]
 #Pinko
 Unfortunately, I didn't get all the questions right.[p]
 #Tonko
-It's an average score.[p]
-It's ordinary.[p]
+It's an average score. It's ordinary.[p]
 #Pinko
-Stop it.[p]
-The questions are quite obscure, so there's no helping it.[p]
+Stop it. The questions are quite obscure, so there's no helping it.[p]
 #Tonko
 Well, it's not a quiz that you can brag about even if you get a high score.[p]
 #Pinko
@@ -316,15 +314,13 @@ If you say something like that, it's pointless![p]
 #Pinko
 ・・・・・・[p]
 #Tonko
-...[p]
-Hey.[p]
+... Hey.[p]
 #Pinko
 Zero points...[p]
 #Tonko
 My memory is like a chicken...[p]
 #Pinko
-Getting zero points on a multiple-choice quiz...[p]
-It's actually quite difficult.[p]
+Getting zero points on a multiple-choice quiz... It's actually quite difficult.[p]
 #Tonko
 Seriously, cut it out.[p]
 #Pinko
@@ -352,8 +348,7 @@ Stop it![p]
 
 [tb_start_text mode=1 ]
 #Pinko
-Amazing![p]
-I got 9 questions correct![p]
+Amazing! I got 9 questions correct![p]
 #Tonko
 You did it![p]
 #Pinko
@@ -369,15 +364,13 @@ I'm not so sure about that...[p]
 
 [tb_start_text mode=1 ]
 #Pinko
-Amazing![p]
-I got all the questions correct![p]
+Amazing! I got all the questions correct![p]
 #Tonko
 Congratulations~~ Hyu~~ Hyu~~[p]
 #Pinko
 Well, even though I got all the questions correct, there's no reward or anything.[p]
 #Tonko
-Isn't it creepy that someone got all the questions right on their first try?[p]
-It's actually kind of gross, isn't it?[p]
+Isn't it creepy that someone got all the questions right on their first try? It's actually kind of gross, isn't it?[p]
 #Pinko
 You don't have to say it like that...[p]
 [_tb_end_text]

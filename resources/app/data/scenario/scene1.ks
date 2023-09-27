@@ -6,8 +6,7 @@
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
 #Guide
-Hello, this is a new project.[p]
-Please drag and drop to add elements.[p]
+Hello, this is a new project. Please drag and drop to add elements.[p]
 [_tb_end_text]
 
 [chara_mod  name="桐嶋"  time="10"  cross="true"  storage="chara/1/game12-c.png"  ]
@@ -21,9 +20,7 @@ Well then, I'll start moving.[p]
 [chara_show  name="桐嶋"  time="1000"  wait="true"  storage="chara/1/game11-c.png"  width="278"  height="633"  left="352"  top="12"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #Kirishima
-I have moved.[p]
-How does it look?[p]
-Next, we will go to their house.[p]
+I have moved. How does it look? Next, we will go to their house.[p]
 [_tb_end_text]
 
 [chara_hide  name="桐嶋"  time="1000"  wait="true"  pos_mode="true"  ]
@@ -31,8 +28,7 @@ Next, we will go to their house.[p]
 [chara_show  name="桐嶋"  time="1000"  wait="true"  storage="chara/1/game12.png"  width="328"  height="771"  left="438"  top="33"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #Kirishima
-This is their house, it's so dirty...[p]
-Let's clean it up.[p]
+This is their house, it's so dirty... Let's clean it up.[p]
 [_tb_end_text]
 
 [chara_hide  name="桐嶋"  time="50"  wait="false"  pos_mode="false"  ]
@@ -40,8 +36,7 @@ Let's clean it up.[p]
 [bg  time="1000"  method="crossfade"  storage="game102.jpg"  ]
 [tb_start_text mode=1 ]
 #Kirishima
-Phew...[p]
-It's become clean now.[p]
+Phew... It's become clean now.[p]
 [_tb_end_text]
 
 [chara_mod  name="桐嶋"  time="600"  cross="true"  storage="chara/1/game22-c.png"  ]

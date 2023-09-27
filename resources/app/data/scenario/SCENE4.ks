@@ -4,12 +4,8 @@
 [bg  time="0"  method="crossfade"  storage="game101.jpg"  ]
 [tb_start_text mode=1 ]
 #
-Let's try buying it.[p]
-Even if we throw away 30,000 yen, it's not that big of a deal.[p]
-Maybe it's not even real, but I'll keep worrying about it.[p]
-It's annoying.[p]
-Well, it's just like buying a lottery ticket.[p]
-It's a waste, but let's buy it with the intention of buying a dream![p]
+Let's try buying it. Even if we throw away 30,000 yen, it's not that big of a deal. Maybe it's not even real, but I'll keep worrying about it.[p]
+It's annoying. Well, it's just like buying a lottery ticket. It's a waste, but let's buy it with the intention of buying a dream![p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -28,27 +24,18 @@ I went ahead and bought it, psycho SX.[p]
 
 [tb_image_show  time="1000"  storage="default/game200.png"  width="297"  height="264"  x="508"  y="242"  _clickable_img=""  name="img_13"  ]
 [tb_start_text mode=1 ]
-Yesterday, it arrived at my house and I brought it over right away.[p]
-It's not like those gun-shaped ones you often see in AV, it's card-shaped.[p]
-I saw the image on the sales site, but when I actually held it in my hand, it was quite small.[p]
-Smaller than a business card, you can easily hide it in one hand.[p]
+Yesterday, it arrived at my house and I brought it over right away. It's not like those gun-shaped ones you often see in AV, it's card-shaped.[p]
+I saw the image on the sales site, but when I actually held it in my hand, it was quite small. Smaller than a business card, you can easily hide it in one hand.[p]
 I read the instruction manual last night, but it was filled with specialized terms and it took quite a long time to understand (or to be honest, I didn't really understand).[p]
-Anyway, the usage is simple.[p]
-When you press the button, it emits a sound wave that is inaudible to human ears.[p]
-People within its range will become more susceptible to believing lies, or so it seems.[p]
-However, it doesn't work on people who are aware of brainwashing.[p]
+Anyway, the usage is simple. When you press the button, it emits a sound wave that is inaudible to human ears.[p]
+People within its range will become more susceptible to believing lies, or so it seems. However, it doesn't work on people who are aware of brainwashing.[p]
 In other words, if someone realizes that you're trying to brainwash them, everything will fall apart.[p]
-Of course, the user themselves is not affected by hypnosis.[p]
-The important thing is that this is not a brainwashing device, but rather a brainwashing aid.[p]
+Of course, the user themselves is not affected by hypnosis. The important thing is that this is not a brainwashing device, but rather a brainwashing aid.[p]
 It seems that you can't control others like in hypnosis, such as suddenly making them take off their clothes or manipulating their feelings to make them like you...[p]
-Well, there's no such good deal for just 30,000 yen.[p]
-To manipulate people using this, you have to gradually make them believe small lies and guide them to do what you want.[p]
-It's a bit troublesome, but on the other hand, it has a sense of reality and can give you hope.[p]
-Hypnosis sounds suspicious and brainwashing is quite a real example that we hear about.[p]
-However, there's one sentence in the instruction manual that bothers me...[p]
-Individual results may vary...[p]
-This one sentence makes it instantly suspicious.[p]
-Well, whatever, I have no choice but to try it out.[p]
+Well, there's no such good deal for just 30,000 yen. To manipulate people using this, you have to gradually make them believe small lies and guide them to do what you want.[p]
+It's a bit troublesome, but on the other hand, it has a sense of reality and can give you hope. Hypnosis sounds suspicious and brainwashing is quite a real example that we hear about.[p]
+However, there's one sentence in the instruction manual that bothers me... Individual results may vary...[p]
+This one sentence makes it instantly suspicious. Well, whatever, I have no choice but to try it out.[p]
 Let's call one female student to this room and try using the device.[p]
 
 [_tb_end_text]
@@ -70,12 +57,9 @@ Now, who should I call?[p]
 
 [jump  storage="SCENE4.ks"  target="*ch11ab"  cond="f.qq1==1"  ]
 [tb_start_text mode=1 ]
-Michiru Hayase, a second-year student.[p]
-They are in the track and field club and excel in jumping events.[p]
-They have a short haircut that suits them well and have a refreshing personality.[p]
-They are the type of person with whom you can easily have a casual conversation regardless of gender.[p]
-Their breasts are small, but their trained butt and legs look delicious.[p]
-They have been on my radar for a while now.[p]
+Michiru Hayase, a second-year student. They are in the track and field club and excel in jumping events.[p]
+They have a short haircut that suits them well and have a refreshing personality. They are the type of person with whom you can easily have a casual conversation regardless of gender.[p]
+Their breasts are small, but their trained butt and legs look delicious. They have been on my radar for a while now.[p]
 *Knock knock*[p]
 #Hayase
 Excuse me.[p]
@@ -91,8 +75,7 @@ Oh, you're here.[p]
 #Hayase
 Um, what is this about?[p]
 #Nikuyama
-I heard that the track and field competition is coming up.[p]
-You must be tired from practicing every day.[p]
+I heard that the track and field competition is coming up. You must be tired from practicing every day.[p]
 #Hayase
 Well, um...[p]
 #Nikuyama
@@ -110,13 +93,10 @@ How is it...!?[p]
 When it comes to massages, I always have them done by the teacher that Coach Tagami introduced me to.[p]
 Did Coach really say something like that?[p]
 #Nikuyama
-W-Well, you see, professionals cost money and it would be convenient to have it done at school...[p]
-Anyway, just try it once.[p]
+W-Well, you see, professionals cost money and it would be convenient to have it done at school... Anyway, just try it once.[p]
 Come over here.[p]
 #Hayase
-No![p]
-I'm fine![p]
-Excuse me![p]
+No! I'm fine! Excuse me![p]
 #
 [_tb_end_text]
 
@@ -125,10 +105,7 @@ Excuse me![p]
 #Nikuyama
 Oh, wait![p]
 #
-....[p]
-Damn it, I'm not trusted at all![p]
-Did I rush the conversation too much?[p]
-Or maybe Hayase was just naturally resistant to brainwashing...[p]
+.... Damn it, I'm not trusted at all! Did I rush the conversation too much? Or maybe Hayase was just naturally resistant to brainwashing...[p]
 Anyway, it seems like Hayase is a lost cause, damn it...[p]
 
 [_tb_end_text]
@@ -148,13 +125,11 @@ Hayase has already chosen someone else to try.[p]
 [jump  storage="SCENE4.ks"  target="*ch11bb"  cond="f.qq2==1"  ]
 [tb_start_text mode=1 ]
 #
-Alright, let's try Ayame Fujino.[p]
-She's a good-looking girl from a good family, and most importantly, she has big breasts.[p]
+Alright, let's try Ayame Fujino. She's a good-looking girl from a good family, and most importantly, she has big breasts.[p]
 She's probably the most popular among male students in the school.[p]
 *knock knock*[p]
 #Fujino
-Um...[p]
-Excuse me.[p]
+Um... Excuse me.[p]
 #Nikuyama
 Oh, come in.[p]
 #
@@ -165,11 +140,9 @@ Oh, come in.[p]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="捜査会議.mp3"  ]
 [tb_start_text mode=1 ]
 #Fujino
-Um...[p]
-Why was I called here?[p]
+Um... Why was I called here?[p]
 #Nikuyama
-What?[p]
-I've been giving individual guidance to students with poor physical education grades, and this time it's your turn.[p]
+What? I've been giving individual guidance to students with poor physical education grades, and this time it's your turn.[p]
 #
 Switch on![p]
 
@@ -184,21 +157,14 @@ How about it...?[p]
 #Fujino
 Individual guidance...?[p]
 #Nikuyama
-That's right.[p]
-It's something I'm doing for everyone.[p]
+That's right. It's something I'm doing for everyone.[p]
 #Fujino
-I've never heard of such a thing...[p]
-And why is it not Ms.[p]
-Kizaki, who is in charge of the girls, but Mr.[p]
+I've never heard of such a thing... And why is it not Ms. Kizaki, who is in charge of the girls, but Mr.[p]
 Nikuyama...?[p]
 #Nikuyama
-W-well, it's because Ms.[p]
-Kizaki is also busy as the club advisor, so I ended up doing it.[p]
-Anyway, please change into your gym clothes and come.[p]
+W-well, it's because Ms. Kizaki is also busy as the club advisor, so I ended up doing it. Anyway, please change into your gym clothes and come.[p]
 #Fujino
-U-um, I'll go ask Ms.[p]
-Kizaki if this is true![p]
-S-sorry for the intrusion![p]
+U-um, I'll go ask Ms. Kizaki if this is true! S-sorry for the intrusion![p]
 #
 [_tb_end_text]
 
@@ -207,13 +173,8 @@ S-sorry for the intrusion![p]
 #Nikuyama
 H-Hey, wait![p]
 #
-Damn it![p]
-They left![p]
-What did I do wrong?[p]
-Was my story not believable enough...?[p]
-Or maybe Fujino is just resistant to brainwashing...[p]
-Damn it...[p]
-Anyway, I'll give up on Fujino.[p]
+Damn it! They left! What did I do wrong? Was my story not believable enough...? Or maybe Fujino is just resistant to brainwashing...[p]
+Damn it... Anyway, I'll give up on Fujino.[p]
 [_tb_end_text]
 
 [tb_eval  exp="f.qq2=1"  name="qq2"  cmd="="  op="t"  val="1"  val_2="undefined"  ]
@@ -231,10 +192,8 @@ Fujino has already tried it, so let's try someone else.[p]
 [jump  storage="SCENE4.ks"  target="*ch11cb"  cond="f.qq3==1"  ]
 [tb_start_text mode=1 ]
 #
-Redai Noa, a third-year student.[p]
-She's a gal-type girl with poor grades and attitude, but she has a pretty sexy body.[p]
-She's not very smart and doesn't usually think about anything.[p]
-I wonder if it would be easy to brainwash her?...[p]
+Redai Noa, a third-year student. She's a gal-type girl with poor grades and attitude, but she has a pretty sexy body.[p]
+She's not very smart and doesn't usually think about anything. I wonder if it would be easy to brainwash her?...[p]
 Gacha.[p]
 [_tb_end_text]
 
@@ -245,8 +204,7 @@ Gacha.[p]
 #Akai
 Hey, what do you want?[p]
 #Nikuyama
-Oh, you're here.[p]
-Actually, it seems that the body measurement records that were submitted to the city have been lost, and they told me to re-measure yours.[p]
+Oh, you're here. Actually, it seems that the body measurement records that were submitted to the city have been lost, and they told me to re-measure yours.[p]
 #
 Alright, switch on![p]
 [_tb_end_text]
@@ -257,18 +215,12 @@ Alright, switch on![p]
 #
 How about this...?[p]
 #Akai
-Why is it only mine?[p]
-And why is it Mr.[p]
-Nikuyama?[p]
-Isn't he the regular health teacher?[p]
-If we're going to measure, shouldn't it be done in the health room...[p]
+Why is it only mine? And why is it Mr. Nikuyama? Isn't he the regular health teacher? If we're going to measure, shouldn't it be done in the health room...[p]
 Doesn't it seem suspicious?[p]
 #Nikuyama
 W-Well, there are various circumstances, but anyway, let's start by measuring your bust size, so please take off your top.[p]
 #Akai
-Hey![p]
-This is sexual harassment![p]
-Someone help me![p]
+Hey! This is sexual harassment! Someone help me![p]
 #
 [_tb_end_text]
 
@@ -277,12 +229,8 @@ Someone help me![p]
 #Nikuyama
 O-Oh, wait a minute![p]
 #
-Damn it![p]
-They escaped![p]
-This machine doesn't seem to be working at all.[p]
-Was it too sloppy with the lies?[p]
-Or maybe Akai is just resistant to brainwashing...[p]
-Anyway, let's give up on Akai for now.[p]
+Damn it! They escaped! This machine doesn't seem to be working at all. Was it too sloppy with the lies?[p]
+Or maybe Akai is just resistant to brainwashing... Anyway, let's give up on Akai for now.[p]
 [_tb_end_text]
 
 [tb_eval  exp="f.qq3=1"  name="qq3"  cmd="="  op="t"  val="1"  val_2="undefined"  ]
@@ -318,14 +266,10 @@ Today, I will continue to try brainwashing and finally make it a success.[p]
 
 [tb_start_text mode=1 ]
 #
-Damn it, it's not going well at all![p]
-Is my approach wrong?[p]
-Or maybe this brainwashing device is just a complete lie...!?[p]
-Is it impossible in reality to brainwash and control women freely...?[p]
-Knock, knock.[p]
+Damn it, it's not going well at all! Is my approach wrong? Or maybe this brainwashing device is just a complete lie...!?[p]
+Is it impossible in reality to brainwash and control women freely...? Knock, knock.[p]
 #Kirishima
-Is Mr.[p]
-Nikuyama here?[p]
+Is Mr. Nikuyama here?[p]
 #
 *Sound effect: Click*[p]
 [_tb_end_text]
@@ -335,12 +279,9 @@ Nikuyama here?[p]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Grease_Slide_Trap.mp3"  ]
 [tb_start_text mode=1 ]
 #Nikuyama
-What's this?[p]
-You suddenly came in...[p]
-Could it be that you're asking me out on a date?[p]
+What's this? You suddenly came in... Could it be that you're asking me out on a date?[p]
 #Kirishima
-Please stop joking around.[p]
-I have received multiple students' consultations about being sexually harassed by Mr.[p]
+Please stop joking around. I have received multiple students' consultations about being sexually harassed by Mr.[p]
 Nikuyama.[p]
 #Nikuyama
 Ngh...!?[p]
@@ -348,20 +289,13 @@ Ngh...!?[p]
 I was thinking of reporting this to the principal right away, but I came here to hear your side of the story because I believe it would be unfair to accuse you based on one person's testimony.[p]
 Do you have any explanation?[p]
 #
-Damn it...[p]
-If those three who were brainwashed snitched, it would be bad if it gets reported to the principal...[p]
+Damn it... If those three who were brainwashed snitched, it would be bad if it gets reported to the principal...[p]
 #Nikuyama
-No, I was just giving regular guidance...[p]
-Accusing me of sexual harassment is just a fabrication![p]
-Are you going to believe what a child says?[p]
+No, I was just giving regular guidance... Accusing me of sexual harassment is just a fabrication! Are you going to believe what a child says?[p]
 #Kirishima
-Of course, I believe what the students are saying.[p]
-Considering your usual behavior, it's not surprising that such reports have come out.[p]
+Of course, I believe what the students are saying. Considering your usual behavior, it's not surprising that such reports have come out.[p]
 #
-This is bad, if things continue like this, I'll get fired...![p]
-Damn it...![p]
-What should I do...[p]
-I know...[p]
+This is bad, if things continue like this, I'll get fired...! Damn it...! What should I do... I know...[p]
 I'll take a gamble on this![p]
 
 
@@ -383,41 +317,28 @@ What kind of lie are you going to tell?[p]
 #Nikuyama
 W-Well, it's acceptable for a physical education teacher to engage in some sexual harassment![p]
 #Kirishima
-Huh...?[p]
-What are you saying...?[p]
+Huh...? What are you saying...?[p]
 #Nikuyama
 Well, you see, due to the nature of being a physical education teacher, it is necessary to have contact with students.[p]
 Did you not know that there are certain regulations that allow for contact with students?[p]
 #
-Damn it, this kind of lie is too unrealistic![p]
-There's no way it would work...[p]
+Damn it, this kind of lie is too unrealistic! There's no way it would work...[p]
 #Kirishima
-...[p]
-I-I know about that![p]
+... I-I know about that![p]
 #Nikuyama
 ！？[p]
 #Kirishima
-I know that physical education teachers have privileges.[p]
-It's common sense.[p]
+I know that physical education teachers have privileges. It's common sense.[p]
 #
-What...[p]
-What does this mean...?[p]
-Could it be...[p]
-Has the brainwashing been successful?[p]
+What... What does this mean...? Could it be... Has the brainwashing been successful?[p]
 #Nikuyama
-Y-Yes, that's right.[p]
-The actions this time are within that range, so you have no right to criticize me.[p]
+Y-Yes, that's right. The actions this time are within that range, so you have no right to criticize me.[p]
 #Kirishima
-I-I see...[p]
-But if there are complaints from the students, doesn't that mean there were more than just those actions?[p]
+I-I see... But if there are complaints from the students, doesn't that mean there were more than just those actions?[p]
 #Nikuyama
-It's just a difference in perception.[p]
-Nowadays, kids overreact to everything, so it's not like you, Kirishima-sensei, to take everything so seriously.[p]
+It's just a difference in perception. Nowadays, kids overreact to everything, so it's not like you, Kirishima-sensei, to take everything so seriously.[p]
 #Kirishima
-Y-Yes...[p]
-That's right.[p]
-I may have been a bit careless, but it's my duty to protect the students.[p]
-So if there are any more complaints, I will come and listen to them.[p]
+Y-Yes... That's right. I may have been a bit careless, but it's my duty to protect the students. So if there are any more complaints, I will come and listen to them.[p]
 #
 [_tb_end_text]
 
@@ -429,46 +350,33 @@ So if there are any more complaints, I will come and listen to them.[p]
 #Nikuyama
 R-Re-Re-Re-Re-Re-Re-Reporting to the principal without any evidence is illegal, you know![p]
 #Kirishima
-Huh...?[p]
-What are you talking about...?[p]
+Huh...? What are you talking about...?[p]
 #Nikuyama
 Reporting to the boss based on one-sided testimony from students without any evidence is not a good thing.[p]
-The students might be trying to falsely accuse me because they dislike me.[p]
-Reporting that directly to the boss would be considered defamation, you know![p]
+The students might be trying to falsely accuse me because they dislike me. Reporting that directly to the boss would be considered defamation, you know![p]
 #
-Damn it, this is too much![p]
-What the hell is an insult crime?[p]
-There's no way something like this would work...[p]
+Damn it, this is too much! What the hell is an insult crime? There's no way something like this would work...[p]
 
 [_tb_end_text]
 
 [chara_mod  name="桐嶋"  time="600"  cross="false"  storage="chara/1/game80-3.png"  ]
 [tb_start_text mode=1 ]
 #Kirishima
-Th-That is...[p]
-certainly...[p]
+Th-That is... certainly...[p]
 #
 Huh!?[p]
 #Kirishima
 But it's true that you sexually harassed, right?[p]
 #Nikuyama
-I didn't do it, you know.[p]
-Do you have any evidence?[p]
-Do you have any evidence?[p]
+I didn't do it, you know. Do you have any evidence? Do you have any evidence?[p]
 #Kirishima
-Ugh...![p]
-If only there was evidence, I could report it...[p]
+Ugh...! If only there was evidence, I could report it...[p]
 #
-This person...[p]
-They're believing my nonsense lies![p]
-Could it be...[p]
-have they been successfully brainwashed...!?[p]
+This person... They're believing my nonsense lies! Could it be... have they been successfully brainwashed...!?[p]
 #Nikuyama
-W-Without evidence, I am innocent.[p]
-Please take your leave.[p]
+W-Without evidence, I am innocent. Please take your leave.[p]
 #Kirishima
-Ugh...[p]
-I may have narrowly escaped this time, but someday I will definitely gather evidence of sexual harassment and show it to everyone![p]
+Ugh... I may have narrowly escaped this time, but someday I will definitely gather evidence of sexual harassment and show it to everyone![p]
 #
 [_tb_end_text]
 
@@ -477,18 +385,12 @@ I may have narrowly escaped this time, but someday I will definitely gather evid
 
 [tb_start_text mode=1 ]
 #
-Past Translated Text: I'm saved...[p]
-I never thought such a makeshift lie would work.[p]
-This is truly a successful brainwashing, isn't it?[p]
+Past Translated Text: I'm saved... I never thought such a makeshift lie would work. This is truly a successful brainwashing, isn't it?[p]
 But why did it have such a clear effect on Kirishima, while it didn't work at all on the female students?[p]
-Could it be that Kaori Kirishima is naturally susceptible to brainwashing?...[p]
-If that's the case...[p]
-this is getting interesting.[p]
+Could it be that Kaori Kirishima is naturally susceptible to brainwashing?... If that's the case... this is getting interesting.[p]
 I bought the Psycho-SX to do erotic things with the female students, but now I'll change the target to the female teacher, Kaori Kirishima![p]
-I'll slowly but surely brainwash that arrogant intellectual woman...[p]
-and make her my obedient sexual slave![p]
-Guhahaha, I can't help but get excited just imagining her plump body...[p]
-Be prepared, Kirishima...[p]
+I'll slowly but surely brainwash that arrogant intellectual woman... and make her my obedient sexual slave![p]
+Guhahaha, I can't help but get excited just imagining her plump body... Be prepared, Kirishima...[p]
 [_tb_end_text]
 
 [tb_eval  exp="f.qq1=0"  name="qq1"  cmd="="  op="t"  val="0"  val_2="undefined"  ]

@@ -15,9 +15,7 @@ Well, how should we attack...?[p]
 #Nikuyama
 The other day, the vice principal warned us about our bad relationship, didn't they?[p]
 #Kirishima
-...?[p]
-Well, they did say that, but...[p]
-what's your point?[p]
+...? Well, they did say that, but... what's your point?[p]
 #
 Turn on the switch here...[p]
 [_tb_end_text]
@@ -28,9 +26,7 @@ Turn on the switch here...[p]
 #Nikuyama
 I also reflected on the fact that it is not good for students to see teachers quarreling with each other from an educational standpoint.[p]
 #Kirishima
-...[p]
-That's certainly...[p]
-true.[p]
+... That's certainly... true.[p]
 #
 Alright, I convinced them![p]
 #Nikuyama
@@ -50,17 +46,13 @@ Huh, w-why?[p]
 #Kirishima
 I can't have a normal relationship with a man who only sees women like you as sexual objects.[p]
 #Nikuyama
-Wha...[p]
-That's not...![p]
+Wha... That's not...![p]
 #Kirishima
-I understand.[p]
-I will never let my guard down around men like you who believe that women should naturally be subservient to men and have outdated views.[p]
+I understand. I will never let my guard down around men like you who believe that women should naturally be subservient to men and have outdated views.[p]
 #Nikuyama
-Hey, stop making assumptions![p]
-I'm trying to be considerate here...[p]
+Hey, stop making assumptions! I'm trying to be considerate here...[p]
 #Kirishima
-Anyway, we just need to avoid showing any hostility in front of the students.[p]
-It would be best if we just don't talk to each other.[p]
+Anyway, we just need to avoid showing any hostility in front of the students. It would be best if we just don't talk to each other.[p]
 That's all.[p]
 #
 [_tb_end_text]
@@ -70,12 +62,10 @@ That's all.[p]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Night_Cruising.mp3"  ]
 [tb_start_text mode=1 ]
 #
-Damn it, they went too far![p]
-What's with that attitude, acting all high and mighty just because they're a woman!!...[p]
+Damn it, they went too far! What's with that attitude, acting all high and mighty just because they're a woman!!...[p]
 But judging from their behavior, it might be impossible to make them fall for me even if I use the brainwashing device...[p]
 Besides, my main goal isn't to become lovey-dovey with them, it's to shove my dick into that arrogant personality of theirs and make them my slave.[p]
-This method won't work for that.[p]
-Tomorrow, let's try a different approach.[p]
+This method won't work for that. Tomorrow, let's try a different approach.[p]
 [_tb_end_text]
 
 [tb_eval  exp="f.tt=31"  name="tt"  cmd="="  op="t"  val="31"  val_2="undefined"  ]
@@ -87,8 +77,7 @@ Tomorrow, let's try a different approach.[p]
 Actually, it seems that the prefectural board of education is conducting a survey on teachers' health, and I have been assigned to handle it.[p]
 Right now, I am conducting individual questionnaires.[p]
 #Kirishima
-A questionnaire about health?[p]
-I haven't heard anything about that...[p]
+A questionnaire about health? I haven't heard anything about that...[p]
 #
 Alright, here's the brainwashing device...![p]
 
@@ -98,9 +87,7 @@ Alright, here's the brainwashing device...![p]
 [tb_image_hide  time="1000"  ]
 [tb_start_text mode=1 ]
 #Kirishima
-...[p]
-I understand.[p]
-Please make it brief.[p]
+... I understand. Please make it brief.[p]
 #
 Success![p]
 #Nikuyama
@@ -118,8 +105,7 @@ My name is Kaori Kirishima, and I'm 26 years old.[p]
 #Nikuyama
 What is your height and weight?[p]
 #Kirishima
-...[p]
-I'm 170cm tall and weigh 56kg.[p]
+... I'm 170cm tall and weigh 56kg.[p]
 #Nikuyama
 and[p]
 #
@@ -133,84 +119,60 @@ Do you currently have any physical discomfort?[p]
 #Kirishima
 No, I don't.[p]
 #Nikuyama
-Is there anything even minor?[p]
-Do you have any shoulder stiffness, insomnia, constipation, or fatigue?[p]
+Is there anything even minor? Do you have any shoulder stiffness, insomnia, constipation, or fatigue?[p]
 #Kirishima
-Well...[p]
-No, there's nothing in particular.[p]
+Well... No, there's nothing in particular.[p]
 #Nikuyama
-So, you're saying you have no health problems...[p]
-umm...[p]
-how often do you exercise in a week?[p]
+So, you're saying you have no health problems... umm... how often do you exercise in a week?[p]
 #Kirishima
-Exercise?[p]
-Well...[p]
-recently I haven't had much time, so I can hardly do it.[p]
-Sometimes I do some strength training and stretching exercises.[p]
+Exercise? Well... recently I haven't had much time, so I can hardly do it. Sometimes I do some strength training and stretching exercises.[p]
 #Nikuyama
 Did you participate in any sports or club activities during your school days?[p]
 #Kirishima
-...[p]
-I did rhythmic gymnastics until high school.[p]
+... I did rhythmic gymnastics until high school.[p]
 #Nikuyama
 So, you did rhythmic gymnastics, which means your body is quite flexible, right?[p]
 #Kirishima
 Well...[p]
 #Nikuyama
-I see, I see.[p]
-(When I turn them into my meat slave, I'll be able to enjoy various positions...[p]
-hehehe) (Alright, let's dig a little deeper and see how far they'll answer my questions.[p]
-) Um...[p]
-do you have heavy periods?[p]
+I see, I see. (When I turn them into my meat slave, I'll be able to enjoy various positions... hehehe)[p]
+(Alright, let's dig a little deeper and see how far they'll answer my questions.) Um... do you have heavy periods?[p]
 
 [_tb_end_text]
 
 [bg  time="100"  method="crossfade"  storage="game121.jpg"  ]
 [tb_start_text mode=1 ]
 #Kirishima
-...![p]
-A-Are you really asking me that?[p]
+...! A-Are you really asking me that?[p]
 #Nikuyama
 Yes, it's on the survey form, so I need you to answer...[p]
 #Kirishima
-...[p]
-It's normal.[p]
-I think it's more on the lighter side.[p]
+... It's normal. I think it's more on the lighter side.[p]
 #Nikuyama
 Are your menstrual cycles stable?[p]
 #Kirishima
-...[p]
-They are stable.[p]
+... They are stable.[p]
 #Nikuyama
-My menstrual cycles are also going smoothly...[p]
-(I wonder if they can answer this kind of question without using the brainwashing device) (Well then, how about this?[p]
-) Do you currently have a partner?[p]
+My menstrual cycles are also going smoothly... (I wonder if they can answer this kind of question without using the brainwashing device)[p]
+(Well then, how about this?) Do you currently have a partner?[p]
 #Kirishima
-...![p]
-D-Do I really need to answer that?[p]
+...! D-Do I really need to answer that?[p]
 #Nikuyama
 It's because it's on the survey form...[p]
 #Kirishima
-...[p]
-I don't have one.[p]
+... I don't have one.[p]
 #Nikuyama
-Oh, so you don't have one.[p]
-Does that mean you haven't had sexual intercourse for a while?[p]
+Oh, so you don't have one. Does that mean you haven't had sexual intercourse for a while?[p]
 #Kirishima
-I-I can't answer that![p]
-Is it really on the form!?[p]
-Please show me the questionnaire![p]
+I-I can't answer that! Is it really on the form!? Please show me the questionnaire![p]
 #Nikuyama
 (I forgot to prepare the form)[p]
 #
 Keen corn, corn.[p]
 #Nikuyama
-Ah, lunch break is over.[p]
-Let's continue this tomorrow.[p]
+Ah, lunch break is over. Let's continue this tomorrow.[p]
 #Kirishima
-...[p]
-Alright, let's finish this next time then.[p]
-Goodbye.[p]
+... Alright, let's finish this next time then. Goodbye.[p]
 #
 [_tb_end_text]
 
@@ -219,9 +181,7 @@ Goodbye.[p]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Night_Cruising.mp3"  fadein="true"  ]
 [tb_start_text mode=1 ]
 #
-Phew, that was close.[p]
-I should make a fake survey form on my computer by tomorrow...[p]
-But still, it went well.[p]
+Phew, that was close. I should make a fake survey form on my computer by tomorrow... But still, it went well.[p]
 I'll gradually deepen the brainwashing and eventually turn them into a sex slave...[p]
 [_tb_end_text]
 
@@ -234,21 +194,17 @@ I'll gradually deepen the brainwashing and eventually turn them into a sex slave
 #Nikuyama
 Actually, there have been reports of bullying in Kirishima-sensei's class.[p]
 #Kirishima
-Eh, bullying...!?[p]
-In my class...?[p]
+Eh, bullying...!? In my class...?[p]
 #Nikuyama
 Yes, so about that...[p]
 #Kirishima
-Who is it?[p]
-Which student are you referring to?[p]
+Who is it? Which student are you referring to?[p]
 #Nikuyama
-Um, Shibata![p]
-Shibata and their group have been reported for bullying some students...[p]
+Um, Shibata! Shibata and their group have been reported for bullying some students...[p]
 #Kirishima
 Shibata-kun...?[p]
 #Nikuyama
-Yes, it's that delinquent Shibata.[p]
-So, let's cooperate and investigate...[p]
+Yes, it's that delinquent Shibata. So, let's cooperate and investigate...[p]
 #Kirishima
 Who did you hear that story from?[p]
 #Nikuyama
@@ -268,12 +224,9 @@ Now...![p]
 #
 How about it...?[p]
 #Kirishima
-...[p]
-Shibata-kun is not the kind of student who would do something like that.[p]
-There must be some mistake.[p]
+... Shibata-kun is not the kind of student who would do something like that. There must be some mistake.[p]
 #Nikuyama
-Eh!?[p]
-But there's a student who claims to have seen the scene...[p]
+Eh!? But there's a student who claims to have seen the scene...[p]
 #Kirishima
 Who was being bullied?[p]
 #Nikuyama
@@ -283,8 +236,7 @@ I'll ask Shibata-kun directly.[p]
 #Nikuyama
 Since they wouldn't admit it themselves, let's conduct a secret investigation together...[p]
 #Kirishima
-No, if we talk, we'll understand.[p]
-First of all, Shibata-kun would never bully someone, so please leave this matter to me.[p]
+No, if we talk, we'll understand. First of all, Shibata-kun would never bully someone, so please leave this matter to me.[p]
 Well then...[p]
 #Nikuyama
 Hey, wait...[p]
@@ -296,14 +248,9 @@ Hey, wait...[p]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Night_Cruising.mp3"  ]
 [tb_start_text mode=1 ]
 #
-Damn it, I messed up![p]
-Why...?[p]
-The brainwashing didn't work at all.[p]
-It's strange to trust a delinquent student like that.[p]
+Damn it, I messed up! Why...? The brainwashing didn't work at all. It's strange to trust a delinquent student like that.[p]
 If the brainwashing device didn't affect them, it means that they genuinely trust the students, not just putting on a facade.[p]
-I can't believe there are teachers like that...[p]
-Anyway, this approach won't work.[p]
-Bullying might be a good starting point for the story, but how do we lead it to a sexy development?[p]
+I can't believe there are teachers like that... Anyway, this approach won't work. Bullying might be a good starting point for the story, but how do we lead it to a sexy development?[p]
 To turn them into a sex slave, we'll have to try other methods...[p]
 [_tb_end_text]
 

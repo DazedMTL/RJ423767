@@ -53,8 +53,7 @@ What should we do?[p]
 [jump  storage="kaori2.ks"  target="*k80"  cond="f.ss==80"  ]
 [tb_start_text mode=1 ]
 #
-I can't call Kaori out after school yet.[p]
-Let's call her out during the day.[p]
+I can't call Kaori out after school yet. Let's call her out during the day.[p]
 
 [_tb_end_text]
 
@@ -63,23 +62,16 @@ Let's call her out during the day.[p]
 
 [tb_start_text mode=1 ]
 #
-They can't call Kaori out yet, so they're wondering if they should go home...[p]
-Hm?[p]
-It looks like some male students are talking outside.[p]
+They can't call Kaori out yet, so they're wondering if they should go home... Hm? It looks like some male students are talking outside.[p]
 #Male Student A
 How far have you gone with your girlfriend?[p]
 #Male Student B
-Only up to A.[p]
-What about you?[p]
+Only up to A. What about you?[p]
 #Male Student A
 I've gone all the way to B.[p]
 #
-............[p]
-The ABC of love, huh...[p]
-I thought it was an outdated term, but even kids these days still use it.[p]
-ABC...[p]
-A stands for kissing, B stands for petting, and C stands for the real deal.[p]
-So if you kiss and grope her breasts, it means the girl is ready for everything.[p]
+............ The ABC of love, huh... I thought it was an outdated term, but even kids these days still use it.[p]
+ABC... A stands for kissing, B stands for petting, and C stands for the real deal. So if you kiss and grope her breasts, it means the girl is ready for everything.[p]
 I see, the ABC method....[p]
 [_tb_end_text]
 
