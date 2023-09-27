@@ -4,10 +4,10 @@
 What are you doing?[p]
 [_tb_end_text]
 
-[glink  color="black"  storage="play4.ks"  size="20"  target="*ch1"  text="Rubbing breasts"  x="520"  y="220"  width="130"  height="20"  _clickable_img=""  ]
-[glink  color="black"  storage="play4.ks"  size="20"  text="Handjob"  target="*ch2"  x="520"  y="290"  width="130"  height="20"  _clickable_img=""  ]
-[glink  color="black"  storage="play4.ks"  size="20"  target="*ch3"  text="Rotor Lesson"  x="520"  y="360"  width="130"  height="20"  _clickable_img=""  ]
-[glink  color="black"  storage="kaori1.ks"  size="20"  target="*ka00"  text="Go back"  x="520"  y="430"  width="130"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="play4.ks"  size="20"  target="*ch1"  text="Rubbing breasts"  x="520"  y="220"  width="400"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="play4.ks"  size="20"  text="Handjob"  target="*ch2"  x="520"  y="290"  width="400"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="play4.ks"  size="20"  target="*ch3"  text="Rotor Lesson"  x="520"  y="360"  width="400"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="kaori1.ks"  size="20"  target="*ka00"  text="Go back"  x="520"  y="430"  width="400"  height="20"  _clickable_img=""  ]
 [s  ]
 *ch1
 
@@ -349,8 +349,8 @@ No! Touching your penis is absolutely out of the question, even if it means I'll
 )[p]
 [_tb_end_text]
 
-[glink  color="black"  storage="play4.ks"  size="20"  target="*ch2aa"  text="Are you afraid of cocks?"  x="460"  y="360"  width="280"  height="20"  _clickable_img=""  ]
-[glink  color="black"  storage="play4.ks"  size="20"  target="*ch2ab"  text="Do you really like cocks, don't you?"  x="460"  y="430"  width="280"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="play4.ks"  size="20"  target="*ch2aa"  text="Are you afraid of cocks?"  x="460"  y="360"  width="400"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="play4.ks"  size="20"  target="*ch2ab"  text="Do you really like cocks, don't you?"  x="460"  y="430"  width="400"  height="20"  _clickable_img=""  ]
 [s  ]
 *ch2aa
 
@@ -1024,8 +1024,8 @@ Ugh...[p]
 Well then, what should we do today?[p]
 [_tb_end_text]
 
-[glink  color="black"  storage="play4.ks"  size="20"  target="*ch2g1"  text="Handjob"  x="510"  y="360"  width="110"  height="20"  ]
-[glink  color="black"  storage="play4.ks"  size="20"  target="*ch2g2"  text="Paizuri"  x="510"  y="430"  width="110"  height="20"  ]
+[glink  color="black"  storage="play4.ks"  size="20"  target="*ch2g1"  text="Handjob"  x="510"  y="360"  width="400"  height="20"  ]
+[glink  color="black"  storage="play4.ks"  size="20"  target="*ch2g2"  text="Paizuri"  x="510"  y="430"  width="400"  height="20"  ]
 [s  ]
 *ch2g1
 
@@ -1632,8 +1632,8 @@ Ahh♥)[p]
 Now then... which one should I make them wear?[p]
 [_tb_end_text]
 
-[glink  color="black"  storage="play4.ks"  size="20"  target="*ch3e1"  text="Vibrator"  y="360"  x="510"  width="110"  height="20"  ]
-[glink  color="black"  storage="play4.ks"  size="20"  target="*ch3e2"  text="Vibrator"  x="510"  y="430"  width="110"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="play4.ks"  size="20"  target="*ch3e1"  text="Vibrator"  y="360"  x="510"  width="400"  height="20"  ]
+[glink  color="black"  storage="play4.ks"  size="20"  target="*ch3e2"  text="Vibrator"  x="510"  y="430"  width="400"  height="20"  _clickable_img=""  ]
 [s  ]
 *ch3e1
 

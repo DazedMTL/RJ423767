@@ -677,8 +677,8 @@ Alright, it's time for the final sprint![p]
 *Spank! * *Spank! * *Spank! * *Spank! *[p]
 [_tb_end_text]
 
-[glink  color="black"  storage="play6.ks"  size="20"  text="I'm going to cum inside"  target="*p240a"  width="110"  height="20"  x="510"  y="360"  ]
-[glink  color="black"  storage="play6.ks"  size="20"  text="To take it outside"  target="*p240b"  width="110"  height="20"  x="510"  y="430"  ]
+[glink  color="black"  storage="play6.ks"  size="20"  text="I'm going to cum inside"  target="*p240a"  width="400"  height="20"  x="510"  y="360"  ]
+[glink  color="black"  storage="play6.ks"  size="20"  text="To take it outside"  target="*p240b"  width="400"  height="20"  x="510"  y="430"  ]
 [s  ]
 *p240a
 
@@ -1045,8 +1045,8 @@ Ahn♥ Ahnnn♥[p]
 Alright, it's almost time for the finish...![p]
 [_tb_end_text]
 
-[glink  color="black"  storage="play6.ks"  size="20"  target="*p250a"  text="I'm going to cum inside"  width="110"  height="20"  x="510"  y="360"  ]
-[glink  color="black"  storage="play6.ks"  size="20"  target="*p250b"  text="Release outside"  width="110"  height="20"  x="510"  y="430"  ]
+[glink  color="black"  storage="play6.ks"  size="20"  target="*p250a"  text="I'm going to cum inside"  width="400"  height="20"  x="510"  y="360"  ]
+[glink  color="black"  storage="play6.ks"  size="20"  target="*p250b"  text="Release outside"  width="400"  height="20"  x="510"  y="430"  ]
 [s  ]
 *p250a
 
@@ -1465,8 +1465,8 @@ Unn♥ Unn♥ Ahiiii♥[p]
 
 [_tb_end_text]
 
-[glink  color="black"  storage="play6.ks"  size="20"  target="*p260a"  text="I'm going to cum inside"  x="520"  y="360"  width="110"  height="20"  ]
-[glink  color="black"  storage="play6.ks"  size="20"  target="*p260b"  text="Release outside"  width="110"  height="20"  y="430"  x="520"  ]
+[glink  color="black"  storage="play6.ks"  size="20"  target="*p260a"  text="I'm going to cum inside"  x="520"  y="360"  width="400"  height="20"  ]
+[glink  color="black"  storage="play6.ks"  size="20"  target="*p260b"  text="Release outside"  width="400"  height="20"  y="430"  x="520"  ]
 [s  ]
 *p260a
 

@@ -5,9 +5,9 @@
 Well, how should we attack...?[p]
 [_tb_end_text]
 
-[glink  color="black"  storage="play1.ks"  size="20"  text="The vice principal told me to get along with you"  x="480"  y="290"  width="300"  height="20"  _clickable_img=""  target="*st1"  ]
-[glink  color="black"  storage="play1.ks"  size="20"  text="A health survey report has arrived"  x="480"  y="360"  width="300"  height="20"  _clickable_img=""  target="*st2"  ]
-[glink  color="black"  storage="play1.ks"  size="20"  text="I want to talk about bullying among students"  x="480"  y="430"  width="300"  height="20"  _clickable_img=""  target="*st3"  ]
+[glink  color="black"  storage="play1.ks"  size="20"  text="The vice principal told me to get along with you"  x="480"  y="290"  width="400"  height="20"  _clickable_img=""  target="*st1"  ]
+[glink  color="black"  storage="play1.ks"  size="20"  text="A health survey report has arrived"  x="480"  y="360"  width="400"  height="20"  _clickable_img=""  target="*st2"  ]
+[glink  color="black"  storage="play1.ks"  size="20"  text="I want to talk about bullying among students"  x="480"  y="430"  width="400"  height="20"  _clickable_img=""  target="*st3"  ]
 [s  ]
 *st1
 

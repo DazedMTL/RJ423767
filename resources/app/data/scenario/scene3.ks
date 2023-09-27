@@ -3,8 +3,8 @@
 [cm  ]
 [stopbgm  time="1000"  fadeout="true"  ]
 [bg  time="1000"  method="crossfade"  storage="gamblack.jpg"  ]
-[glink  color="black"  storage="scene3.ks"  size="20"  text="Text speed: High speed"  target="*meh"  x="480"  y="340"  width="190"  height="20"  ]
-[glink  color="black"  storage="scene3.ks"  size="20"  text="Text speed: Normal"  target="*men"  x="480"  y="420"  width="190"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="scene3.ks"  size="20"  text="Text speed: High speed"  target="*meh"  x="480"  y="340"  width="400"  height="20"  ]
+[glink  color="black"  storage="scene3.ks"  size="20"  text="Text speed: Normal"  target="*men"  x="480"  y="420"  width="400"  height="20"  _clickable_img=""  ]
 [s  ]
 *meh
 
@@ -27,8 +27,8 @@ It's irresistible. Among them, what catches my eye the most is...[p]
 
 [_tb_end_text]
 
-[glink  color="black"  storage="scene3.ks"  size="20"  target="*ch2"  text="Thick thighs"  x="504"  y="284"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="scene3.ks"  size="20"  target="*ch1"  text="Swinging breasts"  x="501"  y="360"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="scene3.ks"  size="20"  target="*ch2"  text="Thick thighs"  x="504"  y="284"  width="400"  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="scene3.ks"  size="20"  target="*ch1"  text="Swinging breasts"  x="501"  y="360"  width="400"  height=""  _clickable_img=""  ]
 [s  ]
 *ch1
 
@@ -117,9 +117,9 @@ Sigh, should I go to the next class...[p]
 Well, it's after school and my work is done. I wonder what I should do now.[p]
 [_tb_end_text]
 
-[glink  color="black"  storage="scene3.ks"  size="20"  text="Think about myself"  x="527"  y="300"  width="185"  height="20"  _clickable_img=""  target="*ch2b"  ]
-[glink  color="black"  storage="scene3.ks"  size="20"  text="Wandering around the school building"  x="527"  y="370"  width="185"  height="20"  _clickable_img=""  target="*ch2a"  ]
-[glink  color="black"  storage="scene3.ks"  size="20"  text="Go home"  x="527"  y="440"  width="185"  height="20"  _clickable_img=""  target="*ch2c"  ]
+[glink  color="black"  storage="scene3.ks"  size="20"  text="Think about myself"  x="527"  y="300"  width="400"  height="20"  _clickable_img=""  target="*ch2b"  ]
+[glink  color="black"  storage="scene3.ks"  size="20"  text="Wandering around the school building"  x="527"  y="370"  width="400"  height="20"  _clickable_img=""  target="*ch2a"  ]
+[glink  color="black"  storage="scene3.ks"  size="20"  text="Go home"  x="527"  y="440"  width="400"  height="20"  _clickable_img=""  target="*ch2c"  ]
 [s  ]
 *ch2a
 
@@ -163,9 +163,9 @@ Hey, Ms. Kirishima.[p]
 What should I do?[p]
 [_tb_end_text]
 
-[glink  color="black"  storage="scene3.ks"  size="20"  text="Look"  target="*ch3a"  x="478"  y="300"  width="147"  height="20"  _clickable_img=""  ]
-[glink  color="black"  storage="scene3.ks"  size="20"  text="Seduce"  target="*ch3b"  x="478"  y="370"  width="147"  height="20"  _clickable_img=""  ]
-[glink  color="black"  storage="scene3.ks"  size="20"  text="Leave"  target="*ch3c"  x="478"  y="440"  width="147"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="scene3.ks"  size="20"  text="Look"  target="*ch3a"  x="478"  y="300"  width="400"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="scene3.ks"  size="20"  text="Seduce"  target="*ch3b"  x="478"  y="370"  width="400"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="scene3.ks"  size="20"  text="Leave"  target="*ch3c"  x="478"  y="440"  width="400"  height="20"  _clickable_img=""  ]
 [s  ]
 *ch3a
 
@@ -298,10 +298,10 @@ I ate, I ate. I devoured two convenience store bento boxes and my stomach is ful
 I'll start up my PC... and think about what kind of video I'll use to get off today.[p]
 [_tb_end_text]
 
-[glink  color="black"  storage="scene3.ks"  size="20"  text="Sexual Harassment Physical Examination"  target="*ch4a"  x="463"  y="290"  width="180"  height="20"  _clickable_img=""  ]
-[glink  color="black"  storage="scene3.ks"  size="20"  text="Female Teacher's Peeing Lesson"  target="*ch4b"  x="463"  y="360"  width="180"  height="20"  _clickable_img=""  ]
-[glink  color="black"  storage="scene3.ks"  size="20"  text="Humiliation! Naked prostration"  target="*ch4c"  x="463"  y="430"  width="180"  height="20"  _clickable_img=""  ]
-[glink  color="black"  storage="scene3.ks"  size="6"  text="Psycho SX"  target="*ch4d"  x="5"  y="405"  width="35"  height="9"  _clickable_img=""  ]
+[glink  color="black"  storage="scene3.ks"  size="20"  text="Sexual Harassment Physical Examination"  target="*ch4a"  x="463"  y="290"  width="400"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="scene3.ks"  size="20"  text="Female Teacher's Peeing Lesson"  target="*ch4b"  x="463"  y="360"  width="400"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="scene3.ks"  size="20"  text="Humiliation! Naked prostration"  target="*ch4c"  x="463"  y="430"  width="400"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="scene3.ks"  size="6"  text="Psycho SX"  target="*ch4d"  x="5"  y="405"  width="400"  height="9"  _clickable_img=""  ]
 [s  ]
 *ch4a
 
@@ -404,8 +404,8 @@ There aren't many students left today... Oh, there's a girl over there with a sh
 Should I keep an eye on them?[p]
 [_tb_end_text]
 
-[glink  color="black"  storage="scene3.ks"  size="20"  text="Should I pay attention?"  target="*ch5a"  x="497"  y="360"  width="130"  height="20"  _clickable_img=""  ]
-[glink  color="black"  storage="scene3.ks"  size="20"  text="I won't pay attention"  target="*ch5b"  x="497"  y="430"  width="130"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="scene3.ks"  size="20"  text="Should I pay attention?"  target="*ch5a"  x="497"  y="360"  width="400"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="scene3.ks"  size="20"  text="I won't pay attention"  target="*ch5b"  x="497"  y="430"  width="400"  height="20"  _clickable_img=""  ]
 [s  ]
 *ch5a
 
@@ -552,8 +552,8 @@ What does this mean...? Hmm, strangely enough, now I'm even more curious.[p]
 
 [_tb_end_text]
 
-[glink  color="black"  storage="SCENE4.ks"  size="20"  text="Buy"  x="522"  y="360"  width="100"  height="20"  _clickable_img=""  ]
-[glink  color="black"  storage="scene3.ks"  size="20"  text="Don't buy it"  x="522"  y="430"  width="100"  height="20"  _clickable_img=""  target="*ch6b"  ]
+[glink  color="black"  storage="SCENE4.ks"  size="20"  text="Buy"  x="522"  y="360"  width="400"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="scene3.ks"  size="20"  text="Don't buy it"  x="522"  y="430"  width="400"  height="20"  _clickable_img=""  target="*ch6b"  ]
 [s  ]
 *ch6b
 

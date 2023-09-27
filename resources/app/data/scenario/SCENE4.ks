@@ -49,9 +49,9 @@ Let's call one female student to this room and try using the device.[p]
 Now, who should I call?[p]
 [_tb_end_text]
 
-[glink  color="black"  storage="SCENE4.ks"  size="20"  text="Michiru Hayase (Track and Field Club)"  target="*ch11aa"  x="500"  y="290"  width="235"  height="20"  _clickable_img=""  ]
-[glink  color="black"  storage="SCENE4.ks"  size="20"  text="Ayame Fujino (Miss)"  target="*ch11ba"  x="500"  y="360"  width="235"  height="20"  _clickable_img=""  ]
-[glink  color="black"  storage="SCENE4.ks"  size="20"  text="Akai Noa (Gal)"  target="*ch11ca"  x="500"  y="430"  width="235"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="SCENE4.ks"  size="20"  text="Michiru Hayase (Track and Field Club)"  target="*ch11aa"  x="500"  y="290"  width="400"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="SCENE4.ks"  size="20"  text="Ayame Fujino (Miss)"  target="*ch11ba"  x="500"  y="360"  width="400"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="SCENE4.ks"  size="20"  text="Akai Noa (Gal)"  target="*ch11ca"  x="500"  y="430"  width="400"  height="20"  _clickable_img=""  ]
 [s  ]
 *ch11aa
 
@@ -307,8 +307,8 @@ I'll take a gamble on this![p]
 What kind of lie are you going to tell?[p]
 [_tb_end_text]
 
-[glink  color="black"  storage="SCENE4.ks"  size="20"  text="Privileges of a physical education teacher"  target="*ch12a"  x="510"  y="360"  width="225"  height="20"  _clickable_img=""  ]
-[glink  color="black"  storage="SCENE4.ks"  size="20"  text="Reporting to the principal is illegal"  target="*ch12b"  x="510"  y="430"  width="225"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="SCENE4.ks"  size="20"  text="Privileges of a physical education teacher"  target="*ch12a"  x="510"  y="360"  width="400"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="SCENE4.ks"  size="20"  text="Reporting to the principal is illegal"  target="*ch12b"  x="510"  y="430"  width="400"  height="20"  _clickable_img=""  ]
 [s  ]
 *ch12a
 

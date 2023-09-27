@@ -17,8 +17,8 @@
 So, what do we do?[p]
 [_tb_end_text]
 
-[glink  color="black"  storage="play7.ks"  size="20"  text="Training 1"  x="470"  y="360"  width="200"  height="20"  ]
-[glink  color="black"  storage="play9.ks"  size="20"  text="Training 2"  x="470"  y="430"  width="200"  height="20"  ]
+[glink  color="black"  storage="play7.ks"  size="20"  text="Training 1"  x="470"  y="360"  width="400"  height="20"  ]
+[glink  color="black"  storage="play9.ks"  size="20"  text="Training 2"  x="470"  y="430"  width="400"  height="20"  ]
 [s  ]
 *k280
 
@@ -32,8 +32,8 @@ So, what do we do?[p]
 What should we do?[p]
 [_tb_end_text]
 
-[glink  color="black"  storage="play7.ks"  size="20"  text="Training 1"  x="520"  y="360"  width="110"  height="20"  ]
-[glink  color="black"  storage="play8.ks"  size="20"  text="Training 2"  x="520"  y="430"  width="110"  height="20"  ]
+[glink  color="black"  storage="play7.ks"  size="20"  text="Training 1"  x="520"  y="360"  width="400"  height="20"  ]
+[glink  color="black"  storage="play8.ks"  size="20"  text="Training 2"  x="520"  y="430"  width="400"  height="20"  ]
 [s  ]
 *k230
 

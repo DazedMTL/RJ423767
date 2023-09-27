@@ -10,3 +10,6 @@
 !.gitignore
 !README.md
 package.json
+
+# Images
+!game204.jpg

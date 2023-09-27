@@ -20,12 +20,12 @@
 What do you want to ask?[p]
 [_tb_end_text]
 
-[glink  color="black"  storage="play2.ks"  size="20"  text="Health condition"  x="850"  y="140"  width="100"  height="20"  _clickable_img=""  target="*q1"  ]
-[glink  color="black"  storage="play2.ks"  size="20"  text="Size"  x="850"  y="200"  width="100"  height="20"  _clickable_img=""  target="*q2"  ]
-[glink  color="black"  storage="play2.ks"  size="20"  text="Sexual experience"  x="850"  y="260"  width="100"  height="20"  _clickable_img=""  target="*q3"  ]
-[glink  color="black"  storage="play2.ks"  size="20"  text="Bowel movement status"  x="850"  y="320"  width="100"  height="20"  _clickable_img=""  target="*q4"  ]
-[glink  color="black"  storage="play2.ks"  size="20"  text="Masturbation"  x="850"  y="380"  width="100"  height="20"  _clickable_img=""  target="*q5"  ]
-[glink  color="black"  storage="kaori1.ks"  size="20"  target="*ka00"  text="Go back"  x="850"  y="440"  width="100"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="play2.ks"  size="20"  text="Health condition"  x="850"  y="140"  width="400"  height="20"  _clickable_img=""  target="*q1"  ]
+[glink  color="black"  storage="play2.ks"  size="20"  text="Size"  x="850"  y="200"  width="400"  height="20"  _clickable_img=""  target="*q2"  ]
+[glink  color="black"  storage="play2.ks"  size="20"  text="Sexual experience"  x="850"  y="260"  width="400"  height="20"  _clickable_img=""  target="*q3"  ]
+[glink  color="black"  storage="play2.ks"  size="20"  text="Bowel movement status"  x="850"  y="320"  width="400"  height="20"  _clickable_img=""  target="*q4"  ]
+[glink  color="black"  storage="play2.ks"  size="20"  text="Masturbation"  x="850"  y="380"  width="400"  height="20"  _clickable_img=""  target="*q5"  ]
+[glink  color="black"  storage="kaori1.ks"  size="20"  target="*ka00"  text="Go back"  x="850"  y="440"  width="400"  height="20"  _clickable_img=""  ]
 [s  ]
 *q1
 
@@ -454,8 +454,8 @@ Well, today...[p]
 
 [_tb_end_text]
 
-[glink  color="black"  storage="play2.ks"  size="20"  target="*q1g1"  text="Examining the nipples"  y="360"  width="120"  height="20"  x="500"  ]
-[glink  color="black"  storage="play2.ks"  size="20"  target="*q1g2"  text="Rectal temperature measurement"  y="430"  x="500"  width="120"  height="20"  ]
+[glink  color="black"  storage="play2.ks"  size="20"  target="*q1g1"  text="Examining the nipples"  y="360"  width="400"  height="20"  x="500"  ]
+[glink  color="black"  storage="play2.ks"  size="20"  target="*q1g2"  text="Rectal temperature measurement"  y="430"  x="500"  width="400"  height="20"  ]
 [s  ]
 *q1g1
 
@@ -2416,8 +2416,8 @@ Ugh... (Damn it, even after brainwashing them this much, they still refuse...? D
 
 [_tb_end_text]
 
-[glink  color="black"  storage="badend.ks"  size="20"  target="*be1"  text="I can't hold back"  y="360"  width="120"  height="20"  x="520"  ]
-[glink  color="black"  storage="play2.ks"  size="20"  target="*q5g1"  text="Endure"  width="120"  height="20"  y="430"  x="520"  _clickable_img=""  ]
+[glink  color="black"  storage="badend.ks"  size="20"  target="*be1"  text="I can't hold back"  y="360"  width="400"  height="20"  x="520"  ]
+[glink  color="black"  storage="play2.ks"  size="20"  target="*q5g1"  text="Endure"  width="400"  height="20"  y="430"  x="520"  _clickable_img=""  ]
 [s  ]
 *q5g1
 

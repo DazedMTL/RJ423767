@@ -5,10 +5,10 @@
 What should we do?[p]
 [_tb_end_text]
 
-[glink  color="black"  storage="play5.ks"  size="20"  text="Pubic hair examination"  x="510"  y="220"  width="140"  height="20"  _clickable_img=""  target="*do1"  ]
-[glink  color="black"  storage="play5.ks"  size="20"  text="Blowjob"  x="510"  y="290"  width="140"  height="20"  _clickable_img=""  target="*do2"  ]
-[glink  color="black"  storage="play5.ks"  size="20"  text="Anal examination"  x="510"  y="360"  width="140"  height="20"  _clickable_img=""  target="*do3"  ]
-[glink  color="black"  storage="kaori1.ks"  size="20"  target="*ka00"  text="Go back"  x="510"  y="430"  width="140"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="play5.ks"  size="20"  text="Pubic hair examination"  x="510"  y="220"  width="400"  height="20"  _clickable_img=""  target="*do1"  ]
+[glink  color="black"  storage="play5.ks"  size="20"  text="Blowjob"  x="510"  y="290"  width="400"  height="20"  _clickable_img=""  target="*do2"  ]
+[glink  color="black"  storage="play5.ks"  size="20"  text="Anal examination"  x="510"  y="360"  width="400"  height="20"  _clickable_img=""  target="*do3"  ]
+[glink  color="black"  storage="kaori1.ks"  size="20"  target="*ka00"  text="Go back"  x="510"  y="430"  width="400"  height="20"  _clickable_img=""  ]
 [s  ]
 *do1
 
@@ -1129,8 +1129,8 @@ Oh... I'm about to cum...![p]
 
 [_tb_end_text]
 
-[glink  color="black"  storage="play5.ks"  size="20"  target="*do2d1"  text="To cum on your face"  x="520"  y="360"  width="120"  height="20"  ]
-[glink  color="black"  storage="play5.ks"  size="20"  target="*do2d2"  text="Make them drink"  y="430"  width="120"  height="20"  x="520"  ]
+[glink  color="black"  storage="play5.ks"  size="20"  target="*do2d1"  text="To cum on your face"  x="520"  y="360"  width="400"  height="20"  ]
+[glink  color="black"  storage="play5.ks"  size="20"  target="*do2d2"  text="Make them drink"  y="430"  width="400"  height="20"  x="520"  ]
 [s  ]
 *do2d1
 
@@ -1266,8 +1266,8 @@ Kuh... Jupu... Lero Lero...[p]
 Oh, what's this? Staring at me with a defiant look.[p]
 [_tb_end_text]
 
-[glink  color="black"  storage="play5.ks"  size="20"  target="*do2e1"  text="Sniffing your nose"  x="500"  y="360"  width="120"  height="20"  ]
-[glink  color="black"  storage="play5.ks"  size="20"  target="*do2e2"  text="As it is"  width="120"  height="20"  x="500"  y="430"  ]
+[glink  color="black"  storage="play5.ks"  size="20"  target="*do2e1"  text="Sniffing your nose"  x="500"  y="360"  width="400"  height="20"  ]
+[glink  color="black"  storage="play5.ks"  size="20"  target="*do2e2"  text="As it is"  width="400"  height="20"  x="500"  y="430"  ]
 [s  ]
 *do2e1
 
@@ -1369,8 +1369,8 @@ Ju-pu, ju-pu, po-ju, pu![p]
 I appreciate your enthusiasm, but it's no good to do it so recklessly. Didn't I teach you that fellatio is about the spirit of service?[p]
 [_tb_end_text]
 
-[glink  color="black"  storage="play5.ks"  size="20"  target="*do2e3"  text="Thrusting into the depths of the throat"  x="490"  y="360"  width="190"  height="20"  ]
-[glink  color="black"  storage="play5.ks"  size="20"  text="Let them continue as they are"  height="20"  width="190"  y="430"  x="490"  _clickable_img=""  target="*do2e4"  ]
+[glink  color="black"  storage="play5.ks"  size="20"  target="*do2e3"  text="Thrusting into the depths of the throat"  x="490"  y="360"  width="400"  height="20"  ]
+[glink  color="black"  storage="play5.ks"  size="20"  text="Let them continue as they are"  height="20"  width="400"  y="430"  x="490"  _clickable_img=""  target="*do2e4"  ]
 [s  ]
 *do2e3
 
@@ -1479,8 +1479,8 @@ Mmm... slurp! Slurp! Chubba! Jupo![p]
 Alright, I'm about to cum...[p]
 [_tb_end_text]
 
-[glink  color="black"  storage="play5.ks"  size="20"  target="*do2e5"  text="To cum on the face"  x="510"  y="360"  width="110"  height="20"  ]
-[glink  color="black"  storage="play5.ks"  size="20"  target="*do2e6"  text="Make them drink"  width="110"  height="20"  y="430"  x="510"  _clickable_img=""  ]
+[glink  color="black"  storage="play5.ks"  size="20"  target="*do2e5"  text="To cum on the face"  x="510"  y="360"  width="400"  height="20"  ]
+[glink  color="black"  storage="play5.ks"  size="20"  target="*do2e6"  text="Make them drink"  width="400"  height="20"  y="430"  x="510"  _clickable_img=""  ]
 [s  ]
 *do2e5
 
@@ -1621,9 +1621,9 @@ I can understand if it's a female doctor... but to have something like that done
 
 [tb_image_show  time="1000"  storage="default/game200.png"  width="293"  height="260"  x="457"  y="261"  _clickable_img=""  name="img_103"  ]
 [tb_image_hide  time="1000"  ]
-[glink  color="black"  storage="play5.ks"  size="20"  target="*do3b1"  text="I have a medical license"  x="490"  y="290"  width="210"  height="20"  _clickable_img=""  ]
-[glink  color="black"  storage="play5.ks"  size="20"  target="*do3b2"  text="Present conditions"  x="490"  y="360"  width="210"  height="20"  _clickable_img=""  ]
-[glink  color="black"  storage="play5.ks"  size="20"  target="*do3b3"  text="They adopt an arrogant attitude"  x="490"  y="430"  width="210"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="play5.ks"  size="20"  target="*do3b1"  text="I have a medical license"  x="490"  y="290"  width="400"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="play5.ks"  size="20"  target="*do3b2"  text="Present conditions"  x="490"  y="360"  width="400"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="play5.ks"  size="20"  target="*do3b3"  text="They adopt an arrogant attitude"  x="490"  y="430"  width="400"  height="20"  _clickable_img=""  ]
 [s  ]
 *do3b1
 

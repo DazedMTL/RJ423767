@@ -14,9 +14,9 @@ It's lunch break. What do you want to do?[p]
 
 [_tb_end_text]
 
-[glink  color="black"  storage="kangae.ks"  size="20"  text="Think"  x="550"  y="290"  width="140"  height="20"  _clickable_img=""  ]
-[glink  color="black"  storage="kaori1.ks"  size="20"  text="Call Kaori"  x="550"  y="360"  width="140"  height="20"  _clickable_img=""  target="*ka00"  ]
-[glink  color="black"  storage="mein.ks"  size="20"  text="Do nothing"  x="550"  y="430"  width="140"  height="20"  _clickable_img=""  target="*nanimo"  ]
+[glink  color="black"  storage="kangae.ks"  size="20"  text="Think"  x="550"  y="290"  width="400"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="kaori1.ks"  size="20"  text="Call Kaori"  x="550"  y="360"  width="400"  height="20"  _clickable_img=""  target="*ka00"  ]
+[glink  color="black"  storage="mein.ks"  size="20"  text="Do nothing"  x="550"  y="430"  width="400"  height="20"  _clickable_img=""  target="*nanimo"  ]
 [s  ]
 *aa2
 
@@ -26,10 +26,10 @@ It's lunch break. What do you want to do?[p]
 
 [_tb_end_text]
 
-[glink  color="black"  storage="kangae.ks"  size="20"  text="Think"  x="550"  y="220"  width="140"  height="20"  _clickable_img=""  ]
-[glink  color="black"  storage="kaori1.ks"  size="20"  text="Call Kaori Kirishima"  x="550"  y="290"  width="140"  height="20"  _clickable_img=""  target="*ka00"  ]
-[glink  color="black"  storage="end.ks"  size="20"  text="Ending"  width="140"  height="20"  y="360"  x="550"  ]
-[glink  color="black"  storage="mein.ks"  size="20"  text="Do nothing"  x="550"  y="430"  width="140"  height="20"  _clickable_img=""  target="*nanimo"  ]
+[glink  color="black"  storage="kangae.ks"  size="20"  text="Think"  x="550"  y="220"  width="400"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="kaori1.ks"  size="20"  text="Call Kaori Kirishima"  x="550"  y="290"  width="400"  height="20"  _clickable_img=""  target="*ka00"  ]
+[glink  color="black"  storage="end.ks"  size="20"  text="Ending"  width="400"  height="20"  y="360"  x="550"  ]
+[glink  color="black"  storage="mein.ks"  size="20"  text="Do nothing"  x="550"  y="430"  width="400"  height="20"  _clickable_img=""  target="*nanimo"  ]
 [s  ]
 *bb
 
@@ -52,9 +52,9 @@ It's lunch break. What do you want to do?[p]
 It's after school. What do you want to do?[p]
 [_tb_end_text]
 
-[glink  color="black"  storage="kaori2.ks"  size="20"  text="Call Kaori"  width="140"  x="530"  y="290"  height="20"  _clickable_img=""  target="*k00"  ]
-[glink  color="black"  storage="hokago.ks"  size="20"  text="Wandering around the school campus"  width="140"  height="20"  x="530"  y="360"  ]
-[glink  color="black"  storage="kitaku.ks"  size="20"  width="140"  text="Go home"  x="530"  y="430"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="kaori2.ks"  size="20"  text="Call Kaori"  width="400"  x="530"  y="290"  height="20"  _clickable_img=""  target="*k00"  ]
+[glink  color="black"  storage="hokago.ks"  size="20"  text="Wandering around the school campus"  width="400"  height="20"  x="530"  y="360"  ]
+[glink  color="black"  storage="kitaku.ks"  size="20"  width="400"  text="Go home"  x="530"  y="430"  height="20"  _clickable_img=""  ]
 [s  ]
 *bb2a
 
@@ -63,10 +63,10 @@ It's after school. What do you want to do?[p]
 It's after school. What do you want to do?[p]
 [_tb_end_text]
 
-[glink  color="black"  storage="kaori2.ks"  size="20"  text="Call Kaori"  width="190"  x="490"  y="220"  height="20"  _clickable_img=""  target="*k00"  ]
-[glink  color="black"  storage="hokago.ks"  size="20"  text="Wandering around the school campus"  width="190"  height="20"  x="490"  y="290"  ]
-[glink  color="black"  storage="play10.ks"  size="20"  text="Call a female student"  y="360"  x="490"  width="190"  height="20"  target="*seito2"  ]
-[glink  color="black"  storage="kitaku.ks"  size="20"  width="190"  text="Go home"  x="490"  y="430"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="kaori2.ks"  size="20"  text="Call Kaori"  width="400"  x="490"  y="220"  height="20"  _clickable_img=""  target="*k00"  ]
+[glink  color="black"  storage="hokago.ks"  size="20"  text="Wandering around the school campus"  width="400"  height="20"  x="490"  y="290"  ]
+[glink  color="black"  storage="play10.ks"  size="20"  text="Call a female student"  y="360"  x="490"  width="400"  height="20"  target="*seito2"  ]
+[glink  color="black"  storage="kitaku.ks"  size="20"  width="400"  text="Go home"  x="490"  y="430"  height="20"  _clickable_img=""  ]
 [s  ]
 *nanimo
 

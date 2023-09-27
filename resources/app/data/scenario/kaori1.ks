@@ -55,8 +55,8 @@ What should we do?[p]
 What should we do?[p]
 [_tb_end_text]
 
-[glink  color="black"  storage="play2.ks"  size="20"  text="Medical examination"  x="555"  y="360"  width="100"  height="20"  _clickable_img=""  ]
-[glink  color="black"  storage="play3.ks"  size="20"  text="Sexual harassment"  x="555"  y="430"  width="100"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="play2.ks"  size="20"  text="Medical examination"  x="555"  y="360"  width="400"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="play3.ks"  size="20"  text="Sexual harassment"  x="555"  y="430"  width="400"  height="20"  _clickable_img=""  ]
 [s  ]
 *ka04
 
@@ -70,9 +70,9 @@ What should we do?[p]
 What should we do?[p]
 [_tb_end_text]
 
-[glink  color="black"  storage="play2.ks"  size="20"  text="Medical examination"  x="555"  y="290"  width="100"  height="20"  _clickable_img=""  ]
-[glink  color="black"  storage="play3.ks"  size="20"  text="Sexual Harassment 1"  x="555"  y="360"  width="100"  height="20"  _clickable_img=""  ]
-[glink  color="black"  storage="play4.ks"  size="20"  text="Sexual Harassment 2"  x="555"  y="430"  width="100"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="play2.ks"  size="20"  text="Medical examination"  x="555"  y="290"  width="400"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="play3.ks"  size="20"  text="Sexual Harassment 1"  x="555"  y="360"  width="400"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="play4.ks"  size="20"  text="Sexual Harassment 2"  x="555"  y="430"  width="400"  height="20"  _clickable_img=""  ]
 [s  ]
 *ka05
 
@@ -86,10 +86,10 @@ What should we do?[p]
 What should we do?[p]
 [_tb_end_text]
 
-[glink  color="black"  storage="play2.ks"  size="20"  text="Medical examination"  x="555"  y="220"  width="100"  height="20"  _clickable_img=""  ]
-[glink  color="black"  storage="play3.ks"  size="20"  text="Sexual Harassment 1"  x="555"  y="290"  width="100"  height="20"  _clickable_img=""  ]
-[glink  color="black"  storage="play4.ks"  size="20"  text="Sexual Harassment 2"  x="555"  y="360"  width="100"  height="20"  _clickable_img=""  ]
-[glink  color="black"  storage="play5.ks"  size="20"  text="Sexual Harassment 3"  x="555"  y="430"  width="100"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="play2.ks"  size="20"  text="Medical examination"  x="555"  y="220"  width="400"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="play3.ks"  size="20"  text="Sexual Harassment 1"  x="555"  y="290"  width="400"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="play4.ks"  size="20"  text="Sexual Harassment 2"  x="555"  y="360"  width="400"  height="20"  _clickable_img=""  ]
+[glink  color="black"  storage="play5.ks"  size="20"  text="Sexual Harassment 3"  x="555"  y="430"  width="400"  height="20"  _clickable_img=""  ]
 [s  ]
 *ka999
 
