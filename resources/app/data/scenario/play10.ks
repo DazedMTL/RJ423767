@@ -1876,7 +1876,7 @@ Aaaahhhhhhhhh♥[p]
 [tb_cg  id="258"  ]
 [tb_start_text mode=1 ]
 #
-Dopuッッ!![p]
+Dopu!![p]
 #Nikuyama
 Oh...[p]
 I can't...[p]
@@ -3852,7 +3852,7 @@ Ahh♥[p]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
 #
-Dopuッッ!![p]
+Dopu!![p]
 #Hayase
 Ahhhhhhhhhhh♥...[p]
 Ah...![p]
@@ -4308,7 +4308,7 @@ release it...![p]
 [bg  time="1000"  method="crossfade"  storage="game262-4.jpg"  ]
 [tb_start_text mode=1 ]
 #
-Dopuッッ!![p]
+Dopu!![p]
 #Fujino
 Ahhhhhhhhh!!...[p]
 ♥[p]

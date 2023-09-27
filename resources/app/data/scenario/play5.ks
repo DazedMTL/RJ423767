@@ -1800,7 +1800,7 @@ Oh, what's this?[p]
 Staring at me with a defiant look.[p]
 [_tb_end_text]
 
-[glink  color="black"  storage="play5.ks"  size="20"  target="*do2e1"  text="鼻フックする"  x="500"  y="360"  width="120"  height="20"  ]
+[glink  color="black"  storage="play5.ks"  size="20"  target="*do2e1"  text="鼻フクする"  x="500"  y="360"  width="120"  height="20"  ]
 [glink  color="black"  storage="play5.ks"  size="20"  target="*do2e2"  text="そのまま"  width="120"  height="20"  x="500"  y="430"  ]
 [s  ]
 *do2e1
@@ -2129,7 +2129,7 @@ Hey, lift your face up and look over here.[p]
 [bg  time="1000"  method="crossfade"  storage="game152-2.jpg"  ]
 [tb_start_text mode=1 ]
 #
-Dopuッッ!![p]
+Dopu!![p]
 #Kirishima
 Ahh...[p]
 Unn...[p]

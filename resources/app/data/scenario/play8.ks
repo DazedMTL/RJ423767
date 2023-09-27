@@ -2202,7 +2202,7 @@ Nghiiii![p]
 [bg  time="1000"  method="crossfade"  storage="game183-3.jpg"  ]
 [tb_start_text mode=1 ]
 #
-Bpyuッッ!![p]
+Bpyu!![p]
 #Kaori
 Nooo...[p]
 Stop...[p]
@@ -2216,7 +2216,7 @@ Ahh...[p]
 ngh...[p]
 don't look...[p]
 #
-Bpyuッッ...[p]
+Bpyu...[p]
 Bubabba![p]
 #Nikuyama
 Ugh, how disgusting![p]

@@ -549,7 +549,7 @@ Ora.[p]
 [bg  time="1000"  method="crossfade"  storage="game188-3.jpg"  ]
 [tb_start_text mode=1 ]
 #
-Dopuッッ!![p]
+Dopu!![p]
 #Kaori
 Nnnn...[p]
 Ahh...[p]
@@ -1210,7 +1210,7 @@ Ora![p]
 [bg  time="1000"  method="crossfade"  storage="game188-3.jpg"  ]
 [tb_start_text mode=1 ]
 #
-Dopuッッ!![p]
+Dopu!![p]
 #Kaori
 Nnnn...[p]
 Nhihhhh ♥[p]

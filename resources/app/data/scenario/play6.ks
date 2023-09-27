@@ -991,7 +991,7 @@ Ahhh♥[p]
 [bg  time="1000"  method="crossfade"  storage="game185-6.jpg"  ]
 [tb_start_text mode=1 ]
 #
-Dopuッッ!![p]
+Dopu!![p]
 #Kaori
 Ahhhhh!![p]
 It feels so goooood♥[p]
@@ -1023,7 +1023,7 @@ I'm gonna cum...[p]
 [bg  time="1000"  method="crossfade"  storage="game185-5.jpg"  ]
 [tb_start_text mode=1 ]
 #
-Dopuッッ!![p]
+Dopu!![p]
 #Kaori
 Ahhhhh♥...[p]
 Unn♥[p]
@@ -2148,7 +2148,7 @@ Ora, impregnate...![p]
 [tb_cg  id="185"  ]
 [tb_start_text mode=1 ]
 #
-Dopuッッ!![p]
+Dopu!![p]
 #Kaori
 Haaaan♥[p]
 #Nikuyama
@@ -2181,7 +2181,7 @@ Unn♥[p]
 [bg  time="1000"  method="crossfade"  storage="game185-5.jpg"  ]
 [tb_start_text mode=1 ]
 #
-Dopuッッ!![p]
+Dopu!![p]
 #Kaori
 Nfuhh♥[p]
 #Nikuyama

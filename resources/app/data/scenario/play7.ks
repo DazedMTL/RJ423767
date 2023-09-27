@@ -857,7 +857,7 @@ I'm going to cum...[p]
 [bg  time="1000"  method="crossfade"  storage="game254-2.jpg"  ]
 [tb_start_text mode=1 ]
 #
-Dopuッッ!![p]
+Dopu!![p]
 #Kaori
 ♥[p]
 #Nikuyama
