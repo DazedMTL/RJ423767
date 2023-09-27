@@ -454,8 +454,7 @@ Butt... *gulp* Snap! Snap! Snap![p]
 #Hayase
 I-Is it... enough already...?[p]
 #Nikuyama
-Wait a moment. I'm going to examine the way the flesh attaches to the buttocks. Hmmm... As I thought, the muscles are well developed and the fat is thin.[p]
-*Groping*[p]
+Wait a moment. I'm going to examine the way the flesh attaches to the buttocks. Hmmm... As I thought, the muscles are well developed and the fat is thin. *Groping*[p]
 #Hayase
 Ah... ngh...[p]
 #Kimoto
@@ -1194,8 +1193,7 @@ Haa... Haa... Nnn... Fuu...[p]
 #Nikuyama
 How are you feeling now?[p]
 #Hayase
-Ah... Yes...[p]
-Haaah[p]
+Ah... Yes... Haaah[p]
 #Nikuyama
 Alright, then I'll go deep inside.[p]
 #
@@ -1261,57 +1259,45 @@ Ahh!... Haan... Ahh... Kuuh...![p]
 #Nikuyama
 How is it? Aren't you starting to feel a little good?[p]
 #
-*Slap! * *Slap! * *Slap![p]
-*[p]
+*Slap! * *Slap! * *Slap! *[p]
 #Hayase
 Ahh!... A... I don't know... Ahh... It feels... strange... Eek![p]
 #Nikuyama
 It feels really good for me. Hayase's pussy is amazing.[p]
 #
-*Slap! * *Slap! * *Slap![p]
-*[p]
+*Slap! * *Slap! * *Slap! *[p]
 #Hayase
 Eh?... Ahn... Yaa... I can't believe... Unn...![p]
 #Nikuyama
 I did say it was a medical procedure, but honestly, the doctor seems really excited. You can tell that their cock is rock hard, right?[p]
 #
-*Slap! * *Slap! * *Slap![p]
-*[p]
+*Slap! * *Slap! * *Slap! *[p]
 #Hayase
-Ahh!?... S-Something like that... Ahii♥...[p]
-Afuu[p]
+Ahh!?... S-Something like that... Ahii♥... Afuu[p]
 #Nikuyama
 Hayase, you should have more confidence in yourself. After all, you have such an attractive body, hehehe.[p]
 #
-*Slap! * *Slap! * *Slap![p]
-*[p]
+*Slap! * *Slap! * *Slap! *[p]
 #Hayase
-Ahh♥... T-Teacher... Ahh... my body... Ahh...[p]
-Ahh♥[p]
+Ahh♥... T-Teacher... Ahh... my body... Ahh... Ahh♥[p]
 #Nikuyama
 Hayase, this is what real sex is! Remember it well with your body... like this![p]
 #
-*Slap! * *Slap! * *Slap![p]
-*[p]
+*Slap! * *Slap! * *Slap! *[p]
 #Hayase
-Nnnn... Ahh... Aahh... It feels...[p]
-Ahhhhh♥[p]
+Nnnn... Ahh... Aahh... It feels... Ahhhhh♥[p]
 #Nikuyama
 Fuu... I can't hold back anymore. I'm going to pick up the pace soon.[p]
 #
-*Slap! * *Slap! * *Slap! * *Slap![p]
-*[p]
+*Slap! * *Slap! * *Slap! * *Slap! *[p]
 #Hayase
-Ahh! W-Wait... Nhi♥ I-I'm going to... break...[p]
-Haaan♥[p]
+Ahh! W-Wait... Nhi♥ I-I'm going to... break... Haaan♥[p]
 #Nikuyama
 Here it comes... I'm going to cum inside! Take my teacher's semen firmly...[p]
 #
-*Slap! * *Slap! * *Slap! * *Slap![p]
-*[p]
+*Slap! * *Slap! * *Slap! * *Slap! *[p]
 #Hayase
-Ahh!? Ahh...[p]
-Aaaahhhhhhhhh♥[p]
+Ahh!? Ahh... Aaaahhhhhhhhh♥[p]
 
 
 [_tb_end_text]
@@ -1324,15 +1310,13 @@ Dopu!![p]
 #Nikuyama
 Oh... I can't... take it anymore...![p]
 #Hayase
-Ahhh! Ahii...[p]
-Nhaa♥[p]
+Ahhh! Ahii... Nhaa♥[p]
 #
 *[p]
 #Nikuyama
 Ohhh... creampie in a high school girl's virgin pussy... Uhi![p]
 #Hayase
-Ahh... Haa...[p]
-Haan♥[p]
+Ahh... Haa... Haan♥[p]
 #
 ・・・・・・・・・[p]
 [_tb_end_text]
@@ -1514,15 +1498,13 @@ Kukuku, are you surprised because you only know Miyoshi's small penis? This is a
 #
 *squelch* *squelch*[p]
 #Akai
-Nhaa... Ahn!... Aah... My... my crotch is...[p]
-Ahh♥[p]
+Nhaa... Ahn!... Aah... My... my crotch is... Ahh♥[p]
 #Nikuyama
 I'm sorry, Akai. If you taste the teacher's penis, you might not feel anything anymore with Miyoshi's penis.[p]
 #
 *squelch* *squelch* *squelch*[p]
 #Akai
-Ku... Nnn... Th-That's not... true...! Shunya is...[p]
-Ahh♥[p]
+Ku... Nnn... Th-That's not... true...! Shunya is... Ahh♥[p]
 #Nikuyama
 I see, in that case, I won't hold back and thrust into you. I have to make sure you feel good with real sex.[p]
 Here we go![p]
@@ -1535,15 +1517,13 @@ If it feels good, you can say it feels good. Girls being honest is the best, heh
 #
 *squelch* *squelch* *squelch*[p]
 #Akai
-Yaa... W-Who... Ahii♥...[p]
-Haann♥[p]
+Yaa... W-Who... Ahii♥... Haann♥[p]
 #Nikuyama
 Look, Miyoshi's small dick wouldn't be able to penetrate this deep. Take this![p]
 #
 *squelch* *squeeze* *squelch*[p]
 #Akai
-Nghh!? Haa... Th-There... Nooo♥ It's...[p]
-Ahh♥[p]
+Nghh!? Haa... Th-There... Nooo♥ It's... Ahh♥[p]
 #Nikuyama
 Do you feel my cock hitting your uterus? When I thrust here, your body will be filled with the pleasure of being a female, hehehe.[p]
 #
@@ -1554,16 +1534,13 @@ Nnnnhh♥[p]
 #Nikuyama
 Is this your first time cumming? Come on, let me make you cum with my cock, sensei...![p]
 #
-*Squelch! * *Splat! * *Squish![p]
-*[p]
+*Squelch! * *Splat! * *Squish! *[p]
 #Akai
-Ahh♥ Ahh... Nngh♥... Uhh...[p]
-Hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii♥[p]
+Ahh♥ Ahh... Nngh♥... Uhh... Hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii♥[p]
 #Nikuyama
 Hehehe, you came so loudly. You have quite a cute voice.[p]
 #Akai
-Nn... Haa♥... Hafu...[p]
-Ahh♥[p]
+Nn... Haa♥... Hafu... Ahh♥[p]
 #Nikuyama
 How does it feel to reach climax for the first time with a man's cock? You all used to call me a gorilla and make fun of me, but it's not so bad to be brought to submission by a gorilla's cock, right?[p]
 Guhuhu.[p]
@@ -1575,81 +1552,63 @@ What are you saying? The real thing is just beginning! Sensei hasn't cum yet, yo
 *Squelch![p]
 *[p]
 #Akai
-Th-there...!? Ahh♥ I-I can't...[p]
-Aahh♥[p]
+Th-there...!? Ahh♥ I-I can't... Aahh♥[p]
 #Nikuyama
 This is different from the sloppy sex of a kid. Today, I'm going to take care of you with real adult sex, so get ready![p]
 #
-*Squelch! * *Splat![p]
-*[p]
+*Squelch! * *Splat! *[p]
 #Akai
-Ahh♥ Ahn... Ahh...[p]
-No, stop♥[p]
+Ahh♥ Ahn... Ahh... No, stop♥[p]
 #Nikuyama
 You've had a bad attitude for a while now, and no matter how much I warned you, you never listened, huh?[p]
 Hm?[p]
 #
-*Squelch! * *Splat![p]
-*[p]
+*Squelch! * *Splat! *[p]
 #Akai
-Ahh♥ Ahh... Th-that spot...[p]
-Ahhh♥[p]
+Ahh♥ Ahh... Th-that spot... Ahhh♥[p]
 #Nikuyama
 Ora ora! What's wrong? This is the dick of the teacher you've been making fun of, you know! Ora![p]
 #
-*Squelch! * *Splat![p]
-*[p]
+*Squelch! * *Splat! *[p]
 #Akai
-Hii... Nngh... I-I'm sorry... Ahhh♥...[p]
-Aahh♥[p]
+Hii... Nngh... I-I'm sorry... Ahhh♥... Aahh♥[p]
 #Nikuyama
 A delinquent student like you needs some dick education. Ora, I'll inject some spirit into you![p]
 #
-*Squelch! * *Splat![p]
-*[p]
+*Squelch! * *Splat! *[p]
 #Akai
 Ahh♥ Ahnn♥ Hii...[p]
 Afuu♥[p]
 #Nikuyama
 How about it? Which one is better, Miyoshi's dick or the teacher's dick? Answer honestly.[p]
 #
-*Squelch! * *Splat![p]
-*[p]
+*Squelch! * *Splat! *[p]
 #Akai
-Nngh♥ Th-that... Shunya... ngh♥... of course... it's... nghaa♥...[p]
-nghaah♥[p]
+Nngh♥ Th-that... Shunya... ngh♥... of course... it's... nghaa♥... nghaah♥[p]
 #Nikuyama
 What's that? Your voice is too quiet. Answer clearly![p]
 #
-*Squelch! * *Splat! * *Squish![p]
-*[p]
+*Squelch! * *Splat! * *Squish! *[p]
 #Akai
-Ahhhh♥... T-teacher... ngh... Nhhaa♥...[p]
-aaannn♥[p]
+Ahhhh♥... T-teacher... ngh... Nhhaa♥... aaannn♥[p]
 #Nikuyama
 They say Mr. Nikuyama's dick feels much better. Ora![p]
 #
-*Squelch! * *Splat! * *Squish![p]
-*[p]
+*Squelch! * *Splat! * *Squish! *[p]
 #Akai
-Hiiin... N-Nikuyama-sensei's... Haa... c-cock feels...[p]
-ughhh♥[p]
+Hiiin... N-Nikuyama-sensei's... Haa... c-cock feels... ughhh♥[p]
 #Nikuyama
 Say, I'm sorry for having such an arrogant attitude until now![p]
 #
-*Squelch! * *Splat! * *Squish![p]
-*[p]
+*Squelch! * *Splat! * *Squish! *[p]
 #Akai
-Nnghhh... I-I've been...[p]
-I'm so sorryyy♥[p]
+Nnghhh... I-I've been... I'm so sorryyy♥[p]
 #Nikuyama
 Good job, well said. As a reward, I'll make you come as much as you want... Here we go![p]
 #
-*Squelch! * *Splat! * *Squish![p]
-*[p]
+*Squelch! * *Splat! * *Squish! *[p]
 #Akai
-Ahhhhh♥... Hiiii♥... I-I can't take it anymore♥...[p]
-going to cum♥[p]
+Ahhhhh♥... Hiiii♥... I-I can't take it anymore♥... going to cum♥[p]
 #Nikuyama
 It's about time... for the finish...! I'm going to fill you up inside...![p]
 #Akai
@@ -1662,20 +1621,17 @@ Ahhhhh♥ Unghhhhhhh♥[p]
 #
 *[p]
 #Akai
-Nnnn♥... Ahhh...[p]
-♥[p]
+Nnnn♥... Ahhh... ♥[p]
 #Nikuyama
 Ohh... punishing a cheeky gal JK with a creampie is the best![p]
 #
 Bububububururu...![p]
 #Akai
-Ahhh♥ Ahh... It's... coming out deep inside...[p]
-♥[p]
+Ahhh♥ Ahh... It's... coming out deep inside... ♥[p]
 #Nikuyama
 This is what real sex is, Akai. Remember it with your body, muhihihi.[p]
 #Akai
-Ahh... Y-Yes...[p]
-♥[p]
+Ahh... Y-Yes... ♥[p]
 #
 ・・・・・・・・・[p]
 [_tb_end_text]
@@ -1927,8 +1883,7 @@ Hmm, is this the uterus?[p]
 #
 Tsun tsun[p]
 #Tsuyama
-Ugh!?... Hauu... *panting*... M-my...[p]
-Haaah[p]
+Ugh!?... Hauu... *panting*... M-my... Haaah[p]
 #Nikuyama
 As expected, your loli pussy is tight. Oh, your stomach is bulging from my dick, it's visible even from the outside.[p]
 #Tsuyama
@@ -1944,8 +1899,7 @@ Good job. Well then, I'll start thrusting my penis in and out.[p]
 *Squelch...[p]
 *[p]
 #Tsuyama
-Hau... ngi...[p]
-nn[p]
+Hau... ngi... nn[p]
 #Nikuyama
 *Sigh*... Looking at it like this, it's really small. It's just like a live masturbator. Look, look.[p]
 #
@@ -1984,8 +1938,7 @@ Ugh... Hic!... Fuu... Haa...[p]
 #Nikuyama
 *Mwah*[p]
 #Tsuyama
-Ahh!? Yaa...[p]
-Haa[p]
+Ahh!? Yaa... Haa[p]
 #Nikuyama
 It hurts because you think it hurts. Just think that it feels good.[p]
 #
@@ -1996,30 +1949,25 @@ Haa... Haa... Haa... Hic.[p]
 #Nikuyama
 Come on, say it out loud. Say that the penis feels good.[p]
 #
-*Squelch... slurp...[p]
-*[p]
+*Squelch... slurp... *[p]
 #Tsuyama
-Ahh!... Haa... The, the penis...[p]
-Hagu~[p]
+Ahh!... Haa... The, the penis... Hagu~[p]
 #Nikuyama
 Good, it feels good for you too, Sensei. Tsuyama's pussy feels really good![p]
 #
-*Squelch... slurp...[p]
-*[p]
+*Squelch... slurp... *[p]
 #Tsuyama
 Haa... Hic... Nnnn--![p]
 #Nikuyama
 Tsuyama's pussy feels so good that my penis milk is about to shoot out, haa haa.[p]
 #
-*Squelch... slurp...[p]
-*[p]
+*Squelch... slurp... *[p]
 #Tsuyama
 Ahh... Noo... Ahh... Mama... Mamaa![p]
 #Nikuyama
 Mama won't come even if you call her. I'm gonna shoot my load directly into your womb...![p]
 #
-*Squelch... slurp...[p]
-*[p]
+*Squelch... slurp... *[p]
 #Tsuyama
 Higiiii!? Aaah... Haa... Haaa...[p]
 #Nikuyama
@@ -2036,8 +1984,7 @@ Ahhhhhhhhh...![p]
 #Nikuyama
 Ohh... I'm gonna creampie your loli pussy...[p]
 #
-*Squelch... slurp...[p]
-*[p]
+*Squelch... slurp... *[p]
 #Tsuyama
 Ahh... Hii... Haa... Fuu...[p]
 #Nikuyama
@@ -2226,8 +2173,7 @@ Now, come over here after you've taken off all your clothes, hehehe.[p]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="マダムの口紅.mp3"  ]
 [tb_start_text mode=1 ]
 #Fujino
-Ah... Ahh...[p]
-Haa[p]
+Ah... Ahh... Haa[p]
 #
 Squeeze, squeeze, squeeze.[p]
 #Nikuyama
@@ -2240,20 +2186,17 @@ That's right, Fujino. I explained earlier, but it's very dangerous for a healthy
 If you were to have a misguided first experience with an inexperienced man in your current state, it could potentially trigger the onset of nymphomania.[p]
 That's why I, as your doctor, am providing you with a simulated sexual experience to ensure the correct sexual experience beforehand.[p]
 #Fujino
-Y-Yes... Ahh... The correct...[p]
-Ahh♥[p]
+Y-Yes... Ahh... The correct... Ahh♥[p]
 #Nikuyama
 I'll make sure to thoroughly squeeze these big breasts, hehehe.[p]
 #
 Squeeze, squeeze, squeeze.[p]
 #Fujino
-Ahh... Unn♥... It's...[p]
-Ahh♥[p]
+Ahh... Unn♥... It's... Ahh♥[p]
 #Nikuyama
 Fujino's body is so sexy that my cock is already rock hard. Can you feel it pressing against your back?[p]
 #Fujino
-Ah... Y-yes...[p]
-Haa♥[p]
+Ah... Y-yes... Haa♥[p]
 #Nikuyama
 Has Fujino ever kissed before?[p]
 #Fujino
@@ -2266,8 +2209,7 @@ Ah... Eh...?[p]
 #Nikuyama
 *smooch*[p]
 #Fujino
-Nngh...!? Nngh...[p]
-*smooch*[p]
+Nngh...!? Nngh... *smooch*[p]
 #Nikuyama
 *sucking noises* ... Hmmpf.[p]
 #Fujino
@@ -2277,16 +2219,13 @@ What, this is just a medical procedure. There's no need to count it as a first k
 #Fujino
 Eh... Is that so...?[p]
 #Nikuyama
-That's right. So relax and let our tongues entwine more.[p]
-*sucking noises*[p]
+That's right. So relax and let our tongues entwine more. *sucking noises*[p]
 #Fujino
-Nnmu... Chubba... Aah... S-sensei...[p]
-Lick, lick ♥[p]
+Nnmu... Chubba... Aah... S-sensei... Lick, lick ♥[p]
 #Nikuyama
 Chubba... Chu... Mmm... Fujino's saliva is delicious... Chubba.[p]
 #Fujino
-Ahh... Lick, lick ♥...[p]
-Chum ♥[p]
+Ahh... Lick, lick ♥... Chum ♥[p]
 #Nikuyama
 Nnmu... Chubba... Lick, lick... Momi momi momi momi...[p]
 #Fujino
@@ -2300,13 +2239,11 @@ Nn... Mmm!? Haah... S-sensei, t-that place... Ahh![p]
 #Nikuyama
 What's this, you're already wet. Did you get turned on by my kiss? Hm?[p]
 #Fujino
-Haa... S-something like that...[p]
-Afu ♥[p]
+Haa... S-something like that... Afu ♥[p]
 #Nikuyama
 Look, you're making squishy sounds. Your breasts were being fondled and you were feeling it, huh? What a perverted body, muhihihi.[p]
 #Fujino
-Ahh ♥... Th-that... Nngh ♥...[p]
-Ahh ♥[p]
+Ahh ♥... Th-that... Nngh ♥... Ahh ♥[p]
 #Nikuyama
 I'm praising you. Being perverted is a good thing. It means you're normal as a woman.[p]
 #Fujino
@@ -2319,16 +2256,14 @@ Haaan ♥... B-but... Ahh... Yaaan ♥... Haa...[p]
 #Nikuyama
 Here, let me kiss you more. Stick out your tongue, lickety-lick.[p]
 #Fujino
-Ahh... Mmm... Lick, lick... Smooch ♥... Haah...[p]
-♥[p]
+Ahh... Mmm... Lick, lick... Smooch ♥... Haah... ♥[p]
 #Nikuyama
 Chu... I will thoroughly develop Fujino's body into that of a woman, sensei. So relax and entrust yourself to me.[p]
 #
 Squeeze, squeeze...[p]
 *suck*[p]
 #Fujino
-Nnnggghh ♥... Haaan... Ahh ♥... Y-yes...[p]
-Unngghh ♥[p]
+Nnnggghh ♥... Haaan... Ahh ♥... Y-yes... Unngghh ♥[p]
 #
 ・・・・・・・・・[p]
 
@@ -2398,18 +2333,15 @@ Ahh...! Haa... Afu...[p]
 #Nikuyama
 How is it? It didn't hurt as much as you thought, right?[p]
 #Fujino
-Haa... Y-Yes... It's tingling a bit...[p]
-Hafuu[p]
+Haa... Y-Yes... It's tingling a bit... Hafuu[p]
 #Nikuyama
 Anyway, with this, Fujino has become a full-fledged woman. Congratulations.[p]
 #Fujino
-Nn... Yes...[p]
-Ahh♥[p]
+Nn... Yes... Ahh♥[p]
 #Nikuyama
 The first cock to enter Fujino's pussy has become Sensei's cock. Sensei is also very happy.[p]
 #Fujino
-Ahh... It's embarrassing...[p]
-Haa♥[p]
+Ahh... It's embarrassing... Haa♥[p]
 #Nikuyama
 Of course, this is just simulated sex, so it's not officially Fujino's first experience. The fact that Sensei became Fujino's first man is a secret between the two of us.[p]
 #Fujino
@@ -2426,18 +2358,15 @@ Nfuu[p]
 #Nikuyama
 Be conscious of the cock inside your pussy. Move your hips up and down as if you're stroking the cock with your pussy.[p]
 #Fujino
-Y-Yes... Nn...[p]
-Haa♥[p]
+Y-Yes... Nn... Haa♥[p]
 #Nikuyama
 This position is called cowgirl. Remember it. In this sex position, the woman takes the lead while the man just lies down.[p]
 #Fujino
-Y-Yes... Nn...[p]
-Haa♥[p]
+Y-Yes... Nn... Haa♥[p]
 #Nikuyama
 You can use Sensei's cock however you like. Try to make yourself feel good.[p]
 #Fujino
-Nn... S-So...[p]
-Ahh♥[p]
+Nn... S-So... Ahh♥[p]
 #Nikuyama
 For now, try increasing the speed a little and move rhythmically.[p]
 #Fujino
@@ -2447,23 +2376,19 @@ Nn♥[p]
 [bg  time="1000"  method="crossfade"  storage="game262-3.jpg"  ]
 [tb_start_text mode=1 ]
 #Fujino
-Ahh... Nn...[p]
-Ahn♥[p]
+Ahh... Nn... Ahn♥[p]
 #
 *slurp*... *squish*...[p]
 #Nikuyama
 Yes, that's good. It's okay to drop your body heavily onto Sensei's body even more.[p]
 #Fujino
-Y-Yes... Nn...[p]
-Ahhnn♥[p]
+Y-Yes... Nn... Ahhnn♥[p]
 #
-*Slap! *...[p]
-*[p]
+*Slap! *... *[p]
 #Nikuyama
 I see, the cock should be hitting deep inside. Can you feel Sensei's cock touching your womb, Fujino?[p]
 #Fujino
-Ahh♥... H-Hahi...[p]
-Unhaa♥[p]
+Ahh♥... H-Hahi... Unhaa♥[p]
 #Nikuyama
 You see, a regular guy's cock won't cut it. It takes a strong cock like Sensei's to reach that far, hehehe.[p]
 #Fujino
@@ -2480,31 +2405,26 @@ Haaah♥[p]
 #Nikuyama
 Squeeze your pussy tight. Feel the swollen part of the cock's glans against the walls of your vagina.[p]
 #Fujino
-Nn... Hiiin♥ Ahh...[p]
-Haaahh[p]
+Nn... Hiiin♥ Ahh... Haaahh[p]
 #
 *Slap![p]
 *[p]
 #Nikuyama
 How is it? There must be a pleasurable spot, right? Your hips can't stop moving, hehehe.[p]
 #Fujino
-Ahh♥... Haa... Somehow... my body...[p]
-Ahfu♥[p]
+Ahh♥... Haa... Somehow... my body... Ahfu♥[p]
 #Nikuyama
 It's okay, feel as good as you want. Show Sensei all of your naughty parts, hehehe.[p]
 #Fujino
-Ahh... Aahh... I'm... starting to feel...[p]
-Ahh♥[p]
+Ahh... Aahh... I'm... starting to feel... Ahh♥[p]
 #Nikuyama
 This is the pleasure of sex. It's not a bad thing at all, so go ahead and fully taste Sensei's cock.[p]
 #Fujino
-H-Hahi... Ahfuun♥...[p]
-Nnngghh♥[p]
+H-Hahi... Ahfuun♥... Nnngghh♥[p]
 #Nikuyama
 That's right, make your strokes bigger! Lift your hips higher and drop them all at once! Yes, yes![p]
 #
-*Slap! * *Slap![p]
-*[p]
+*Slap! * *Slap! *[p]
 #Fujino
 Ahfu♥ Aahh...[p]
 Aaann♥[p]
@@ -2515,11 +2435,9 @@ Aaaah... S-Sensei... Ahh... I can't... anymore... Ahh♥...[p]
 #Nikuyama
 Ohh, are you going to climax during your first time having sex? That's amazing, Fujino! You're an honor student even in sex![p]
 #
-*Slap! * *Slap![p]
-*[p]
+*Slap! * *Slap! *[p]
 #Fujino
-Nnnn... Hii♥... Ku...[p]
-Haan♥[p]
+Nnnn... Hii♥... Ku... Haan♥[p]
 #Nikuyama
 Alright, Sensei is going to cum...! Fujino, tighten your pussy around my cock![p]
 #Fujino
@@ -2541,19 +2459,16 @@ Ahh... I'm being squeezed...![p]
 #
 *[p]
 #Fujino
-Ahh... Nn...[p]
-♥[p]
+Ahh... Nn... ♥[p]
 #Nikuyama
 *panting* I...[p]
 *pant*[p]
 #Fujino
-Ahh... Ahh...[p]
-Haa♥[p]
+Ahh... Ahh... Haa♥[p]
 #Nikuyama
 *sigh*... Fujino's pussy felt so good that I ended up cumming inside, hehehe.[p]
 #Fujino
-Ahh... Inside...[p]
-Ahhnn♥[p]
+Ahh... Inside... Ahhnn♥[p]
 #Nikuyama
 Oh, looks like you're acting all dazed from your first climax. You're such a cute one... Mufufu.[p]
 #
@@ -2679,8 +2594,7 @@ Y-Yes...[p]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="music54.mp3"  ]
 [tb_start_text mode=1 ]
 #
-*Thud! Thud![p]
-*[p]
+*Thud! Thud! *[p]
 #Hayase
 Ahh... Aahh... Haa... Ahii...[p]
 #Nikuyama
@@ -2693,11 +2607,9 @@ Aann♥[p]
 #Nikuyama
 You've started to make cute sounds too, haven't you? Has my cock gotten used to you?[p]
 #
-*Thud! Thud![p]
-*[p]
+*Thud! Thud! *[p]
 #Hayase
-Ahh... Th-That... Nngh...[p]
-Ahh♥[p]
+Ahh... Th-That... Nngh... Ahh♥[p]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -2713,8 +2625,7 @@ I'm going to fill Hayase's womb with my semen, sensei![p]
 #
 Bububu...![p]
 #Hayase
-Ahh... It's coming out...[p]
-Ahh♥[p]
+Ahh... It's coming out... Ahh♥[p]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -2778,31 +2689,25 @@ Ahhh!?[p]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="music54.mp3"  ]
 [tb_start_text mode=1 ]
 #
-*Squelch! * *Squelch![p]
-*[p]
+*Squelch! * *Squelch! *[p]
 #Akai
 Ahh... Haa... Kuh... Ahhin...[p]
 #Nikuyama
 What's wrong, Akai? Your voice won't stop when I thrust inside you. If it feels good, just say it honestly.[p]
 #
-*Squelch! * *Squelch![p]
-*[p]
+*Squelch! * *Squelch! *[p]
 #Akai
-Nn... It feels... good...[p]
-Haa ♥[p]
+Nn... It feels... good... Haa ♥[p]
 #Nikuyama
 It's useless to pretend like that. I already know your weak points. Now, come on, say It feels good.[p]
 #
-*Squelch! * *Squelch![p]
-*[p]
+*Squelch! * *Squelch! *[p]
 #Akai
-Ahh!? Ahh... It feels... goooood ♥ Hii...[p]
-good, toooo ♥[p]
+Ahh!? Ahh... It feels... goooood ♥ Hii... good, toooo ♥[p]
 #Nikuyama
 You said it properly, well done. As a reward, I'll make you come.[p]
 #
-*Squelch! * *Squelch![p]
-*[p]
+*Squelch! * *Squelch! *[p]
 #Akai
 Hii ♥...[p]
 Ahhhhh ♥[p]
@@ -2819,15 +2724,13 @@ Stopppp ♥[p]
 #
 *[p]
 #Akai
-Ahh... It's coming out...[p]
-Nnnn ♥[p]
+Ahh... It's coming out... Nnnn ♥[p]
 #Nikuyama
 Take my semen firmly in your uterus.[p]
 #
 *[p]
 #Akai
-Ahh... No...[p]
-Haaan ♥[p]
+Ahh... No... Haaan ♥[p]
 #
 ・・・・・・・・・[p]
 [_tb_end_text]
@@ -2892,25 +2795,21 @@ Y-Yes...[p]
 #
 *moaning sounds*[p]
 #Tsuyama
-Ahh... nfuu...[p]
-hnn♥[p]
+Ahh... nfuu... hnn♥[p]
 #Nikuyama
 You don't seem to be in pain anymore. Does sensei's penis feel good?[p]
 #Tsuyama
-Haa... I-I don't know...[p]
-hafuu♥[p]
+Haa... I-I don't know... hafuu♥[p]
 #Nikuyama
 You shouldn't lie. Children who lie will have their uterus poked.[p]
 #
 Zoom! Zoom![p]
 #Tsuyama
-Ahh!? Naaahh♥... S-Sorry... It feels good... sensei's penis...[p]
-♥[p]
+Ahh!? Naaahh♥... S-Sorry... It feels good... sensei's penis... ♥[p]
 #Nikuyama
 As a reward for being honest, I'll keep thrusting until you pee yourself~♪[p]
 #Tsuyama
-Yaaahh!? Aaann♥...[p]
-nhiiiiiii♥[p]
+Yaaahh!? Aaann♥... nhiiiiiii♥[p]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -2993,17 +2892,14 @@ Y-Yes...[p]
 [bg  time="1000"  method="crossfade"  storage="game272.jpg"  ]
 [tb_start_text mode=1 ]
 #Nikuyama
-Mmm... slurp... Fujino's saliva tastes delicious.[p]
-*smack* *lick*[p]
+Mmm... slurp... Fujino's saliva tastes delicious. *smack* *lick*[p]
 #Fujino
-Mmm... *kiss*... Ahh... *lick*...[p]
-*lick*[p]
+Mmm... *kiss*... Ahh... *lick*... *lick*[p]
 #Nikuyama
 Mmm... no matter how much I fondle them, I never get tired of Fujino's breasts. Oh, your nipples are getting hard.[p]
 Are you feeling it from the teacher's kiss?[p]
 #Fujino
-Nn... Ah...[p]
-Nnn♥[p]
+Nn... Ah... Nnn♥[p]
 #Nikuyama
 Let's see... Oh, it's true. Your lewd juices are already overflowing, aren't they?[p]
 #
@@ -3013,8 +2909,7 @@ Ahh... Ah... It's... embarrassing... *moans* Ahh...[p]
 #Nikuyama
 Fujino really does have a sensitive body. They were a virgin until just recently, hehehe.[p]
 #Fujino
-Ahh... Nnn♥...[p]
-Ahh♥[p]
+Ahh... Nnn♥... Ahh♥[p]
 #Nikuyama
 What's this, can't wait for my cock anymore? You're such a naughty one, Fujino. Alright, alright, I'll take good care of you with my cock, hehehe.[p]
 #Fujino
@@ -3032,8 +2927,7 @@ Afuun♥[p]
 #Nikuyama
 Fujino has become quite bold. Look at those bouncing breasts, they're completely obsessed with my cock.[p]
 #Fujino
-Nn♥... Ahh...[p]
-Ahii♥[p]
+Nn♥... Ahh... Ahii♥[p]
 #Nikuyama
 It's fine. You can move however you want and feel good.[p]
 #Fujino
@@ -3041,8 +2935,7 @@ Ahh... ♥ H-Hai... Nn... ♥ T-Teacher... Does it feel... good for you too...?[
 #Nikuyama
 Ahh, it feels so good. Fujino's pussy feels too good, my cock is about to explode... Ohhh...[p]
 #Fujino
-Ahh♥... I-Inside me... Nfuuh... Please...[p]
-♥[p]
+Ahh♥... I-Inside me... Nfuuh... Please... ♥[p]
 #Nikuyama
 Fujino, how did you become able to say such erotic things... I'm happy, teacher. Alright, let's come together...![p]
 #Fujino
@@ -3063,13 +2956,11 @@ Whoa... I'm still going to cum...[p]
 #
 Buruburuburu...![p]
 #Fujino
-Ahh... Hii...[p]
-♥[p]
+Ahh... Hii... ♥[p]
 #Nikuyama
 Phew... I've been completely drained of my semen.[p]
 #Fujino
-Haa... Haa... Nn...[p]
-♥[p]
+Haa... Haa... Nn... ♥[p]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]

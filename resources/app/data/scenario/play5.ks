@@ -393,8 +393,7 @@ Hii!? Nnn♥ No, no...![p]
 #Nikuyama
 Hey, keep your posture steady. If you fall, there will be punishment. Hehehe.[p]
 #Kirishima
-Kuh... It's impossible...[p]
-Ahn♥[p]
+Kuh... It's impossible... Ahn♥[p]
 #Nikuyama
 I guess there's no other choice. I'll support you as well.[p]
 #
@@ -407,8 +406,7 @@ I'm supporting you, you know. Come on, focus on the anus.[p]
 #
 *Rub rub rub, squeeze squeeze squeeze*[p]
 #Kirishima
-Ah... ku... ahin♥...[p]
-ahfu♥[p]
+Ah... ku... ahin♥... ahfu♥[p]
 #Nikuyama
 Oh my, what's wrong? I hope you didn't just get aroused from a simple examination, did you?[p]
 #Kirishima
@@ -438,13 +436,11 @@ Come on, cum...![p]
 #
 *[p]
 #Kirishima
-Ahh... nkuu...[p]
-nnnnn♥[p]
+Ahh... nkuu... nnnnn♥[p]
 #Nikuyama
 Did you come? Please say it with your own mouth.[p]
 #Kirishima
-Nhaa... I-I came...[p]
-Haah♥[p]
+Nhaa... I-I came... Haah♥[p]
 #Nikuyama
 Hehehe, well, I suppose that's enough for today. I'll spare you this time.[p]
 #Kirishima
@@ -492,8 +488,7 @@ You want me to play with this naughty butt of yours, don't you? Come on.[p]
 #
 *Squelch*...![p]
 #Kirishima
-Ah... ku...[p]
-h[p]
+Ah... ku... h[p]
 #Nikuyama
 Oh, are you trying to resist by tightening your anus? How cheeky... Hmph![p]
 #
@@ -513,8 +508,7 @@ There, let me finger your anus and make you cum...[p]
 #
 Grind, grind, grind![p]
 #Kirishima
-Ahii♥ Ku... ngh...[p]
-nnnnnhh♥[p]
+Ahii♥ Ku... ngh... nnnnnhh♥[p]
 #
 ・・・・・・・・・[p]
 
@@ -667,13 +661,11 @@ W-Wait... This is... pre-cum? This clear liquid... Is it okay for me to lick it.
 #Nikuyama
 Of course. I love all women. Especially nymphomaniac Kirishima-sensei, I think I'll enjoy her. Hehehe.[p]
 #Kirishima
-Th-There's no way I would... hmm...[p]
-*licks*[p]
+Th-There's no way I would... hmm... *licks*[p]
 #Nikuyama
 How does my love juice taste?[p]
 #Kirishima
-S-Somehow... it's a little salty...[p]
-*licks*[p]
+S-Somehow... it's a little salty... *licks*[p]
 #Nikuyama
 Hmm, well, you'll get used to it eventually and become addicted. Well then, shall I have you start sucking it soon?[p]
 #Kirishima
@@ -703,8 +695,7 @@ That's right, pucker your lips more... like you're sucking on it.[p]
 #Nikuyama
 Hey, your tongue is resting. You need to use not only your lips but also your tongue.[p]
 #Kirishima
-Mmm... Lick... Suck...[p]
-*slurping sounds* *sucking sounds* *kissing sounds*[p]
+Mmm... Lick... Suck... *slurping sounds* *sucking sounds* *kissing sounds*[p]
 #Nikuyama
 Press harder on the sensitive spot... You're such a pervert, but you're slow on the uptake. With that kind of attitude, you won't become a proper sex worker.[p]
 #Kirishima
@@ -731,8 +722,7 @@ S-Stop...[p]
 [bg  time="1000"  method="crossfade"  storage="game150-4.jpg"  ]
 [tb_start_text mode=1 ]
 #Kirishima
-*Lick, lick... *Suck*...[p]
-*Suck*[p]
+*Lick, lick... *Suck*... *Suck*[p]
 #Nikuyama
 That's right, it feels good. You can do it if you try. Mufufu.[p]
 #Kirishima
@@ -947,8 +937,7 @@ Ugh... It smells... *lick* *lick* *lick*... Ugh... *lick* *lick* *lick*...[p]
 #Nikuyama
 How does it taste, the sweaty and musky ball sack after a day of sweating?[p]
 #Kirishima
-It's... bitter... and... disgusting... *suck* *lick* *lick* *lick* *lick*...[p]
-*suck*[p]
+It's... bitter... and... disgusting... *suck* *lick* *lick* *lick* *lick*... *suck*[p]
 #Nikuyama
 Hehehe, shall we have you start sucking soon?[p]
 #Kirishima
@@ -958,14 +947,12 @@ Mmm... Hah...[p]
 [bg  time="1000"  method="crossfade"  storage="game150-3.jpg"  ]
 [tb_start_text mode=1 ]
 #Kirishima
-Mmm... *sucking sounds*... *sucking sounds*... *sucking sounds*...[p]
-*slurping sound*[p]
+Mmm... *sucking sounds*... *sucking sounds*... *sucking sounds*... *slurping sound*[p]
 #Nikuyama
 Oh, that's great. Your practice is paying off, isn't it? With this, you might be able to make me cum.[p]
 Keep up the good work.[p]
 #Kirishima
-Ugh... *sucking sounds*... *sucking sounds*... *sucking sounds*...[p]
-*slurping sound*[p]
+Ugh... *sucking sounds*... *sucking sounds*... *sucking sounds*... *slurping sound*[p]
 #Nikuyama
 That's right, don't forget about the tongue. Not just the underside, but the entire head as well...[p]
 #Kirishima
@@ -977,8 +964,7 @@ It's good, as expected, the prodigy's improvement in fellatio is fast, hehehe.[p
 #Nikuyama
 Come on, don't let go of your mouth. If you slack off, we won't finish within the time limit.[p]
 #Kirishima
-*Gulp*... *Suck*... *Suck*... *Suck*... *Suck*... *Slurp*...[p]
-*Lick* *Lick* *Lick*[p]
+*Gulp*... *Suck*... *Suck*... *Suck*... *Suck*... *Slurp*... *Lick* *Lick* *Lick*[p]
 #Nikuyama
 That's right, keep it up. I'll make sure to give you plenty of delicious semen, so... let's pick up the pace soon.[p]
 [_tb_end_text]
@@ -987,8 +973,7 @@ That's right, keep it up. I'll make sure to give you plenty of delicious semen, 
 [tb_cg  id="150"  ]
 [tb_start_text mode=1 ]
 #Kirishima
-Nn... *sucking sounds*... *sucking sounds*... *sucking sounds*...[p]
-*slurping sound*[p]
+Nn... *sucking sounds*... *sucking sounds*... *sucking sounds*... *slurping sound*[p]
 #Nikuyama
 Oh... that's good, suck harder![p]
 #Kirishima
@@ -1012,8 +997,7 @@ Mmm...![p]
 #Nikuyama
 Come on, drink it... suck it out firmly![p]
 #Kirishima
-Mmm... *gulp*...[p]
-*kiss*[p]
+Mmm... *gulp*... *kiss*[p]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game154-1.jpg"  ]
@@ -1028,8 +1012,7 @@ Oh... I can't hold it anymore! It's still coming out...![p]
 Pyu pyu...[p]
 dopi[p]
 #Kirishima
-Mmm... *gulp*... *smooch*...[p]
-*sigh*[p]
+Mmm... *gulp*... *smooch*... *sigh*[p]
 #
 ・・・・・・・・・[p]
 [_tb_end_text]
@@ -1111,8 +1094,7 @@ Ugh...[p]
 [bg  time="1000"  method="crossfade"  storage="game150-2.jpg"  ]
 [tb_start_text mode=1 ]
 #Kirishima
-N... Lick... Kiss...[p]
-Ahh[p]
+N... Lick... Kiss... Ahh[p]
 #Nikuyama
 That's right, first you need to use your tongue to carefully clean the sweat that has accumulated on the penis.[p]
 Don't forget about the sweaty and smelly scrotum as well.[p]
@@ -1228,8 +1210,7 @@ It's still coming out... Suck it out...![p]
 [bg  time="1000"  method="crossfade"  storage="game154-1.jpg"  ]
 [tb_start_text mode=1 ]
 #Kirishima
-Nn... Gulp... Chumuu ♥ Nchuuhh... Gulp...[p]
-Gokun ♥[p]
+Nn... Gulp... Chumuu ♥ Nchuuhh... Gulp... Gokun ♥[p]
 #Nikuyama
 Phew~ It came out, it came out. Now, make sure to suck up all the semen that remained in the urethra.[p]
 #Kirishima
@@ -1238,8 +1219,7 @@ Gokku ♥[p]
 #Nikuyama
 Once you've sucked out every last drop, make sure to clean the cock with your tongue.[p]
 #Kirishima
-N... Licking...[p]
-Chum[p]
+N... Licking... Chum[p]
 #Nikuyama
 That's just proper etiquette for a blowjob, muhihihi.[p]
 #Kirishima
@@ -1490,8 +1470,7 @@ Nn... Chupu... Lero lero... Chubba...[p]
 #Nikuyama
 I think about how to make a man feel good and give a blowjob. Just having the technique is not enough.[p]
 #Kirishima
-Gu... Ju-pu...[p]
-Chupa[p]
+Gu... Ju-pu... Chupa[p]
 #Nikuyama
 And sometimes, you need some momentum! Make some vulgar noises![p]
 #Kirishima
@@ -1538,8 +1517,7 @@ N... Ugh...[p]
 #Nikuyama
 Hey, don't just space out. After the blowjob, you should clean up my dick, right?[p]
 #Kirishima
-Kuh... Yes...[p]
-*slurping sound*[p]
+Kuh... Yes... *slurping sound*[p]
 #Nikuyama
 You shouldn't wipe off what's on your face. Properly gather it with your fingers and enjoy it deliciously.[p]
 #Kirishima
@@ -1564,8 +1542,7 @@ Ora... suck more...[p]
 #
 Dopu pyu pyu pu!![p]
 #Kirishima
-Nn... *kissing sound* Gokku...[p]
-*swallowing sound*[p]
+Nn... *kissing sound* Gokku... *swallowing sound*[p]
 #Nikuyama
 Ahh... I came, I came. It's the best to make a cheeky perverted girl like you drink my semen directly.[p]
 #Kirishima
@@ -1745,8 +1722,7 @@ Hmm, it's tight and my finger won't go in easily.[p]
 #
 Grind, grind, grind.[p]
 #Kirishima
-Ahh!? Ahh... Kuh, more...[p]
-Nhaa[p]
+Ahh!? Ahh... Kuh, more... Nhaa[p]
 #Nikuyama
 Come on, if you don't relax your muscles...[p]
 #Kirishima
@@ -1935,19 +1911,15 @@ Yes, you said it well. Then, as a reward, I'll make you come with your anus.[p]
 #
 Grind, grind, grind.[p]
 #Kirishima
-Nghii!? Nnghh♥ Th-there...[p]
-ahann♥[p]
+Nghii!? Nnghh♥ Th-there... ahann♥[p]
 #Nikuyama
 You feel it here, right? It's the backside of your prostate. If I dig into this spot, you won't be able to resist, come on, come on.[p]
 #Kirishima
-Nnghh... Haa...[p]
-Nnnnghhhhh♥[p]
+Nnghh... Haa... Nnnnghhhhh♥[p]
 #Nikuyama
-Kukuku, have you already come? What a loose asshole.[p]
-Uhahaha[p]
+Kukuku, have you already come? What a loose asshole. Uhahaha[p]
 #Kirishima
-Nhaa... ku...[p]
-t[p]
+Nhaa... ku... t[p]
 #
 ・・・・・・・・・[p]
 [_tb_end_text]
@@ -2070,8 +2042,7 @@ Kuh... Nchu... Peropero...[p]
 #Nikuyama
 Look, the next ball is coming out. The anus is opening... Hehehe.[p]
 #Kirishima
-Ah... Kuh...[p]
-Chubba[p]
+Ah... Kuh... Chubba[p]
 #Nikuyama
 I will thoroughly train and develop your anus to make you a skilled perverted woman. Muhuhu.[p]
 #Kirishima
@@ -2079,13 +2050,11 @@ Kuh... Why... Why am I... Ahh...[p]
 #Nikuyama
 Hey, don't slack off with your tongue. Concentrate on the cock.[p]
 #Kirishima
-Kuh... Chubba... Lick...[p]
-Nhaa[p]
+Kuh... Chubba... Lick... Nhaa[p]
 #Nikuyama
 If you slack off on the blowjob, I'll pull it out all at once, hehehe.[p]
 #Kirishima
-No... Stop... N...[p]
-Hamu♥[p]
+No... Stop... N... Hamu♥[p]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game236-4.jpg"  ]
@@ -2104,8 +2073,7 @@ Mmm!... Mm... Chubba...[p]
 #Nikuyama
 Kukuku, look, the next ball has come out. Your anus is all stretched out... it looks like you're taking a dump, guhahaha.[p]
 #Kirishima
-Nn... Lick... Lick...[p]
-Nhaa[p]
+Nn... Lick... Lick... Nhaa[p]
 #Nikuyama
 I'll keep pulling it out. Here.[p]
 #
@@ -2125,8 +2093,7 @@ Look, if you don't try harder to close your anus, the balls will keep getting dr
 #
 Guh...![p]
 #Kirishima
-Mmm... Chup...[p]
-Chubba[p]
+Mmm... Chup... Chubba[p]
 #Nikuyama
 Kukuku, yes, that's right. The muscles in your butt are trembling and shaking.[p]
 #Kirishima
@@ -2247,13 +2214,11 @@ Lick, lick, lick ♥[p]
 #Nikuyama
 Come on, try pushing it out yourself like when you take a shit.[p]
 #Kirishima
-Nn... Kuh...[p]
-Nn♥[p]
+Nn... Kuh... Nn♥[p]
 #Nikuyama
 Hehehe, it's coming out, it's coming out. Good, I can clearly see the contraction of your anus.[p]
 #Kirishima
-K... Chubba...[p]
-Nn♥[p]
+K... Chubba... Nn♥[p]
 #Nikuyama
 Alright, it's about time to finish you off. Don't wet yourself.[p]
 #Kirishima

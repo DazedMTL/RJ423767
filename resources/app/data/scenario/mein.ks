@@ -83,8 +83,7 @@ Sometimes we have to do some work too.[p]
 [tb_start_text mode=1 ]
 #
 Well, the brainwashing is progressing quite smoothly, but there are limits to doing naughty things with just a health examination.[p]
-So, in order to take it a step further, I've come up with an idea. It's a rather forceful method, but if it works well, the brainwashing should progress rapidly.[p]
-*knock knock*[p]
+So, in order to take it a step further, I've come up with an idea. It's a rather forceful method, but if it works well, the brainwashing should progress rapidly. *knock knock*[p]
 [_tb_end_text]
 
 [stopbgm  time="1000"  ]
@@ -739,8 +738,7 @@ m-masturbation? Putting something this big inside me... Really?... What does thi
 #
 Viiiiiiiiiiii...[p]
 #Kirishima
-Kyaa!? Th-this movement... it's lewd... If I put something like this inside... gulp... n-no, it's no good.[p]
-haa[p]
+Kyaa!? Th-this movement... it's lewd... If I put something like this inside... gulp... n-no, it's no good. haa[p]
 #
 ・・・・・・・・・[p]
 [_tb_end_text]
@@ -783,25 +781,21 @@ Nn... Ah, it's big... ngh... Unh...[p]
 #
 Nchu... Nuryu...[p]
 #Kirishima
-Ahh... it's tight... but... ngh...[p]
-haa[p]
+Ahh... it's tight... but... ngh... haa[p]
 #
 Nchu... Zupupu...[p]
 #Kirishima
-Haa... It's all in... My crotch... Full of...[p]
-Haa[p]
+Haa... It's all in... My crotch... Full of... Haa[p]
 #
 Nchu... Zupupu...[p]
 #Kirishima
-Ahh... It's completely different from fingers... Ahh♥ It feels like my body's...[p]
-Ahh♥[p]
+Ahh... It's completely different from fingers... Ahh♥ It feels like my body's... Ahh♥[p]
 
 #
 Zuppu... Nuchu...[p]
 #Kirishima
 Ahh... Nikuyama's... penis is... inside me... Ungh... It's different... It's not Nikuyama's... It belongs to someone else...[p]
-Unngh... This isn't Nikuyama's... It's so grotesque... pulsating with veins...[p]
-Unhahh[p]
+Unngh... This isn't Nikuyama's... It's so grotesque... pulsating with veins... Unhahh[p]
 #
 Squelch... squelch...[p]
 #Kirishima
@@ -831,8 +825,7 @@ Ahh... Ungh!... Ahfuhnn... Haa...[p]
 #
 Viiii~... Wheeeen... Viiii~...![p]
 #Kirishima
-Ahh!? Ahh... A-amazing... Ahhh♥ Ahhh... Ahhh... Unfuhh... Ahhh♥ Ahh... It's not good... I-I'm going to be made to cum by a...[p]
-♥[p]
+Ahh!? Ahh... A-amazing... Ahhh♥ Ahhh... Ahhh... Unfuhh... Ahhh♥ Ahh... It's not good... I-I'm going to be made to cum by a... ♥[p]
 #
 Viiii~... *Squish*! *Squish*! *Slurp*![p]
 #Kirishima
@@ -886,8 +879,7 @@ I wonder what kind of video it is... I'm getting nervous.[p]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="マダムの口紅.mp3"  ]
 [tb_start_text mode=1 ]
 #
-Name please... 'I'm Aki Chichikawa.[p]
-'[p]
+Name please... 'I'm Aki Chichikawa. '[p]
 #Kirishima
 So it starts with an interview... They're really beautiful. It's surprising that someone so beautiful is doing adult actress work...[p]
 #
@@ -918,8 +910,7 @@ I wasn't even allowed to take a shower. I was also frequently forced to give ora
 #Kirishima
 What a terrible man...! If it were me, I would definitely turn him over to the police for being obedient to such a man...![p]
 #
-Did you not think about cutting ties with them? 'I thought about it many times. But I couldn't resist their penis...[p]
-'[p]
+Did you not think about cutting ties with them? 'I thought about it many times. But I couldn't resist their penis... '[p]
 #Kirishima
 I-Is it really that amazing...? The penis... If I were violated by Nikuyama, would I end up like that too...?[p]
 No, there's no way! Who would end up like that with such a man...[p]
@@ -937,31 +928,26 @@ Ah...[p]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
 #
-*Thrust! Thrust! Thrust! * Ahn♥ Ahn♥ Ahn♥ Ahn♥ *Slap! Slap! Slap![p]
-Iiittt♥ Feels so goooooddd♥♥[p]
+*Thrust! Thrust! Thrust! * Ahn♥ Ahn♥ Ahn♥ Ahn♥ *Slap! Slap! Slap! Iiittt♥ Feels so goooooddd♥♥[p]
 #Kirishima
 *Gulp*... I-It's amazing... like a beast... That refined person... with something so big going in and out...[p]
 Is it as big as Nikuyama's...?[p]
 #
-*Smack! Smack![p]
-* Ahhhhhh♥♥ I'm cummingggggg♥♥[p]
+*Smack! Smack! * Ahhhhhh♥♥ I'm cummingggggg♥♥[p]
 #Kirishima
-Ah... I wonder if it feels that good... Real sex... Haah... It's getting me excited... Ah... S-Since we're already here, let's masturbate for today...[p]
-Haa♥[p]
+Ah... I wonder if it feels that good... Real sex... Haah... It's getting me excited... Ah... S-Since we're already here, let's masturbate for today... Haa♥[p]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game250-2.jpg"  ]
 [tb_start_text mode=1 ]
 #Kirishima
 Nn... Haah... Ahn♥ I also... want to be... like that... Nnn... Dominated by a strong man's body... Ahh...[p]
-With a filthy cock... violated... Nnn♥ Ahn♥ ... roughly thrusting... Ahii...[p]
-Feels so goood♥[p]
+With a filthy cock... violated... Nnn♥ Ahn♥ ... roughly thrusting... Ahii... Feels so goood♥[p]
 #
 *Suck...[p]
 *[p]
 #Kirishima
-Ahh... ungh♥... ahn... it feels... so good♥ I-I'm... g-gonna... cuuummmm...[p]
-aaahhhhh♥♥[p]
+Ahh... ungh♥... ahn... it feels... so good♥ I-I'm... g-gonna... cuuummmm... aaahhhhh♥♥[p]
 #
 ・・・・・・・・・[p]
 [_tb_end_text]
@@ -996,8 +982,7 @@ I-I haven't... ahh... can you please take it off...?[p]
 #Nikuyama
 Mufufu, well, it's fine, isn't it?[p]
 #Kirishima
-*Haa... ngh... click clack...[p]
-ahh♥*[p]
+*Haa... ngh... click clack... ahh♥*[p]
 
 [_tb_end_text]
 
@@ -1077,14 +1062,12 @@ Ahh...[p]
 #Nikuyama
 (Hehehe, they're intertwining their tongue more boldly than usual)[p]
 #Kirishima
-Mmm... Chu... Lick, lick, lick... Ahh♥ Nchu... Hngh... Nhaa♥ Are you...[p]
-Ahn[p]
+Mmm... Chu... Lick, lick, lick... Ahh♥ Nchu... Hngh... Nhaa♥ Are you... Ahn[p]
 #Nikuyama
 Not yet...[p]
 *smooch*[p]
 #Kirishima
-Ahh... Nngh...[p]
-Chu ba♥[p]
+Ahh... Nngh... Chu ba♥[p]
 #
 ・・・・・・・・・[p]
 [_tb_end_text]
@@ -1099,8 +1082,7 @@ Hngh♥[p]
 #
 Squeeze, squeeze, squeeze, squeeze...[p]
 #Kirishima
-Ahh... Fuu...[p]
-Yah♥[p]
+Ahh... Fuu... Yah♥[p]
 #
 Squeeze, squeeze, squeeze, squeeze...[p]
 #Kirishima
@@ -1118,8 +1100,7 @@ Look, even your nipples have become so hard and stiff like this.[p]
 #
 Squeeze, squeeze, squeeze, squeeze...[p]
 #Kirishima
-Ahh... No... Stop... Ahh...[p]
-Ngh♥[p]
+Ahh... No... Stop... Ahh... Ngh♥[p]
 #
 ・・・・・・・・・[p]
 [_tb_end_text]
@@ -1133,13 +1114,11 @@ N... Chu... Lick, lick...[p]
 #Nikuyama
 How about it? You've been wanting a real cock while I've been using a vibrator on you, haven't you? Mufufu.[p]
 #Kirishima
-Lick, lick... Th-there's no way... Chu... that would happen... Chu...[p]
-Chu♥[p]
+Lick, lick... Th-there's no way... Chu... that would happen... Chu... Chu♥[p]
 #Nikuyama
 You can lick as much as you like, you know.[p]
 #Kirishima
-Kuh... Lick, lick... Let's finish this quickly...[p]
-♥[p]
+Kuh... Lick, lick... Let's finish this quickly... ♥[p]
 
 [_tb_end_text]
 
@@ -1174,8 +1153,7 @@ gulp♥[p]
 #Nikuyama
 Oh... I'm cumming, I'm cumming. Make sure to suck it all out until the end. Drink every last drop, okay?[p]
 #Kirishima
-Nn... Chu... Gulp♥ Slurp... Gulp... Chu... Gulp♥ N... Chupon...[p]
-Afu♥[p]
+Nn... Chu... Gulp♥ Slurp... Gulp... Chu... Gulp♥ N... Chupon... Afu♥[p]
 #Nikuyama
 How was my thick, creamy semen? Did you find it delicious?[p]
 #Kirishima
@@ -1306,8 +1284,7 @@ Ahh...!?[p]
 #Nikuyama
 Mmm... Guh! (I did it...! I finally stuck my dick into Kirishima!)[p]
 #Kirishima
-I... all of a sudden...[p]
-nghh[p]
+I... all of a sudden... nghh[p]
 #Nikuyama
 Ohh... I can't take it...! (Damn, it feels too good...!)[p]
 #
@@ -1330,8 +1307,7 @@ Ngh... Huh...!)[p]
 #
 *squelch*... *slurp*... *slurp*...[p]
 #Kirishima
-Ahh... No... Ahn♥ Ahn♥ If you do it so intensely...[p]
-Nhaa♥[p]
+Ahh... No... Ahn♥ Ahn♥ If you do it so intensely... Nhaa♥[p]
 #Nikuyama
 As expected, Kirishima-sensei, your pussy is also perverted, huh? Guh-hehe.[p]
 #
@@ -1342,30 +1318,26 @@ Ahh♥[p]
 #Nikuyama
 Hehehe, you make such cute sounds. Does a real cock feel that good?[p]
 #Kirishima
-K... Nfuu... Haa...[p]
-Nn♥[p]
+K... Nfuu... Haa... Nn♥[p]
 #Nikuyama
 It's useless to hold back. Look! Is this place good? Look![p]
 #
 *squish* *grip*[p]
 #Kirishima
-Ahh!? Th-That place...[p]
-Aaahh♥[p]
+Ahh!? Th-That place... Aaahh♥[p]
 #Nikuyama
 Look! Look! Let my cock make you scream even more![p]
 #
 *squish* *grip*[p]
 #Kirishima
-Nhi... Nnnggg♥...[p]
-Nhaa♥[p]
+Nhi... Nnnggg♥... Nhaa♥[p]
 #Nikuyama
 Oh, did you cum a little? Your pussy squeezed and tried to milk out the semen, but it won't be that easy.[p]
 I pulled out once, so I'll continue to take good care of you. Muhihihi.[p]
 #
 *squish* *grip* *slurp*[p]
 #Kirishima
-Ahh... Th-that...[p]
-Nnn♥[p]
+Ahh... Th-that... Nnn♥[p]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game263-1.jpg"  ]
@@ -1387,8 +1359,7 @@ You've become captivated by my sex, haven't you? There's no way the naughty Kiri
 #
 *Squish*... *Slurp*...![p]
 #Kirishima
-Ahh... Wh-who...[p]
-Ahh♥[p]
+Ahh... Wh-who... Ahh♥[p]
 #Nikuyama
 It's no good, you're still trying to hold back. Suppressing your desires is the cause of nymphomania.[p]
 You need to free your mind and be honest with yourself about pleasure. I have to make you feel even better.[p]
@@ -1409,13 +1380,11 @@ Ahh♥[p]
 Do you understand? This is your cervix. Your uterus is coming down to welcome my cock. Hurry up and give me your semen![p]
 In other words, Kirishima-sensei's lewd body wants to get pregnant with my child. Gufufu.[p]
 #Kirishima
-W-who... Nngh...[p]
-Ahh♥[p]
+W-who... Nngh... Ahh♥[p]
 #Nikuyama
 You mustn't go against your instincts. Accept pleasure, come on, say that my cock feels good, horehore.[p]
 #Kirishima
-Ahh... No...[p]
-Nnghh♥[p]
+Ahh... No... Nnghh♥[p]
 #Nikuyama
 You're stubborn, aren't you? Do you want me to thrust harder? Horehore.[p]
 #
@@ -1428,34 +1397,27 @@ Even with this, aren't you feeling good? Ora! Ora![p]
 #
 *Thrust*... *Thrust*... *Thrust*...[p]
 #Kirishima
-Ahh!? Yaa...[p]
-Nhihhh♥[p]
+Ahh!? Yaa... Nhihhh♥[p]
 #Nikuyama
 Did you cum again? But I won't forgive you. Horehorehore![p]
 #
-*Squish! * *Squish![p]
-*[p]
+*Squish! * *Squish! *[p]
 #Kirishima
-Ahh! S-Stop... Ahh!... Ahh♥ M-My body... it's...[p]
-Ahhh♥[p]
+Ahh! S-Stop... Ahh!... Ahh♥ M-My body... it's... Ahhh♥[p]
 #Nikuyama
 Do you admit that my cock feels good?[p]
 #Kirishima
-Nhaa... I-I admit it...![p]
-Ahh♥[p]
+Nhaa... I-I admit it...! Ahh♥[p]
 #Nikuyama
 You need to say it with your own mouth. Say, Your cock feels good.[p]
 #Kirishima
-Ahhhhh♥... Y-Your...[p]
-feels so goooood♥[p]
+Ahhhhh♥... Y-Your... feels so goooood♥[p]
 #Nikuyama
 Whose cock feels good?[p]
 #
-*Squish! * *Squish![p]
-*[p]
+*Squish! * *Squish! *[p]
 #Kirishima
-Ahhnn♥... N-Nikuyama-sensei's...[p]
-feels so goooood♥[p]
+Ahhnn♥... N-Nikuyama-sensei's... feels so goooood♥[p]
 #Nikuyama
 Hehehe, you said it well. As a reward, I'll give you a kiss.[p]
 
@@ -1465,17 +1427,14 @@ Hehehe, you said it well. As a reward, I'll give you a kiss.[p]
 [tb_cg  id="263"  ]
 [tb_start_text mode=1 ]
 #Kirishima
-Mmm!?... Nnnnghhhh...[p]
-♥[p]
+Mmm!?... Nnnnghhhh... ♥[p]
 #Nikuyama
 Lick...[p]
 *kiss*[p]
 #
-*Squish! * *Squish![p]
-*[p]
+*Squish! * *Squish! *[p]
 #Kirishima
-Ahh... L-Lick...[p]
-Mmmmm♥[p]
+Ahh... L-Lick... Mmmmm♥[p]
 #Nikuyama
 *Lick*...[p]
 *Mwah*[p]
@@ -1490,16 +1449,13 @@ Nnpuu... Haa... Why... Why are you... doing something like that―――Nmm![p]
 *Mchu-*... *Chu-ba*... *Lick*... *Plop-haa*... It's part of the treatment. Accept your own lewdness and pleasure without resistance.[p]
 Come on, say Please make me feel good with your cock even more.[p]
 #
-*Thrust! * *Thrust![p]
-*[p]
+*Thrust! * *Thrust! *[p]
 #Kirishima
-Ahh... Unhaa...[p]
-say something like that――― Nmuu♥[p]
+Ahh... Unhaa... say something like that――― Nmuu♥[p]
 #Nikuyama
 *Squish*... *Chu-ba*... *Lick*... *Plop-haa*... I won't stop until you become honest with yourself. Do you want me to make you feel even better?[p]
 #
-*Squish! * *Nup![p]
-*[p]
+*Squish! * *Nup! *[p]
 #Kirishima
 Ahh♥ Ahh... Please stop... Mmm♥ *kiss*... Lick... Ahhnn♥... I-I understand... I'll say it... I'll say it![p]
 P-Please...[p]
@@ -1512,11 +1468,9 @@ Ahh♥[p]
 #Nikuyama
 Come on, be honest with yourself.[p]
 #
-*Squish! * *Nup![p]
-*[p]
+*Squish! * *Nup! *[p]
 #Kirishima
-Ahn♥ Ahn♥ Hau... K-Kaori is... a-a horny woman who... loves cock...[p]
-Ahfu♥[p]
+Ahn♥ Ahn♥ Hau... K-Kaori is... a-a horny woman who... loves cock... Ahfu♥[p]
 #Nikuyama
 Hehehe, you said it well. As you wish, I'll make you feel good with plenty of cock.[p]
 
@@ -1525,8 +1479,7 @@ Hehehe, you said it well. As you wish, I'll make you feel good with plenty of co
 [bg  time="1000"  method="crossfade"  storage="game253-4.jpg"  ]
 [tb_start_text mode=1 ]
 #
-*Squish! * *Squish![p]
-*[p]
+*Squish! * *Squish! *[p]
 #Kirishima
 Ahh♥ Ahh♥ Aaahh♥[p]
 #Nikuyama
@@ -1540,32 +1493,27 @@ Nnnn♥[p]
 #Nikuyama
 Hehehe, it seems you like this place. Ora ora![p]
 #
-*Squish! * *Squish![p]
-*[p]
+*Squish! * *Squish! *[p]
 #Kirishima
 Nnn♥ Eee----♥[p]
 #Nikuyama
 Hehehe, you came again. What a loose pussy you have, even though you're such a horny slut. You've been rejecting cocks until now...[p]
 Reflect on your actions, damn it![p]
 #
-*Squish! * *Squish![p]
-*[p]
+*Squish! * *Squish! *[p]
 #Kirishima
-Ahiiii♥ M-mou... Nnnn...[p]
-Nhi♥[p]
+Ahiiii♥ M-mou... Nnnn... Nhi♥[p]
 #Nikuyama
 It's about time I reach my limit too... I'll give it one last push...[p]
 #
-*Slap! * *Slap! * *Slap![p]
-*[p]
+*Slap! * *Slap! * *Slap! *[p]
 #Kirishima
 Hii♥ Ahh...[p]
 Aaahhhh♥[p]
 #Nikuyama
 Ora ora ora...![p]
 #
-*Slap! * *Slap! * *Slap! * *Slap![p]
-*[p]
+*Slap! * *Slap! * *Slap! * *Slap! *[p]
 #Kirishima
 Ahiiii♥ Nnn----♥ Aaaahhh♥[p]
 #Nikuyama

@@ -296,8 +296,7 @@ I'll make sure to firmly engrave the shape of my dick into your pussy.[p]
 #
 *squelch*... *slurp*...[p]
 #Kaori
-Nhaa♥... Afu...[p]
-t[p]
+Nhaa♥... Afu... t[p]
 #
 [_tb_end_text]
 
@@ -310,8 +309,7 @@ Haah... Ahn♥... Nfuhh...[p]
 #Nikuyama
 Hey, does my dick feel good? You can speak your true feelings during sex.[p]
 #Kaori
-Nn... It feels...[p]
-Nhi♥[p]
+Nn... It feels... Nhi♥[p]
 #Nikuyama
 I see, I see. Well then, I'll have to entertain you even more.[p]
 #
@@ -329,28 +327,22 @@ Haann♥[p]
 #Nikuyama
 Alright, alright, should I make you cum quickly? Hoii.[p]
 #
-*Thrust! * *Thrust![p]
-*[p]
+*Thrust! * *Thrust! *[p]
 #Kaori
-Ahh!... Ku... n...[p]
-♥[p]
+Ahh!... Ku... n... ♥[p]
 #Nikuyama
 Oh, are you holding back from cumming? You're such a horny woman, acting all arrogant. Alright then, I'll show you my true intentions...[p]
 Ora![p]
 #
-*Thrust! * *Thrust! * *Thrust![p]
-*[p]
+*Thrust! * *Thrust! * *Thrust! *[p]
 #Kaori
-Nnnn... Ku...[p]
-♥[p]
+Nnnn... Ku... ♥[p]
 #Nikuyama
 Ora ora ora![p]
 #
-*Thrust! * *Thrust! * *Thrust![p]
-*[p]
+*Thrust! * *Thrust! * *Thrust! *[p]
 #Kaori
-Ahhh... Hii...[p]
-♥[p]
+Ahhh... Hii... ♥[p]
 #Nikuyama
 Kukuku, you came so easily. Have you realized that you can't beat my cock?[p]
 #Kaori
@@ -359,32 +351,25 @@ Haa ♥[p]
 #Nikuyama
 It's the best to make a cock teach a cheeky female teacher her place, muhihihihi.[p]
 #
-*Slap! * *Slap! * *Slap![p]
-*[p]
+*Slap! * *Slap! * *Slap! *[p]
 #Kaori
-Ahh... No...[p]
-Ahiiii ♥[p]
+Ahh... No... Ahiiii ♥[p]
 #Nikuyama
 Ora, feel free to come as many times as you want, you horny woman![p]
 #
-*Slap! * *Slap! * *Slap![p]
-*[p]
+*Slap! * *Slap! * *Slap! *[p]
 #Kaori
-Nnnn... Hii... Ahh... I'm...[p]
-Ahhhh ♥[p]
+Nnnn... Hii... Ahh... I'm... Ahhhh ♥[p]
 #Nikuyama
 I'll make sure you can't live without my cock, muhihihihi.[p]
 #
-*Slap! * *Slap! * *Slap![p]
-*[p]
+*Slap! * *Slap! * *Slap! *[p]
 #Kaori
-Nhaa ♥... No, Iyaa...[p]
-I, I'm losing to your cockkk ♥[p]
+Nhaa ♥... No, Iyaa... I, I'm losing to your cockkk ♥[p]
 #Nikuyama
 Alright... It's about time I make myself come too...![p]
 #
-*Slap! * *Slap! * *Slap! * *Slap![p]
-*[p]
+*Slap! * *Slap! * *Slap! * *Slap! *[p]
 
 [_tb_end_text]
 
@@ -402,8 +387,7 @@ Ohhh...[p]
 #
 Bubbling...![p]
 #Kaori
-Ahh... Nn...[p]
-♥[p]
+Ahh... Nn... ♥[p]
 #Nikuyama
 Phew... I came...[p]
 #
@@ -649,8 +633,7 @@ Y-Yes...[p]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="music54.mp3"  ]
 [tb_start_text mode=1 ]
 #
-*Spank! * *Spank![p]
-*[p]
+*Spank! * *Spank! *[p]
 #Nikuyama
 Hey, are you feeling good, you perverted woman![p]
 #Kaori
@@ -664,41 +647,34 @@ Nnghh♥[p]
 #Nikuyama
 You're shaking your big tits so much! You female cow![p]
 #
-*Spank! * *Spank![p]
-*[p]
+*Spank! * *Spank! *[p]
 #Kaori
 Hiiin♥[p]
 #Nikuyama
 You're moaning ahn ahn while getting your pussy fucked in this sacred school! Don't you feel sorry for the students?![p]
 #Kaori
-Ahh♥ Th-that... is...[p]
-Ahiiin♥[p]
+Ahh♥ Th-that... is... Ahiiin♥[p]
 #Nikuyama
 Don't talk back! The only responses allowed from you are I'm sorry and Thank you.[p]
 #
-*Spank! * *Spank![p]
-*[p]
+*Spank! * *Spank! *[p]
 #Kaori
-K... I'm sorry... Ahh♥...[p]
-Uhhnn♥[p]
+K... I'm sorry... Ahh♥... Uhhnn♥[p]
 #Nikuyama
 Ora, cum![p]
 #
-*Spank! * *Spank! * *Spank![p]
-*[p]
+*Spank! * *Spank! * *Spank! *[p]
 #Kaori
 Nn...[p]
 iiieeeee♥[p]
 #Nikuyama
 Hehehe, if I make you cum, you'll have something to say, won't you?[p]
 #Kaori
-Nfuu♥... Hii... Ah, thank you...[p]
-Nn♥[p]
+Nfuu♥... Hii... Ah, thank you... Nn♥[p]
 #Nikuyama
 Alright, it's time for the final sprint![p]
 #
-*Spank! * *Spank! * *Spank! * *Spank![p]
-*[p]
+*Spank! * *Spank! * *Spank! * *Spank! *[p]
 [_tb_end_text]
 
 [glink  color="black"  storage="play6.ks"  size="20"  text="I'm going to cum inside"  target="*p240a"  width="110"  height="20"  x="510"  y="360"  ]
@@ -727,8 +703,7 @@ It feels so goooood♥[p]
 #
 Bubbling...![p]
 #Kaori
-Ahh... I-it's coming out...[p]
-Ahh♥[p]
+Ahh... I-it's coming out... Ahh♥[p]
 #Nikuyama
 Ugh... I've been squeezed dry by this perverted pussy again, hehehe.[p]
 #Kaori
@@ -948,8 +923,7 @@ Ugh... Lick... Ugh... Ahh...[p]
 #Nikuyama
 Hehehe, what's wrong? Lick it more thoroughly.[p]
 #Kaori
-Kuh... Lick...[p]
-Lero[p]
+Kuh... Lick... Lero[p]
 #Nikuyama
 That's right, lick up all the sweat and dirt that's stuck to my feet with your tongue.[p]
 #Kaori
@@ -957,8 +931,7 @@ Ugh... Lick... Lick lick... Lero...[p]
 #Nikuyama
 Lick between my fingers too. It must be dirty there.[p]
 #Kaori
-Ugh... Lick... Lick lick...[p]
-Wee[p]
+Ugh... Lick... Lick lick... Wee[p]
 #Nikuyama
 Don't try to deceive me by drooling. Lick it thoroughly and swallow it. If you drool on the floor, I'll make you lick the floor.[p]
 #Kaori
@@ -974,8 +947,7 @@ Ugh... Lick... Lick lick... Lero... Gulp...[p]
 #Nikuyama
 At this pace, we won't finish. I'm going to make you do it until every single one of my toes is sparkling clean.[p]
 #Kaori
-No... ku... Lero Lero...[p]
-Goku[p]
+No... ku... Lero Lero... Goku[p]
 #Nikuyama
 Hey, stop dawdling and suck on my fingers and lick them with your tongue.[p]
 #Kaori
@@ -1008,39 +980,34 @@ Y-Yes...[p]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="music54.mp3"  ]
 [tb_start_text mode=1 ]
 #
-*Slap! * *Slap![p]
-*[p]
+*Slap! * *Slap! *[p]
 #Kaori
 Ahh♥ Ahh♥ Ahhh♥[p]
 #Nikuyama
 Hey hey, it's the dick you wanted. Feels good, huh?[p]
 #
-*Slap! * *Slap![p]
-*[p]
+*Slap! * *Slap! *[p]
 #Kaori
 Ahh...[p]
 Haa♥[p]
 #Nikuyama
 Can't even speak because it feels too good, huh? You horny female pig![p]
 #
-*Slap! * *Slap! * *Slap![p]
-*[p]
+*Slap! * *Slap! * *Slap! *[p]
 #Kaori
 Ahh♥...[p]
 Aahh♥[p]
 #Nikuyama
 Hey, say something![p]
 #
-*Slap! * *Slap! * *Slap! * *Slap![p]
-*[p]
+*Slap! * *Slap! * *Slap! * *Slap! *[p]
 #Kaori
 Nnnn...[p]
 Iiiii♥[p]
 #Nikuyama
 What are you selfishly cumming for, you piece of trash cum dumpster![p]
 #Kaori
-Kuu... Nhaa♥...[p]
-Ahnn♥[p]
+Kuu... Nhaa♥... Ahnn♥[p]
 #Nikuyama
 It's not over yet with just this level, come on.[p]
 [_tb_end_text]
@@ -1048,8 +1015,7 @@ It's not over yet with just this level, come on.[p]
 [bg  time="1000"  method="crossfade"  storage="game253-4.jpg"  ]
 [tb_start_text mode=1 ]
 #
-*Smack! * *Squish![p]
-*[p]
+*Smack! * *Squish! *[p]
 #Nikuyama
 I have to thoroughly discipline a pervert like you with my cock, you know.[p]
 #Kaori
@@ -1058,24 +1024,20 @@ Ahn♥ Ahnnn♥[p]
 #Nikuyama
 You're moaning so pleasurably. If you make such loud noises, it'll be heard outside, you know?[p]
 #
-*Squelch! * *Squelch![p]
-*[p]
+*Squelch! * *Squelch! *[p]
 #Kaori
-Nnn... Like that... Kuh...[p]
-Ahn♥[p]
+Nnn... Like that... Kuh... Ahn♥[p]
 #Nikuyama
 Well, there are probably only security guards left. If a security guard comes on patrol, I'll show them some sex, hehehe.[p]
 #
-*Squelch! * *Squelch![p]
-*[p]
+*Squelch! * *Squelch! *[p]
 #Kaori
 N-No...[p]
 Ahh♥[p]
 #Nikuyama
 What's the matter? Are you getting excited at the thought of being seen by others? Squeezing your pussy like that.[p]
 #
-*Squelch! * *Squelch![p]
-*[p]
+*Squelch! * *Squelch! *[p]
 #Kaori
 Nn...[p]
 Ahn♥ Ahnnn♥[p]
@@ -1108,8 +1070,7 @@ Ahhhhh!!...[p]
 #Nikuyama
 Ohh! I'm being squeezed...[p]
 #
-*Squelch! Squelch![p]
-*[p]
+*Squelch! Squelch! *[p]
 #Kaori
 Nn...[p]
 Ahh♥[p]
@@ -1136,24 +1097,20 @@ E... On my, face...! Nnn♥... On my face...![p]
 #Nikuyama
 Then, beg me to cum on your face.[p]
 #
-*Squelch! Squelch![p]
-*[p]
+*Squelch! Squelch! *[p]
 #Kaori
 Ahh♥ P-Please...[p]
 Nnn♥[p]
 #Nikuyama
 That won't do. I'm gonna cum inside you, hey![p]
 #
-*Squelch! Squelch![p]
-*[p]
+*Squelch! Squelch! *[p]
 #Kaori
-Noo... Ah... On my face... Please...[p]
-♥[p]
+Noo... Ah... On my face... Please... ♥[p]
 #Nikuyama
 Do you want me to cum on your face that much? Hm?[p]
 #Kaori
-Yes! I-I want... Nikuyama-sama's... Ahh♥ I want you to cum on my face...[p]
-♥[p]
+Yes! I-I want... Nikuyama-sama's... Ahh♥ I want you to cum on my face... ♥[p]
 #Nikuyama
 Alright, fine. I'll spray it on your face...[p]
 [_tb_end_text]
@@ -1178,8 +1135,7 @@ Mmm... Ah...![p]
 Stick out your tongue...[p]
 ngh[p]
 #
-*Squirt... Splash![p]
-*[p]
+*Squirt... Splash! *[p]
 #Kaori
 ♥[p]
 #Nikuyama
@@ -1410,8 +1366,7 @@ Y-You, you did wash it properly... right...?[p]
 #Nikuyama
 How rude. I did wash it. However, I didn't use the bidet because I took a dump at school this morning.[p]
 #Kaori
-... h...[p]
-h[p]
+... h... h[p]
 #Nikuyama
 What's wrong? Lick it quickly. If you give up, that's fine too, hehehe.[p]
 #Kaori
@@ -1462,20 +1417,17 @@ Well then, it's about time for your reward, the penis. You've been eagerly waiti
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
 #
-*Spank! Spank! Spank![p]
-*[p]
+*Spank! Spank! Spank! *[p]
 #Kaori
 Ahh... Ahh... Haa...[p]
 #Nikuyama
 Hey, I can hear you making pleasurable sounds. Show me at least a fake reaction that you're feeling something, you weak pussy.[p]
 #Kaori
-K... ku...[p]
-haa[p]
+K... ku... haa[p]
 #Nikuyama
 Oh, good. Can you endure it? Ora.[p]
 #
-*Spank! Spank! Spank![p]
-*[p]
+*Spank! Spank! Spank! *[p]
 #Kaori
 Nnnn...[p]
 Nhihh♥[p]
@@ -1485,16 +1437,14 @@ There's no way a perverted woman like you can beat my penis![p]
 
 [tb_start_text mode=1 ]
 #
-*Spank! Spank! Spank![p]
-*[p]
+*Spank! Spank! Spank! *[p]
 #Kaori
 Ahh...[p]
 Ahii♥[p]
 #Nikuyama
 You've been craving my cock since you were licking my asshole, haven't you? You're such a masochistic pervert![p]
 #Kaori
-Nnn... Who... Nhihh♥...[p]
-Haa[p]
+Nnn... Who... Nhihh♥... Haa[p]
 #Nikuyama
 You're pretending to resist, but deep down you actually want to become my sex slave, don't you? Huh?[p]
 #Kaori
@@ -1502,16 +1452,13 @@ W-Who... Nkuu... would... become your slave... Ahh♥ Absolutely... Nnngg♥ I-I
 #Nikuyama
 What a cheeky attitude. Haha, take this![p]
 #
-*Spank! Spank! Spank! Spank![p]
-*[p]
+*Spank! Spank! Spank! Spank! *[p]
 #Kaori
-Hnnn... Nnnn♥...[p]
-Haan♥[p]
+Hnnn... Nnnn♥... Haan♥[p]
 #Nikuyama
 Say that you'll become my sex slave! Ora ora![p]
 #
-*Spank! Spank! Spank! Spank![p]
-*[p]
+*Spank! Spank! Spank! Spank! *[p]
 #Kaori
 Ku...[p]
 Unn♥ Unn♥ Ahiiii♥[p]
@@ -1527,8 +1474,7 @@ Unn♥ Unn♥ Ahiiii♥[p]
 #Nikuyama
 Alright, I'm going to impregnate you. Are you happy? Ora![p]
 #Kaori
-Nnn... Iyann♥...[p]
-Ahii♥[p]
+Nnn... Iyann♥... Ahii♥[p]
 #Nikuyama
 Ora, impregnate...![p]
 [_tb_end_text]
@@ -1545,8 +1491,7 @@ Ugh... Mmmph.[p]
 #
 Byu byu byurubyu...[p]
 #Kaori
-Ahh... Unn♥...[p]
-Ahh♥[p]
+Ahh... Unn♥... Ahh♥[p]
 #Nikuyama
 Fwoo...[p]
 haha[p]
@@ -1712,41 +1657,33 @@ Kyaa![p]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="music54.mp3"  ]
 [tb_start_text mode=1 ]
 #
-*Slap! * *Slap! * *Slap![p]
-*[p]
+*Slap! * *Slap! * *Slap! *[p]
 #Kaori
 ♥[p]
 #Nikuyama
 Hey, how about it!? Try talking back to me with that defiant mouth! Hey![p]
 #
-*Slap! * *Slap! * *Slap![p]
-*[p]
+*Slap! * *Slap! * *Slap! *[p]
 #Kaori
-Ahh♥... Nhaa...[p]
-ughhh♥[p]
+Ahh♥... Nhaa... ughhh♥[p]
 #Nikuyama
 Dirty girls should just obediently submit to the cock! Got it?![p]
 #
-*Slap! * *Slap! * *Slap![p]
-*[p]
+*Slap! * *Slap! * *Slap! *[p]
 #Kaori
 Hii... Nnn... H-Hai... I-I understand... Ahh...[p]
 #Nikuyama
 Say, Thank you for raping me![p]
 #
-*Slap! * *Slap! * *Slap![p]
-*[p]
+*Slap! * *Slap! * *Slap! *[p]
 #Kaori
-Hii♥ Please... rape me... Nnnn... I'll gladly...[p]
-Th-thank you so muchhh♥[p]
+Hii♥ Please... rape me... Nnnn... I'll gladly... Th-thank you so muchhh♥[p]
 #Nikuyama
 I'm about to cum inside you! Are you happy?[p]
 #
-*Slap! * *Slap! * *Slap! * *Slap![p]
-*[p]
+*Slap! * *Slap! * *Slap! * *Slap! *[p]
 #Kaori
-Ahh♥... N-No... I-It's... not... please...[p]
-ughhh♥[p]
+Ahh♥... N-No... I-It's... not... please... ughhh♥[p]
 #Nikuyama
 What are you complaining about?! How insolent! I'm going to impregnate you...![p]
 #Kaori
@@ -1858,26 +1795,21 @@ Y-Yes... Master...[p]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="music54.mp3"  ]
 [tb_start_text mode=1 ]
 #
-*Slap! * *Slap! * *Slap![p]
-*[p]
+*Slap! * *Slap! * *Slap! *[p]
 #Kaori
 Unnghhhh♥[p]
 #Nikuyama
 Here's your reward cock, feeling good?[p]
 #
-*Slap! * *Slap! * *Slap![p]
-*[p]
+*Slap! * *Slap! * *Slap! *[p]
 #Kaori
-Ahh♥ I... It feels...[p]
-nghhh♥[p]
+Ahh♥ I... It feels... nghhh♥[p]
 #Nikuyama
 I'll make sure to instill in your body the joy of serving a man. I'll stroke you with my cock until you can't help but beg to be my flesh slave.[p]
 #
-*Slap! * *Slap! * *Slap![p]
-*[p]
+*Slap! * *Slap! * *Slap! *[p]
 #Kaori
-Nghh♥ Who... nnghh♥... would...[p]
-aahh♥[p]
+Nghh♥ Who... nnghh♥... would... aahh♥[p]
 #Nikuyama
 Hehehe, I wonder how long you can keep up that attitude? I have plenty of time today, so be prepared.[p]
 Hehehe.[p]

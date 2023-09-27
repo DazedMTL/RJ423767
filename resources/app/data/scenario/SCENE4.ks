@@ -59,8 +59,7 @@ Now, who should I call?[p]
 [tb_start_text mode=1 ]
 Michiru Hayase, a second-year student. They are in the track and field club and excel in jumping events.[p]
 They have a short haircut that suits them well and have a refreshing personality. They are the type of person with whom you can easily have a casual conversation regardless of gender.[p]
-Their breasts are small, but their trained butt and legs look delicious. They have been on my radar for a while now.[p]
-*Knock knock*[p]
+Their breasts are small, but their trained butt and legs look delicious. They have been on my radar for a while now. *Knock knock*[p]
 #Hayase
 Excuse me.[p]
 #

@@ -213,20 +213,17 @@ Guhihihihi![p]
 #
 Bang! Bang! Bang![p]
 #Kirishima
-Kuh... Ahn...[p]
-Ahii ♥[p]
+Kuh... Ahn... Ahii ♥[p]
 #Nikuyama
 It's the best feeling to make a cheeky female submit with my cock! Ora ora![p]
 #
 Bang! Bang! Bang! Bang![p]
 #Kirishima
-Nhaa! Ahh! Ahh! Ahh![p]
-♥[p]
+Nhaa! Ahh! Ahh! Ahh! ♥[p]
 #Nikuyama
 You have wicked tits, ora![p]
 #
-*Squeeze... Rub! Rub![p]
-*[p]
+*Squeeze... Rub! Rub! *[p]
 #Kirishima
 Haan ♥[p]
 #Nikuyama
@@ -234,8 +231,7 @@ Muhuhu[p]
 #
 Bang! Bang! Bang! Bang![p]
 #Kirishima
-Nhi... Ahh![p]
-Ahnn ♥[p]
+Nhi... Ahh! Ahnn ♥[p]
 #Nikuyama
 All you can do is moan, huh? Try saying that it doesn't feel good, you perverted woman![p]
 #
@@ -255,8 +251,7 @@ Oh, are you about to cum? How does it feel to be made to cum by a man you looked
 #
 Bang! Bang! Bang! Bang![p]
 #Kirishima
-Ahh... Unn! Unn![p]
-Ahh ♥[p]
+Ahh... Unn! Unn! Ahh ♥[p]
 #Nikuyama
 Fuhaa... I've been holding back too, so I'm reaching my limit. I'll release plenty inside you soon, hehehe![p]
 #
@@ -279,8 +274,7 @@ Ooh... Uh... Uhi.[p]
 #
 Dopu pyu pyu pyu...![p]
 #Kirishima
-Haaa... Hot... Inside...[p]
-Ahh ♥[p]
+Haaa... Hot... Inside... Ahh ♥[p]
 #
 Pyu... Pyupyuu...[p]
 #Nikuyama
@@ -291,8 +285,7 @@ Haa... Haa... Ugh... It's cruel...[p]
 For a perverted woman like you, being trained through creampie rape is the best. Did you finally realize it?[p]
 Uhyahyahya.[p]
 #Kirishima
-Higuu... Again... To the worst... Physical education teacher...[p]
-t[p]
+Higuu... Again... To the worst... Physical education teacher... t[p]
 #Nikuyama
 Oh, come to think of it, your first experience was also being raped by a physical education teacher, right?[p]
 I forgot. You were born to be raped by a physical education teacher. That's your destiny. Uhahaha.[p]
@@ -338,34 +331,28 @@ Hey, hey.[p]
 #
 *Sound effects*[p]
 #Kirishima
-Ahh! Hii...[p]
-Ahh♥[p]
+Ahh! Hii... Ahh♥[p]
 #Nikuyama
 Say that it feels good.[p]
 #
 *Sound effects*[p]
 #Kirishima
-Ahh... It feels...[p]
-Haaan♥[p]
+Ahh... It feels... Haaan♥[p]
 #Nikuyama
 Hey, say it louder! Say that my cock feels good![p]
 #
 *Sound effects*[p]
 #Kirishima
-Ahh! Y-Your... cock... feels... good...![p]
-Ahh♥[p]
+Ahh! Y-Your... cock... feels... good...! Ahh♥[p]
 #Nikuyama
 Alright, you said it well.[p]
 *smooch*[p]
 #Kirishima
-Mmm!?... Nnnnhhh♥ Nnnhh... Nchu...[p]
-♥[p]
+Mmm!?... Nnnnhhh♥ Nnnhh... Nchu... ♥[p]
 #Nikuyama
-Hey, stick out your tongue... *smooch*...[p]
-*kiss*[p]
+Hey, stick out your tongue... *smooch*... *kiss*[p]
 #Kirishima
-Nn... chu... l-licking...[p]
-ahh♥[p]
+Nn... chu... l-licking... ahh♥[p]
 #Nikuyama
 Muhuhu, you're actively entangling your tongue... Mchu... Lick lick lick... From now on, I'll treat you as my personal pet for sexual release...[p]
 Chubaa.[p]

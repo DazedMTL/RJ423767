@@ -293,19 +293,16 @@ Ugh... *burp*... G-gross...[p]
 #Nikuyama
 Kukuku, it's impossible, isn't it? Now, swear to become my sex slave and give up.[p]
 #Kaori
-W-Who... would... stoop so low... to lick this... *lick*...[p]
-Ugh[p]
+W-Who... would... stoop so low... to lick this... *lick*... Ugh[p]
 #Nikuyama
 Oh, so you don't want to become my slave that badly. However, I won't acknowledge it unless you properly suck on my fingers and lick each one clean.[p]
 #Kaori
-I-I understand... Ugh... *slurp*... *lick*... *lick*...[p]
-Ughh[p]
+I-I understand... Ugh... *slurp*... *lick*... *lick*... Ughh[p]
 #Nikuyama
 Don't spit it out. You have to properly suck and swallow all the juice from my feet before it can be considered foot licking.[p]
 #Kaori
 I-I understand... *kiss*... *lick*... *lick*... *slurp*... *gulp*... ♥ *lick*... *kiss*... *moan*...[p]
-*lick*... *slurp*...[p]
-*inhale* ♥[p]
+*lick*... *slurp*... *inhale* ♥[p]
 #Nikuyama
 Kukuku, you're devouring it so eagerly. Do you find my foot sweat that delicious?[p]
 #Kaori
@@ -317,8 +314,7 @@ If it means becoming your slave, licking your smelly feet is better...! *Slurp*.
 Kukuku, looks like you hate me. Well then, as you wish, I'll make you lick my feet every day. I'll make sure to keep them as dirty as possible, without washing them even in the bath.[p]
 #Kaori
 *Suck*... K-Ku... I-I'll show you... that I can lick... any dirty feet... *Lick*... *Lick*... *Lick*...[p]
-*Slurp*... *Suck*... *Lick*... *Lick*...[p]
-*Gulp*♥[p]
+*Slurp*... *Suck*... *Lick*... *Lick*... *Gulp*♥[p]
 #
 ・・・・・・・・・[p]
 [_tb_end_text]
@@ -471,8 +467,7 @@ ahh♥[p]
 #Nikuyama
 Useless, I've already seen through all your weaknesses. This is the spot you like, right... Ora![p]
 #Kaori
-Nhihh... Th-that spot...[p]
-Haa♥[p]
+Nhihh... Th-that spot... Haa♥[p]
 
 [_tb_end_text]
 
@@ -494,8 +489,7 @@ Ora, cum again...![p]
 #
 *spank* *spank* *spank* *spank*[p]
 #Kaori
-Ahh... Nn...[p]
-Nhiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii♥[p]
+Ahh... Nn... Nhiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii♥[p]
 #Nikuyama
 Ora, say that you came![p]
 #Kaori
@@ -505,15 +499,13 @@ Alright, it's about time for me to give it my final push...![p]
 #
 *spank* *spank* *spank* *spank* *spank*[p]
 #Kaori
-Nhihh♥ D-don't... I just came...[p]
-Nnnn♥[p]
+Nhihh♥ D-don't... I just came... Nnnn♥[p]
 #Nikuyama
 Ora ora...![p]
 #
 *[p]
 #Kaori
-Ahh... Nn... Ku...[p]
-Aaaaaahhhhhhhhhhhhhhhhhhhh♥[p]
+Ahh... Nn... Ku... Aaaaaahhhhhhhhhhhhhhhhhhhh♥[p]
 #Nikuyama
 Here it comes...![p]
 [_tb_end_text]
@@ -534,8 +526,7 @@ I'm still going to cum...[p]
 #
 Byu byu byu byu...![p]
 #Kaori
-Ahh... It's coming out deep inside...[p]
-Ahh♥[p]
+Ahh... It's coming out deep inside... Ahh♥[p]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game253-6.jpg"  ]
@@ -655,8 +646,7 @@ Kuh... Yes...[p]
 [tb_cg  id="254"  ]
 [tb_start_text mode=1 ]
 #Kaori
-*smooch*... *gulp*... *sloppy sound*♥... *licks*...[p]
-*gulp*♥[p]
+*smooch*... *gulp*... *sloppy sound*♥... *licks*... *gulp*♥[p]
 #Nikuyama
 Hehehe, you're sucking it so deliciously. It seems like you're quite satisfied.[p]
 #Kaori
@@ -677,33 +667,27 @@ Right?[p]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Indomitable.mp3"  ]
 [tb_start_text mode=1 ]
 #
-*Slap! Slap! Slap![p]
-*[p]
+*Slap! Slap! Slap! *[p]
 #Kaori
 Ahhh... Ahh... Ah... Ahh...[p]
 #Nikuyama
 As expected, the best position for a voluptuous and perverted body like yours is doggy style.[p]
 #
-*Slap! Slap! Slap![p]
-*[p]
+*Slap! Slap! Slap! *[p]
 #Kaori
-Ahh... *moans*... *breathes heavily*...[p]
-*moans*♥[p]
+Ahh... *moans*... *breathes heavily*... *moans*♥[p]
 #Nikuyama
 I bet you get excited feeling conquered when you're violated from behind, you perverted woman.[p]
 #
-*Slap! Slap! Slap![p]
-*[p]
+*Slap! Slap! Slap! *[p]
 #Kaori
 Nn... Who... Ahh♥... Haa...[p]
 #Nikuyama
 It's useless to pretend to be strong. Even though you're shaking your big breasts and feeling it so much, huh?[p]
 #
-*Slap! Slap! Slap![p]
-*[p]
+*Slap! Slap! Slap! *[p]
 #Kaori
-Ahh... *moans*... No...[p]
-Ahh♥[p]
+Ahh... *moans*... No... Ahh♥[p]
 [_tb_end_text]
 
 [tb_eval  exp="f.rnd1=Math.floor(Math.random()*(10-0+1)+0)"  name="rnd1"  cmd="="  op="r"  val="0"  val_2="10"  ]
@@ -715,39 +699,31 @@ Ahh♥[p]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
 #
-*Slap! Slap! Slap![p]
-*[p]
+*Slap! Slap! Slap! *[p]
 #Kaori
 Haaahhhh♥[p]
 #Nikuyama
 Ora, let out another good voice...[p]
 #
-*Slap! Slap! Slap![p]
-*[p]
+*Slap! Slap! Slap! *[p]
 #Kaori
-Nn... I-I'm... cumming...[p]
-Ahhhhhhh♥[p]
+Nn... I-I'm... cumming... Ahhhhhhh♥[p]
 #Nikuyama
 When you cum... report it properly![p]
 #
-*Slap! Slap! Slap![p]
-*[p]
+*Slap! Slap! Slap! *[p]
 #Kaori
-Haaan♥... I-I came...[p]
-♥ Ahhh♥[p]
+Haaan♥... I-I came... ♥ Ahhh♥[p]
 #Nikuyama
 Alright, it's about time for me to cum too.[p]
 #
-*Slap! Slap! Slap! Slap! Slap! Slap![p]
-*[p]
+*Slap! Slap! Slap! Slap! Slap! Slap! *[p]
 #Kaori
-Ahh♥ Nn... Haaah...[p]
-Ahhhhhhh♥[p]
+Ahh♥ Nn... Haaah... Ahhhhhhh♥[p]
 #Nikuyama
 Ora ora...[p]
 #
-*Slap! Slap! Slap! Slap! Slap! Slap![p]
-*[p]
+*Slap! Slap! Slap! Slap! Slap! Slap! *[p]
 
 [_tb_end_text]
 
@@ -761,15 +737,13 @@ Ora ora...[p]
 #
 Dopu~!![p]
 #Kaori
-Ah... h... haa♥...[p]
-♥[p]
+Ah... h... haa♥... ♥[p]
 #Nikuyama
 Ora... impregnate me...![p]
 #
 *[p]
 #Kaori
-Ahh... I-Inside...[p]
-Nnn♥[p]
+Ahh... I-Inside... Nnn♥[p]
 #
 Byu byu... pyu...[p]
 #Nikuyama
@@ -802,8 +776,7 @@ Y-Yes...[p]
 #
 Doppyu!![p]
 #Kaori
-Haa... n...[p]
-♥[p]
+Haa... n... ♥[p]
 #Nikuyama
 I'll cum all over your butt.[p]
 #
@@ -869,8 +842,7 @@ Wearing these tight bloomers and showing off your plump body. What's with this b
 #Kaori
 Ahh... Y-You're the one who made me wear this...[p]
 #Nikuyama
-The response should be Yes, teacher. Say it![p]
-*[p]
+The response should be Yes, teacher. Say it! *[p]
 #Kaori
 Ahh... Ugh... Yes, teacher...[p]
 #Nikuyama
@@ -932,32 +904,27 @@ Ahh♥[p]
 #Nikuyama
 There is no such word as rape for a horny woman. They should be grateful when I put my penis inside them![p]
 #
-*Slap! Slap! Slap![p]
-*[p]
+*Slap! Slap! Slap! *[p]
 #Kaori
-Th-there... Ahh♥...[p]
-Nhaa♥[p]
+Th-there... Ahh♥... Nhaa♥[p]
 #Nikuyama
 It's the duty of a physical education teacher to educate perverts like you with my penis.[p]
 #
-*Slap! Slap! Slap![p]
-*[p]
+*Slap! Slap! Slap! *[p]
 #Kaori
 Ku...[p]
 Ahh♥[p]
 #Nikuyama
 Don't talk back, you! All you have to do is moan in pleasure![p]
 #
-*Slap! Slap! Slap![p]
-*[p]
+*Slap! Slap! Slap! *[p]
 #Kaori
 Ahh♥ Ahh♥ Ku...[p]
 Haan♥[p]
 #Nikuyama
 Get ready to cum with my penis education![p]
 #
-*Slap! Slap! Slap! Slap![p]
-*[p]
+*Slap! Slap! Slap! Slap! *[p]
 #Kaori
 Ahhh...[p]
 Ahiiii♥[p]
@@ -974,8 +941,7 @@ It's my turn to finish...[p]
 #
 Dopu~![p]
 #Kaori
-Ahhh... Ahhh...[p]
-Ahhiiin♥[p]
+Ahhh... Ahhh... Ahhiiin♥[p]
 #Nikuyama
 I'll cum all over your bloomers.[p]
 #
@@ -983,8 +949,7 @@ Byu byu byu...![p]
 #Kaori
 Haah... Unn... Afuu...[p]
 #Nikuyama
-Fuu... I came, I came. It's irresistible to cum on your bloomers, especially on those deep navy blue ones where the white semen stands out.[p]
-Uhahaha[p]
+Fuu... I came, I came. It's irresistible to cum on your bloomers, especially on those deep navy blue ones where the white semen stands out. Uhahaha[p]
 #Kaori
 Ku...[p]
 #Nikuyama
@@ -1032,29 +997,25 @@ Kuh... Haa... Nn... Aahh...[p]
 #Nikuyama
 Look, stick out your tongue... entwine it more.[p]
 #Kaori
-Nn... Nm...[p]
-Lick, lick ♥[p]
+Nn... Nm... Lick, lick ♥[p]
 #Nikuyama
 You would feel happy if I penetrate deep inside you with my cock while kissing, hehehe.[p]
 #
 *Squelch...[p]
 slurp*[p]
 #Kaori
-Nn... Th-there's no way...[p]
-Ahh ♥[p]
+Nn... Th-there's no way... Ahh ♥[p]
 #Nikuyama
 *smooch*[p]
 #Kaori
-Mmm... Nnn...[p]
-Chubba ♥[p]
+Mmm... Nnn... Chubba ♥[p]
 #
 *Squelch...[p]
 slurp*[p]
 #Nikuyama
 l-l-l-lick, lick, lick[p]
 #Kaori
-Ahh... Chuu...[p]
-Mmmmmm ♥[p]
+Ahh... Chuu... Mmmmmm ♥[p]
 #
 *Squelch...[p]
 slurp*[p]

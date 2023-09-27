@@ -84,8 +84,7 @@ Oh, no matter how much I violate her, it's never enough, hahaha.[p]
 [tb_cg  id="269"  ]
 [tb_start_text mode=1 ]
 #Kaori
-Ahh... nnn♥...[p]
-lero lero lero♥[p]
+Ahh... nnn♥... lero lero lero♥[p]
 #Mathematics Teacher Matsuoka
 Hey, Mr. Nikuyama. I'm having a good time with you.[p]
 #Nikuyama
@@ -123,18 +122,15 @@ Well, if there are any preferences, we can discuss and decide. The vice principa
 #Mathematics Teacher Matsuoka
 Well, I guess it can't be helped. After all, they are my superior... Oh... I'm about to... cum...![p]
 #Kaori
-Mmm... Nngh!?...[p]
-*gulp* ♥[p]
+Mmm... Nngh!?... *gulp* ♥[p]
 #Mathematics Teacher Matsuoka
 Uh... I came... I've been completely drained.[p]
 #Kaori
-Chum... Gokuh ♥... Juppu...[p]
-Nn ♥[p]
+Chum... Gokuh ♥... Juppu... Nn ♥[p]
 #Nikuyama
 Hey Kaori, did you forget your manners? After receiving his semen, make sure to properly greet Matsuoka-sensei.[p]
 #Kaori
-Nn... H-hai... Ma, Matsuoka-sensei... Ahh ♥ Oh, delicious semen...[p]
-Ahh ♥[p]
+Nn... H-hai... Ma, Matsuoka-sensei... Ahh ♥ Oh, delicious semen... Ahh ♥[p]
 #Kokugo Teacher Nakanishi
 Sorry... I'm also about to... finish... mmm![p]
 #
@@ -145,13 +141,11 @@ Ahii ♥[p]
 #Kokugo Teacher Nakanishi
 Hafu... I came inside abundantly. What a pleasurable pussy...[p]
 #Kaori
-Ahh... Nnghh ♥...[p]
-Ahh ♥[p]
+Ahh... Nnghh ♥... Ahh ♥[p]
 #Nikuyama
 Hehehe, how is it, Kaori? Living a life of serving many cocks as a cum dumpster? It must be fulfilling.[p]
 #Kaori
-Y-Yes... Thank you for raising this perverted Kaori with your cocks... Nngh ♥ From now on, I will wholeheartedly serve your cocks...[p]
-♥[p]
+Y-Yes... Thank you for raising this perverted Kaori with your cocks... Nngh ♥ From now on, I will wholeheartedly serve your cocks... ♥[p]
 #Social Studies Teacher Yamashita
 Uhuhu, you've been well trained, haven't you? To think that strict and guarded Kirishima-sensei turned out to be such a masochistic pervert.[p]
 How did you see the potential in them and how did you train them? Please teach me your secrets.[p]
@@ -187,8 +181,7 @@ Ending No[v0] 1 Shared Slave[p]
 [chara_show  name="桐嶋"  time="1000"  wait="true"  storage="chara/1/game81-1.png"  width="448"  height="896"  left="418"  top="12"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #Nikuyama
-What's wrong? It's unusual for you to come here without being called.[p]
-Muhuhu[p]
+What's wrong? It's unusual for you to come here without being called. Muhuhu[p]
 #Kaori
 ... I'm pregnant.[p]
 #Nikuyama
@@ -306,8 +299,7 @@ Lero-lero-nn♥[p]
 #Nikuyama
 Kiss me as if you love me deeply, lero-lero-lero♥[p]
 #Kaori
-I-It's not like that... Nchu... even if you say that...[p]
-Lero-lero-lero-n♥[p]
+I-It's not like that... Nchu... even if you say that... Lero-lero-lero-n♥[p]
 
 [_tb_end_text]
 
@@ -317,8 +309,7 @@ Lero-lero-lero-n♥[p]
 #Nikuyama
 You should know that the mother's mental state has a significant impact on the fetus. From now on, make an effort to forget your hatred and love me.[p]
 #Kaori
-Th-There's no way... we can do that...[p]
-Chubaa♥[p]
+Th-There's no way... we can do that... Chubaa♥[p]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game133-2.jpg"  ]
@@ -326,8 +317,7 @@ Chubaa♥[p]
 #Nikuyama
 It's not difficult, you know... Because our love's manifestation is inside your belly, after all. Mufufu.[p]
 #Kaori
-Ahh... Love's manifestation...[p]
-Nn♥[p]
+Ahh... Love's manifestation... Nn♥[p]
 #Nikuyama
 Why is that? You may hate me, but I've always liked you.[p]
 [_tb_end_text]
@@ -336,24 +326,20 @@ Why is that? You may hate me, but I've always liked you.[p]
 [tb_image_hide  time="1000"  ]
 [tb_start_text mode=1 ]
 #Kaori
-Eh!? Wh-What are you... Nmm♥ Chubaa...[p]
-Chumuu♥[p]
+Eh!? Wh-What are you... Nmm♥ Chubaa... Chumuu♥[p]
 #Nikuyama
 Well, of course. I invited you on dates because I liked you. Even though you were cold to me.[p]
 #Kaori
-Nn... Doing that... Chubaa♥... You, you only saw me as a... sexual object... Chuu♥...[p]
-Nhahh♥[p]
+Nn... Doing that... Chubaa♥... You, you only saw me as a... sexual object... Chuu♥... Nhahh♥[p]
 #Nikuyama
 What's wrong with seeing someone as a sexual object? It's only natural to want to embrace the woman you like.[p]
 #Kaori
-Haa... Th-That is...[p]
-Lero-lero-lero-n♥[p]
+Haa... Th-That is... Lero-lero-lero-n♥[p]
 #Nikuyama
 That's why I was happy when I found out you had nymphomania. I thought I couldn't have you, but the chance to have you came.[p]
 And I didn't let that chance slip away.[p]
 #Kaori
-Nchu♥... But... Nn♥... Doing such a terrible thing...[p]
-Chubaa♥[p]
+Nchu♥... But... Nn♥... Doing such a terrible thing... Chubaa♥[p]
 #Nikuyama
 That is also a form of love. It's to please you...[p]
 [_tb_end_text]
@@ -362,8 +348,7 @@ That is also a form of love. It's to please you...[p]
 [tb_image_hide  time="1000"  ]
 [tb_start_text mode=1 ]
 #Kaori
-Nn♥... U-It's a lie... I... Chupp♥ I definitely...[p]
-Nmuhh♥[p]
+Nn♥... U-It's a lie... I... Chupp♥ I definitely... Nmuhh♥[p]
 #Nikuyama
 Well, it's fine. We have plenty of time, hehe...[p]
 #
@@ -1128,8 +1113,7 @@ Yes... I see. I'll leave it to you.[p]
 #Nikuyama
 Well... things have calmed down now... Yes, understood. In that case, I will go home instead of returning to the school.[p]
 Hahaha, it seems like the school was in chaos. It looks like it will be quite a mess to clean up. It will surely become a legendary incident.[p]
-If the media catches wind of it, it will be a big problem. They might write something like Beautiful Teacher's Sudden Madness!?[p]
-Hahaha[p]
+If the media catches wind of it, it will be a big problem. They might write something like Beautiful Teacher's Sudden Madness!? Hahaha[p]
 [_tb_end_text]
 
 [chara_show  name="桐嶋"  time="1000"  wait="true"  storage="chara/1/game51.png"  width="413"  height="973"  left="400"  top="6"  reflect="false"  ]
@@ -1219,14 +1203,12 @@ E... A... Ahh...!? W-Why... Why did I... do such things!? W-Why did I... believe
 Well, that's because you're an idiot. You may think you're smart, but in reality, you're dumb enough to believe even the most obvious lies, like a gullible child.[p]
 Uhuhuhu.[p]
 #Kaori
-T-That... That kind of thing...[p]
-*panting* *panting*[p]
+T-That... That kind of thing... *panting* *panting*[p]
 #Nikuyama
 Have you despaired at your own stupidity? You've been following orders that you didn't need to follow at all, just to satisfy my sexual desires.[p]
 Every day, you've been working hard to serve my cock, drinking semen and urine, kneeling down and being paraded around like a dog while naked, and even accepting creampie sex.[p]
 #Kaori
-*panting* ... Ah...[p]
-*panting* *panting*[p]
+*panting* ... Ah... *panting* *panting*[p]
 #Nikuyama
 Ah, it's also obvious that the claim about being less likely to get pregnant due to nymphomania is a lie.[p]
 I've ejaculated inside you quite a few times, so you might already be pregnant, uhahahaha![p]
@@ -1406,8 +1388,7 @@ Ah... Ahh!?[p]
 [bg  time="1000"  method="crossfade"  storage="game225-2.jpg"  ]
 [tb_start_text mode=1 ]
 #
-*Slap! * *Slap![p]
-*[p]
+*Slap! * *Slap! *[p]
 #Nikuyama
 Hey! Do you understand your position now!?[p]
 #Kaori
@@ -1416,13 +1397,11 @@ defy you anymore, uhh ♥[p]
 #Nikuyama
 Hey! Who are you? Speak up![p]
 #Kaori
-Ahh ♥ I'm... Takeshi-sama's...[p]
-♥[p]
+Ahh ♥ I'm... Takeshi-sama's... ♥[p]
 #Nikuyama
 That's right, you are a slave! You must absolutely obey my orders![p]
 #
-*Slap! * *Slap![p]
-*[p]
+*Slap! * *Slap! *[p]
 #Kaori
 H-Hahi~♥[p]
 #Nikuyama
@@ -1456,8 +1435,7 @@ Th-That's... s-so mean... Ahh♥... Y-You... heartless... person...![p]
 #Nikuyama
 How does it feel? Are you frustrated?[p]
 #
-*Slap! * *Slap! * *Slap![p]
-*[p]
+*Slap! * *Slap! * *Slap! *[p]
 #Kaori
 so frustratedddd ♥ Ahiiiiii ♥[p]
 #Nikuyama
@@ -1468,8 +1446,7 @@ and feels so goooooooddddddddd♥♥[p]
 #Nikuyama
 Take this, you despicable man's cock... cum for me...![p]
 #
-*Slap! * *Slap! * *Slap! * *Slap![p]
-*[p]
+*Slap! * *Slap! * *Slap! * *Slap! *[p]
 #Kaori
 Nhiiiiiiiiiiiiiiiiiiiiiiiiiiiiii♥ It's not gooddddddddd♥ I'm gonna cummmmmmmmmmmmmmmmmmmmmm♥♥[p]
 #

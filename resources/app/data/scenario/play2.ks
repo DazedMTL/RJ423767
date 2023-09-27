@@ -412,8 +412,7 @@ Let's see... Hmm, it's definitely a little wet. *sniffs* It's starting to have a
 #Kirishima
 Nooo... Please don't sniff me...![p]
 #Nikuyama
-Hehehe, so you're feeling it from the rectal temperature measurement after all. It's fine, Kirishima-sensei is a pervert, after all.[p]
-Muhuhu[p]
+Hehehe, so you're feeling it from the rectal temperature measurement after all. It's fine, Kirishima-sensei is a pervert, after all. Muhuhu[p]
 #Kirishima
 Ku...[p]
 #
@@ -626,8 +625,7 @@ Um, it's 36. 6 degrees Celsius. No problem.[p]
 
 [tb_start_text mode=1 ]
 #Nikuyama
-It's 36. 5 degrees Celsius.[p]
-and[p]
+It's 36. 5 degrees Celsius. and[p]
 #
 [_tb_end_text]
 
@@ -1008,8 +1006,7 @@ What cup size are you? Tell me.[p]
 #Kaori
 Ugh... I-I'm a K-cup...[p]
 #Nikuyama
-K-cup! How lewd... It's like walking around with a public indecency crime.[p]
-*gropes*[p]
+K-cup! How lewd... It's like walking around with a public indecency crime. *gropes*[p]
 #Kaori
 Ahh... P-Please don't touch me...![p]
 #Nikuyama
@@ -1734,8 +1731,7 @@ If you really need to poop that badly, why don't you just do it there?[p]
 #Nikuyama
 Since there's a toilet specifically for Kirishima-sensei, feel free to use it without hesitation.[p]
 #Kirishima
-N-No... Please... Give me back...[p]
-*panting*[p]
+N-No... Please... Give me back... *panting*[p]
 #Nikuyama
 Why are you so resistant?[p]
 #Kirishima
@@ -1834,8 +1830,7 @@ Whoa... It's long!... And stinky! What a poop![p]
 #Kirishima
 Ahh... Haa...[p]
 #
-Impossible... Impossible...[p]
-*plop*[p]
+Impossible... Impossible... *plop*[p]
 #Nikuyama
 Oh, what a magnificent piece of poop![p]
 #Kirishima
@@ -2029,8 +2024,7 @@ Hehehe, today's poop is gonna be a big one.[p]
 #Kirishima
 U... ku...[p]
 #
-Impossible... Impossible...[p]
-*plop*[p]
+Impossible... Impossible... *plop*[p]
 #Nikuyama
 You really let out a lot today. *sniff sniff* Hmm, it still smells as usual.[p]
 #Kirishima

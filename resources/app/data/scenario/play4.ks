@@ -152,8 +152,7 @@ I want you to consider the struggle I go through having to check these big breas
 #
 Squeeze, squeeze, squeeze.[p]
 #Kirishima
-Ugh... I-I don't know... It's...[p]
-Hah♥[p]
+Ugh... I-I don't know... It's... Hah♥[p]
 #Nikuyama
 I can't confirm if you're not wearing a bra without checking your nipples.[p]
 #
@@ -173,8 +172,7 @@ Squeeze, squeeze, squeeze.[p]
 [bg  time="1000"  method="crossfade"  storage="game135-2.jpg"  ]
 [tb_start_text mode=1 ]
 #Kirishima
-Ahh! Th-that... is... ngh...[p]
-Hahn♥[p]
+Ahh! Th-that... is... ngh... Hahn♥[p]
 #Nikuyama
 As I thought, it seems you're not wearing a bra. Confirmation complete.[p]
 #
@@ -238,22 +236,19 @@ Ahh... there... Unn...[p]
 #Nikuyama
 Oh my, your nipples are all stiff and swollen. Could it be that you're feeling pleasure during the examination?[p]
 #Kirishima
-I-I'm not feeling... Ahh♥...[p]
-Uhh♥[p]
+I-I'm not feeling... Ahh♥... Uhh♥[p]
 #Nikuyama
 Even if you lie, it's obvious. You're such a pervert...[p]
 #
 Squeeze, squeeze, squeeze, fondle, fondle, fondle, fondle, fondle[p]
 #Kirishima
-Ahh... Stop...[p]
-Nngh♥[p]
+Ahh... Stop... Nngh♥[p]
 #Nikuyama
 Please be honest. Are you feeling it?[p]
 #
 Squeeze, squeeze, squeeze, squeeze[p]
 #Kirishima
-Ahh... ku...[p]
-Ahhn♥[p]
+Ahh... ku... Ahhn♥[p]
 #
 ・・・・・・・・・[p]
 [_tb_end_text]
@@ -295,8 +290,7 @@ Nhaa[p]
 #Nikuyama
 Are you feeling it when your big breasts are being squeezed? Hm?[p]
 #Kirishima
-Nngh... I-I'm feeling it...[p]
-♥[p]
+Nngh... I-I'm feeling it... ♥[p]
 #Nikuyama
 You pervert. Do you want me to play with your nipples too?[p]
 #Kirishima
@@ -306,8 +300,7 @@ I can't help it, I'll play with them. Here.[p]
 #
 Squeeze, squeeze, squeeze[p]
 #Kirishima
-Ahh... Thank you...[p]
-Nhi ♥[p]
+Ahh... Thank you... Nhi ♥[p]
 #
 ・・・・・・・・・[p]
 [_tb_end_text]
@@ -880,22 +873,19 @@ Come on, speed it up! At this rate, we won't finish during our lunch break.[p]
 #Kirishima
 Ugh... Is this... okay?[p]
 #
-*Squish! * *Squish![p]
-*[p]
+*Squish! * *Squish! *[p]
 #Nikuyama
 Oh, it's good. Shake those erotic breasts more vigorously and rub my cock.[p]
 #Kirishima
 Ugh... acting so superior...[p]
 #
-*Thump! Thump! Slurp![p]
-*[p]
+*Thump! Thump! Slurp! *[p]
 #Nikuyama
 Hey, your up and down movements have become sloppy. Rub it firmly without slacking off![p]
 #Kirishima
 *pant* *huff* *whew*[p]
 #
-*Squish! * *Squish! * *Squish![p]
-*[p]
+*Squish! * *Squish! * *Squish! *[p]
 #Nikuyama
 Oh... that's good... I'm coming...![p]
 
@@ -1155,15 +1145,13 @@ Mmm... Kiss... Suck...[p]
 #Nikuyama
 It's fine. The sight of you desperately sucking on the glans while stroking the penis with your breasts, it's incredibly lewd and truly wonderful.[p]
 #Kirishima
-Kuh... Chubu...[p]
-Chupa[p]
+Kuh... Chubu... Chupa[p]
 #
 Nypu! Nypu! Nypu![p]
 #Nikuyama
 Alright, it's time for the final sprint. Increase the pace![p]
 #Kirishima
-N... Chuu...[p]
-Ahh[p]
+N... Chuu... Ahh[p]
 #
 Nypu! Pnyu! Nypu! Nypu![p]
 #Nikuyama
@@ -1597,8 +1585,7 @@ Are you okay, teacher? Your face looks red for some reason.[p]
 Eh!? Ah, I-I'm fine. It's just a little hot... (No, if the students notice, it'll be troublesome. I have to act natural...)[p]
 U-um, then let's have Miyahara-san read the next part.[p]
 #Miyahara
-Yes. Um...[p]
-Jeff is in Denver ―――[p]
+Yes. Um... Jeff is in Denver ―――[p]
 #Kirishima
 (I wonder what kind of faces everyone would make if they found out I'm attending class with a vibrator inserted in my crotch and butt...)[p]
 (Even though it's for treatment, I'm doing something outrageous... I feel like such a pervert... Ahh)[p]
@@ -1618,8 +1605,7 @@ There are several similar phrases to get―――crunch, crunch, crunch...[p]
 [tb_start_text mode=1 ]
 #Kirishima
 For example, get over means to overcome something―――(Ah... when I write on the board, the vibrator rubs against me...[p]
-Haah♥) And get about means to move around―――(Ah... from down there... juices are dripping... nngh♥)[p]
-Get over means to overcome something―――[p]
+Haah♥) And get about means to move around―――(Ah... from down there... juices are dripping... nngh♥) Get over means to overcome something―――[p]
 #Student
 Teacher, this is the second time...[p]
 #Kirishima
@@ -1757,13 +1743,11 @@ Ugh...[p]
 [tb_start_text mode=1 ]
 #Kirishima
 So... hah... in this case, it's will + the base form of the verb... ngh♥... to express future plans and intentions...[p]
-ah, it's the base form... ngh... so there's no need for things like 's' or auxiliary verbs... hah...[p]
-ngh♥[p]
+ah, it's the base form... ngh... so there's no need for things like 's' or auxiliary verbs... hah... ngh♥[p]
 #Student
 Um, teacher, we already did that earlier...[p]
 #Kirishima
-Eh, ah, s-so, that's right. Uhh... it's...[p]
-Ahh♥[p]
+Eh, ah, s-so, that's right. Uhh... it's... Ahh♥[p]
 #Student
 You seem unwell... Are you okay?[p]
 #Kirishima
@@ -1778,8 +1762,7 @@ Yes, umm, the annual award is designed to honor a player ―――[p]
 [tb_start_text mode=1 ]
 #Kirishima
 So... ngh♥... in this case, to emphasize who... hah... we are using the passive voice... ngh♥ If we were to change it to active voice...[p]
-ngh♥... it would be... fuh...[p]
-―――[p]
+ngh♥... it would be... fuh... ―――[p]
 #Student
 Teacher, there's a spelling mistake there.[p]
 #Kirishima
@@ -1795,8 +1778,7 @@ W-Well then, let's move on to the next sentence... Ah♥... H-Hamazaki-san...[p]
 #Hamazaki
 Eh... I already read it earlier though...[p]
 #Kirishima
-Eh... Ah, I'm sorry. In that case... Taniguchi-kun, please...[p]
-♥[p]
+Eh... Ah, I'm sorry. In that case... Taniguchi-kun, please... ♥[p]
 #Taniguchi
 Y-Yes. Um...[p]
 #Kirishima

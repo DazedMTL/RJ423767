@@ -500,8 +500,7 @@ No, I have my student handbook properly.[p]
 #Nikuyama
 Hmm, it seems I have no choice but to believe it's genuine.[p]
 #Tsuyama
-I'm glad you believe me. Since there's nothing else, I'll go home now.[p]
-*bows*[p]
+I'm glad you believe me. Since there's nothing else, I'll go home now. *bows*[p]
 
 
 

@@ -73,8 +73,7 @@ Oh, I see. In that case, divide into teams however you like and start the game.[
 #male student
 Yes, understood.[p]
 #
-I can't believe it... I have no interest in male students. Damn it, I wanted to be in charge of the female students too.[p]
-Guhuhu[p]
+I can't believe it... I have no interest in male students. Damn it, I wanted to be in charge of the female students too. Guhuhu[p]
 #Female Student A
 Nikuyama is looking over here again... Whisper, whisper.[p]
 #Female Student B

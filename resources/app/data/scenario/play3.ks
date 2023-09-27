@@ -162,11 +162,9 @@ Can't you even kiss properly?[p]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="マダムの口紅.mp3"  ]
 [tb_start_text mode=1 ]
 #Kirishima
-*kiss*... *lick*...[p]
-*pant*[p]
+*kiss*... *lick*... *pant*[p]
 #Nikuyama
-(Mwah! I can't resist!) (That Kirishima is entangling their tongue with mine!) Lick, lick...[p]
-smooch[p]
+(Mwah! I can't resist!) (That Kirishima is entangling their tongue with mine!) Lick, lick... smooch[p]
 #Kirishima
 Mmm... chu... nmu... nhaa! I-It's... enough already...![p]
 #Nikuyama
@@ -176,8 +174,7 @@ The examination will take one minute. We still have about 30 seconds left.[p]
 #Nikuyama
 (Kuu~... That Kirishima is drinking my saliva...!) Chu... Nero nero... Gokun... (I can't resist...!)[p]
 #Kirishima
-*kiss*... *smooch*... *pant*...![p]
-*pant* *pant*[p]
+*kiss*... *smooch*... *pant*...! *pant* *pant*[p]
 #Nikuyama
 Pufu... Well, I suppose it's fine.[p]
 #
@@ -286,19 +283,16 @@ Chuu~♥[p]
 #Nikuyama
 Mwah... Chuba... Yes, yes, let's entangle our tongues... Lero lero lero...[p]
 #Kirishima
-Mmm... Chu...[p]
-Nn♥[p]
+Mmm... Chu... Nn♥[p]
 #Nikuyama
 Chuba... You've become quite proactive in seeking my tongue... Lero lero muchu... Lero lero... I wonder if you've fallen for me...[p]
 Chuba.[p]
 #Kirishima
-Mmm... Chuu... There's, there's no way...[p]
-Lero lero lero~♥[p]
+Mmm... Chuu... There's, there's no way... Lero lero lero~♥[p]
 #Nikuyama
 Chupu... Kukuku, as a reward, let me also massage your butt... Mogyu.[p]
 #Kirishima
-Nn♥... Chupu... Yan...[p]
-Chubu♥[p]
+Nn♥... Chupu... Yan... Chubu♥[p]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game256-2.jpg"  ]
@@ -307,14 +301,12 @@ Chubu♥[p]
 #Nikuyama
 Lero lero lero... Muhuhi, even though they're actually happy... Momi momi momi.[p]
 #Kirishima
-Ahh... Chu... Who...[p]
-Lero lero lero~♥[p]
+Ahh... Chu... Who... Lero lero lero~♥[p]
 #Nikuyama
 Mmm...[p]
 *smooch*[p]
 #Kirishima
-Ahh... slurp... gulp... *moan*... It feels... so good...[p]
-gulp gulp♥[p]
+Ahh... slurp... gulp... *moan*... It feels... so good... gulp gulp♥[p]
 #
 ・・・・・・・・・[p]
 [_tb_end_text]
@@ -874,8 +866,7 @@ Shobin tea...[p]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Grease_Slide_Trap.mp3"  ]
 [tb_start_text mode=1 ]
 #Kirishima
-... Gulp...[p]
-*gulp gulp gulp*[p]
+... Gulp... *gulp gulp gulp*[p]
 #Nikuyama
 (Bwahahaha, they drank it!) (It's actually my urine!)[p]
 #Kirishima
@@ -1074,8 +1065,7 @@ N... ku... Uppu... Haa... u...[p]
 #Nikuyama
 It seems like you're showing quite a strong aversion. So, Kirishima-sensei, it seems you really do have nymphomania...[p]
 #Kirishima
-N-No...! I-I can drink this much...! Kuh...[p]
-*gulp* *gulp* *gulp*[p]
+N-No...! I-I can drink this much...! Kuh... *gulp* *gulp* *gulp*[p]
 #Nikuyama
 (Amazing! Even though they knew it was my urine, they're still drinking it!)[p]
 #Kirishima
@@ -1204,8 +1194,7 @@ That's right, that's good. Hehehe. Well then, I'll take it out...[p]
 #
 Jabobobobobo...![p]
 #Kirishima
-*g-gulp! * *gulp![p]
-*[p]
+*g-gulp! * *gulp! *[p]
 #Nikuyama
 Come on, if you don't drink it properly, it will overflow. If you spill it, I'll make you lick the floor and clean it up.[p]
 #Kirishima
@@ -1217,8 +1206,7 @@ Hehehe, does it taste good? I've been holding it in the toilet just for this. Pl
 #
 Jabobobobobo...[p]
 #Kirishima
-*Gulp*! *Gulp*![p]
-*Ughh*[p]
+*Gulp*! *Gulp*! *Ughh*[p]
 #Nikuyama
 Muhuhu[p]
 #Kirishima
@@ -1228,8 +1216,7 @@ Oh, it looks like it's almost over.[p]
 #
 Chorororororo...[p]
 #Kirishima
-*Guh*... *Gulp*...[p]
-*Gahh*[p]
+*Guh*... *Gulp*... *Gahh*[p]
 #Nikuyama
 Ahh~ I feel so refreshed. You drank it all without spilling, didn't you?[p]
 #Kirishima
@@ -1333,8 +1320,7 @@ Oh, your nose is running. Ahahaha, how pathetic.[p]
 #
 Gurgle gurgle...[p]
 #Kirishima
-Ugh... *gulp* *gulp* *gulp* ...[p]
-*burp*[p]
+Ugh... *gulp* *gulp* *gulp* ... *burp*[p]
 #Nikuyama
 Ahh, that feels refreshing. Oh, oops, there's still a drop on the tip of your penis.[p]
 #

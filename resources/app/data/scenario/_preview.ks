@@ -102,8 +102,7 @@ Kukuku, shaking your butt every step you take. Are you trying to tempt me? You n
 #
 *Snap*[p]
 #Kaori
-Ahh! Wh-who...[p]
-haaahh[p]
+Ahh! Wh-who... haaahh[p]
 
 [_tb_end_text]
 
@@ -230,8 +229,7 @@ Ahh...[p]
 #Nikuyama
 Kukuku, aren't I kind?[p]
 #Kaori
-Ahh... Y-yes... Thank you...[p]
-Mmm ♥[p]
+Ahh... Y-yes... Thank you... Mmm ♥[p]
 #
 ・・・・・・・・・[p]
 
@@ -267,8 +265,7 @@ Your body is yearning for my cock. Do you want to become my sex slave that badly
 *Squelch![p]
 *[p]
 #Kaori
-Ahh... Who... your... Haa...[p]
-Ahii♥[p]
+Ahh... Who... your... Haa... Ahii♥[p]
 #Nikuyama
 Hehehe, I wonder how long you can keep up that bluff? Take this![p]
 [_tb_end_text]
@@ -276,66 +273,52 @@ Hehehe, I wonder how long you can keep up that bluff? Take this![p]
 [bg  time="1000"  method="crossfade"  storage="game188-2.jpg"  ]
 [tb_start_text mode=1 ]
 #
-*Slap! Slap![p]
-*[p]
+*Slap! Slap! *[p]
 #Kaori
-Ahh!? Nnn... Ahn... Ahn♥ It's... deep inside...[p]
-Ahhii♥[p]
+Ahh!? Nnn... Ahn... Ahn♥ It's... deep inside... Ahhii♥[p]
 #Nikuyama
 Come on, try talking back with that cheeky mouth of yours. What's wrong? Come on! Come on![p]
 #
-*Slap! Slap![p]
-*[p]
+*Slap! Slap! *[p]
 #Kaori
-Nn... Haah... ku...[p]
-Nooo♥[p]
+Nn... Haah... ku... Nooo♥[p]
 #Nikuyama
 Can you resist when I thrust into your uterus from behind? You perverted woman! Ora![p]
 #
-*Slap! Slap! Slap![p]
-*[p]
+*Slap! Slap! Slap! *[p]
 #Kaori
-Ahh... Hiiin♥...[p]
-Aahh♥[p]
+Ahh... Hiiin♥... Aahh♥[p]
 #Nikuyama
 You're shaking those big breasts so provocatively. You're truly a female who exists to be violated by men![p]
 #
-*Slap! Slap! Slap![p]
-*[p]
+*Slap! Slap! Slap! *[p]
 #Kaori
-Ku... Hii♥... Ahnn♥...[p]
-Ahii♥[p]
+Ku... Hii♥... Ahnn♥... Ahii♥[p]
 #Nikuyama
 Every time I insult you, you tighten your pussy, you masochistic pig![p]
 #
-*Slap! Slap! Slap![p]
-*[p]
+*Slap! Slap! Slap! *[p]
 #Kaori
 Ahiiii♥ No...[p]
 Unn♥ Unn♥[p]
 #Nikuyama
 Alright, I'm going to speed up soon, so when you're about to climax, say that you're going to cum![p]
 #
-*Slap! Slap! Slap! Slap![p]
-*[p]
+*Slap! Slap! Slap! Slap! *[p]
 #Kaori
 Nnnn... I-I'm... goooonnnaaa... Ahhh... I'm cummiiinggg!![p]
 #Nikuyama
 Are you already going to cum?! You easily succumbed to my cock, you weak pussy! Ora![p]
 #
-*Slap! Slap! Slap! Slap![p]
-*[p]
+*Slap! Slap! Slap! Slap! *[p]
 #Kaori
-Nhiiiiiiiiiiiiiiiii♥♥... Nnnn...[p]
-Nhaaa♥[p]
+Nhiiiiiiiiiiiiiiiii♥♥... Nnnn... Nhaaa♥[p]
 #Nikuyama
 Alright... I'm about to cum too... I'll fill you up inside![p]
 #
-*Slap! Slap! Slap! Slap![p]
-*[p]
+*Slap! Slap! Slap! Slap! *[p]
 #Kaori
-Ahii♥... No, stop... Aahh♥... Inside...[p]
-Unn♥[p]
+Ahii♥... No, stop... Aahh♥... Inside... Unn♥[p]
 #Nikuyama
 U... I'm... cumming![p]
 
@@ -358,8 +341,7 @@ Kuhoo... It's still coming out... Ugh.[p]
 #
 Splash*[p]
 #Kaori
-Nnghh... Ahh...[p]
-Nfuhh♥[p]
+Nnghh... Ahh... Nfuhh♥[p]
 #Nikuyama
 Fufufu... I gave her a generous creampie. I'll make that arrogant female teacher with a perverted body understand her place through impregnation training...[p]
 It's the best. Mufufufu.[p]
@@ -370,16 +352,14 @@ Hey, instead of basking in the afterglow, there's something I want to tell you i
 #
 *[p]
 #Kaori
-Ahh♥... A... So naughty... Thank you for... ejaculating your precious semen... inside Kaori's...[p]
-♥[p]
+Ahh♥... A... So naughty... Thank you for... ejaculating your precious semen... inside Kaori's... ♥[p]
 #Nikuyama
 Hehehe, well said. As a reward, I'll give you one more shot of affection, muhihihi.[p]
 #
 *Squish![p]
 *[p]
 #Kaori
-Eh!? Ahh... Ahh♥...[p]
-Nooo♥[p]
+Eh!? Ahh... Ahh♥... Nooo♥[p]
 #
 ・・・・・・・・・[p]
 [_tb_end_text]
@@ -710,8 +690,7 @@ A-Amazing...)[p]
 #Volleyball club member
 Kirishima-sensei... (Are they completely shaved down there...? provocative)[p]
 #Kaori
-A-And... this is... the Side Balance... It's also called the I Balance... H-Honestly, it's supposed to be more straight, like an actual I...[p]
-*sigh* ♥[p]
+A-And... this is... the Side Balance... It's also called the I Balance... H-Honestly, it's supposed to be more straight, like an actual I... *sigh* ♥[p]
 #Judo Club Member
 Whoa!)[p]
 #Table tennis club member
@@ -735,8 +714,7 @@ S-Sorry... I-I shifted a bit... (Ahh... I got seen...)[p]
 #Volleyball club member
 I wonder what happened to Kirishima-sensei... Aren't they embarrassed...?[p]
 #Kaori
-(H-How embarrassing...! I don't want to do something like this...[p]
-Nngh ♥[p]
+(H-How embarrassing...! I don't want to do something like this... Nngh ♥[p]
 #Judo Club Member
 Whoa!! (T-Their crotch is completely exposed...! A-And their butt...)[p]
 #Gymnastics Club Member
@@ -839,8 +817,7 @@ Hey, use your tongue properly.[p]
 #Nikuyama
 I better make them come quickly, or the students might come to watch, muhihihi.[p]
 #Kaori
-Mmm... *Suck*...[p]
-*Lick lick*♥[p]
+Mmm... *Suck*... *Lick lick*♥[p]
 #Nikuyama
 I didn't lock it, you know. Someone might be peeking even now, hehehehe.[p]
 #Kaori
@@ -848,8 +825,7 @@ Nn...!? Haa... s-so, something like that...[p]
 #Nikuyama
 I told you not to let go of your mouth. Suck it properly.[p]
 #Kaori
-Mmm... Chupa♥...[p]
-Lero lero lero[p]
+Mmm... Chupa♥... Lero lero lero[p]
 #Nikuyama
 You must be excited, thinking that the students might be watching, you perverted person.[p]
 #Kaori
@@ -864,8 +840,7 @@ I bet you'll keep masturbating until they can't cum anymore, hehehe.[p]
 #Nikuyama
 You lewd and harmful female teacher who misleads young people. I will properly train you with my penis.[p]
 #Kaori
-Nn... *Suck*... *Suck*... *Suck*...[p]
-Lero lero lero♥[p]
+Nn... *Suck*... *Suck*... *Suck*... Lero lero lero♥[p]
 #Nikuyama
 Alright, I'll make you drink plenty of semen...![p]
 [_tb_end_text]
@@ -882,8 +857,7 @@ Hey, drink it properly. If you spill it on the mat, there will be punishment.[p]
 #
 *Squirt*[p]
 #Kaori
-Nn... Gokyuu♥...[p]
-Gokuu♥[p]
+Nn... Gokyuu♥... Gokuu♥[p]
 #Nikuyama
 Hehehe, the taste of drinking semen right there in front of the students must be exceptional, don't you think?[p]
 #Kaori
@@ -1100,64 +1074,52 @@ Y-Yes... Nice to meet you...[p]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="music54.mp3"  ]
 [tb_start_text mode=1 ]
 #
-*Slap! * *Slap! * *Slap![p]
-*[p]
+*Slap! * *Slap! * *Slap! *[p]
 #Kaori
 Ahh... Ahh... Nnn... Ahii...[p]
 #Nikuyama
 Hey, how does it feel to be raped in your own room? Huh?[p]
 #
-*Slap! * *Slap! * *Slap![p]
-*[p]
+*Slap! * *Slap! * *Slap! *[p]
 #Kaori
-Nhaa... ku... kuyashi... ii...[p]
-♥[p]
+Nhaa... ku... kuyashi... ii... ♥[p]
 #Nikuyama
 Are you frustrated? I bet you can feel the frustration, you perverted woman![p]
 #
-*Slap! * *Slap! * *Slap![p]
-*[p]
+*Slap! * *Slap! * *Slap! *[p]
 #Kaori
 Nn... S-Stop... doing that... Ahh...[p]
 #Nikuyama
 You can't resist my dick anymore. If you're frustrated, try resisting, damn it![p]
 #
-*Slap! * *Slap! * *Slap![p]
-*[p]
+*Slap! * *Slap! * *Slap! *[p]
 #Kaori
 Ahh... I-I won't resist... Please don't be rough... Ahh...[p]
 #Nikuyama
 What, you're giving in? Then say, I will never resist a dick again![p]
 #
-*Slap! * *Slap! * *Slap![p]
-*[p]
+*Slap! * *Slap! * *Slap! *[p]
 #Kaori
-Kuu... u... I won't... resist your... dick... Ahh♥ I won't...[p]
-Uhhhh♥[p]
+Kuu... u... I won't... resist your... dick... Ahh♥ I won't... Uhhhh♥[p]
 #Nikuyama
 Say Please cum inside me! , damn it![p]
 #
-*Slap! * *Slap! * *Slap![p]
-*[p]
+*Slap! * *Slap! * *Slap! *[p]
 #Kaori
 No...[p]
 Ahh♥[p]
 #Nikuyama
 Are you still resisting? It seems like your dick education is lacking... Oraa![p]
 #
-*Slap! * *Slap! * *Slap![p]
-*[p]
+*Slap! * *Slap! * *Slap! *[p]
 #Kaori
-Ahh... I-I'll say it... Nnngh... P-Please...[p]
-♥[p]
+Ahh... I-I'll say it... Nnngh... P-Please... ♥[p]
 #Nikuyama
 Say Please impregnate me! , damn it![p]
 #
-*Slap! * *Slap! * *Slap! * *Slap![p]
-*[p]
+*Slap! * *Slap! * *Slap! * *Slap! *[p]
 #Kaori
-Ahh♥... Nngh... Please impregnate me...[p]
-Ahhhh♥[p]
+Ahh♥... Nngh... Please impregnate me... Ahhhh♥[p]
 #Nikuyama
 Alright, I'm going to cum inside you plenty... Come on, get pregnant!![p]
 #Kaori
@@ -1227,8 +1189,7 @@ Ugh... Yes...[p]
 #Kaori
 Lero lero... I-It's just something I reheated from the pre-made dishes... Chupu.[p]
 #Nikuyama
-I see, I see. However, it's well done.[p]
-*munching*[p]
+I see, I see. However, it's well done. *munching*[p]
 #Kaori
 *Chupa*...[p]
 *Jupu*♥[p]
@@ -1240,30 +1201,25 @@ But it's surprising, an intellectual woman like you can make such home-cooked me
 #Nikuyama
 *munching* ... It's delicious, but the seasoning is a bit light. I prefer a stronger flavor. Remember that.[p]
 #Kaori
-*Jupu*... Y-Yes...[p]
-*Chumu*♥[p]
+*Jupu*... Y-Yes... *Chumu*♥[p]
 #Nikuyama
 This would be perfect if we had some alcohol. Don't you have even a single bottle of beer?[p]
 #Kaori
-*Jupu*... S-Sorry...[p]
-*Lero lero*♥[p]
+*Jupu*... S-Sorry... *Lero lero*♥[p]
 #Nikuyama
 Tch... From now on, make sure to have a few bottles of beer ready for when I come over.[p]
 #Kaori
-*Ku*... Yes...[p]
-Jupu♥[p]
+*Ku*... Yes... Jupu♥[p]
 #Nikuyama
 However, eating a meal while getting a blowjob isn't bad either. You must also feel the joy of serving your master, right?[p]
 Hm?[p]
 #Kaori
-*Chubba*... Yes... I'm happy that you're enjoying it...[p]
-*Lick lick lick*♥[p]
+*Chubba*... Yes... I'm happy that you're enjoying it... *Lick lick lick*♥[p]
 #Nikuyama
 I see, I see. Since we're almost done eating, I'll make sure to give you, my pet, a generous reward of my cum.[p]
 Be grateful and drink it all up, muhihihi.[p]
 #Kaori
-*Chubba*... Yes...[p]
-*Jupu*♥[p]
+*Chubba*... Yes... *Jupu*♥[p]
 #
 ・・・・・・・・・[p]
 
@@ -1279,8 +1235,7 @@ Be grateful and drink it all up, muhihihi.[p]
 *Zuppu*...[p]
 *Jupo*[p]
 #Kaori
-Nn... Ahh♥...[p]
-Nfuh♥[p]
+Nn... Ahh♥... Nfuh♥[p]
 #Nikuyama
 Hey, move properly. Don't just enjoy it by yourself.[p]
 [_tb_end_text]
@@ -1297,16 +1252,14 @@ Nn♥[p]
 #Nikuyama
 After eating, I really don't feel like moving. Cowgirl position is the best. Come on, move your hips more.[p]
 #Kaori
-Y-Yes... Nn♥...[p]
-Ahn♥[p]
+Y-Yes... Nn♥... Ahn♥[p]
 #
 *Juppu*...[p]
 *Zuppu*[p]
 #Nikuyama
 With this angle, you can clearly see the penis going in and out. The anus is completely visible.[p]
 #Kaori
-Nn... Ahh...[p]
-Ahn♥[p]
+Nn... Ahh... Ahn♥[p]
 #Nikuyama
 Oh, by the way, I forgot to bring the camera.[p]
 #Kaori
@@ -1314,8 +1267,7 @@ Nn♥... Ahh...?[p]
 #Nikuyama
 We need to record the training program's progress on video. If we don't, we won't have any evidence of your defiant attitude.[p]
 #Kaori
-Th-That... Ah♥...[p]
-Ahh♥[p]
+Th-That... Ah♥... Ahh♥[p]
 #
 *Squish*... *Thrust*... *Suck*...[p]
 #Nikuyama
@@ -1331,56 +1283,48 @@ I-Is that so... Nn♥... Haa...[p]
 #Nikuyama
 What will you do? You can kick me out of the house right now if you want.[p]
 #Kaori
-Th-That... Ahh♥...[p]
-Haa♥[p]
+Th-That... Ahh♥... Haa♥[p]
 #
 *Squish*... *Thrust*...[p]
 #Nikuyama
 What's wrong? Can't you stop shaking your butt because my dick feels too good? Hehehe.[p]
 #Kaori
-D-Different... Ahh... Ahh♥...[p]
-Unn[p]
+D-Different... Ahh... Ahh♥... Unn[p]
 #
 *Slosh*... *Suck*...[p]
 #Nikuyama
 You're saying that, but you won't let go of my dick. Well, if you say you want to continue with private sex, I guess I can go along with it.[p]
 Muhihihi.[p]
 #Kaori
-Wh-Who... Ahh♥...[p]
-Ahfu♥[p]
+Wh-Who... Ahh♥... Ahfu♥[p]
 #
 *Squish*... *Suck*...[p]
 #Nikuyama
 Then hurry up and pull out your dick. Come on, come on.[p]
 #Kaori
-I-If you... kick me out now... Ahh♥... You'll...[p]
-Ahh♥[p]
+I-If you... kick me out now... Ahh♥... You'll... Ahh♥[p]
 #Nikuyama
 Well, who knows? Even if you don't get kicked out, I'll still train you, hehehe.[p]
 #Kaori
-Since... we've come this far... Ahh♥... I-I'll...[p]
-Ahh♥[p]
+Since... we've come this far... Ahh♥... I-I'll... Ahh♥[p]
 #
 *Squish*... *Suck*...[p]
 #Nikuyama
 I see, I see. So from here on out, it's private lovey-dovey sex, huh? Muhihihi.[p]
 #Kaori
-Wh-Who... Ahh♥... with you... Ahfu♥... Love...[p]
-Ahii♥[p]
+Wh-Who... Ahh♥... with you... Ahfu♥... Love... Ahii♥[p]
 #
 *Squish*... *Suck*...[p]
 #Nikuyama
 Don't be so stubborn. You really love my dick, don't you? You're such a cute one, hehehe.[p]
 #Kaori
-Ahh♥, who... Ahii♥, who...[p]
-Haa♥[p]
+Ahh♥, who... Ahii♥, who... Haa♥[p]
 #
 *Suck*... *Suck*... *Suck*... *Suck*...[p]
 #Nikuyama
 Alright, alright, I'm gonna cum inside you plenty, Kaori. Take it all in properly. Muhihihi.[p]
 #Kaori
-Ahh... Nooo♥... D-During private sex... I'm...[p]
-Ahhh♥♥[p]
+Ahh... Nooo♥... D-During private sex... I'm... Ahhh♥♥[p]
 #
 ・・・・・・・・・[p]
 [_tb_end_text]
@@ -1466,8 +1410,7 @@ Th... Thank you...[p]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="music54.mp3"  ]
 [tb_start_text mode=1 ]
 #
-*Slap! * *Slap! * *Slap![p]
-*[p]
+*Slap! * *Slap! * *Slap! *[p]
 #Nikuyama
 Hey, you wanted this, you perverted woman![p]
 #Kaori
@@ -1475,44 +1418,35 @@ Ahh... Ahh... Please... don't be rough...[p]
 #Nikuyama
 Did you think you could get lovey-dovey sex like lovers? Don't be so clingy, you flesh toilet![p]
 #
-*Slap! * *Slap! * *Slap![p]
-*[p]
+*Slap! * *Slap! * *Slap! *[p]
 #Kaori
-*Gasp*... Ahh♥... H-How cruel...[p]
-Aahh♥[p]
+*Gasp*... Ahh♥... H-How cruel... Aahh♥[p]
 
 #Nikuyama
 This is private rape! You can resist if you want, I'm telling you![p]
 #
-*Slap! * *Slap! * *Slap![p]
-*[p]
+*Slap! * *Slap! * *Slap! *[p]
 #Kaori
-Th-this... Ahh♥... I-it's illegal...![p]
-Ahhii♥[p]
+Th-this... Ahh♥... I-it's illegal...! Ahhii♥[p]
 #Nikuyama
 The police, huh? How amusing. Go ahead and report it! Do you really think they'll listen seriously to the words of a perverted woman like you?![p]
 #
-*Slap! * *Slap! * *Slap![p]
-*[p]
+*Slap! * *Slap! * *Slap! *[p]
 #Kaori
-K... like that... Ahh♥ K... it's frustrating...[p]
-hiiii♥[p]
+K... like that... Ahh♥ K... it's frustrating... hiiii♥[p]
 #Nikuyama
 Guhihihi, if you obediently submit as my sexual slave, that's all I need from you! Ora![p]
 #
-*Slap! * *Slap! * *Slap![p]
-*[p]
+*Slap! * *Slap! * *Slap! *[p]
 #Kaori
 Nnnn♥ I...[p]
 Aaaahhh♥[p]
 #Nikuyama
 I'll teach your body thoroughly that you can't resist my cock! Ora![p]
 #
-*Slap! * *Slap! * *Slap! * *Slap![p]
-*[p]
+*Slap! * *Slap! * *Slap! * *Slap! *[p]
 #Kaori
-Ahhhh♥ I-I'm cumming... from...[p]
-Ahhh♥♥[p]
+Ahhhh♥ I-I'm cumming... from... Ahhh♥♥[p]
 #
 ・・・・・・・・・[p]
 [_tb_end_text]
