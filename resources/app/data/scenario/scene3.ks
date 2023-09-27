@@ -74,7 +74,7 @@ If only I had seen more of them during my student days.[p]
 Sigh, I wonder if bloomers will ever be reevaluated.[p]
 If there was a political party called the Bloomer Revival Party, I would vote for them...[p]
 #male student
-Student: Teacher, warm-up exercises are finished.[p]
+Teacher, warm-up exercises are finished.[p]
 #
 However, in AV and such, there are times when colorful bloomers appear, but those who don't understand that true bloomers are dark blue, well, red is barely acceptable, but yellow or green bloomers have no charm at all.[p]
 #Male student
@@ -90,7 +90,7 @@ the warm-up exercises are finished.[p]
 Oh, I see.[p]
 In that case, divide into teams however you like and start the game.[p]
 #male student
-Male student: Yes, understood.[p]
+Yes, understood.[p]
 #
 I can't believe it...[p]
 I have no interest in male students.[p]
@@ -329,7 +329,6 @@ However...[p]
 he wonders if he will continue to grow older like this.[p]
 Just once, he wants to have his way with women like in AVs.[p]
 He wants to hold their weaknesses and turn them into sex slaves...[p]
-[p]
 #Nikuyama
 ...[p]
 Tch, I'm getting hard.[p]
@@ -465,7 +464,6 @@ how ridiculous.[p]
 Who would buy something like this?[p]
 If something like this actually existed, it would be worth millions.[p]
 Only complete idiots would be fooled by such a scam product...[p]
-[p]
 
 
 [_tb_end_text]
@@ -653,8 +651,7 @@ Just talking and then leaving...![p]
 Acting all high and mighty, looking down on people...[p]
 What an arrogant person.[p]
 I want to make them moan with my cock, just once.[p]
-Maybe I should really rape them...?[p]
-...[p]
+Maybe I should really rape them...?...[p]
 It's definitely impossible.[p]
 If I were to do something like that, I would definitely get fired...[p]
 Or even go to jail...[p]

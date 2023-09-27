@@ -879,7 +879,6 @@ The frills are fluttering...[p]
 It's appealing cuteness while also being perverted.[p]
 It's truly underwear designed to cater to men.[p]
 Is it inspired by a maid outfit?[p]
-[p]
 #Kirishima
 I-I don't know...![p]
 #Nikuyama
@@ -1720,8 +1719,7 @@ Since it's summer, you must be sweating a lot, so your urine must be concentrate
 Jabobobobobobo...[p]
 #Kirishima
 Gokyuu![p]
-Gokyuu![p]
-...[p]
+Gokyuu!...[p]
 Gefu...[p]
 Gokyuu![p]
 Gokyuu![p]
@@ -1733,8 +1731,7 @@ Jabobobobobobo...[p]
 #Kirishima
 Goboh![p]
 Gokyuu![p]
-Gokyuu![p]
-...[p]
+Gokyuu!...[p]
 Gah...[p]
 Gokyuu![p]
 #Nikuyama
@@ -1918,8 +1915,7 @@ Slosh slosh slosh slosh...[p]
 #Kirishima
 Gokyu![p]
 Gokyu![p]
-Gokyu![p]
-...[p]
+Gokyu!...[p]
 Geha...![p]
 #Nikuyama
 Savor it and drink it well.[p]

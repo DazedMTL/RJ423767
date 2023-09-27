@@ -1399,7 +1399,6 @@ that's true...[p]
 #Vice Principal
 I see...[p]
 So Kirishima-sensei had such a fetish...[p]
-[p]
 #Kaori
 Y-Yes...[p]
 that's right...[p]
@@ -2129,8 +2128,7 @@ Y-Yes...[p]
 [tb_start_text mode=1 ]
 #Table tennis club member
 Ah, Mr.[p]
-Nikuyama![p]
-...[p]
+Nikuyama!...[p]
 and Ms.[p]
 Kirishima...[p]
 #Nikuyama

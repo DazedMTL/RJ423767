@@ -510,8 +510,7 @@ it's hitting me...[p]
 Oops, excuse me, but please bear with it.[p]
 Hooo[p]
 #Kirishima
-Ahh!?[p]
-...[p]
+Ahh!?...[p]
 Ku...[p]
 #Nikuyama
 Hmm?[p]
@@ -1042,8 +1041,7 @@ It's going to be tough to reach the finish like this.[p]
 Oh well...[p]
 Lift your face up![p]
 #Kirishima
-Mmm...!?[p]
-...[p]
+Mmm...!?...[p]
 Ju-pon![p]
 
 
@@ -2594,8 +2592,7 @@ H-Hey...![p]
 [chara_hide  name="桐嶋"  time="1000"  wait="true"  pos_mode="true"  ]
 [tb_start_text mode=1 ]
 #
-Damn, they left![p]
-...[p]
+Damn, they left!...[p]
 Did I push too hard?[p]
 If they go to the police now, everything will be ruined.[p]
 I'll try a different approach tomorrow...[p]

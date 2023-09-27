@@ -126,7 +126,6 @@ My goal is to insert my penis, so next time I'll have to escalate the sexual har
 But they have a strong guard, so what should I do...?[p]
 Hmm?[p]
 Urine...[p]
-[p]
 
 
 
@@ -145,7 +144,6 @@ This is not the time for such things.[p]
 I need to escalate the sexual harassment and go further.[p]
 Well, there might be some psychological damage, but it's not a complete waste.[p]
 Now then, today I will do something truly erotic.[p]
-[p]
 [_tb_end_text]
 
 [jump  storage="mein.ks"  target="*aa"  ]
@@ -156,7 +154,6 @@ Now then, today I will do something truly erotic.[p]
 Hehehe, I finally kissed them.[p]
 And not just a simple kiss, but a deep and passionate French kiss.[p]
 The fact that they accepted a kiss that they hated so much means that if I label it as an examination or treatment, they will likely accept most things.[p]
-[p]
 
 [_tb_end_text]
 
@@ -169,7 +166,6 @@ Kukuku, there was a little commotion this morning.[p]
 That strict Kirishima sensei came dressed like an AV actress.[p]
 It's no wonder everyone is speculating that they must have found a man or something.[p]
 But only I, the great me, need to know the truth.[p]
-[p]
 
 [_tb_end_text]
 
@@ -196,7 +192,6 @@ Of course, this game is all about brainwashing Kaori Kirishima.[p]
 Anyway, we can't proceed from here by just casually playing around.[p]
 In order to seduce Kirishima, I have to make them admit that they themselves are lewd.[p]
 However, they're stubborn and won't easily admit it.[p]
-[p]
 [_tb_end_text]
 
 [jump  storage="mein.ks"  target="*aa"  ]
@@ -254,7 +249,6 @@ This seems to be the key to winning them over...[p]
 #
 Well, I've given them the no masturbation order, but I can't just wait for them to start craving a penis.[p]
 I need to sexually harass them and make them horny.[p]
-[p]
 [_tb_end_text]
 
 [jump  storage="mein.ks"  target="*aa"  ]
@@ -315,7 +309,6 @@ I finally made Kirishima admit that they are a nymphomaniac![p]
 From now on, I can freely manage and correct them under the guise of treatment.[p]
 I've been holding back so much, but now I can't wait to violate them to my heart's content!...[p]
 That's what I want to say, but their aversion to sex is quite strong, so it would be better to progress with brainwashing a little more before the real thing.[p]
-[p]
 [_tb_end_text]
 
 [jump  storage="mein.ks"  target="*aa"  ]
@@ -339,7 +332,6 @@ Well, now that I can make Kirishima give me a blowjob whenever I want, it doesn'
 The ultimate goal is to turn them into a sex slave who can freely have sex.[p]
 However, Kirishima has strong resistance towards the final act due to past trauma, so it won't be easy to cross that line.[p]
 As a strategy to overcome this, I gave them a vibrator under the guise of practicing blowjobs.[p]
-[p]
 [_tb_end_text]
 
 [jump  storage="mein.ks"  target="*aa"  ]
@@ -378,7 +370,6 @@ It was satisfying enough for practical use.[p]
 Well, that's not the point though.[p]
 In order to make them accept the real thing, I need to further stimulate their perverted desires.[p]
 That's why I came up with an idea for today...[p]
-[p]
 [_tb_end_text]
 
 [jump  storage="mein.ks"  target="*aa"  ]
@@ -411,7 +402,6 @@ My goal is to turn them into an obedient sex slave who I can violate anytime, an
 To achieve that, I need to thoroughly train them with my dick...[p]
 First, I need to create that situation.[p]
 Of course, through brainwashing...[p]
-[p]
 [_tb_end_text]
 
 [jump  storage="mein.ks"  target="*aa"  ]
@@ -429,7 +419,6 @@ They believe that if they endure the training for a certain period of time, they
 Until then, I'll enjoy tormenting them as much as I want.[p]
 Muhihihihi![p]
 Now, let's see how I'll train them today...[p]
-[p]
 [_tb_end_text]
 
 [jump  storage="mein.ks"  target="*aa"  ]
@@ -443,7 +432,6 @@ They used to look down on me, flaunting their high education, but this is my com
 However, it's not over yet.[p]
 I won't let it end like this.[p]
 I need to thoroughly teach them that I am in a superior position.[p]
-[p]
 
 [_tb_end_text]
 
@@ -457,7 +445,6 @@ I thought this proud woman would refuse, but she obediently licked them.[p]
 That just shows how much she wants to escape from me...[p]
 Or maybe she actually has masochistic tendencies.[p]
 Alright, today I'll make her do something even more humiliating than licking feet...[p]
-[p]
 
 
 
@@ -478,7 +465,6 @@ Life is amazing.[p]
 Now, from today onwards, I'll continue with the training, but there are still so many things I want to do, so I'm pondering.[p]
 I can try something new or enjoy the training I did before once again.[p]
 Yes, it's about time to try that...[p]
-[p]
 [_tb_end_text]
 
 [jump  storage="mein.ks"  target="*aa"  ]
@@ -494,7 +480,6 @@ In erotic manga, they often depict anal rape, but in reality, a woman's cooperat
 But from now on, I can violate her anus whenever I want...[p]
 Now, for today's training, I have an interesting idea.[p]
 I'll call Kaori at a later time than usual...[p]
-[p]
 [_tb_end_text]
 
 [jump  storage="mein.ks"  target="*aa"  ]
@@ -508,7 +493,6 @@ Just remembering it makes my dick want to explode.[p]
 But even so, they still haven't realized that they've become my slave.[p]
 It's laughable...[p]
 Well then, today is the day I've been preparing for.[p]
-[p]
 [_tb_end_text]
 
 [jump  storage="mein.ks"  target="*aa"  ]
@@ -537,7 +521,6 @@ It makes me laugh.[p]
 But they definitely have a fetish for exhibitionism, getting excited by being seen by others.[p]
 It seems like their desire for exposure is even stronger when they do it outside.[p]
 Today, I'll confirm that.[p]
-[p]
 [_tb_end_text]
 
 [jump  storage="mein.ks"  target="*aa"  ]
@@ -601,7 +584,6 @@ In other words, they won't believe the lies of someone like me who has no credib
 If that's true, then it means that by making Kaori lie while using Psycho-SX, it's possible to brainwash anyone.[p]
 It's not just a dream to brainwash female students and forcefully insert a penis into their tight virgin pussies.[p]
 It frustrates me that I'm not trusted at all...[p]
-[p]
 [_tb_end_text]
 
 [jump  storage="play10.ks"  target=""  ]

@@ -234,19 +234,19 @@ Hm, what is that person doing?[p]
 [chara_show  name="田端"  time="1000"  wait="true"  storage="chara/7/game43-3.png"  width="326"  height="621"  left="1121"  top="206"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #male student
-Male student: Muhohoho...[p]
+Muhohoho...[p]
 I must not be noticed...[p]
 #Nikuyama
 Hey, what are you doing?[p]
 #male student
-Male student: Eek!?[p]
+Eek!?[p]
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
 [chara_show  name="田端"  time="1000"  wait="true"  storage="chara/7/game43-1.png"  width="331"  height="779"  left="446"  top="19"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #male student
-Male student: G-Gah, Sensei Nikuyama...![p]
+G-Gah, Sensei Nikuyama...![p]
 I-I wasn't doing anything, I swear![p]
 #Nikuyama
 Don't lie.[p]
@@ -254,18 +254,18 @@ You were doing something with the camera...[p]
 Haha...[p]
 You were taking upskirt photos of the girls from here, weren't you?[p]
 #male student
-Male student: N-No, that's not true![p]
+N-No, that's not true![p]
 I-I was just going up the stairs...[p]
 #Nikuyama
 I see, so this angle allows you to peek inside skirts without being noticed.[p]
 You found quite a spot.[p]
 #male student
-Male student: N-No...[p]
+N-No...[p]
 um...[p]
 #Nikuyama
 Alright, show me what you managed to capture.[p]
 #male student
-Male student: Ah, a camera...![p]
+Ah, a camera...![p]
 #Nikuyama
 Let's see...[p]
 What the hell, you didn't capture anything at all.[p]
@@ -273,7 +273,7 @@ It's only thighs, look.[p]
 I'm giving the camera back.[p]
 Show me if you manage to capture something properly.[p]
 #male student
-Male student: Huh...[p]
+Huh...[p]
 N-No punishment...?[p]
 #Nikuyama
 Huh?[p]
@@ -300,7 +300,7 @@ Come to think of it, I was the advisor of the photography club.[p]
 I completely forgot since I never showed up (I took on the role because I didn't want to be bothered with being the advisor of the judo club).[p]
 But I wonder if we had any members like you...?[p]
 #male student
-Male student: I'm Tabata from the second year.[p]
+I'm Tabata from the second year.[p]
 I'm technically the vice president...[p]
 #Nikuyama
 Vice president?[p]
@@ -396,7 +396,6 @@ I can't disclose the details to protect privacy.[p]
 #Vice Principal
 Therapy?[p]
 Is Kirishima-sensei dealing with some kind of mental anxiety?[p]
-[p]
 #Nikuyama
 Yes, actually I have qualifications in psychotherapy.[p]
 (What's the matter?[p]
@@ -533,8 +532,7 @@ Th-That's not true![p]
 There's no way parents would give their child a name like Creepy guy.[p]
 I have a proper name, which is Kimoto Norio.[p]
 #Nikuyama
-Kimoto Norio?[p]
-...[p]
+Kimoto Norio?...[p]
 I see, so it's abbreviated as Kimoo from Kimoto Norio.[p]
 #Kimoto
 By the way, I'm a member of the photography club.[p]
@@ -680,8 +678,7 @@ Since there's nothing else, I'll go home now.[p]
 [chara_hide_all  time="1000"  wait="true"  ]
 [tb_start_text mode=1 ]
 #Nikuyama
-You're not an elementary school student![p]
-...[p]
+You're not an elementary school student!...[p]
 No, you just look young.[p]
 There's no way an elementary school student would be in this school, hahaha.[p]
 #
@@ -793,8 +790,7 @@ Why are you blaming me for it!?[p]
 There are witnesses who saw it.[p]
 I know that you guys were playing catch here.[p]
 #Shibata
-Catch ball...?[p]
-...[p]
+Catch ball...?...[p]
 N-No![p]
 I wasn't playing catch ball![p]
 #Nikuyama
@@ -864,7 +860,7 @@ I wasn't playing catch or anything![p]
 #Kirishima
 Who is this student who witnessed it?[p]
 #Female Student B
-Student B: U-um, it was me.[p]
+U-um, it was me.[p]
 But I only glanced and...[p]
 I just said that Shibata and the others were throwing something and playing.[p]
 #Nikuyama
@@ -902,8 +898,7 @@ Who the hell do you think did it?[p]
 #Kirishima
 That is...[p]
 #？？
-???[p]
-: Ah, I'm sorry, I'm sorry.[p]
+Ah, I'm sorry, I'm sorry.[p]
 I'm the one who broke the glass.[p]
 #Nikuyama
 Hm...[p]
@@ -955,8 +950,7 @@ It's impressive that they deduced that the window was broken from the outside ju
 That's right.[p]
 If it were any other teacher, they would have just pinned the blame on Shibata-kun and called it a day...[p]
 #Kirishima
-It's not that big of a deal.[p]
-...[p]
+It's not that big of a deal....[p]
 Although there are some teachers who don't even bother to see the truth and just label their students as trash.[p]
 #Nikuyama
 Ugh...[p]
@@ -977,8 +971,7 @@ Then you guys should clean up the glass.[p]
 [tb_start_text mode=1 ]
 #
 Damn it![p]
-That Kirishima bastard made me look bad![p]
-...[p]
+That Kirishima bastard made me look bad!...[p]
 Well, whatever.[p]
 I have a brainwashing device here.[p]
 I'll soon train that arrogant attitude of theirs with my cock.[p]
@@ -1386,8 +1379,7 @@ I'm really glad that you're our advisor, sensei.[p]
 Hmph, well, I was lucky that Kirishima was the one I dealt with today and she helped me out.[p]
 But if you ever cause any trouble, I won't hesitate to abandon all of you.[p]
 #Tanahata
-Y-Yes![p]
-...[p]
+Y-Yes!...[p]
 But what do you mean by saying that I was saved because it was Kirishima-sensei...?[p]
 #Nikuyama
 That's none of your business.[p]
@@ -1453,8 +1445,7 @@ Well, if you definitely want to see all the after-school events, then be careful
 Just make sure to roam the school during after school by choosing Roaming the School, and you'll be fine.[p]
 #Tonko
 I see.[p]
-If you choose the Do Nothing command, it's guaranteed.[p]
-...[p]
+If you choose the Do Nothing command, it's guaranteed....[p]
 But I wonder if there are people who want to see all the after-school events without missing any?[p]
 #Pinko
 Well...?[p]
@@ -1481,7 +1472,7 @@ Should I take a peek?[p]
 Um...[p]
 What is this talk about?[p]
 #male student
-Male student: Um...[p]
+Um...[p]
 W-Well...[p]
 I've liked you for a while![p]
 Please go out with me![p]
@@ -1489,13 +1480,13 @@ Please go out with me![p]
 U-Um...[p]
 I'm sorry...[p]
 #male student
-Male student: Ah, ah...[p]
+Ah, ah...[p]
 Hahaha, y-yeah, I guess so.[p]
 Someone like me...[p]
 #Fujino
 I-I'm sorry...[p]
 #male student
-Male student: No, it's fine.[p]
+No, it's fine.[p]
 I feel relieved that I was able to convey my feelings, so sorry for taking up your time.[p]
 Well then...![p]
 #Fujino
@@ -1820,8 +1811,7 @@ I don't know about that.[p]
 But it's a good thing to have a clear idea of what you want to do.[p]
 Just work hard without hesitation, that's all you need to do.[p]
 #Akai
-Ahaha, you're not saying things like You'll definitely become one.[p]
-...[p]
+Ahaha, you're not saying things like You'll definitely become one....[p]
 But on the other hand, you're giving me a serious answer without saying irresponsible things, right?[p]
 #Kirishima
 That's right.[p]
@@ -2472,8 +2462,7 @@ I wonder if your inner beauty naturally radiates without you even being aware of
 #Kitamura
 Um, um, how do you spend your days off?[p]
 #Kirishima
-Is it a day off?[p]
-...[p]
+Is it a day off?...[p]
 I guess I'll be catching up on housework and preparing for classes.[p]
 #Kitamura
 Oh, that's not good.[p]
@@ -2495,8 +2484,7 @@ I still have work to do, so excuse me.[p]
 [chara_hide_all  time="1000"  wait="true"  ]
 [tb_start_text mode=1 ]
 #Kitamura
-Ah, wait, Kirishima-sensei...![p]
-...[p]
+Ah, wait, Kirishima-sensei...!...[p]
 Damn it![p]
 What's with the high and mighty attitude![p]
 Dressing like that and seducing men...[p]
@@ -2550,7 +2538,6 @@ The girls in the basketball club are slim and have beautiful legs.[p]
 It's hard to resist those slender legs.[p]
 The girls in the gymnastics club may be small, but they are flexible and have great figures.[p]
 Their soft bodies would be enjoyable in various positions during sex...[p]
-[p]
 #Female volleyball club member
 Don't look at our bodies![p]
 Look at the ball![p]

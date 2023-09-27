@@ -92,7 +92,6 @@ I should be isolated as a potential sex offender...[p]
 B-but thanks to the generous measures of Mr.[p]
 Nikuyama, I'm able to live a somewhat normal life...[p]
 From now on, please guide me with your penis so that I don't stray onto the wrong path...[p]
-[p]
 #Nikuyama
 As a perverted woman like you, I have the responsibility to guide you with my penis.[p]
 From now on, I will not abandon you and will educate you properly, so strive to improve yourself.[p]
@@ -1286,8 +1285,7 @@ W-Who...[p]
 Don't talk back![p]
 *[p]
 #Kaori
-Ahh![p]
-...[p]
+Ahh!...[p]
 Y-Yes, teacher...[p]
 #Nikuyama
 Oh my?[p]
