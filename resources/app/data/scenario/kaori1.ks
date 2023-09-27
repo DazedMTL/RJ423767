@@ -14,7 +14,7 @@
 [bg  time="1000"  method="crossfade"  storage="game100.jpg"  ]
 [tb_start_text mode=1 ]
 #
-よし、とりあえず桐嶋を呼び出そう[p]
+Okay, let's call Kaori Kirishima for now.[p]
 [_tb_end_text]
 
 [stopbgm  time="1000"  fadeout="true"  ]
@@ -22,10 +22,11 @@
 [chara_show  name="桐嶋"  time="1000"  wait="true"  storage="chara/1/game10.png"  width="370"  height="870"  left="479"  top="20"  reflect="false"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="捜査会議.mp3"  ]
 [tb_start_text mode=1 ]
-#香織
-「何の用ですか？私は忙しいんですけど」[p]
-#肉山
-「いや、ちょっと話がありましてね」[p]
+#Kaori
+What do you need?[p]
+I'm busy right now.[p]
+#Nikuyama
+Well, there's something I need to talk about.[p]
 [_tb_end_text]
 
 [jump  storage="play1.ks"  target=""  ]
@@ -38,7 +39,7 @@
 [playbgm  volume="100"  time="1000"  loop="true"  storage="捜査会議.mp3"  ]
 [tb_start_text mode=1 ]
 #
-どうする？[p]
+What should we do?[p]
 [_tb_end_text]
 
 [glink  color="black"  storage="play2.ks"  size="20"  text="問診"  x="558"  y="360"  width=""  height=""  _clickable_img=""  ]
@@ -52,7 +53,7 @@
 [playbgm  volume="100"  time="1000"  loop="true"  storage="捜査会議.mp3"  ]
 [tb_start_text mode=1 ]
 #
-どうする？[p]
+What should we do?[p]
 [_tb_end_text]
 
 [glink  color="black"  storage="play2.ks"  size="20"  text="問診"  x="555"  y="360"  width="100"  height="20"  _clickable_img=""  ]
@@ -67,7 +68,7 @@
 [playbgm  volume="100"  time="1000"  loop="true"  storage="捜査会議.mp3"  ]
 [tb_start_text mode=1 ]
 #
-どうする？[p]
+What should we do?[p]
 [_tb_end_text]
 
 [glink  color="black"  storage="play2.ks"  size="20"  text="問診"  x="555"  y="290"  width="100"  height="20"  _clickable_img=""  ]
@@ -83,7 +84,7 @@
 [playbgm  volume="100"  time="1000"  loop="true"  storage="捜査会議.mp3"  ]
 [tb_start_text mode=1 ]
 #
-どうする？[p]
+What should we do?[p]
 [_tb_end_text]
 
 [glink  color="black"  storage="play2.ks"  size="20"  text="問診"  x="555"  y="220"  width="100"  height="20"  _clickable_img=""  ]
@@ -98,7 +99,7 @@
 [bg  time="1000"  method="crossfade"  storage="game100.jpg"  ]
 [tb_start_text mode=1 ]
 #
-時間切れだ[p]
+Time's up.[p]
 [_tb_end_text]
 
 [tb_eval  exp="f.tt=0"  name="tt"  cmd="="  op="t"  val="0"  val_2="undefined"  ]
@@ -111,12 +112,11 @@
 
 [tb_start_text mode=1 ]
 #
-・・・・・・[p]
-・・・クソッ！桐嶋のやつ、呼び出しを無視してやがる・・・！[p]
-昨日のことでよほど腹を立ててやがるみたいだな[p]
-・・・まぁいい。放課後に呼び出してたっぷりと思い知らせてやる[p]
-自分の置かれている立場ってやつをな・・・[p]
-・・・[p]
+Damn it![p]
+That Kirishima, ignoring my call...![p]
+They must be really pissed off about what happened yesterday...[p]
+Well, whatever.[p]
+I'll make them fully aware of the position they're in when I call them after school...[p]
 [_tb_end_text]
 
 [jump  storage="mein.ks"  target="*aa"  ]

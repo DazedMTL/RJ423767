@@ -46,16 +46,15 @@
 
 [tb_start_text mode=1 ]
 #
-さて、今日から桐嶋香織を洗脳していくわけだが[p]
-いくらあの女が洗脳にかかりやすい体質だといっても、いきなり何でも言うことを聞く肉奴隷にするってわけにはいかねえ[p]
-少しずつ時間をかけて認識を改変して、俺に従わなければいけなくなる状況を作っていかないといけない[p]
-そしてなにより洗脳には会話が必要だ[p]
-あいつは俺を毛嫌いしてるから口をきくこと自体が難しい[p]
-それに周りに他の人間がいたら洗脳には邪魔だから二人きりにならないといけない[p]
-そのためにはこの体育教官室にあいつを呼び出すのが一番だが[p]
-それにはなにか理由をでっち上げないといけない[p]
-そしてその理由は信憑性があって尚且つ後々エロい方向に持っていきやすいものでないといけないが・・・[p]
-まぁとりあえず桐嶋を呼び出してみよう[p]
+Well, from today onwards, I'm going to brainwash Kaori Kirishima.[p]
+Even though she has a predisposition to being easily brainwashed, I can't just turn her into a mindless sex slave who obeys my every command right away.[p]
+I have to gradually alter her perception and create a situation where she has no choice but to follow me.[p]
+And above all, brainwashing requires conversation.[p]
+It's difficult to even get her to speak because she despises me.[p]
+Plus, if there are other people around, they would interfere with the brainwashing process, so we have to be alone together.[p]
+That's why it would be best to call her to this physical education instructor's room, but I need to come up with a reason for her to come here.[p]
+And that reason needs to be believable and easily lead towards a more erotic direction in the future...[p]
+Well, for now, let's try calling Kirishima.[p]
 [_tb_end_text]
 
 [jump  storage="mein.ks"  target="*aa"  ]
@@ -63,10 +62,10 @@
 
 [tb_start_text mode=1 ]
 #
-健康調査というアイデアは良かったな[p]
-これであいつをこの部屋に呼び出して会話をするという名目ができたわけだ[p]
-こうなればこっちのもんよ[p]
-とりあえず色々質問したりする中で洗脳を進めていこうぜ[p]
+The idea of a health survey was good.[p]
+With this, we have a reason to call them to this room and have a conversation.[p]
+Once we're in this situation, it's all in our favor.[p]
+Let's start brainwashing them while asking various questions.[p]
 [_tb_end_text]
 
 [jump  storage="mein.ks"  target="*aa"  ]
@@ -74,13 +73,14 @@
 
 [tb_start_text mode=1 ]
 #
-スリーサイズを聞くことに成功したな[p]
-９８、６２、９０か[p]
-なんて卑猥な身体なんだ[p]
-早くあの身体を思う存分味わってみてえぜ[p]
-ここから洗脳を進めていくにはどういう方向に話を持っていくべきか・・・それが悩みどころだ[p]
-・・・しかし９８ｃｍか。絶対に１００オーバーしてるかと思ったがな[p]
-見誤ったかな・・・？[p]
+I succeeded in asking for their three sizes.[p]
+98, 62, 90...[p]
+What a lewd body.[p]
+I can't wait to fully taste that body.[p]
+Now, I need to figure out which direction to take the conversation in order to progress with the brainwashing...[p]
+That's the dilemma...[p]
+However, 98cm.[p]
+I thought for sure it would be over 100, but maybe I misjudged...?[p]
 [_tb_end_text]
 
 [jump  storage="mein.ks"  target="*aa"  ]
@@ -88,15 +88,6 @@
 
 [tb_start_text mode=1 ]
 #
-ふう、昨日は興奮したな[p]
-まさかこんなに早くあの生意気女の生乳を拝めるとは思わなかったぜ[p]
-「身体測定」という名目を作ることであんなに簡単に肌を晒させることができるんだな[p]
-やはり洗脳には「設定」が大事だということか[p]
-しかしやっぱりバストのサイズを誤魔化してやがったな[p]
-俺の目に狂いはなかったぜ[p]
-早くあの身体を思う存分味わいたいが、ここで焦っちゃダメだ[p]
-じっくりと洗脳で「設定」を叩き込んでいこう[p]
-俺のエロイ命令に逆らえない「設定」をな[p]
 ・・・[p]
 [_tb_end_text]
 
@@ -105,8 +96,8 @@
 
 [tb_start_text mode=1 ]
 #
-どうも作者です[p]
-頑張って作りました。買ってください[p]
+Thank you, I'm the author and I worked hard to create this.[p]
+Please buy it.[p]
 [_tb_end_text]
 
 [jump  storage="mein.ks"  target="*aa"  ]
@@ -114,9 +105,9 @@
 
 [tb_start_text mode=1 ]
 #
-巧いこと桐嶋を騙して毎日ここに呼び出せるようになったな[p]
-淫乱症かどうかを検査するという名目で色々とエロいことをしてやるぞ、ウヒヒヒ[p]
-よし、早く桐嶋を呼び出そうぜ[p]
+I've cleverly deceived Kirishima and managed to call them here every day.[p]
+Under the pretense of conducting a test to determine if they have nymphomania, I'll do various erotic things to them.[p]
+Hehehe, alright, let's quickly call Kirishima.[p]
 
 [_tb_end_text]
 
@@ -125,13 +116,17 @@
 
 [tb_start_text mode=1 ]
 #
-いやぁ、あの桐嶋香織が俺の目の前で俺の尿を飲むのを見るのはちょっと興奮したな[p]
-真面目な顔で飲んでやがった。傑作だぜ。臭いとかで判らないものかね？[p]
-まぁまさか漢方薬と言って出てきた飲み物が人の尿とは思わんわな[p]
-しかし尿を飲ませて喜んでる場合じゃないな。目標はチンポをぶち込んでやることだからな[p]
-次はもっと踏み込んだセクハラをしてやろうぜ[p]
-だがあいつはガードが固いからな。どうすれば・・・ん？[p]
-尿・・・か。良いことを考えたぞ[p]
+Well, seeing Kaori Kirishima drink my urine in front of me got me a little excited.[p]
+They drank it with such a serious face.[p]
+It's a masterpiece.[p]
+I wonder if they can't tell by the smell?[p]
+Well, I never expected the drink they brought out, claiming it was herbal medicine, to actually be human urine.[p]
+But now is not the time to be happy about making them drink urine.[p]
+My goal is to insert my penis, so next time I'll have to escalate the sexual harassment even further.[p]
+But they have a strong guard, so what should I do...?[p]
+Hmm?[p]
+Urine...[p]
+[p]
 
 
 
@@ -142,14 +137,15 @@
 
 [tb_start_text mode=1 ]
 #
-ククク、尿を持ってこさせてやったぜ！[p]
-学校のトイレで採尿してコソコソここまで持ってきたかと思うと笑えるな、ギャハハハ[p]
-・・・・・・[p]
-いや違う違う。こんなことやってる場合じゃない[p]
-もっと踏み込んだセクハラをしないといけないんだった[p]
-まぁ精神的なダメージはあるだろうから全くの無駄ではないだろうがな[p]
-さて、今日こそ本格的にエロいことをするぞ[p]
-桐嶋が心底嫌がることでも言うことを聞くかどうか試してみよう[p]
+Hehehe, I made them bring urine![p]
+It's hilarious to think that I secretly collected it by taking a urine sample in the school toilet.[p]
+Gyahaha...[p]
+no, that's not it.[p]
+This is not the time for such things.[p]
+I need to escalate the sexual harassment and go further.[p]
+Well, there might be some psychological damage, but it's not a complete waste.[p]
+Now then, today I will do something truly erotic.[p]
+[p]
 [_tb_end_text]
 
 [jump  storage="mein.ks"  target="*aa"  ]
@@ -157,10 +153,10 @@
 
 [tb_start_text mode=1 ]
 #
-イッヒッヒ、ついにキスしてやったぜ[p]
-しかも口をくっつけるだけじゃないベロベロのベロチュウだ[p]
-あれだけ嫌がってたキスを受け入れたってことは、検査、治療と称すればたいていのことは受け入れるはずだぜ[p]
-グフフフ、楽しくなってきたぜ[p]
+Hehehe, I finally kissed them.[p]
+And not just a simple kiss, but a deep and passionate French kiss.[p]
+The fact that they accepted a kiss that they hated so much means that if I label it as an examination or treatment, they will likely accept most things.[p]
+[p]
 
 [_tb_end_text]
 
@@ -169,11 +165,11 @@
 
 [tb_start_text mode=1 ]
 #
-クックック、今朝はちょっとした騒ぎだったな[p]
-あのお堅い桐嶋先生があんなAV女優みたいな格好で来たんだからそりゃ驚くだろうよ[p]
-男ができたんじゃねーかとか色々憶測が飛び交ってやがる[p]
-だが真相を知るのは俺様だけでいい[p]
-さっそくあいつを呼び出してセクハラしてやろうぜ[p]
+Kukuku, there was a little commotion this morning.[p]
+That strict Kirishima sensei came dressed like an AV actress.[p]
+It's no wonder everyone is speculating that they must have found a man or something.[p]
+But only I, the great me, need to know the truth.[p]
+[p]
 
 [_tb_end_text]
 
@@ -182,10 +178,11 @@
 
 [tb_start_text mode=1 ]
 #
-あんなエロい服装を強制したりキスしたり乳を揉んだりと、色々好き放題できるようになってきた[p]
-もう一気にチンポをぶち込んでやりたい衝動にかられるが、焦っちゃダメだ[p]
-ここで焦って強く抵抗されたら一瞬でいままで積み上げてきたものがパァになる危険がある[p]
-ここは冷静にじっくりと色々なことを試してみよう[p]
+I've reached a point where I can do whatever I want, forcing them into such erotic outfits, kissing them, and groping their breasts.[p]
+I'm tempted to thrust my penis into them all at once, but I mustn't rush.[p]
+If I get impatient and they resist strongly, everything I've built up so far could crumble in an instant.[p]
+It's dangerous.[p]
+I need to stay calm and carefully try various things.[p]
 
 [_tb_end_text]
 
@@ -194,12 +191,12 @@
 
 [tb_start_text mode=1 ]
 #
-さてと、このゲームの難関にやってきたぞ[p]
-ん？ゲームってのはもちろん桐嶋香織を洗脳する「ゲーム」って意味だぜ[p]
-とにかく今までのように適当にやっていてはここから先には進めない[p]
-桐嶋を落とすには桐嶋自身に自分が淫乱であるという事を認めさせないといけない[p]
-しかしあいつは強情だからなかなか認めようとはしないだろうな[p]
-パンティーをチェックしたときにシミでもできてれば認めざるを得ないだろうが・・・[p]
+Well, it looks like we've reached a difficult point in this game, huh?[p]
+Of course, this game is all about brainwashing Kaori Kirishima.[p]
+Anyway, we can't proceed from here by just casually playing around.[p]
+In order to seduce Kirishima, I have to make them admit that they themselves are lewd.[p]
+However, they're stubborn and won't easily admit it.[p]
+[p]
 [_tb_end_text]
 
 [jump  storage="mein.ks"  target="*aa"  ]
@@ -207,10 +204,11 @@
 
 [tb_start_text mode=1 ]
 #
-よしよし、昨日は作戦が成功したな[p]
-パンティのシミという証拠を得たことで、この先さらに有利に洗脳を進めていけそうだ[p]
-次はAVでおなじみのアレをやってみるか[p]
-女教師といえばやっぱりアレだよな[p]
+Okay, okay.[p]
+Yesterday the plan was a success.[p]
+By obtaining evidence of the stain on their panties, we can further advance the brainwashing and gain an even greater advantage.[p]
+Next, let's try something that is familiar in AV...[p]
+When it comes to female teachers, it has to be that.[p]
 [_tb_end_text]
 
 [jump  storage="mein.ks"  target="*aa"  ]
@@ -218,12 +216,10 @@
 
 [tb_start_text mode=1 ]
 #
-ローター授業楽しかったな[p]
-生徒たちの前で感じまくってやがった[p]
-やはりあいつにはエロの素質があるぜ[p]
-・・・[p]
-さてと、今日もあいつを呼び出そうぜ[p]
-おっと、その前にションベンでもしてくるか[p]
+I had so much fun with the vibrator lesson.[p]
+I was moaning in front of the students, just as I thought, they have a talent for eroticism...[p]
+Well then, let's call them out today.[p]
+Oh, before that, maybe I should take a piss.[p]
 [_tb_end_text]
 
 [jump  storage="mein.ks"  target="*aa"  ]
@@ -231,11 +227,12 @@
 
 [tb_start_text mode=1 ]
 #
-うーん・・・[p]
-キスをしたり乳を揉んだり、あげくの果てには尿を飲ませたりと、洗脳は順調に進んでいるはずだ[p]
-・・・なのに、いまだにチンコを触らせることすらできないのはどういうことなのか[p]
-よっぽどチンコに対する拒否反応があるようだな[p]
-もしかしたら過去に何かあったのかもしれないな・・・[p]
+Hmm...[p]
+I've been kissing them, groping their breasts, and even making them drink urine.[p]
+The brainwashing should be progressing smoothly...[p]
+So why can't I even touch their penis yet?[p]
+They must have a strong aversion to it.[p]
+Maybe something happened in the past that caused this...[p]
 [_tb_end_text]
 
 [jump  storage="mein.ks"  target="*aa"  ]
@@ -243,14 +240,11 @@
 
 [tb_start_text mode=1 ]
 #
-いやぁ、まさか桐嶋の初体験がレイプだったとはな[p]
-男嫌いになるのも無理はないぜ[p]
-しかも相手は体育教師[p]
-だから俺のことをあんなに目の敵にしていたんだな[p]
-レイプ以来一度も男と寝ていないと言っていたが[p]
-でもオナニーはしてるようだし性欲は普通にあるわけだよな[p]
-つまり心では男とセックスしたくないと思ってるが、身体はチンポを欲してるわけだ[p]
-このへんが攻略の鍵になりそうだな・・・[p]
+Kaori's first sexual experience was rape, so it's no wonder they developed a dislike for men.[p]
+And to make matters worse, the perpetrator was a physical education teacher, which explains why they had such animosity towards me.[p]
+They mentioned that they haven't slept with a man since the rape, but it seems like they still masturbate, so they do have sexual desires.[p]
+In other words, their mind doesn't want to have sex with men, but their body craves a penis.[p]
+This seems to be the key to winning them over...[p]
 [_tb_end_text]
 
 [jump  storage="mein.ks"  target="*aa"  ]
@@ -258,9 +252,9 @@
 
 [tb_start_text mode=1 ]
 #
-さて、オナ禁指令を出したわけだが、それだけであいつからチンポを欲しがってくるのを待ってるわけにはいかないだろう[p]
-セクハラをしてムラムラさせてやらないといけない[p]
-身体を触ったりするのもいいが、ここは一つチンポを意識させることだな・・・[p]
+Well, I've given them the no masturbation order, but I can't just wait for them to start craving a penis.[p]
+I need to sexually harass them and make them horny.[p]
+[p]
 [_tb_end_text]
 
 [jump  storage="mein.ks"  target="*aa"  ]
@@ -268,9 +262,9 @@
 
 [tb_start_text mode=1 ]
 #
-くそっ前回は惜しかったぜ[p]
-やっとあの桐嶋にチンポを握らせてやったが、時間切れで中途半端に終っちまった[p]
-今日こそは発射するまで手コキさせてやる[p]
+Damn it, last time was close.[p]
+I finally got Kirishima to hold my dick, but we ran out of time and it ended halfway.[p]
+Today, I'll make them give me a handjob until I cum.[p]
 [_tb_end_text]
 
 [jump  storage="mein.ks"  target="*aa"  ]
@@ -278,12 +272,10 @@
 
 [tb_start_text mode=1 ]
 #
-くくく[p]
-ついにあの生意気くそ女の顔面にザーメンをぶっかけてやったぜ[p]
-ここまで結構時間がかかったからな[p]
-溜まりに溜まったモノが一気に放出された感じで、最高に気持ちよかったぜ[p]
-そして毛を剃るように命令したわけだが[p]
-ちゃんとパイパンにしてきたかどうか・・・楽しみだぜ。ムヒヒヒ[p]
+Ihehehe, I finally ejaculated all over that arrogant bitch's face.[p]
+It took quite some time to build up, so when it was released all at once, it felt amazing.[p]
+And I ordered them to shave their pubic hair, so I'm looking forward to seeing if they actually made it completely bald...[p]
+Muhuhuhi.[p]
 [_tb_end_text]
 
 [jump  storage="mein.ks"  target="*aa"  ]
@@ -291,12 +283,11 @@
 
 [tb_start_text mode=1 ]
 #
-くくく、ついに桐嶋のマンコを見てやったぜ[p]
-あのクソ真面目な桐嶋が自分からマンコを晒すなんてな[p]
-やはり多少強引でもいいから正当性をでっち上げてやれば、言うことを聞かせやすいんだな[p]
-だがマンコを見てるだけで喜んでる場合じゃないぜ[p]
-いずれチンコをぶち込むためにはマンコに対する抵抗感を薄めていかないといけない[p]
-陰毛をチェックするという名目で押していけば・・・[p]
+Kukuku, I finally got to see Kirishima's pussy.[p]
+That strict Kirishima exposing their own pussy, it's no wonder that even if it's a little forceful, creating some legitimacy makes it easier to make them listen.[p]
+But I can't just be happy with just seeing their pussy.[p]
+In order to eventually thrust my dick in, I need to reduce their resistance towards pussy.[p]
+If I push under the pretense of checking their pubic hair...[p]
 [_tb_end_text]
 
 [jump  storage="mein.ks"  target="*aa"  ]
@@ -304,13 +295,13 @@
 
 [tb_start_text mode=1 ]
 #
-昨日は桐嶋をクンニでイかせてやったぜ[p]
-「クンニスクリーニング法」は傑作だったな、ブハハハ[p]
-しかしあいつセックスの経験がほとんど無いわりに感度は良いよな[p]
-やはりレイプ経験から男には拒否感があるが身体はドスケベなんで性欲の行き場がないんだろうな[p]
-これは早く俺様のチンポで満足させてやらないとな[p]
-とりあえず今日は陰毛検査の流れでいけそうだな[p]
-陰毛はあっちの方にも生えるから・・・[p]
+Yesterday, I made Kirishima cum with cunnilingus.[p]
+The cunnilingus cleaning method was a masterpiece, buhahaha.[p]
+However, despite having little sexual experience, they have good sensitivity.[p]
+It's understandable that they have a aversion to men due to their rape experience, but their body is lewd, so they must be craving sexual release.[p]
+I need to satisfy them with my penis as soon as possible.[p]
+For now, it seems like we can proceed with the pubic hair inspection today.[p]
+Pubic hair grows in that area too...[p]
 
 [_tb_end_text]
 
@@ -319,12 +310,12 @@
 
 [tb_start_text mode=1 ]
 #
-ククク・・・ついに桐嶋に自分が淫乱症だということを認めさせてやったぜ！[p]
-これからはあいつを管理下において治療・矯正という名目で好き放題にできるな[p]
-ここまで我慢したんだ、思いっきり犯しまくってやる！[p]
-・・・と言いたいところだがあいつのセックスに対する拒否感はかなり強いからな[p]
-本番はもう少し洗脳を進めてからの方がイイだろう[p]
-その前にやらせたいこともあるしな・・・[p]
+Kukuku...[p]
+I finally made Kirishima admit that they are a nymphomaniac![p]
+From now on, I can freely manage and correct them under the guise of treatment.[p]
+I've been holding back so much, but now I can't wait to violate them to my heart's content!...[p]
+That's what I want to say, but their aversion to sex is quite strong, so it would be better to progress with brainwashing a little more before the real thing.[p]
+[p]
 [_tb_end_text]
 
 [jump  storage="mein.ks"  target="*aa"  ]
@@ -332,9 +323,10 @@
 
 [tb_start_text mode=1 ]
 #
-前回はバイブレーターを渡してフェラの練習をしてくるように指示しておいたんだよな[p]
-実はバイブを渡したのには別の狙いがあるわけだが・・・[p]
-とりあえずそれは置いておいて、まずは練習の成果を見せてもらうとしようじゃないか。ククク[p]
+Last time, I instructed them to practice giving a blowjob with a vibrator.[p]
+Actually, there was another intention behind giving them the vibrator...[p]
+But let's put that aside for now and have them show us the results of their practice.[p]
+Kukuku.[p]
 
 [_tb_end_text]
 
@@ -343,11 +335,11 @@
 
 [tb_start_text mode=1 ]
 #
-さて、桐嶋にいつでも自由にフェラチオをさせられるようになったわけだが、もちろんここで終わりじゃないぜ[p]
-最終目的は自由にセックスできる性奴隷に仕上げることだ[p]
-しかし桐嶋は過去のトラウマもあって最後の本番行為だけは抵抗が強くて簡単にはいかない[p]
-その一線を越えるための一計としてフェラチオの練習と称してしてバイブレーターを渡しておいたわけだが[p]
-俺の見込みどおりならきっとあいつはアレを使って・・・[p]
+Well, now that I can make Kirishima give me a blowjob whenever I want, it doesn't end here, of course.[p]
+The ultimate goal is to turn them into a sex slave who can freely have sex.[p]
+However, Kirishima has strong resistance towards the final act due to past trauma, so it won't be easy to cross that line.[p]
+As a strategy to overcome this, I gave them a vibrator under the guise of practicing blowjobs.[p]
+[p]
 [_tb_end_text]
 
 [jump  storage="mein.ks"  target="*aa"  ]
@@ -355,10 +347,11 @@
 
 [tb_start_text mode=1 ]
 #
-いよいよ桐嶋にチンポをぶち込むところまで来たと思ったんだが・・・あの女まだ抵抗しやがる[p]
-本番に持ち込むにはもうちょっと時間をかけて洗脳を進めないといけない[p]
-とりあえずこれまでの行動を色々と試してみようぜ。何か進展があるだろう[p]
-なあに、フェラチオまでならいつでもさせられるんだ。ムラムラしたらザーメン飲ませるなり顔にぶっかけてやればいいさ[p]
+I thought I was finally going to thrust my dick into Kirishima, but that woman is still resisting.[p]
+I'll have to take a little more time to brainwash her before bringing her to the main event.[p]
+For now, let's try various actions and see if there's any progress.[p]
+Well, I can make her give me a blowjob anytime.[p]
+If she gets horny, I can make her drink semen or cum on her face.[p]
 
 [_tb_end_text]
 
@@ -367,10 +360,10 @@
 
 [tb_start_text mode=1 ]
 #
-やはり直腸検温のように実際に医療で行われる行為は簡単に従わせることが出来るな[p]
-世間の常識の枠内での嘘なら人は信じやすいということだ[p]
-逆に常識から外れるような行為をさせるには段階を踏まないといけないし、でまかせでもいいから論理的な説明が必要になるわけだ[p]
-次もこれまでのプレイから色々試してみるかな[p]
+It seems that it's easy to make someone comply with acts that are actually performed in medical settings, like rectal temperature measurement.[p]
+People are more likely to believe lies within the framework of common sense.[p]
+On the other hand, to make someone perform acts that deviate from common sense, we need to take steps and provide logical explanations, even if they are just excuses.[p]
+I'll try various things in the next play based on what we've done so far.[p]
 [_tb_end_text]
 
 [jump  storage="mein.ks"  target="*aa"  ]
@@ -378,11 +371,14 @@
 
 [tb_start_text mode=1 ]
 #
-いやぁパイズリ最高だったな[p]
-昔何度か他の女にやらせたことがあったが、実際にはたいして気持ち良くないんだよなパイズリって[p]
-でもさすが１００ｃｍオーバーは違うぜ。十分実用に足る気持ち良さだったな[p]
-まぁそれはいいんだが、本番を受け入れさせるにはもっとあいつのスケベ心を高めていかないといけない[p]
-そのために今日は一つ考えてきたんだが・・・どうなるかな？[p]
+Oh, titty fucking was amazing.[p]
+I've had other women do it for me a few times in the past, but honestly, it wasn't that pleasurable.[p]
+But with Kirishima's breasts being over 100cm, it's a whole different level.[p]
+It was satisfying enough for practical use.[p]
+Well, that's not the point though.[p]
+In order to make them accept the real thing, I need to further stimulate their perverted desires.[p]
+That's why I came up with an idea for today...[p]
+[p]
 [_tb_end_text]
 
 [jump  storage="mein.ks"  target="*aa"  ]
@@ -390,10 +386,11 @@
 
 [tb_start_text mode=1 ]
 #
-桐嶋のやつ昨日はちゃんと渡したエロビデオを観たかな？[p]
-なるべく女がセックスがしたくなるような内容のモノを選んだつもりだが・・・どうだろうか[p]
-毎日刺激も与えてるしきっと今あいつはチンポが欲しくてたまらない状態になっているはずだが[p]
-ここでさらにもう一押しするためには・・・[p]
+Did Kirishima watch the erotic video I gave them yesterday?[p]
+I tried to choose something that would make them want to have sex as much as possible...[p]
+I wonder how it turned out.[p]
+I've been giving them stimulation every day, so they must be in a state where they desperately want a dick.[p]
+But in order to push them even further, I need to do one more thing...[p]
 [_tb_end_text]
 
 [jump  storage="mein.ks"  target="*aa"  ]
@@ -401,15 +398,20 @@
 
 [tb_start_text mode=1 ]
 #
-ムフフフフフ・・・[p]
-昨日はついにあの桐嶋香織に初めてチンポをぶちこんでやったぜ。しかも同意の上でな、クククク[p]
-一回犯してしまえばもうこっちのもの・・・[p]
-・・・と言いたいところだが、そうはいかないだろうな[p]
-あいつはあくまで治療としてチンポを受け入れたに過ぎない。肉欲に完全に屈したわけではないし、ましてや俺に惚れたわけでもない[p]
-洗脳によって受け入れざるを得ない状況を作って追い込んでなんとか一発犯れたわけだが・・・この程度じゃまだまだ俺のチンポは満足しないぜ[p]
-目標はあいつをいつでもどこでも自由に犯せる絶対服従の肉奴隷にすることだ[p]
-そのためには徹底的にチンポで調教してやらないといけないが・・・まずはその状況を作ることだな。もちろん洗脳でな・・・ククク[p]
-・・・[p]
+Muhuhuhu...[p]
+Yesterday, I finally thrust my dick into that Kaori Kirishima for the first time.[p]
+And it was with their consent, kukukuku.[p]
+Once I've violated them once, they should be mine...[p]
+or so I'd like to say, but it's not that simple.[p]
+They only accepted my dick as part of their treatment.[p]
+They haven't completely succumbed to their carnal desires, and they certainly haven't fallen in love with me.[p]
+I had to manipulate them into a situation where they had no choice but to accept it through brainwashing in order to finally have my way with them...[p]
+But this is far from enough.[p]
+My goal is to turn them into an obedient sex slave who I can violate anytime, anywhere.[p]
+To achieve that, I need to thoroughly train them with my dick...[p]
+First, I need to create that situation.[p]
+Of course, through brainwashing...[p]
+[p]
 [_tb_end_text]
 
 [jump  storage="mein.ks"  target="*aa"  ]
@@ -417,14 +419,17 @@
 
 [tb_start_text mode=1 ]
 #
-ウハハハハ！昨日は大成功だったな！理想の展開に持ち込めたぜ[p]
-これで放課後もあいつで好きなだけ遊べるし中出しセックスもし放題だぜ[p]
-しかも「調教プログラム」という名目であいつを辱める行為を正当化できたのは大きいぞ[p]
-これまでのように治療やなんだといちいち理屈をつける必要もなく好きなようにあいつを弄べるというわけだ[p]
-あいつは一定期間調教に耐えきれば自由になれると思い込んでやがる[p]
-それまでは好きなだけいたぶらせていただくとするか、ムヒヒヒヒッ[p]
-さあ、早速今日はどんな風に調教してやるかな・・・ああ早く放課後になれっ[p]
-・・・あ、ちなみに昼休憩は今まで通り香織を呼び出してセクハラをすることができるからな[p]
+Ha ha ha ha![p]
+Yesterday was a great success![p]
+I was able to bring about the ideal situation.[p]
+Now I can play with them as much as I want after school and have unlimited creampie sex.[p]
+What's more, I was able to justify humiliating them under the guise of a training program.[p]
+I don't need to come up with excuses like therapy anymore, I can just freely toy with them as I please.[p]
+They believe that if they endure the training for a certain period of time, they will be set free.[p]
+Until then, I'll enjoy tormenting them as much as I want.[p]
+Muhihihihi![p]
+Now, let's see how I'll train them today...[p]
+[p]
 [_tb_end_text]
 
 [jump  storage="mein.ks"  target="*aa"  ]
@@ -432,12 +437,13 @@
 
 [tb_start_text mode=1 ]
 #
-ククク、昨日は最高にスカッとしたな[p]
-あの生意気な桐嶋香織を土下座させての頭踏み[p]
-さらにその後チンポをぶち込んでヒィヒィ鳴かせてやったぜ[p]
-これまで高学歴を鼻にかけて俺のことを見下してやがったが・・・俺の完全勝利だな[p]
-だがまだまだこんなもんじゃ終わらせないぜ。俺の方が立場が上だということを徹底的に体に教え込んでやらないとな[p]
-楽しみだぜ、ムヒヒヒ・・・[p]
+Kukuku, yesterday was absolutely satisfying.[p]
+I made that arrogant Kaori Kirishima kneel down and then stomped on their head before thrusting my dick into them and making them scream in pleasure.[p]
+They used to look down on me, flaunting their high education, but this is my complete victory.[p]
+However, it's not over yet.[p]
+I won't let it end like this.[p]
+I need to thoroughly teach them that I am in a superior position.[p]
+[p]
 
 [_tb_end_text]
 
@@ -446,12 +452,12 @@
 
 [tb_start_text mode=1 ]
 #
-ククク、前からやってみたかったんだよな、女に足を舐めさせるっての[p]
-プライドの高い女だから拒否するかと思ったがきっちり舐めやがったな[p]
-それだけ俺から逃れたがっているってことだが[p]
-・・・それとももしかしたらあいつ本当にマゾの気質があるのかもな[p]
-よし、今日はもっと屈辱的なことをさせてやろうぜ[p]
-足舐めよりも屈辱的なことを・・・ムヒヒヒ[p]
+Kukuku, I've always wanted to make a woman lick my feet.[p]
+I thought this proud woman would refuse, but she obediently licked them.[p]
+That just shows how much she wants to escape from me...[p]
+Or maybe she actually has masochistic tendencies.[p]
+Alright, today I'll make her do something even more humiliating than licking feet...[p]
+[p]
 
 
 
@@ -463,15 +469,16 @@
 
 [tb_start_text mode=1 ]
 #
-いやぁ昨日は楽しかったな[p]
-あんなに有意義な休日を過ごしたのは何年ぶりだろうか[p]
-商売女を部屋に呼んだこともあるが質の悪い女しか来ないうえに出費も馬鹿にならない[p]
-それに引き換え極上のドスケベ女を呼び出して時間気にせず犯しまくっても１円もかからないんだからな[p]
-いつでも呼び出して性処理させられる女がいる生活・・・最高すぎるじゃねえか[p]
-さて、今日からはまた調教を進めていくわけだが[p]
-まだまだやりたいことはたくさんあるから悩むぜ[p]
-新しいことを試してもいいし前にやった調教をもう一回楽しんでもいい[p]
-そうだ、そろそろアレを試してみてもいいな・・・ムヒヒヒ[p]
+Ah, yesterday was so much fun.[p]
+It's been years since I had such a meaningful day off.[p]
+I've had escorts come to my room before, but they were all low-quality women and it cost me a fortune.[p]
+On the other hand, I can call a top-notch slut and fuck her without spending a single yen.[p]
+It's the best to have a woman who can be called anytime for sexual service...[p]
+Life is amazing.[p]
+Now, from today onwards, I'll continue with the training, but there are still so many things I want to do, so I'm pondering.[p]
+I can try something new or enjoy the training I did before once again.[p]
+Yes, it's about time to try that...[p]
+[p]
 [_tb_end_text]
 
 [jump  storage="mein.ks"  target="*aa"  ]
@@ -479,13 +486,15 @@
 
 [tb_start_text mode=1 ]
 #
-ククク、ついに桐嶋のアナルを犯してやったぜ[p]
-実は俺も初めてだったんだよな。４０歳にしてアナル童貞を捨てちまったぜ[p]
-肛門でさせてくれなんて女はだいたい嫌がるし、これまでは機会が無かったんだよ[p]
-エロ漫画ではよくアナルレイプなんてやってるが、実際には女の協力が不可欠だからなアナルセックスは[p]
-しかしこれからはいつでも好きなだけアナルを犯せるわけだ[p]
-・・・さて、今日の調教は面白い趣向を考えてあるんだ[p]
-いつもより遅い時間に香織を呼び出して・・・ククク楽しみだぜ[p]
+Kukuku, I finally violated Kirishima's anus.[p]
+Actually, it was my first time too.[p]
+At the age of 40, I lost my anal virginity.[p]
+Most women refuse to let you do it in their anus, and I never had the opportunity before.[p]
+In erotic manga, they often depict anal rape, but in reality, a woman's cooperation is essential.[p]
+But from now on, I can violate her anus whenever I want...[p]
+Now, for today's training, I have an interesting idea.[p]
+I'll call Kaori at a later time than usual...[p]
+[p]
 [_tb_end_text]
 
 [jump  storage="mein.ks"  target="*aa"  ]
@@ -493,11 +502,13 @@
 
 [tb_start_text mode=1 ]
 #
-ククク、昨夜は面白かったな[p]
-セクハラ教師として俺を追い出そうとしていたあの生意気な桐嶋が、素っ裸で首輪をつけられて俺に屈している姿・・・思い出すだけでまたチンポが爆発しそうだぜ[p]
-しかしあれでも本人はまだ自分が奴隷になったことに気づいてないんだから笑える[p]
-・・・さてと、今日は前から準備していたアレを実行する日だな[p]
-あいつらちゃんと準備してきたかな？[p]
+Kukuku, last night was interesting.[p]
+That arrogant Kirishima who tried to drive me out as a sexual harassment teacher, now kneeling naked with a collar around their neck, submitting to me...[p]
+Just remembering it makes my dick want to explode.[p]
+But even so, they still haven't realized that they've become my slave.[p]
+It's laughable...[p]
+Well then, today is the day I've been preparing for.[p]
+[p]
 [_tb_end_text]
 
 [jump  storage="mein.ks"  target="*aa"  ]
@@ -505,10 +516,13 @@
 
 [tb_start_text mode=1 ]
 #
-昨日はコスプレ撮影会をしたわけだが、写真部のやつらだいぶ興奮してたな[p]
-香織に露出狂のケがあるというのも判ったし、また生徒を絡めての調教も考えたいところだが[p]
-・・・とりあえず今日はもう一回あの調教に挑戦してみるかな[p]
-今度は前回よりもハードな内容になるはずだ・・・ククク[p]
+Yesterday, we had a cosplay photoshoot.[p]
+The members of the photography club were quite excited.[p]
+I also found out that Kaori has a streak of exhibitionism.[p]
+I'm considering involving other students in the training as well...[p]
+But for now, I think I'll try that training again today.[p]
+It should be even more intense than last time...[p]
+Kukuku.[p]
 [_tb_end_text]
 
 [jump  storage="mein.ks"  target="*aa"  ]
@@ -516,13 +530,14 @@
 
 [tb_start_text mode=1 ]
 #
-ククク、昨夜は野外排便をさせてやったぜ[p]
-後処理をしなかったから中庭にはまだ香織のまき散らしたウン汁の臭いが残ってるかもしれないな[p]
-生徒たちがまさか桐嶋先生のウンコの臭いだとは思わずに嗅いでると思うと笑いがこみあげてくるぜ[p]
-しかしあいつはやっぱり他人に見られることで興奮する露出趣味のような性癖があるようだな[p]
-外でヤる時はいつも以上に感度が高まってるような気がするぜ[p]
-今日は一つそれを確かめてやるか[p]
-いつもより早めに呼び出して・・・[p]
+Kukuku, last night I made them defecate outdoors.[p]
+I didn't clean up afterwards, so there might still be the smell of Kaori's scattered feces in the courtyard.[p]
+The students probably don't realize it's the smell of Kirishima-sensei's poop and are sniffing it unsuspectingly.[p]
+It makes me laugh.[p]
+But they definitely have a fetish for exhibitionism, getting excited by being seen by others.[p]
+It seems like their desire for exposure is even stronger when they do it outside.[p]
+Today, I'll confirm that.[p]
+[p]
 [_tb_end_text]
 
 [jump  storage="mein.ks"  target="*aa"  ]
@@ -536,15 +551,15 @@
 
 [tb_start_text mode=1 ]
 #
-調教は順調に進んでいる[p]
-いつでも好きな時にセックスできるし中出しも自由だ[p]
-アナルも開発したしフェラ、パイズリ、露出調教、コスプレ・・・アナルを舐めさせたり小便だって飲ませられる[p]
-もはや桐嶋香織は完全に俺の性奴隷だ[p]
-ただ本人はその事実に気づいていない。そこが面白い所だな、ククク[p]
-さて、あとはこのゲームをどうフィニッシュするかだな[p]
-それは桐嶋香織という女をどういう形で終わらせるかという意味でもある[p]
-それともこのまま永遠に調教を楽しみ続けるという手もあるが[p]
-まぁ考える時間はいくらでもあるんだ。香織の凌辱を楽しみながらゆっくりと考えようぜ[p]
+Training is progressing smoothly.[p]
+I can have sex with them anytime I want, and I can freely creampie them.[p]
+I've also developed their anus, and they're now skilled in giving blowjobs, titjobs, and exhibitionism.[p]
+They can even be made to lick my anus or drink urine.[p]
+Kaori Kirishima is already completely my sex slave, although they are unaware of this fact.[p]
+That's what makes it interesting, kukuku.[p]
+Now, the only thing left is how to finish this game.[p]
+It means how to end Kaori Kirishima as a woman, or perhaps there's also the option of continuing to enjoy the training forever.[p]
+Well, I have all the time in the world to think about it while enjoying Kaori's humiliation.[p]
 
 
 
@@ -560,29 +575,33 @@
 [chara_show  name="肉山"  time="1000"  wait="true"  storage="chara/9/game82-1.png"  width="577"  height="840"  left="376"  top="16"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #
-ところで一つ気になっていることがある[p]
-体育館で香織に生徒たちが見ている前でエロ水着で新体操をさせただろう[p]
-あの時、生徒たちが騒ぎそうになったのをサイコ‐SXを使って異常な状況を受け入れさせて鎮めたよな[p]
-なぜあの時、生徒たちに洗脳が効いたのか？[p]
-サイコ-SXは効かない人と効きやすい体質の人が居て、何人かに試したが効きやすい体質の人間は今のところ香織と教頭の二人だけ。ほとんどの人間には効かないことが判っている[p]
-あの時体育館に居た部活動の生徒たち全員が洗脳の効きやすい体質だったとは思えない。そもそも最初は効いてなかったように見えたんだ[p]
-じゃあなぜ急に洗脳が効くようになったのか？[p]
-ずっとそれを考えていて俺は一つの答えに辿り付いた[p]
-それは「香織が洗脳した」からではないのか？[p]
-サイコ-SXはある特定の周波数の人間の耳には聞こえない超音波を発するだけの単純な機械だ[p]
-その音波の届く範囲にいる人間は脳が嘘を信じやすい状態になる[p]
-しかしさっきも言った通り効きやすい人間と効きにくい人間がいて、効きにくい人間に対しては全く効果がないただのガラクタ・・・だと思っていた[p]
-だが、もしかしたら「全員に効果は出ている」のでは？[p]
-あの時俺はサイコ‐SXをオンにした状態で生徒たちを落ち着かせようと嘘の説明をした。しかし生徒たちは信じなかった[p]
-しかし同時にたしか香織も自分の口から俺の言ったうその説明を擁護する説明をしていたはずだ[p]
-それが効いたんじゃないか？[p]
-サイコ-SXで嘘を信じやすい状態になっても、嘘をつく人間の信用度によって信じたり信じなかったりするということは考えられる[p]
-つまり俺のような信用のない人間の嘘は信じないが、香織のような慕われている者の発する言葉なら信じてしまうということだ[p]
-もしそれが正しければサイコ-SXを使った状態で香織に嘘をつかせることによってどんな人間も洗脳することが可能だということになる[p]
-女子生徒を洗脳してピチピチの処女マンコにチンポをぶっ挿してやることも夢ではないのだ[p]
-俺が全く信用されていないというのは頭にくるが・・・これは試してみる価値はあるぜ[p]
-・・・・・・[p]
-・・・[p]
+By the way, there's something that's been bothering me.[p]
+Remember when we made Kaori perform erotic gymnastics in the gymnasium in front of the students?[p]
+They were about to cause a commotion, but we used Psycho-SX to make them accept the abnormal situation and calm down.[p]
+Why did the brainwashing work on the students at that time?[p]
+Psycho-SX has different effects on different people, some are more susceptible to it than others.[p]
+We tested it on several people, and so far, only Kaori and the headmaster have been easily influenced by it.[p]
+It's known that it doesn't work on most people.[p]
+It's hard to believe that all the club members who were in the gymnasium at that time were easily brainwashed.[p]
+In fact, it seemed like it didn't work on them at first.[p]
+So why did it suddenly start working?[p]
+I've been thinking about it for a while, and I've come up with one answer.[p]
+Could it be because Kaori brainwashed them?[p]
+Psycho-SX is a simple machine that emits ultrasonic waves that certain frequencies of humans can't hear.[p]
+People within the range of those sound waves become more susceptible to believing lies.[p]
+But as I mentioned earlier, there are people who are more resistant to its effects, and for them, it has no effect at all...[p]
+just a worthless piece of junk.[p]
+However, what if it actually has an effect on everyone?[p]
+At that time, I turned on Psycho-SX and tried to calm down the students by giving them a false explanation.[p]
+But they didn't believe me.[p]
+However, at the same time, I remember Kaori defending my false explanation with her own words.[p]
+Could that be what worked?[p]
+Even if Psycho-SX puts people in a state where they're more likely to believe lies, whether they believe or not depends on the credibility of the person telling the lies.[p]
+In other words, they won't believe the lies of someone like me who has no credibility, but they will believe the words of someone like Kaori who is admired.[p]
+If that's true, then it means that by making Kaori lie while using Psycho-SX, it's possible to brainwash anyone.[p]
+It's not just a dream to brainwash female students and forcefully insert a penis into their tight virgin pussies.[p]
+It frustrates me that I'm not trusted at all...[p]
+[p]
 [_tb_end_text]
 
 [jump  storage="play10.ks"  target=""  ]
@@ -590,12 +609,14 @@
 
 [tb_start_text mode=1 ]
 #
-香織の調教は順調に進んでいる[p]
-さらに調教を進めて絶対服従の従順な奴隷に仕上げてもいいが・・・それも面白みに欠けるな[p]
-反抗的な態度を取りながらも命令には従う、屈してないと自分では思ってる今の状態がベストかもしれない[p]
-思いつくことはやり尽くしたしあとはじっくりと楽しむだけだな[p]
-昼休みのセクハラも色々試してみたら変わってることがあるかもしれないぞ[p]
-あと夜の調教も同じコマンドでもランダムでパターンが変わる場合があるから、繰り返し試して全パターン見たいな[p]
+Training Kaori is progressing smoothly.[p]
+I could continue to further train them and turn them into a completely obedient and submissive slave...[p]
+but that would lack excitement.[p]
+It might be best to keep them in their current state, where they maintain a rebellious attitude but still obey my commands, thinking that they haven't surrendered.[p]
+I've tried everything I can think of, so now it's just about enjoying it thoroughly.[p]
+I might try different things during lunch break to see if anything changes.[p]
+Also, during the night training, even with the same commands, there may be variations in the patterns randomly.[p]
+So, I'll keep trying repeatedly to see all the different patterns.[p]
 
 
 [_tb_end_text]
@@ -606,14 +627,17 @@
 
 [tb_start_text mode=1 ]
 #
-桐嶋香織の洗脳調教もほぼ完成しつつある[p]
-思えば長い道のりだった。あの生意気で俺を見下していた桐嶋香織を完全に支配下に置くのは簡単ではなかった[p]
-洗脳器サイコ‐SXの力を借りて少しずつ小さな嘘から信じ込ませ、地道にセクハラを繰り返し・・・[p]
-それまでの苦労もあって初めてチンポをぶち込んでやった時は興奮したなぁ[p]
-洗脳がまだ不十分なのに我慢できずに力づくで犯しそうになった時もあったな。なんとか自分を抑えたが[p]
-もし時間が戻せるならあの時無理やり犯す選択肢を選んでみたいな。人生にセーブロード機能があればなぁ[p]
-まぁそれはともかく桐嶋香織は今や完全に俺の手の中にある。あいつの今後の運命も俺が握っているということだ[p]
-セーブロード機能があれば色んなエンディングを見ることができるだろうな[p]
+The brainwashing and training of Kaori Kirishima is almost complete.[p]
+It has been a long journey.[p]
+It wasn't easy to completely dominate Kaori Kirishima, who was so arrogant and looked down on me.[p]
+With the power of the brainwashing device Psycho-SX, I gradually made them believe in small lies and persistently repeated sexual harassment...[p]
+The struggle was real, but when I finally thrust my dick into them, I was excited.[p]
+There were times when I couldn't resist and almost violated them by force, even though the brainwashing was not yet complete.[p]
+If I could turn back time, I would choose to forcefully violate them.[p]
+If life had a save function...[p]
+Well, that aside, Kaori Kirishima is now completely under my control.[p]
+I hold their future in my hands.[p]
+If there was a save function, I could see different endings.[p]
 [_tb_end_text]
 
 [tb_eval  exp="f.pp3=1"  name="pp3"  cmd="="  op="t"  val="1"  val_2="undefined"  ]

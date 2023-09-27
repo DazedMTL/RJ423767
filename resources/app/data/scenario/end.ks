@@ -2,7 +2,7 @@
 
 [tb_start_text mode=1 ]
 #
-エンディングを選択してください（※セーブ推奨）[p]
+Please select an ending (※Save recommended)[p]
 [_tb_end_text]
 
 [glink  color="black"  storage="end.ks"  size="20"  y="190"  x="490"  width="140"  height="20"  text="エンディング１"  target="*e1"  ]
@@ -22,25 +22,25 @@
 [playbgm  volume="100"  time="1000"  loop="true"  storage="いつもの放課後.mp3"  ]
 [tb_start_text mode=1 ]
 #
-俺の人生を変えた魔法のアイテム、洗脳補助器「サイコ‐ＳＸ」を手に入れてから約半年が過ぎた[p]
-苦労して洗脳調教し奴隷女教師となった桐嶋香織はすでに俺の手を離れていた[p]
+Kaori Kirishima, who became a brainwashed slave teacher after obtaining the magic item that changed my life, the mind control assistant Psycho-SX, has already left my side after about half a year of struggling with brainwashing and training.[p]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="rouka.jpg"  ]
 [tb_start_text mode=1 ]
 #
-きっかけは野外露出を教頭に見つかったあのアクシデントだった[p]
-あの後しばらくはそれまで通り香織を調教し、教頭は週に一度くらい味見程度に参加するだけだった[p]
-年齢のこともあるし教頭はそれで満足していると思っていたのだが、その認識は間違っていた[p]
-教頭の桐嶋香織に対する欲望は、静かだが根強くじわじわとその身を焦がしていたのだ[p]
-教頭は俺の知らないところで香織に迫り、身体を要求しだした[p]
-香織にそれを拒否するという選択肢はなかった[p]
-教頭は隣町のラブホテルに香織を連れ込んで、そのねちっこい欲望を思う存分彼女に注ぎ込んだ[p]
-後で知ったことだが秘密の逢瀬は１０回以上に及んだらしい[p]
-その頃には俺も香織をいたぶることに少し飽きてきており、放課後の調教を行わない日もあったため、そういった日を選んで会っていたらしい[p]
-しかし教頭は俺の目を盗むことには成功したが、予想外の人物にそれを知られてしまった[p]
-学園の若手教師である田中という男にラブホテルから出るところでばったり鉢合わせしてしまったのだ[p]
+The trigger was that incident where we were caught by the vice principal during outdoor exposure.[p]
+After that, I continued to train Kaori as usual.[p]
+The vice principal, due to their age and perhaps satisfied with just occasionally participating as a taste tester, I thought they were content.[p]
+But that perception was wrong.[p]
+The vice principal's desire for Kaori Kirishima was quietly but persistently burning within them.[p]
+The vice principal approached Kaori without my knowledge and began demanding her body.[p]
+There was no option for Kaori to refuse.[p]
+The vice principal took Kaori to a love hotel in a neighboring town and poured their persistent desires into her.[p]
+I later learned that their secret encounters happened more than ten times.[p]
+By that time, I had grown slightly tired of tormenting Kaori, and there were days when I didn't conduct training after school.[p]
+It seems that they chose those days to meet.[p]
+However, the vice principal succeeded in hiding it from me, but unexpectedly, they were discovered by a young teacher named Tanaka at the school when they were leaving the love hotel together.[p]
 
 
 [_tb_end_text]
@@ -48,33 +48,35 @@
 [bg  time="1000"  method="crossfade"  storage="game106.jpg"  ]
 [tb_start_text mode=1 ]
 #
-自分の上司である教頭と同僚である女教師がラブホテルから出てくるという場面に遭遇した真面目な青年田中はただ口をあんぐりと開けて発する言葉も思いつかなかった[p]
-驚いてあたふたする田中を教頭は咄嗟に仲間に引き込むことで口を封じようとした[p]
-俺が教頭に見つかった時に使った手をそのまま教頭も使ったわけだ[p]
-以前から桐嶋に惹かれていた田中はあっさりと誘いに乗った[p]
-例の性的欲求不満によるストレスが云々という説明を化学教師の田中が真に受けたかどうかはわからない[p]
-なにせ教頭は俺と違って洗脳補助器というマジックアイテムを持っていないのだ[p]
-しかし密かに思いを寄せていた桐嶋香織本人の口から抱いてほしいと言われたら、純朴な田中青年に抗う術などなかっただろう[p]
-とにかく3人はその足で今出てきたばかりのラブホテルに引き返し、事に及んだ[p]
+Serious young Tanaka, who encountered a scene where their boss, the vice principal, and a female teacher who was their colleague came out of a love hotel, was so shocked that they couldn't even find words to say and panicked.[p]
+The vice principal quickly pulled Tanaka into their group to silence them, using the same method I used when the vice principal found me.[p]
+Tanaka, who had been attracted to Kirishima for a while, easily accepted their invitation.[p]
+Whether Tanaka, the chemistry teacher, truly believed the explanation about stress caused by sexual frustration is unknown.[p]
+After all, unlike me, the vice principal doesn't have a mind control assistant magic item.[p]
+However, if Kirishima Kaori herself asked to be embraced, there would be no way for innocent young Tanaka to resist.[p]
+[p]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="rouka.jpg"  ]
 [tb_start_text mode=1 ]
 #
-俺が一連の出来事を知ったのはこの時点でだったが、その後の流れを食い止めることはできなかった[p]
-強固なダムも一度ひびが入ると決壊まではあっという間だ[p]
-数週間後には学園の男教師の半数が桐嶋香織の「正体」について知ることとなった[p]
-俺は早い段階で香織を独占することをあきらめた[p]
-争いは身の危険を生む。俺はそれ以上の情報漏洩を防ぐために香織を男性教師複数人で厳格に管理していくことにした[p]
-そして桐嶋香織は俺専用の性奴隷ではなく、男性教師たちの「共用性奴隷」になった[p]
-俺自身はすでに香織に対して思いつく限りの被虐プレイをやりきった。レイプ、アナルセックス、野外露出、浣腸、飲尿・・・ローター授業もやったしケツの穴も舐めさせた[p]
-多少惜しい気持ちはあったが桐嶋香織という女はもう十分に味わいつくした[p]
-それに俺にはサイコ‐SXがある[p]
-これさえあれば次の性奴隷を確保するのは簡単だ[p]
-効果の個人差はあるが、洗脳のノウハウは桐嶋の経験で十分に身に付いた[p]
-学園には毎年大量の女子生徒が入学してくる。ターゲットには困らない[p]
-#肉山
-「それに香織は好きな時に抱けるわけだしな・・・ククク」[p]
+At this point, I only learned about the series of events, but once a strong dam develops a crack, it's only a matter of time before it collapses.[p]
+A few weeks later, half of the male teachers in the school came to know about Kaori Kirishima's true identity.[p]
+I gave up on monopolizing Kaori at an early stage because the conflict would put me in danger.[p]
+To prevent further information leaks, I decided to strictly manage Kaori with multiple male teachers.[p]
+Kaori Kirishima became a shared sex slave for the male teachers, not just exclusively for me.[p]
+I have already subjected Kaori to every possible form of masochistic play.[p]
+Rape, anal sex, outdoor exposure, enemas, drinking urine...[p]
+I even used a vibrator on her and made her lick my asshole.[p]
+Although I felt a little regretful, I have already thoroughly enjoyed the taste of Kaori Kirishima.[p]
+Besides, I have Psycho-SX.[p]
+With this, it's easy for me to secure the next sex slave.[p]
+The effectiveness may vary from person to person, but I have learned more than enough brainwashing techniques from Kaori's experiences.[p]
+The school has a large number of female students enrolling every year.[p]
+[p]
+#Nikuyama
+Besides, I can embrace Kaori whenever I want...[p]
+Hehehe.[p]
 
 
 [_tb_end_text]
@@ -82,13 +84,15 @@
 [bg  time="1000"  method="crossfade"  storage="room.jpg"  ]
 [tb_start_text mode=1 ]
 #
-ガラガラガラ・・・[p]
-#社会科教師山下
-「ああ、肉山先生。お疲れ様です」[p]
-#肉山
-「やってますね」[p]
-#社会科教師山下
-「ええ、いくら犯っても犯り足りませんよ、ハハハハ」[p]
+*[p]
+#Social Studies Teacher Yamashita
+Ah, Mr.[p]
+Nikuyama.[p]
+Good work.[p]
+#Nikuyama
+You're doing it, huh.[p]
+#Social Studies Teacher Yamashita
+Oh, no matter how much I violate her, it's never enough, hahaha.[p]
 [_tb_end_text]
 
 [stopbgm  time="1000"  fadeout="true"  ]
@@ -96,83 +100,137 @@
 [playbgm  volume="100"  time="1000"  loop="true"  storage="music58.mp3"  fadein="true"  ]
 [tb_cg  id="269"  ]
 [tb_start_text mode=1 ]
-#香織
-「アムッ・・・ンンッ♥・・・チュバッ・・・レロレロレロッ♥」[p]
-#数学教師松岡
-「やあ、肉山先生。楽しませてもらってますよ」[p]
-#肉山
-「楽しんでもらえてるようで何よりです。香織もこれだけのチンポに囲まれて満足でしょう」[p]
-#国語教師中西
-「いやぁ桐嶋先生がこないにドスケベな女やったなんて・・・もっと早く知りたかったですわ。ウハハハハ」[p]
-#数学教師松岡
-「全くです。肉山先生も一人で楽しんでいたなんて人が悪い、ムフフフ。桐嶋先生もっと舌を動かしてくださいよ」[p]
-#香織
-「ンンッ・・・チュバッ♥レロレロレロッ・・・ジュプッ♥」[p]
-#肉山
-「まぁまぁ、今はこうして皆さんに「共用肉便器」として提供しているわけですから」[p]
-#社会科教師山下
-「といいつつしっかり金をとってるじゃないですか」[p]
-#肉山
-「それはそれ、私も慈善家じゃないのでね。でも月２万なんて安いものでしょう」[p]
-#社会科教師山下
-「まぁそうですな。これだけの女を無制限に抱けてしかもどんな変態プレイもNG無しなんだから、激安ですわな。ワハハハ」[p]
-#数学教師松岡
-「確かに確かに。フェラのテクも抜群ですしね。オホォッ・・・たまらんっ」[p]
-#香織
-「ンッ・・ジュプッ・・・レロレロレロレロッ♥」[p]
-#国語教師中西
-「ところで教頭はんは最近来ませんなぁ。あんなにご執心でしたのに。やっぱり体力が持ちまへんのやろか？」[p]
-#肉山
-「ああ、教頭はどうも二人きりで楽しむのがお好みの様で。特別に貸し出ししているんです」[p]
-#国語教師中西
-「なんや、そうでしたんかいな。うらやましいなぁ。わいも香織ちゃんと二人っきりでイチャイチャしたいわぁ」[p]
-#肉山
-「まぁそのへんは希望があれば話し合いで決めればいいでしょう。教頭はまぁ一応最初のメンバーですので特別ということで」[p]
-#数学教師松岡
-「まぁ仕方ないですな。一応上司なわけですからね・・・お・・・そろそろ・・・出るっ・・・！」[p]
-#香織
-「ンムッ・・・ンンッ！？・・・チュバッ・・・ゴクンッ♥」[p]
-#数学教師松岡
-「うはぁ・・・出た出た・・・搾り取られちまいましたよ」[p]
-#香織
-「チュムッ・・・ゴクッ♥・・・ジュプッ・・・レロレロレロッ♥」[p]
-「ハァッ・・・ンンッ♥」[p]
-#肉山
-「おい香織、礼儀を忘れたのか？ザーメンを飲ませていただいたらちゃんと松岡先生に挨拶しろよ」[p]
-#香織
-「ンッ・・・は、はい・・・っ・・・ま、松岡先生・・・アヒッ♥お、美味しいザーメンを・・・ンンッ♥・・・いただいて・・・アヒィッ♥」[p]
-#国語教師中西
-「すんまへんな・・・こっちもそろそろ・・・フィニッシュですわ・・・むほっ！」[p]
+#Kaori
+Ahh...[p]
+nnn♥...[p]
+lero lero lero♥[p]
+#Mathematics Teacher Matsuoka
+Hey, Mr.[p]
+Nikuyama.[p]
+I'm having a good time with you.[p]
+#Nikuyama
+It's good to see that you're enjoying yourself.[p]
+Kaori must be satisfied being surrounded by this many cocks.[p]
+#Kokugo Teacher Nakanishi
+Nakanishi, the Japanese language teacher: Oh my, I wish I had known earlier that Kirishima-sensei was such a perverted woman...[p]
+Uhahaha[p]
+#Mathematics Teacher Matsuoka
+Exactly.[p]
+It's bad of Nikuyama-sensei to have all the fun by himself, hehehe.[p]
+Kirishima-sensei, please move your tongue more.[p]
+#Kaori
+Nn...[p]
+jup♥[p]
+#Nikuyama
+Well, well, now I am providing myself as a shared flesh toilet for everyone.[p]
+#Social Studies Teacher Yamashita
+You're saying that, but you're taking money for yourself, aren't you?[p]
+#Nikuyama
+Well, well, I'm not a philanthropist either.[p]
+But 20,000 yen a month is such a cheap price, don't you think?[p]
+#Social Studies Teacher Yamashita
+Well, that's true.[p]
+Being able to have unlimited access to a woman like her and engage in any kind of perverted play without any restrictions, it's quite a bargain.[p]
+Wahahaha.[p]
+#Mathematics Teacher Matsuoka
+Indeed, indeed.[p]
+Your blowjob skills are outstanding.[p]
+Ohh...[p]
+it's irresistible.[p]
+#Kaori
+Nn...[p]
+lero lero lero lero lero ♥[p]
+#Kokugo Teacher Nakanishi
+By the way, the vice principal hasn't been coming lately, huh?[p]
+They were so obsessed.[p]
+I wonder if they just don't have the stamina.[p]
+#Nikuyama
+Ah, it seems the vice principal prefers to enjoy themselves alone with someone.[p]
+I am lending them out specially.[p]
+#Kokugo Teacher Nakanishi
+Oh, is that so?[p]
+I'm envious.[p]
+I also want to be alone with Kaori-chan and have some intimate time together.[p]
+#Nikuyama
+Well, if there are any preferences, we can discuss and decide.[p]
+The vice principal is, well, the first member after all, so they are special.[p]
+#Mathematics Teacher Matsuoka
+Well, I guess it can't be helped.[p]
+After all, they are my superior...[p]
+Oh...[p]
+I'm about to...[p]
+cum...![p]
+#Kaori
+Mmm...[p]
+Nngh!?[p]
+...[p]
+*gulp* ♥[p]
+#Mathematics Teacher Matsuoka
+Uh...[p]
+I came...[p]
+I've been completely drained.[p]
+#Kaori
+Chum...[p]
+Gokuh ♥...[p]
+Juppu...[p]
+Nn ♥[p]
+#Nikuyama
+Hey Kaori, did you forget your manners?[p]
+After receiving his semen, make sure to properly greet Matsuoka-sensei.[p]
+#Kaori
+Nn...[p]
+H-hai...[p]
+Ma, Matsuoka-sensei...[p]
+Ahh ♥ Oh, delicious semen...[p]
+Ahh ♥[p]
+#Kokugo Teacher Nakanishi
+Sorry...[p]
+I'm also about to...[p]
+finish...[p]
+mmm![p]
 #
-ドピュッッ！！[p]
-#香織
-「ンンーーーーッ♥・・・ンハァッ・・・アヒィッ♥」[p]
-#国語教師中西
-「ハフゥッ・・・たっぷりと中に出してしもうたわ。なんちゅう気持ちのいいマンコや」[p]
-#香織
-「アフゥッ・・・ンンッ♥・・・ハァッ・・・アンッ♥」[p]
-#肉山
-「ククク、どうだ香織。肉便器としてたくさんのチンポに奉仕する生活は？充実してるだろう」[p]
-#香織
-「は、はいっ・・・ドスケベな香織を・・・みなさんのおチンポで飼育していただいてありがとうございます・・・ンンッ♥」[p]
-「これからも誠心誠意おチンポにご奉仕させていただきますので・・・末永く可愛がってくださいませ・・・っ♥」[p]
-#社会科教師山下
-「ウヒヒヒ、よく躾けられてますなぁ。あのツンケンしてガードの固かった桐嶋先生がこんなマゾの変態だったとはねぇ」[p]
-「どうやって素質を見抜いて、どうやって調教したんです？コツを教えてくださいよ」[p]
-#国語教師中西
-「そうですな。後学のために聞いておきたいでんなぁ」[p]
-#肉山
-「香織を調教したコツですか？そうですねぇ・・・」[p]
-「根気と・・・まぁ、ちょっとした運ですよ、ムフフフ」[p]
+Dopyu!![p]
+#Kaori
+Nnnn...[p]
+Ahii ♥[p]
+#Kokugo Teacher Nakanishi
+Hafu...[p]
+I came inside abundantly.[p]
+What a pleasurable pussy...[p]
+#Kaori
+Ahh...[p]
+Nnghh ♥...[p]
+Ahh ♥[p]
+#Nikuyama
+Hehehe, how is it, Kaori?[p]
+Living a life of serving many cocks as a cum dumpster?[p]
+It must be fulfilling.[p]
+#Kaori
+Y-Yes...[p]
+Thank you for raising this perverted Kaori with your cocks...[p]
+Nngh ♥ From now on, I will wholeheartedly serve your cocks...[p]
+♥[p]
+#Social Studies Teacher Yamashita
+Uhuhu, you've been well trained, haven't you?[p]
+To think that strict and guarded Kirishima-sensei turned out to be such a masochistic pervert.[p]
+How did you see the potential in them and how did you train them?[p]
+Please teach me your secrets.[p]
+#Kokugo Teacher Nakanishi
+I see.[p]
+I would like to ask for the sake of future learning.[p]
+#Nikuyama
+What's the secret to training Kaori?[p]
+Well...[p]
+it's a combination of patience and...[p]
+well, a little bit of luck, hehehe.[p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 [_tb_end_text]
 
 [call  storage="sr.ks"  target=""  ]
 [tb_start_text mode=1 ]
 #
-エンディングNo.１　『共用性奴隷』[p]
+Ending No[v0] 1 Shared Slave[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -192,46 +250,63 @@
 [tb_ptext_hide  time="1000"  ]
 [chara_show  name="桐嶋"  time="1000"  wait="true"  storage="chara/1/game81-1.png"  width="448"  height="896"  left="418"  top="12"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#肉山
-「どうした？呼んでもないのにお前の方からここに来るなんて珍しいな」[p]
-「俺のチンポが欲しくて我慢できなくなったのか？ムヒヒヒ」[p]
-#香織
-「・・・妊娠しました」[p]
-#肉山
-「・・・は？」[p]
+#Nikuyama
+What's wrong?[p]
+It's unusual for you to come here without being called.[p]
+Muhuhu[p]
+#Kaori
+...[p]
+I'm pregnant.[p]
+#Nikuyama
+...[p]
+Huh?[p]
 [_tb_end_text]
 
 [stopbgm  time="1000"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Grease_Slide_Trap.mp3"  ]
 [tb_start_text mode=1 ]
-#香織
-「生理が遅れているので市販の妊娠検査キットで確かめたところ、陽性でした」[p]
-#肉山
-「・・・マジかよ・・・」[p]
-#香織
-「淫乱症の人間は妊娠しないから大丈夫だと言ってましたよね？これはどういうことですか？」[p]
-#肉山
-「い、いや、妊娠しないとは言ってないぞ。しにくいと言っただけで、その・・・低確率ではあるが・・・」[p]
-（そりゃ出来るわな・・・避妊せずにあれだけ中出ししまくってたんだから・・・。うーむ、どうするか・・・）[p]
-#香織
-「低確率とはいえ妊娠の可能性があると知っていてあれだけ・・・中に出したんですか！？無責任に何度も何度も私の子宮に・・・大量に・・・！」[p]
-#肉山
-「そ、それは調教の一環としてだな・・・認められている行為なんだ！」[p]
+#Kaori
+My period is late, so I used an over-the-counter pregnancy test kit to confirm, and it came out positive.[p]
+#Nikuyama
+...[p]
+Seriously?[p]
+#Kaori
+They said that people with nymphomania don't get pregnant, so what does this mean?[p]
+#Nikuyama
+N-No, I didn't say she wouldn't get pregnant.[p]
+I just said it's unlikely...[p]
+but with the amount of unprotected creampie I've been giving her...[p]
+well, it's not surprising.[p]
+Hmm, what should we do...[p]
+#Kaori
+Even though there was a low probability, knowing that there was a possibility of getting pregnant...[p]
+you still came inside me!?[p]
+Repeatedly and irresponsibly, you filled my uterus...[p]
+with a large amount...![p]
+#Nikuyama
+Th-that is part of the training...[p]
+It's an accepted act![p]
 [_tb_end_text]
 
 [tb_image_show  time="1000"  storage="default/game200.png"  width="294"  height="261"  x="458"  y="218"  _clickable_img=""  name="img_50"  ]
 [tb_image_hide  time="1000"  ]
 [chara_mod  name="桐嶋"  time="600"  cross="false"  storage="chara/1/game81-3.png"  ]
 [tb_start_text mode=1 ]
-#香織
-「・・・それではこの子供はどうするんです！？何の責任も取らないというんですか！？人を性のはけ口として使った挙句孕ませておいて・・・！？」[p]
-#肉山
-「そ、それはだな・・・」[p]
-（珍しく取り乱してるな・・・いかに洗脳できるといってもなかなか納得しそうにないぞこれは）[p]
-#香織
-「淫乱症患者には人権は無いんですか！？生まれつき性欲が強いというだけで他人に迷惑もかけることなく生活してきたこの私が・・・なんでこんな目に遭わないといけないんですか！？」[p]
-#肉山
-「も、もちろん堕ろすための費用は俺の方からも・・・」[p]
+#Kaori
+...[p]
+Then what are you going to do about this child!?[p]
+Are you saying you won't take any responsibility!?[p]
+After using me as a sexual outlet and impregnating me...!?[p]
+#Nikuyama
+W-Well, that's...[p]
+(It's unusual to see them so flustered...[p]
+)[p]
+#Kaori
+Don't people with nymphomania have any rights!?[p]
+I've been living my life without causing trouble to others just because I naturally have a strong sexual desire...[p]
+Why do I have to go through something like this!?[p]
+#Nikuyama
+O-Of course, I will also cover the cost of the abortion...[p]
 
 [_tb_end_text]
 
@@ -239,63 +314,101 @@
 [chara_mod  name="桐嶋"  time="600"  cross="false"  storage="chara/1/game81-2.png"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="music58.mp3"  ]
 [tb_start_text mode=1 ]
-#香織
-「堕ろす？」[p]
-#肉山
-「あ、ああ・・・費用は俺からも出すから・・・」[p]
-#香織
-「私は産みますよ。堕胎するつもりなどありません」[p]
-#肉山
-「な、なに！？」[p]
-#香織
-「妊娠の可能性が低い体質の私が奇跡的に授かった大切な子供ですよ。絶対に産みます」[p]
-#肉山
-「い、いやしかし・・・父親が誰だかわかって言ってるのか？」[p]
-#香織
-「当然あなたしかいないでしょう」[p]
-#肉山
-「お、お前は俺が大嫌いなはずだろう・・・？下種とか最低の男とか言ってたじゃないか！？その男の子供を育てるつもりか・・・？」[p]
-#香織
-「・・・もちろんあなたのような男に孕まされたことは屈辱だし、悔しい気持ちでいっぱいです」[p]
-「でもお腹の子供には何の罪もありません。私が立派に育ててみせます」[p]
-#肉山
-「う・・・しかし・・・」[p]
-#香織
-「認知はしていただかなくて結構。一人で育てますから」[p]
-#肉山
-「周りにはなんて言うつもりだよ・・・？」[p]
-#香織
-「説明はしないつもりです。色々陰口は叩かれるでしょうが・・・覚悟の上です。あなたの名前は出しませんから心配は無用です」[p]
-#肉山
-「むぅ・・・」[p]
-（こいつ・・・完全に覚悟を決めてやがる。さっきまで逆上してたのに今は目が座ってるじゃねえか）[p]
-（妊娠が世間にバレたら・・・こいつが口を閉じてても俺が疑われるんじゃねえか？毎日こいつと俺が会ってるのは周知の事実だし・・・）[p]
-（洗脳でなんとか説得して堕胎させるか・・・？妊娠しにくい体質のことは嘘だったとバラして・・・）[p]
-（いや、そうなるとさらにマズいことになるのか。あれだけバンバン中出ししたわけだからなぁ・・・）[p]
-（強引な手を使えば無理やり堕ろさせることもできるかもしれないが・・・うーん・・・）[p]
-（ていうか俺の子なんだよな・・・俺の遺伝子を継いだ・・・俺の子供か・・・）[p]
-#香織
-「そういうことなので、妊娠中は調教プログラムの停止を要求します」[p]
-「それが無理でしたら胎児に影響のないような配慮を・・・」[p]
-#肉山
-「あ？ああ・・・」[p]
-（・・・・・・）[p]
-（・・・いっそのこと・・・結婚しちまうか！？）[p]
-（俺ももう４０だ。親も結婚しろってうるさいし。ここらで家庭を持つってのも悪くないんじゃないか・・・？）[p]
-（香織は器量はもちろん、頭もいいし健康だし料理もできるし・・・嫁としては文句なしじゃねえか！）[p]
-（教師の同僚として密かに愛を育んでゴールイン・・・悪くないじゃないか）[p]
-（問題はこいつが俺のことを心底軽蔑し毛嫌いしてるってことだが）[p]
-（なぁに、そんなもんはこの・・・サイコ‐SXがあればどうにでもなるさ・・・クククク）[p]
-#香織
-「どうなんですか？私としては胎児の健康を最優先して・・・」[p]
-#肉山
-「うむ、そうだなっ。健康な子供を産むことがなにより大事だからな。これからの調教は十二分にその点に配慮して行うことを約束しよう」[p]
-#香織
-「え・・・はい。ありがとう・・・ございます」[p]
-#肉山
-「『我々二人の子供』については今後じっくり話し合いをするとしてだ。とりあえず今日のところはラブラブキス訓練から始めていこうか」[p]
-#香織
-「は・・・？それはいったい・・・」[p]
+#Kaori
+Abortion?[p]
+#Nikuyama
+Ah, ah...[p]
+I'll cover the cost as well...[p]
+#Kaori
+I will give birth.[p]
+I have no intention of having an abortion.[p]
+#Nikuyama
+W-What!?[p]
+#Kaori
+This precious child that I miraculously conceived, despite having a low probability of getting pregnant, is important to me.[p]
+I will definitely give birth.[p]
+#Nikuyama
+W-Wait, but...[p]
+Do you know who the father is and are you saying it?[p]
+#Kaori
+Of course, there's no one else but you.[p]
+#Nikuyama
+Y-You should hate me...[p]
+You called me a lowlife and the worst kind of man, didn't you!?[p]
+Are you planning to raise that man's child...?[p]
+#Kaori
+...[p]
+Of course, being impregnated by a man like you is humiliating and fills me with frustration.[p]
+But the child in my belly is innocent.[p]
+They have done nothing wrong.[p]
+I will raise them properly.[p]
+#Nikuyama
+Ugh...[p]
+However...[p]
+#Kaori
+I don't need you to acknowledge it.[p]
+I will raise the child on my own.[p]
+#Nikuyama
+What do you plan to say to everyone around us...?[p]
+#Kaori
+I don't intend to explain.[p]
+There will be various rumors and gossip, but I am prepared for it.[p]
+Don't worry, I won't mention your name.[p]
+#Nikuyama
+Mmm...[p]
+(This person...[p]
+they've completely made up their mind.[p]
+They were furious just a moment ago, but now they seem calm.[p]
+) (If the pregnancy is exposed to the public...[p]
+even if this person keeps their mouth shut, won't I be suspected?[p]
+It's widely known that we meet each other every day...[p]
+) (Should I try to brainwash them and convince them to have an abortion...?[p]
+Should I expose the lie about their difficulty in getting pregnant...?[p]
+) (No, that would make things even worse.[p]
+After all, I've been ejaculating inside them so many times...[p]
+) (If I use force, I might be able to forcefully make them have an abortion...[p]
+but hmm...[p]
+) (But then again, it's my child...[p]
+carrying my genes...[p]
+)[p]
+#Kaori
+That's why, during my pregnancy, I will request the suspension of the training program.[p]
+If that's not possible, I ask for consideration that won't affect the fetus...[p]
+#Nikuyama
+Huh?[p]
+Ah...[p]
+(.......[p]
+) (Should I just...[p]
+marry them!?[p]
+) (I'm already 40.[p]
+My parents keep nagging me to get married.[p]
+Maybe it wouldn't be so bad to start a family now...?[p]
+) (Kaori has the looks, intelligence, good health, and cooking skills...[p]
+She's perfect as a wife![p]
+) (We could secretly nurture our love as colleagues and then tie the knot...[p]
+Not a bad idea, right?[p]
+) (The problem is that she genuinely despises and dislikes me...[p]
+) (Well, no worries.[p]
+With this...[p]
+Hehehehe)[p]
+#Kaori
+What do you think?[p]
+For me, the health of the fetus is the top priority...[p]
+#Nikuyama
+Yes, that's right.[p]
+It's most important to give birth to a healthy child.[p]
+I promise to take that into consideration during our future training.[p]
+#Kaori
+Eh...[p]
+Yes.[p]
+Thank you...[p]
+very much.[p]
+#Nikuyama
+Let's discuss our child in detail from now on.[p]
+For now, shall we start with lovey-dovey kissing training today?[p]
+#Kaori
+Huh...?[p]
+What on earth...?[p]
 
 [_tb_end_text]
 
@@ -308,65 +421,102 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="マダムの口紅.mp3"  ]
 [tb_start_text mode=1 ]
-#香織
-「ンッ・・・チュバッ♥・・・レロレロンッ♥」[p]
-#肉山
-「ちゃんと愛情をこめて舌を絡ませるんだぞ。俺のことを大好きだと思ってキスするんだ、レロレロレロッ♥」[p]
-#香織
-「そ、そんなこと・・・ンチュッ・・・言われても・・・チュプッ♥あ、あなたのことなんて・・・レロレロレロンッ♥」[p]
+#Kaori
+Nn...[p]
+Lero-lero-nn♥[p]
+#Nikuyama
+Kiss me as if you love me deeply, lero-lero-lero♥[p]
+#Kaori
+I-It's not like that...[p]
+Nchu...[p]
+even if you say that...[p]
+Lero-lero-lero-n♥[p]
 
 [_tb_end_text]
 
 [tb_image_show  time="1000"  storage="default/game200.png"  width="339"  height="301"  x="431"  y="196"  _clickable_img=""  name="img_67"  ]
 [tb_image_hide  time="1000"  ]
 [tb_start_text mode=1 ]
-#肉山
-「母体の精神状態が胎児に大きな影響を及ぼすのは知っているだろう。これからは憎しみを忘れて俺のことを愛する努力をしろ」[p]
-#香織
-「そ、そんな・・・チュムッ♥で、できるわけが・・・アムッ・・・チュバッ♥」[p]
+#Nikuyama
+You should know that the mother's mental state has a significant impact on the fetus.[p]
+From now on, make an effort to forget your hatred and love me.[p]
+#Kaori
+Th-There's no way...[p]
+we can do that...[p]
+Chubaa♥[p]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game133-2.jpg"  ]
 [tb_start_text mode=1 ]
-#肉山
-「難しいことじゃないだろう・・・お腹には俺たちの愛の結晶がいるんだからな、ムフフフ」[p]
-#香織
-「アンッ♥・・・あ、愛の結晶だなんて・・・チュバッ♥勝手なことを・・・ンンッ♥」[p]
-#肉山
-「なんでだ？お前は俺を嫌ってるかもしれないが俺はお前のことがずっと好きだったんだぜ」[p]
+#Nikuyama
+It's not difficult, you know...[p]
+Because our love's manifestation is inside your belly, after all.[p]
+Mufufu.[p]
+#Kaori
+Ahh...[p]
+Love's manifestation...[p]
+Nn♥[p]
+#Nikuyama
+Why is that?[p]
+You may hate me, but I've always liked you.[p]
 [_tb_end_text]
 
 [tb_image_show  time="1000"  storage="default/game200.png"  width="345"  height="306"  x="448"  y="194"  _clickable_img=""  name="img_72"  ]
 [tb_image_hide  time="1000"  ]
 [tb_start_text mode=1 ]
-#香織
-「えっ！？な、なにを・・・ンムッ♥チュバッ・・・そ、そんなわけ・・・チュムッ♥」[p]
-#肉山
-「そりゃそうだろう。好きだからデートに誘ったりもしてたんだからな。お前はつれなかったがな」[p]
-#香織
-「ンッ・・・そんなこと・・・チュバッ♥・・・わ、わたしを・・・性の対象としか・・・チュッ♥・・・見てなかったくせに・・・ンハァッ♥」[p]
-#肉山
-「性の対象として見て何が悪い？好きな女を抱きたいのは当然だろう」[p]
-#香織
-「ハァッ♥・・・そ、それは・・・ンムッ・・・レロレロレロンッ♥」[p]
-#肉山
-「だからお前が淫乱症と分かって俺はうれしかったぜ。手に入らないと思ってたお前を手に入れるチャンスがやってきたんだからな。そして俺はそのチャンスを逃さなかった」[p]
-#香織
-「ンチュッ♥・・・で、でも・・・ンッ♥・・・あんなひどいことを・・・色々・・・チュバッ♥」[p]
-#肉山
-「あれも愛のカタチさ。お前を悦ばせるためのな・・・」[p]
+#Kaori
+Eh!?[p]
+Wh-What are you...[p]
+Nmm♥ Chubaa...[p]
+Chumuu♥[p]
+#Nikuyama
+Well, of course.[p]
+I invited you on dates because I liked you.[p]
+Even though you were cold to me.[p]
+#Kaori
+Nn...[p]
+Doing that...[p]
+Chubaa♥...[p]
+You, you only saw me as a...[p]
+sexual object...[p]
+Chuu♥...[p]
+Nhahh♥[p]
+#Nikuyama
+What's wrong with seeing someone as a sexual object?[p]
+It's only natural to want to embrace the woman you like.[p]
+#Kaori
+Haa...[p]
+Th-That is...[p]
+Lero-lero-lero-n♥[p]
+#Nikuyama
+That's why I was happy when I found out you had nymphomania.[p]
+I thought I couldn't have you, but the chance to have you came.[p]
+And I didn't let that chance slip away.[p]
+#Kaori
+Nchu♥...[p]
+But...[p]
+Nn♥...[p]
+Doing such a terrible thing...[p]
+Chubaa♥[p]
+#Nikuyama
+That is also a form of love.[p]
+It's to please you...[p]
 [_tb_end_text]
 
 [tb_image_show  time="1000"  storage="default/game200.png"  width="337"  height="299"  x="456"  y="278"  _clickable_img=""  name="img_75"  ]
 [tb_image_hide  time="1000"  ]
 [tb_start_text mode=1 ]
-#香織
-「ンンッ♥・・・う、ウソよ・・・わたしは・・・チュプッ♥絶対に・・・あなたを愛したりは・・・ンムゥッ♥」[p]
-#肉山
-「まぁいいさ。時間はたっぷりとあるんだからな、ククク・・・」[p]
+#Kaori
+Nn♥...[p]
+U-It's a lie...[p]
+I...[p]
+Chupp♥ I definitely...[p]
+Nmuhh♥[p]
+#Nikuyama
+Well, it's fine.[p]
+We have plenty of time, hehe...[p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -378,12 +528,15 @@
 [wait  time="1000"  ]
 [tb_ptext_hide  time="1000"  ]
 [tb_start_text mode=1 ]
-#肉山
-「子供の育成環境として両親がそろっている方が良いというのは解るな？」[p]
-#香織
-「ン・・・そ、それは・・・わかりますが・・・」[p]
+#Nikuyama
+You understand that it's better for children to have both parents present in their upbringing, right?[p]
+#Kaori
+N...[p]
+Th-That...[p]
+I understand, but...[p]
 #
-ニュプッ・・・ニュプッ・・・[p]
+Nnupu...[p]
+Nnupu...[p]
 
 [_tb_end_text]
 
@@ -391,46 +544,63 @@
 [bg  time="1000"  method="crossfade"  storage="game240-2.jpg"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="マダムの口紅.mp3"  ]
 [tb_start_text mode=1 ]
-#肉山
-「だったら結婚するのが一番合理的な形なんじゃないかと提案してるんだよ」[p]
-#香織
-「・・・で、でも・・・あなたと結婚なんか・・・」[p]
-#肉山
-「何が問題なんだ？収入は大したことないが教師という堅い職業だし身体も健康だ。それになによりお前を愛してる」[p]
-#香織
-「う・・・結婚なんかしたら・・・わ、わたしは一生あなたの性処理に使われることに・・・」[p]
-#肉山
-「夫婦の愛の営みじゃないか。ずっと愛され続けることに何の不満があるんだ？」[p]
+#Nikuyama
+So, I'm suggesting that getting married would be the most rational form, don't you think?[p]
+#Kaori
+...[p]
+B-But...[p]
+marrying you...[p]
+#Nikuyama
+What's the problem?[p]
+My income may not be much, but I have a stable job as a teacher and I'm healthy.[p]
+And above all, I love you.[p]
+#Kaori
+If...[p]
+if we get married...[p]
+I-I'll be used for your sexual needs for the rest of my life...[p]
+#Nikuyama
+Isn't it the act of love between a married couple?[p]
+What's wrong with being loved continuously forever?[p]
 [_tb_end_text]
 
 [tb_image_show  time="1000"  storage="default/game200.png"  width="334"  height="297"  x="446"  y="255"  _clickable_img=""  name="img_91"  ]
 [tb_image_hide  time="1000"  ]
 [tb_start_text mode=1 ]
-#香織
-「そ、それは・・・う・・・でも・・・」[p]
+#Kaori
+Th-That...[p]
+ugh...[p]
+but...[p]
 #
-ニュプッ・・・ニュプッ・・・[p]
-#肉山
-「それにお前の異常性欲を満足させられる男なんてそうはいないぞ。俺くらいの強いチンポを持った男でないとな。そうだろう？」[p]
-#香織
-「ン・・・そ、それは・・・」[p]
-#肉山
-「こんなたくましいチンポを持った男と結婚できるなんてお前は幸せだぜ。ほれ、舐めろ」[p]
-#香織
-「く・・・はい・・・」[p]
+Nnupu...[p]
+Nnupu...[p]
+#Nikuyama
+Besides, there's no man who can satisfy your abnormal sexual desires like I can.[p]
+Only a man with a strong dick like mine.[p]
+Isn't that right?[p]
+#Kaori
+N...[p]
+Th-That...[p]
+#Nikuyama
+You're lucky to be able to marry a man with such a strong dick.[p]
+Come on, suck it.[p]
+#Kaori
+Ugh...[p]
+Yes...[p]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game240-3.jpg"  ]
 [tb_start_text mode=1 ]
-#香織
-「チュブッ・・・レロレロレロ・・・ンチュッ♥」[p]
-#肉山
-「結婚したら毎日このチンポで可愛がってやるぞ。ククク、この幸せ者め」[p]
-#香織
-「アンッ♥・・・レロレロッ・・・チュプッ♥」[p]
+#Kaori
+*Suck...[p]
+*Mmm, *kiss*♥[p]
+#Nikuyama
+If we get married, I'll pamper you every day with this dick.[p]
+Hehehe, you lucky person.[p]
+#Kaori
+Ahn♥...[p]
+Suck♥[p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -442,32 +612,41 @@
 [wait  time="1000"  ]
 [tb_ptext_hide  time="1000"  ]
 [tb_start_text mode=1 ]
-#香織
-「お、お願いします・・・っ！」[p]
+#Kaori
+Please...![p]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game175-3.jpg"  ]
 [tb_cg  id="175"  ]
 [tb_start_text mode=1 ]
-#香織
-「どうか・・・私と結婚してください・・・っ！」[p]
-#肉山
-「貞淑で従順で夫の為に献身的に尽くす良い妻になることを誓うか？」[p]
-#香織
-「はいっ、誓います・・・！あなたに一生ついていきます！どうかわたしを妻にしてください・・・っ！」[p]
-#肉山
-「うむ・・・いいだろう。結婚してやろう」[p]
-#香織
-「ほ、本当ですか！？あ、ありがとうございますっ！！」[p]
-#肉山
-「だが理想的な妻になるにはまだまだ学ばなければいけないことがあるからな。俺をがっかりさせないように努力を続けるんだぞ」[p]
-#香織
-「はいっ！肉山様にふさわしい妻になれるように一生精進を続けます・・・！」[p]
-#肉山
-「まぁ夫婦間のルールなどは今後ゆっくり教えてやるからな。二人で良い家庭を築こうじゃないか、ムフフフフ」[p]
+#Kaori
+Please...[p]
+marry me...![p]
+#Nikuyama
+Will you swear to become a virtuous, obedient wife who devotes herself to her husband?[p]
+#Kaori
+Yes, I swear...![p]
+I will be by your side for the rest of my life![p]
+Please, make me your wife...![p]
+#Nikuyama
+Hmm...[p]
+Fine.[p]
+I'll marry you.[p]
+#Kaori
+I-Is it true!?[p]
+T-Thank you so much!![p]
+#Nikuyama
+However, there are still things you need to learn in order to become an ideal wife.[p]
+Keep making efforts so that you don't disappoint me.[p]
+#Kaori
+Yes![p]
+I will continue to devote myself for the rest of my life to become a wife worthy of Nikuyama-sama...![p]
+#Nikuyama
+Well, I'll slowly teach you the rules between husband and wife from now on.[p]
+Let's build a good household together, shall we?[p]
+Mufufufu.[p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -480,101 +659,118 @@
 [tb_ptext_hide  time="1000"  ]
 [chara_show  name="肉山"  time="1000"  wait="true"  storage="chara/9/game82-1.png"  width="570"  height="830"  left="352"  top="18"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#女子生徒Ａ
-「まさか桐嶋先生が肉山なんかと結婚するなんてね・・・」[p]
-#女子生徒Ｂ
-「超ショックだわ。あんな筋肉ゴリラのどこが良かったのかしら・・・？」[p]
-#男子生徒Ａ
-「クソッ・・・ゴリ山のやつ！俺たちの香織先生を・・・！」[p]
-#男子生徒Ｂ
-「しかももうお腹に子供がいるんだろ・・・？信じられねえ・・・あの香織先生とゴリ山が・・・！」[p]
-#女子生徒Ｃ
-「絶対にすぐ離婚するよね。ゴリ山ってＤⅤとかしそうだし」[p]
-#女子生徒Ｄ
-「桐嶋先生かわいそう・・・なんであんなセクハラ野郎と・・・」[p]
-#肉山
-（フフン、生徒たちが噂話をしているな。まぁなんて言ってるかはだいたい想像がつくが）[p]
-（せいぜいほざいているがいいさ。俺は人生の勝ち組だからな、グハハハハ）[p]
+#Female Student A
+I can't believe that Kirishima-sensei would marry someone like Nikuyama...[p]
+#Female Student B
+I'm super shocked.[p]
+I wonder what was so appealing about that muscle gorilla...?[p]
+#Male Student A
+Damn...[p]
+That muscle gorilla![p]
+Taking our Kaori-sensei away from us...![p]
+#Male Student B
+And on top of that, she's already pregnant, right...?[p]
+I can't believe it...[p]
+Kaori-sensei and Gorilla Mountain...![p]
+#Female Student C
+They're definitely going to get divorced soon, right?[p]
+Gorilla Mountain seems like the type to do DV (domestic violence) or something.[p]
+#Female Student D
+Poor Kirishima-sensei...[p]
+Why did she end up with such a sexual harassment jerk...[p]
+#Nikuyama
+(Hehe, the students are gossiping, huh?[p]
+I can pretty much imagine what they're saying.[p]
+After all, I'm a winner in life, Guhahahaha)[p]
 [_tb_end_text]
 
 [chara_move  name="肉山"  anim="true"  time="300"  effect="linear"  wait="true"  left="73"  top="0"  width="570"  height="830"  ]
 [chara_show  name="教頭"  time="1000"  wait="true"  storage="chara/6/game49-1.png"  width="354"  height="833"  left="745"  top="24"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#教頭
-「やあ肉山先生」[p]
-#肉山
-「ああ教頭。どうも」[p]
-#教頭
-「桐嶋君は元気にしてるかね？もうだいぶお腹の方も大きくなった頃だと思うが」[p]
-#肉山
-「ええ、元気にしてますよ。胎児の方も経過は順調なようです」[p]
-#教頭
-「それはよかった」[p]
-「しかしまさか君らが結婚するとはねえ・・・」[p]
-#肉山
-「すいませんねぇ、秘密にしていて」[p]
-#教頭
-「ついこの間まで君らは仲が悪いと思ってたんだが・・・」[p]
+#Vice Principal
+Hey, Mr.[p]
+Nikuyama.[p]
+#Nikuyama
+Ah, Vice Principal.[p]
+How are you?[p]
+#Vice Principal
+Is Kirishima doing well?[p]
+I think it's about time her belly has gotten quite big.[p]
+#Nikuyama
+Yes, she's doing well.[p]
+The baby seems to be progressing smoothly as well.[p]
+#Vice Principal
+That's good to hear, but I never expected you two to get married...[p]
+#Nikuyama
+Sorry about keeping it a secret.[p]
+#Vice Principal
+Until just recently, I thought you two didn't get along...[p]
 [_tb_end_text]
 
 [jump  storage="end.ks"  target="*e2b"  cond="f.e1==0"  ]
 *e2a
 
 [tb_start_text mode=1 ]
-#教頭
-「・・・例の件は絶対に他言無用で頼むよ」[p]
-#肉山
-「ええ、分かってますよ」[p]
-#教頭
-「もし結婚するとわかってたら私は手を出さなかったんだからね。あの時は一言もそんなことは言ってなかったんだから」[p]
-「というかそもそも結婚なんてするつもりは無かったんじゃないのかね？出来てしまったからやむを得ず、ってところだろう？」[p]
-#肉山
-「ええ、まぁそんなところです」[p]
-#教頭
-「やはりねぇ・・・。でも結果的には上手いことやったんじゃないかね。あんな美人で賢くて若い女房を捕まえたわけだから」[p]
-「しかしあの性欲の強さだ、気を付けないと他に男を作ったりしかねないぞ。しっかりと手綱を握っておかんとな」[p]
-#肉山
-「大丈夫ですよ。そんなことはさせませんから」[p]
-#教頭
-「そうかね。まぁなんにせよ羨ましい限りだ。あの体を毎日好きなだけ抱けるわけだからねぇ。ハハハ」[p]
+#Vice Principal
+...[p]
+I absolutely request that you keep the matter in question confidential.[p]
+#Nikuyama
+Yes, I understand.[p]
+#Vice Principal
+If I had known you were going to get married, I wouldn't have gotten involved.[p]
+At that time, I didn't say a word about it, or rather, I didn't even think you were planning to get married, right?[p]
+It must be because you ended up getting pregnant and had no choice but to get married, isn't that the case?[p]
+#Nikuyama
+Well, yeah, something like that.[p]
+#Vice Principal
+As I thought...[p]
+But in the end, you did well, didn't you?[p]
+You managed to catch such a beautiful, intelligent, and young wife.[p]
+However, with that strong sexual desire of hers, you need to be careful or she might end up finding another man.[p]
+Make sure to firmly hold the reins.[p]
+#Nikuyama
+Don't worry.[p]
+I won't let that happen.[p]
+#Vice Principal
+I see.[p]
+Well, in any case, I envy you.[p]
+After all, you can embrace that body as much as you want every day.[p]
+Hahaha.[p]
 [_tb_end_text]
 
 [chara_hide  name="教頭"  time="1000"  wait="true"  pos_mode="true"  ]
 [tb_start_text mode=1 ]
-#肉山
-（ケッ、言うだけ言って行っちまいやがった）[p]
-（あのスケベ爺、そのうち香織を一晩貸してくれとでも言い出すんじゃないか）[p]
-（まぁいい、香織が俺を裏切るなんてことはありえないからな）[p]
-（きっちりと躾けてあるからな。きっちりと・・・ククク）[p]
+#Nikuyama
+(Damn, he just said it and left) (That perverted old man, he might even ask to borrow Kaori for a night) (Well, it doesn't matter, there's no way Kaori would betray me) (I've trained her properly.[p]
+hehehe)[p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 [_tb_end_text]
 
 [jump  storage="end.ks"  target="*e2c"  ]
 *e2b
 
 [tb_start_text mode=1 ]
-#教頭
-「やっぱり例のカウンセリングの件で、相談を受けているうちに仲が深まっていったということかね？」[p]
-#肉山
-「ええ、まぁそんなところです」[p]
-#教頭
-「しかしいい奥さんを捕まえたもんだ。大事にしないといけませんよ」[p]
-#肉山
-「もちろんです。大事にします」[p]
-#教頭
-「それと家族ができたんですから仕事の方も一段と頑張ってくださいね。それでは」[p]
+#Vice Principal
+So, it seems that your relationship deepened as you received counseling regarding that certain matter, huh?[p]
+#Nikuyama
+Yeah, well, something like that.[p]
+#Vice Principal
+But you managed to catch such a good wife.[p]
+You have to take good care of her.[p]
+#Nikuyama
+Of course.[p]
+I will cherish her.[p]
+#Vice Principal
+Well then,[p]
 [_tb_end_text]
 
 [chara_hide  name="教頭"  time="1000"  wait="true"  pos_mode="true"  ]
 [tb_start_text mode=1 ]
-#肉山
-（ククク、相変わらず誰でも言いそうな無難なことしか言わねえ爺さんだぜ）[p]
-（まぁ洗脳が効く人間が上司ってのは都合がいいから助かるぜ）[p]
+#Nikuyama
+(Hehehe, that old man always says safe and generic things that anyone could say) (Well, it's convenient to have a boss who can be easily brainwashed, so it works out for me)[p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 
 [_tb_end_text]
 
@@ -588,82 +784,117 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Radio.mp3"  ]
 [tb_start_text mode=1 ]
-#香織
-「あなた、今日も一日お仕事お疲れ様でした」[p]
-#肉山
-「うむ、ゴキュッゴキュッゴキュッ・・・プハーーーッ！やっぱり疲れて帰った後のビールは最高だな」[p]
-「おっ、今日の飯も美味そうだな」[p]
-#香織
-「あなたのために頑張って作りました。初めて作った料理もあるんでお口に合えばいいんですけど・・・」[p]
-#肉山
-「モグモグモグ・・・うむ、なかなか美味い。料理の腕も上がってきたな」[p]
-#香織
-「ありがとうございます。でもまだレパートリーが少ないので・・・もっと勉強しないといけないと思ってます」[p]
-「食事中のフェラチオはどうされますか？」[p]
-#肉山
-「ああ、今日はいい。あとでゆっくりと可愛がってやるよ」[p]
-#香織
-「あ・・・はい・・・楽しみです」[p]
-#肉山
-「今日は病院に行ってきたんだろ。どうだった？」[p]
-#香織
-「はい、順調だそうです。エコーで見せてもらったんですけど頭の形とかもはっきりと判るようになってきて・・・早くこの手で抱きたいです」[p]
-#肉山
-「そうか。俺とお前の子供だからな、健康な子が生まれるに決まってるさ」[p]
-「ところで医者に余計なことは言ってないだろうな？淫乱症のことは教える必要はないからな」[p]
-#香織
-「はい、大丈夫です。そのことは誰にも言っていません」[p]
-#肉山
-「こうして幸せを手に入れたんだからな。わざわざ余計なことを他人に知らせる必要はない」[p]
-「なぁに、俺がお前のドスケベな身体をしっかりとチンポで管理してやるから何の問題も起きはしない」[p]
-#香織
-「はい・・・香織は幸せ者です。あなたのような素晴らしい男性に一生面倒を見ていただけるなんて・・・」[p]
-#肉山
-「ククク、よく言うぜ。最初は俺のことを見下して毛嫌いしてやがったくせによ」[p]
-#香織
-「あぁ・・・そのことは言わないでくださいませ。私は何にも解っていない愚か者でした・・・。恥ずかしい限りです・・・」[p]
-「あなたにおチンポで教育していただいて目が覚めました。自分がいかに馬鹿だったかということを」[p]
-「あなたに出会わなければおチンポに奉仕し、おチンポに支配していただく悦びを知らずに生きていたでしょう・・・。あなたに会えて本当に幸運でした・・・」[p]
-#肉山
-「まぁこうして収まるところに収まったんだからよかったじゃないか」[p]
-「結局運命だったんだろうな。お前のようなドスケベなメスと俺のような強いオスが出会うのは」[p]
-#香織
-「運命・・・嬉しい・・・やっぱり私は幸せ者です」[p]
-#肉山
-（ククク・・・洗脳が成功しすぎて笑っちまいそうだぜ）[p]
-（あの男嫌いで生意気な桐嶋香織が、こんな江戸時代の武家の嫁みたいな従順な妻になっちまうとはな）[p]
-（・・・もしかするとこっちが香織の本質だったのかもしれないな。レイプの経験から男嫌いになり肩ひじを張って生きてきただけで、本当の香織は素直で可愛い女だったかもしれん）[p]
-（とはいえちょっとばかり調子に乗って洗脳をやりすぎたかもしれないな。これじゃ親せきや近所と付き合うときにボロが出そうだ）[p]
-（普段はもうちょっと砕けた感じになるように洗脳で調整していかないといけないな）[p]
-（でももうしばらくはこの従順な奴隷妻・香織を楽しませてもらうか）[p]
-「ふぅ・・・食った食った。ごちそうさん」[p]
-#香織
-「おそまつさまでした。お風呂が沸いてますけどいかがいたしますか？」[p]
-#肉山
-「ああ、今日は一人で入るよ。その間に飯を済ませていいぞ」[p]
-#香織
-「えっ、いえ、私の食事は後でいいのでお体を流させてくださいませ」[p]
-#肉山
-「そうか？そんなに一緒に風呂に入りたいのかよ、このドスケベ」[p]
-#香織
-「そ、そんな・・・私はお体を洗わせていただくのが好きなだけで・・・おチンポが欲しいとかそんなんじゃ・・・」[p]
-#肉山
-「わかったわかった、それじゃ一緒に洗いっこするか」[p]
-#香織
-「はいっ。それではすぐに支度しますね」[p]
-#肉山
-（・・・こういうのも悪くはないな、ムフフフ）[p]
-（・・・もし今、洗脳のことをバラしてやったらどんな顔するかな？）[p]
-（怒り狂うかな？・・・いや、もしかすると何も変わらないかもな。どこまでが本質でどこまでが洗脳の影響なのかはもう本人にも分からないだろう）[p]
-（まぁわざわざ試す気はないがな。手段はともかく俺は幸せを手に入れたんだ）[p]
-（本物の幸せをな）[p]
+#Kaori
+You worked hard today as well.[p]
+#Nikuyama
+Mmm, *gulp gulp gulp*...[p]
+Ahhh![p]
+Beer after coming home tired is the best.[p]
+Oh, today's meal looks delicious too.[p]
+#Kaori
+I worked hard for you.[p]
+There are also some dishes that I made for the first time, so I hope they taste good to you...[p]
+#Nikuyama
+*Munch munch munch*...[p]
+Mmm, it's quite delicious.[p]
+Your cooking skills have improved as well.[p]
+#Kaori
+Thank you very much.[p]
+But I still have a limited repertoire, so...[p]
+I think I need to study more.[p]
+What do you think about having a blowjob during dinner?[p]
+#Nikuyama
+Ah, today is good.[p]
+I'll take my time and cherish you later.[p]
+#Kaori
+Ah...[p]
+Yes...[p]
+I'm looking forward to it.[p]
+#Nikuyama
+Did you go to the hospital today?[p]
+How was it?[p]
+#Kaori
+Yes, it seems to be going well.[p]
+I was shown the ultrasound and I can clearly see the shape of the head...[p]
+I want to hold them in my arms soon.[p]
+#Nikuyama
+I see.[p]
+Since it's our child, a healthy baby is definitely going to be born.[p]
+By the way, you didn't say anything unnecessary to the doctor, right?[p]
+There's no need to tell them about your nymphomania.[p]
+#Kaori
+Yes, I'm fine.[p]
+I haven't told anyone about that.[p]
+#Nikuyama
+Now that we've obtained happiness like this, there's no need to unnecessarily let others know about it.[p]
+I'll take care of your horny body with my cock, so there won't be any problems.[p]
+#Kaori
+Yes...[p]
+I'm a lucky person.[p]
+To have someone like you, a wonderful man, taking care of me for the rest of my life...[p]
+#Nikuyama
+Hehehe, you say that now.[p]
+At first, you looked down on me and despised me.[p]
+#Kaori
+Ah...[p]
+Please don't mention that.[p]
+I was a foolish person who didn't understand anything...[p]
+It's embarrassing...[p]
+Being educated by your cock opened my eyes.[p]
+If I hadn't met you, I would have lived without knowing the joy of serving a cock and being dominated by it...[p]
+I was truly fortunate to meet you...[p]
+#Nikuyama
+Well, it's good that things have settled down like this in the end.[p]
+It must have been fate for a horny female like you to meet a strong male like me.[p]
+#Kaori
+Fate...[p]
+I'm happy...[p]
+I truly am a fortunate person.[p]
+#Nikuyama
+(Hehehe...[p]
+The brainwashing was a success, I can't help but laugh) (That arrogant and annoying Kaori Kirishima has turned into such a submissive wife, like a wife of a samurai from the Edo period) (...[p]
+Maybe this is the true essence of Kaori.[p]
+Perhaps she became resentful of men and lived with a tough attitude just because of her experience with rape, but the real Kaori might have been a sweet and obedient girl) (However, I might have gone a bit too far with the brainwashing, getting carried away.[p]
+It might expose some flaws when dealing with relatives and neighbors) (I need to adjust the brainwashing so that she appears more casual in everyday life) (But for now, I'll enjoy this obedient slave wife, Kaori) *sigh*...[p]
+I'm satisfied.[p]
+Thanks for the meal.[p]
+#Kaori
+Thank you for the meal.[p]
+The bath is ready, would you like to take a bath?[p]
+#Nikuyama
+Ah, I'll take a bath alone today.[p]
+You can go ahead and finish your meal during that time.[p]
+#Kaori
+Oh, no, it's okay for me to eat later.[p]
+Please go ahead and take a bath.[p]
+#Nikuyama
+Is that so?[p]
+You're so eager to take a bath together, you horny person.[p]
+#Kaori
+I-I mean...[p]
+I just enjoy washing your body...[p]
+It's not like I want your cock or anything like that...[p]
+#Nikuyama
+Alright, alright.[p]
+Then, shall we wash each other together?[p]
+#Kaori
+Yes.[p]
+I will prepare immediately.[p]
+#Nikuyama
+(...[p]
+This isn't so bad, hehehe) (...[p]
+I wonder what kind of face they would make if I exposed the brainwashing?[p]
+) (Would they go into a rage?[p]
+...[p]
+No, maybe nothing would change at all.[p]
+Regardless of the means, I have obtained happiness) (True happiness, that is)[p]
 #
 [_tb_end_text]
 
 [call  storage="sr.ks"  target=""  ]
 [tb_start_text mode=1 ]
 #
-エンディングNo.２　『幸せな家庭』[p]
+Ending No[v0]2 Happy Family[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -682,69 +913,87 @@
 [wait  time="1000"  ]
 [tb_ptext_hide  time="1000"  ]
 [tb_start_text mode=1 ]
-#校長
-「えー・・・夏休みというのは非常に誘惑の多い時期でありまして、みなさんには当学園の生徒であるという自覚をもって悪い誘いには乗らないように、節度のある休暇の過ごし方をしていただきたいと思います」[p]
-「近年犯罪の低年齢化が顕著であり、特に長期休暇においてはーーー」[p]
-#肉山
-（はぁ～・・・いつもながら校長の話は長くてくだらないな）[p]
-（しかし明日から夏休みか・・・早いもんだ。今年は香織の洗脳に夢中だったから本当にあっという間だったぜ）[p]
-（まぁ夏休みといっても教師はなんだかんだ登校しないといけないんだが、香織は学校でも家でもいつでも抱けるから問題ない）[p]
-（だが藤野や他の生徒たちはそうはいかない。部活があるやつは登校したときに教官室に呼び出しても良いが・・・不自然だし目立つよなぁ）[p]
-（かといって自分の家に呼び出すのは絶対に危険だ。近所の人間にでも見られたら怪しすぎるし）[p]
-（せっかく苦労して洗脳して抱けるようになったわけだからもう少し楽しみたいよなぁ・・・。どっか密会できる場所を考えて・・・）[p]
-#校長
-「えー・・・それではみなさん９月にまた元気な姿で会えることを楽しみにしています。以上」[p]
+#Principal
+Um...[p]
+The summer vacation is a time of great temptation, and I hope that all of you, as students of this school, will be aware of that and avoid getting involved in bad influences.[p]
+I would like you to spend your vacation in a moderate and responsible manner.[p]
+In recent years, there has been a noticeable increase in crimes committed by young people, especially during long vacations...[p]
+#Nikuyama
+(Sigh...[p]
+The principal's speeches are always long and pointless) (But summer vacation starts tomorrow...[p]
+Time flies.[p]
+This year went by in a flash because I was so focused on brainwashing Kaori) (Well, even though it's summer vacation, teachers still have to come to school for various reasons, but it's not a problem for me since I can have Kaori anytime, anywhere, at school or at home) (But Fujino and the other students can't do the same.[p]
+It would be suspicious and draw attention if they were called to the teacher's office when they have club activities...[p]
+) (But it's too dangerous to invite them to my house.[p]
+If anyone from the neighborhood sees, it would be too suspicious) (Since I went through all the trouble of brainwashing them and being able to have sex with them, I want to enjoy it a little more...[p]
+)[p]
+#Principal
+Um...[p]
+Well then, I look forward to seeing everyone in September in good spirits.[p]
+That's all.[p]
 
 [_tb_end_text]
 
 [chara_show  name="教頭"  time="1000"  wait="true"  storage="chara/6/game49-1.png"  width="371"  height="873"  left="441"  top="12"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#教頭
-「えー校長先生ありがとうございました。生徒の皆さん、校長先生もおっしゃった通りくれぐれも羽目を外しすぎて問題を起こさないように」[p]
-「それではこれで・・・」[p]
-#香織
-「ちょっと待ってください」[p]
+#Vice Principal
+Um, thank you very much, Principal.[p]
+Students, as the Principal mentioned, please be careful not to go too far and cause any problems.[p]
+Well then, that's all for now...[p]
+#Kaori
+Please wait a moment.[p]
 [_tb_end_text]
 
 [chara_show  name="桐嶋"  time="1000"  wait="true"  storage="chara/1/game12.png"  width="367"  height="863"  left="45"  top="5"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#教頭
-「ん、桐嶋先生？どうしましたか？」[p]
-#香織
-「すいません教頭・・・ちょっといいですか。私から少し話したいことが」[p]
-#教頭
-「ん、なにか伝達事項ですか。そういうのがあるなら先に言っておいてもらわないと・・・手短にお願いしますよ」[p]
-#香織
-「はい、すいません」[p]
+#Vice Principal
+Hm, Kirishima-sensei?[p]
+What's the matter?[p]
+#Kaori
+Excuse me, Vice Principal...[p]
+Can I talk to you for a moment?[p]
+#Vice Principal
+Hm, is there something you need to convey?[p]
+If there is, please let me know beforehand...[p]
+Please keep it brief.[p]
+#Kaori
+Yes, I'm sorry.[p]
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
 [bg  time="1000"  method="crossfade"  storage="game271-1.jpg"  ]
 [tb_start_text mode=1 ]
-#肉山
-（ん、なんだ？香織のやつなにか話す気かよ）[p]
-（まったく意識高い教師ぶりやがって・・・。ああいう生意気な所は全く変わってないな。あとでみっちりお仕置きしてやるか、ククク）[p]
+#Nikuyama
+(Hm, what?[p]
+Is Kaori planning to talk about something?[p]
+) (That teacher really thinks highly of themselves...[p]
+Maybe I should punish them thoroughly later, hehehe)[p]
 [_tb_end_text]
 
 [chara_show  name="桐嶋"  time="1000"  wait="true"  storage="chara/1/game273-1.png"  width="793"  height="1269"  left="178"  top="-116"  reflect="false"  ]
 [stopbgm  time="1000"  ]
 [playbgm  volume="60"  time="1000"  loop="true"  storage="Grease_Slide_Trap.mp3"  ]
 [tb_start_text mode=1 ]
-#香織
-「えー・・・皆さんに伝えておかなければいけないことがあります」[p]
-「私、桐嶋香織はこの約２か月間、ある人物に洗脳されていました」[p]
-#肉山
-（・・・？今なんて・・・？）[p]
-#全校生徒
-「ん・・・？」[p]
-#香織
-「私は病気であるという嘘を信じ込まされてその人物に治療と称してわいせつな行為を受け続けていました」[p]
-#肉山
-（な、な、なにっ・・・！？）[p]
-#全校生徒
-「え・・・なに・・・？桐嶋先生なに言ってるの・・・？」ザワザワ[p]
-#教頭
-「ちょ、ちょとっと桐嶋先生・・・！？」[p]
+#Kaori
+Um...[p]
+There's something I need to tell everyone.[p]
+I, Kaori Kirishima, have been brainwashed by someone for the past two months.[p]
+#Nikuyama
+(...?[p]
+)[p]
+#All students
+Hm...?[p]
+#Kaori
+I was made to believe a lie that I was sick, and that person continued to perform lewd acts under the guise of treatment.[p]
+#Nikuyama
+)[p]
+#All students
+Huh...[p]
+What...?[p]
+What is Kirishima-sensei saying...?[p]
+It's getting noisy.[p]
+#Vice Principal
+W-Wait, wait a minute, Kirishima-sensei...!?[p]
 
 [_tb_end_text]
 
@@ -752,61 +1001,87 @@
 [chara_mod  name="桐嶋"  time="1000"  cross="false"  storage="chara/1/game273-2.png"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="烈火翔ける.mp3"  ]
 [tb_start_text mode=1 ]
-#香織
-「その人物がどうやって私に嘘を信じ込ませたのかはわかりませんが、私はその人物の支配下に置かれ逆らうことができませんでした」[p]
-「その人物にわたしはありとあらゆるわいせつ行為をされました。裸にされ性処理をさせられ、犯されました。排便を強要させられたり尿を飲まされたりもしました」[p]
-「首輪を着けられ家畜のように扱われたりもしました。今着ている卑猥な服装もその人物の指示で着させられていたものです。わたしはすっかり洗脳されており逆らうことができませんでした」[p]
-#全校生徒
-「え・・・どういうこと・・・？冗談・・・じゃないの？」ザワザワザワッ！[p]
-#肉山
-「お、おい・・・っ」[p]
-（な、なんでだ！？なんで・・・いつ洗脳が解けたんだ・・・！？ど、どうする・・・！？）[p]
-#香織
-「私だけの被害ならこうして公表せずに一人で解決をしようとしたかもしれません」[p]
-「しかしその人物はあろうことか女子生徒にもその卑劣な触手を伸ばしました。名前は伏せますが４人の女子生徒が私同様に洗脳されてわいせつ行為の被害を受けました」[p]
-#早瀬・藤野・赤井・津山
-「・・・！？」[p]
+#Kaori
+I don't know how that person made me believe their lies, but I was under their control and couldn't resist.[p]
+They subjected me to all kinds of lewd acts.[p]
+They stripped me naked and forced me to engage in sexual activities.[p]
+I was violated.[p]
+They even forced me to defecate and drink urine.[p]
+They put a collar on me and treated me like livestock.[p]
+The indecent clothing I'm wearing right now was also chosen by that person.[p]
+I was completely brainwashed and couldn't resist.[p]
+#All students
+Eh...[p]
+What does this mean...?[p]
+This isn't a joke, right?[p]
+It's getting noisy...[p]
+#Nikuyama
+O-Oh...[p]
+(W-Why...?[p]
+Why did it happen!?[p]
+Why...[p]
+when did the brainwashing wear off...!?[p]
+)[p]
+#Kaori
+If it was just my own suffering, I might have tried to resolve it on my own without making it public.[p]
+However, that person went so far as to extend their vile tentacles to female students as well.[p]
+I won't reveal their name, but four female students, like myself, were brainwashed and suffered from lewd acts.[p]
+#Hayase Fujino Akai Tsuyama
+！？[p]
 
 [_tb_end_text]
 
 [chara_mod  name="桐嶋"  time="1000"  cross="false"  storage="chara/1/game273-1.png"  ]
 [tb_start_text mode=1 ]
-#香織
-「そしてその４人の女子生徒へのわいせつ行為に・・・私も協力してしまいました・・・」[p]
-「洗脳されていたとはいえ生徒たちを傷つける行為に加担してしまったことは紛れもありません。本当に申し訳ありません・・・っ」[p]
-「このことは謝罪しても償える罪ではありません。私はその人物とともに警察に出頭します」[p]
-#肉山
-「げ・・・っ！？」[p]
-#全校生徒
-「女子生徒って誰だ・・・？」ザワザワッ[p]
-「その人物って・・・？学園の人間なの・・・？」ザワザワザワッ[p]
-#教頭
-「わ、私は知らん・・・関係ないぞ・・・っ」[p]
-#香織
-「その人物は・・・」[p]
-「肉山・・・体育教師の肉山猛です！」[p]
+#Kaori
+And I also ended up cooperating in the lewd acts towards those four female students...[p]
+Even though I was brainwashed, there is no doubt that I participated in acts that harmed the students.[p]
+I am truly sorry...[p]
+Apologizing for this is not enough to atone for my sins.[p]
+I will turn myself in to the police along with that person.[p]
+#Nikuyama
+G...!?[p]
+)[p]
+#All students
+Who are the female students...?[p]
+What is this commotion about that person...?[p]
+Are they someone from the school...?[p]
+It's getting noisy...[p]
+#Vice Principal
+I-I don't know...[p]
+It's none of my business...[p]
+#Kaori
+That person is...[p]
+Nikuyama...[p]
+Physical education teacher, Takeshi Nikuyama![p]
 [_tb_end_text]
 
 [chara_hide_all  time="300"  wait="true"  ]
 [bg  time="1000"  method="crossfade"  storage="game104.jpg"  ]
 [tb_start_text mode=1 ]
-#全校生徒
-「肉山先生！？」[p]
-「ゴリ山だ！あいつならやりそうだ！」[p]
-「最低！犯罪者！」[p]
-#肉山
-「ち、違う！デタラメだ！俺は何もやってない・・・！」[p]
-#スーツの男
-「肉山猛さんですね？」[p]
-#肉山
-「だ、誰だ・・・！？」[p]
-#刑事
-「こういうものです。署までご同行願えますか」[p]
-#肉山
-「け、警察・・・！？う・・・くそ・・・っ！」[p]
+#All students
+Mr.[p]
+Nikuyama!?[p]
+It's him![p]
+He seems like the type to do something like this![p]
+Disgusting![p]
+A criminal![p]
+#Nikuyama
+N-No, that's wrong![p]
+It's nonsense![p]
+I haven't done anything...![p]
+#Man in a suit
+Are you Takeshi Nikuyama?[p]
+#Nikuyama
+W-Who is it...!?[p]
+#Detective
+This is how it goes.[p]
+Can you come with us to the police station?[p]
+#Nikuyama
+P-Police...!?[p]
+Dammit...![p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 
 [_tb_end_text]
 
@@ -815,14 +1090,6 @@
 [playbgm  volume="100"  time="1000"  loop="true"  storage="music58.mp3"  ]
 [tb_start_text mode=1 ]
 #
-くそ・・・この俺がまさか警察の世話になるとはな・・・[p]
-学園は解雇だろうな・・・というか二度と教職には就けないだろう[p]
-一体俺はどこでミスを犯したんだ・・・？[p]
-生徒に手を出したのがいけなかったか？香織を追い詰めすぎたのがいけなかったのか・・・？[p]
-・・・もしかすると最初にサイコ‐SXの広告をクリックした時にすでに道を踏み外していたのかもしれないな[p]
-もしも時間が戻せるならあの時に戻って・・・[p]
-・・・・・・もちろんまたクリックするさ。今度は絶対に失敗しねえぜ[p]
-・・・・・・[p]
 ・・・[p]
 
 
@@ -834,94 +1101,131 @@
 [bg  time="1000"  method="crossfade"  storage="game105.jpg"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="いつもの放課後.mp3"  ]
 [tb_start_text mode=1 ]
-#桐嶋
-「それじゃ・・・私は起訴されないんですか？」[p]
-#刑事
-「ええ。あなたは洗脳され肉山の支配下にあったことが明らかですし、被害者の生徒たちも全員あなたを訴えるつもりは無いようですから」[p]
-#桐嶋
-「・・・・・・」[p]
-#刑事
-「肉山はどうやら『超音波式意識干渉装置』というものを使用していたようです。体育教官室から押収されました」[p]
-#桐嶋
-「『超音波意識干渉装置』・・・？それはいったいどういうものなんですか？」[p]
-#刑事
-「わたしも詳しくは解りませんが旧共産圏で開発されたもののようで、特定の、人には聞こえない周波数の超音波を特殊なリズムで切り替えて発生させることで対象者の脳に干渉して猜疑心や警戒心という心の壁を薄くするとか・・・」[p]
-「簡単に言うと他人の言うことを信用しやすくなる音波のようなものを出す機械、ということですね」[p]
-#桐嶋
-「他人の言うことを信用しやすくなる・・・そ、そんな機械が・・・」[p]
-#刑事
-「肉山がどこでそんなモノを入手したのか・・・。今警察で入手経路を調べているところです」[p]
-「まぁ実際には試作品で終わった代物で、効果には個人差があってほとんどの人にはあまり効かないらしいのですが、たまたまあなたは効きやすい体質だったようですね」[p]
-#桐嶋
-「・・・それであんな嘘を・・・く・・・なんてこと・・・」[p]
-#刑事
-「しかしよく洗脳から脱出できましたね？あのまま洗脳され続けていたら肉山の犯行は明るみに出ることは無かったでしょう」[p]
-「一体どうやって正気を取り戻したのですか？」[p]
-#桐嶋
-「それは・・・生徒たちのおかげなんです」[p]
-#刑事
-「ほぉ・・・？」[p]
-#桐嶋
-「生徒たちが淫乱症と診断されて・・・それも全て肉山のウソだったわけですが、わたしは少しでも彼女たちの力になりたいと思って淫乱症について調べることにしたんです」[p]
-「それで・・・私は肉山にネット環境を奪われていましたからネットカフェに行って色々検索してみたんです」[p]
-「すると確かに淫乱症や異常性欲症という病気は実在するようなんですが、肉山の言ったような治療法や矯正施設などの情報はいくら調べても見つかりませんでした」[p]
-「情報が秘匿されているのかとも思いましたが、もしそういったものが実在するのならネット上に噂すら無いということはありえないのでは・・・私の中に疑念が生まれました」[p]
-#刑事
-「なるほど・・・それで？」[p]
-#桐嶋
-「さらに肉山の言っていた「性交治療」や「調教プログラム」などという単語を調べていくうちに、治療と称してわいせつ行為を行った医師の事件などの記事にいくつも行き当たり・・・」[p]
-「そこで自分のされてきたことを思い返すと・・・突然頭にかかっていた靄（もや）が晴れたように明確に事態を理解したんです。自分が騙されていたということに」[p]
-#刑事
-「・・・ショックだったでしょうね？」[p]
-#桐嶋
-「はい・・・実際に殴られたくらいの衝撃でした。しばらくは茫然として・・・疑問・・・なぜあんな嘘を信じていたのか？自分の愚かさが信じられませんでした。事実をなかなか受け入れることができませんでした」[p]
-「ようやく怒りが湧いてきたのは家に帰ってから・・・肉山に対する怒り・・・そのまま肉山のところへ乗り込もうかとも思いました。でもすぐに思い出しました、生徒たちのことを・・・」[p]
-「自分が彼女たちの凌辱に加担してしまったことに気づいてまた愕然としました。取り返しのつかないことをしてしまったと・・・」[p]
-「しかしそれで逆に冷静になれました。自分は加害者なのだから自分のために怒っている場合ではないと・・・覚悟が決まりました」[p]
-#刑事
-「それで警察に連絡をしたと・・・」[p]
-#桐嶋
-「はい・・・。全校生徒の前で告白したのはけじめをつけるためです。自分がしてしまったこと・・・説明の義務がある、とそう感じたんです」[p]
-#刑事
-「生徒を思う強い気持ちがあなたを洗脳から抜け出させたんですねぇ」[p]
-「しかし、あなたが責任を感じる必要はありませんよ。あなたは洗脳されていたんですから」[p]
-#桐嶋
-「・・・・・・」[p]
-#刑事
-「それに今回の事件で一番被害を受けたのもあなたです。心の傷も大きいはず」[p]
-#桐嶋
-「いえ・・・生徒たちが受けた傷に比べれば私の心の傷なんて・・・。むしろ私は・・・」[p]
-#刑事
-「むしろ・・・？」[p]
-#桐嶋
-「・・・いえ、なんでもありません」[p]
+#Kirishima
+Then...[p]
+won't I be prosecuted?[p]
+#Detective
+Yes.[p]
+It has become clear that you were brainwashed and under the control of Nikuyama, and it seems that none of the student victims intend to press charges against you.[p]
+#Kirishima
+・・・・・・[p]
+#Detective
+It seems that Nikuyama was using something called a ultrasonic consciousness interference device.[p]
+It was confiscated from the gym instructor's office.[p]
+#Kirishima
+Ultrasonic consciousness interference device...?[p]
+What exactly is that?[p]
+#Detective
+I don't know the details either, but it seems to be something developed in the former communist bloc.[p]
+It generates ultrasonic waves of a frequency that certain people can't hear, and by switching them in a special rhythm, it interferes with the target's brain, making their walls of suspicion and caution thinner...[p]
+In simple terms, it's a machine that emits sound waves that make it easier to trust what others say.[p]
+#Kirishima
+A machine that makes it easier to trust what others say...[p]
+S-So such a device exists...[p]
+#Detective
+We are currently investigating where Nikuyama obtained such a thing...[p]
+Well, in reality, it seems to be a prototype that didn't go beyond the experimental stage, and its effectiveness varies from person to person.[p]
+It doesn't seem to have much effect on most people, but it appears that you happened to have a body that was more susceptible to it.[p]
+#Kirishima
+...[p]
+And to think I told such lies...[p]
+Ugh...[p]
+How could this happen...[p]
+#Detective
+However, you managed to escape from the brainwashing, didn't you?[p]
+If you had continued to be brainwashed, Nikuyama's crimes would never have come to light.[p]
+How exactly did you regain your sanity?[p]
+#Kirishima
+That...[p]
+is thanks to the students.[p]
+#Detective
+Oh...?[p]
+#Kirishima
+The students were diagnosed with nymphomania...[p]
+and it turns out that was all Nikuyama's lie.[p]
+But I wanted to help them in any way I could, so I decided to research nymphomania.[p]
+Since Nikuyama had taken away my internet access, I went to an internet cafe and searched for various information.[p]
+It seems that nymphomania and abnormal sexual desire disorder are indeed real diseases, but no matter how much I searched, I couldn't find any information about the treatments or correctional facilities that Nikuyama mentioned.[p]
+I thought maybe the information was being kept secret, but if such things really existed, there would at least be rumors on the internet...[p]
+Doubts started to arise within me.[p]
+#Detective
+I see...[p]
+And then?[p]
+#Kirishima
+As I continued to search for words like sexual treatment and training program that Nikuyama mentioned, I came across several articles about doctors who engaged in obscene acts under the guise of treatment...[p]
+It was then that I started to reflect on what had been done to me...[p]
+Suddenly, the fog in my mind cleared and I understood the situation clearly.[p]
+I realized that I had been deceived.[p]
+#Detective
+...[p]
+It must have been a shock, right?[p]
+#Kirishima
+Yes...[p]
+It was a shock, almost as if I had been physically assaulted.[p]
+For a while, I was in a daze...[p]
+questioning...[p]
+why did I believe such lies?[p]
+I couldn't believe my own foolishness.[p]
+It took me a while to accept the truth.[p]
+Finally, anger started to well up inside me when I returned home...[p]
+anger towards Nikuyama...[p]
+I even thought about confronting Nikuyama directly.[p]
+But then I quickly remembered the students...[p]
+I realized that I had been complicit in their humiliation and it shocked me once again.[p]
+I had done something irreversible...[p]
+But that realization actually helped me calm down.[p]
+Since I am the perpetrator, it's not the time for me to be angry for my own sake...[p]
+I made up my mind.[p]
+#Detective
+And then you contacted the police...[p]
+#Kirishima
+Yes...[p]
+I confessed in front of all the students to set things straight.[p]
+I felt a sense of obligation to explain what I had done...[p]
+I felt that I had a duty to do so.[p]
+#Detective
+It was your strong feelings for the students that allowed you to break free from the brainwashing.[p]
+However, you don't need to feel responsible.[p]
+You were the one who was brainwashed.[p]
+#Kirishima
+・・・・・・[p]
+#Detective
+And you were the one who suffered the most in this incident.[p]
+Your emotional wounds must be significant.[p]
+#Kirishima
+No...[p]
+compared to the wounds the students suffered, my emotional wounds are nothing...[p]
+In fact, I...[p]
+#Detective
+Rather...?[p]
+#Kirishima
+...[p]
+No, it's nothing.[p]
 [_tb_end_text]
 
 [stopbgm  time="1000"  fadeout="true"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="music58.mp3"  ]
 [tb_start_text mode=1 ]
-（・・・・・・）[p]
-（私は本当に被害者なのだろうか・・・？）[p]
-（肉山に凌辱された日々・・・それを思い出す時、怒りや屈辱のトラウマが私を襲う）[p]
-（しかしその下に悪魔のような甘い刺激が潜んでいることを否定はできない。自分をだますことはできない。身体が覚えているのだ）[p]
-（肉山に洗脳されていた時の自分は本当の自分ではなかったのか？いや、あれは紛れもなく本当の自分だった）[p]
-（過去のレイプ経験で氷に閉ざされ眠っていた私の本性が洗脳によって表に出てきたのだろう）[p]
-（むしろ過去の自分こそ作られた人格ではなかったか？）[p]
-（男嫌いで仕事一辺倒で正義にこだわっていた自分・・・あれこそがレイプという経験によって形成された人格だったのではないのか）[p]
-（今回の事件が無ければ私は一生性の快感を知らずに生きていたかもしれない。肉山による凌辱はある意味私を救ったといえる）[p]
-（もちろん肉山を許すつもりは無いし二度と抱かれてやるつもりも無い）[p]
-（しかし、肉山によって起こされた本当の自分とは今後の人生しっかりと向き合って生きていきたいと思う）[p]
-（肉の悦びを知る自分とは・・・）[p]
+(・・・・・・[p]
+) (Am I really a victim...?[p]
+The days of being violated by Nikuyama...[p]
+When I remember that, I am attacked by anger and the trauma of humiliation) (But I can't deny the devilish sweet stimulation that lurks beneath.[p]
+I can't deceive myself.[p]
+My body remembers) (Was the me who was brainwashed by Nikuyama not my true self?[p]
+No, that was undoubtedly my true self) (The nature of mine that was sleeping behind the ice due to past rape experiences came to the surface through brainwashing) (Rather, wasn't my past self the one who had formed a personality?[p]
+The one who hated men, focused solely on work, and was obsessed with justice...[p]
+Wasn't that personality formed by the experience of rape?[p]
+) (If it weren't for this incident, I might have lived my whole life without knowing the pleasure of sex.[p]
+)[p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 [_tb_end_text]
 
 [wait  time="1000"  ]
 [call  storage="sr.ks"  target=""  ]
 [tb_start_text mode=1 ]
 #
-エンディングNo.３　『快楽の代償』[p]
+Ending No[v0]3 The Price of Pleasure[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -938,68 +1242,109 @@
 [playbgm  volume="100"  time="1000"  loop="true"  storage="いつものカフェで待ち合わせ_2.mp3"  ]
 [tb_start_text mode=1 ]
 #
-ふぁ～～・・・眠い[p]
-昨日は香織の調教に熱が入りすぎて家に帰るのが深夜になっちまったからな。寝不足だぜ[p]
-しかし今日も朝から暑いな。一時限目は・・・水泳か。男子の裸なんか見たくもないぜまったく・・・[p]
-・・・ん？[p]
-#男子生徒Ａ
-「おい、例の動画見たか？」[p]
-#男子生徒Ｂ
-「見た見た！あれ間違いなく桐嶋先生だよな！」[p]
-#女子生徒Ａ
-「信じられないわ・・・桐嶋先生があんなこと・・・よく似てる他人なんじゃないの？」ヒソヒソ[p]
-#女子生徒Ｂ
-「でも場所もどう見てもこの学園だし・・・ちょっと映ってた男の人ってなんか肉山先生っぽくなかった？」ヒソヒソ[p]
+Phew...[p]
+I'm so tired.[p]
+Yesterday, I got too caught up in training Kaori and ended up going home late at night.[p]
+I'm sleep-deprived, but it's still hot today.[p]
+First period...[p]
+swimming.[p]
+I really don't want to see guys naked at all...[p]
+[p]
+#Male Student A
+Hey, did you watch that video?[p]
+#Male Student B
+I saw it, I saw it![p]
+That's definitely Kirishima-sensei, right?[p]
+#Female Student A
+I can't believe it...[p]
+Kirishima-sensei did that...[p]
+Isn't it someone who looks very similar to her?[p]
+Whisper, whisper.[p]
+#Female Student B
+But the location definitely looks like our school...[p]
+And didn't that man who appeared for a moment look kind of like Mr.[p]
+Nikuyama?[p]
+Whisper, whisper.[p]
 #
-・・・なんだ？なんか生徒たちが騒がしいな。桐嶋がどうとか聞こえた気がするが・・・[p]
-#教頭
-「肉山先生！」[p]
+What's going on?[p]
+The students seem to be making a lot of noise.[p]
+I think I heard something about Kirishima...[p]
+#Vice Principal
+Mr.[p]
+Nikuyama![p]
 [_tb_end_text]
 
 [stopbgm  time="1000"  fadeout="false"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Grease_Slide_Trap.mp3"  ]
 [chara_show  name="教頭"  time="1000"  wait="true"  storage="chara/6/game49-1.png"  width="377"  height="887"  left="448"  top="27"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#肉山
-「あ、教頭。なにかあったんですか？」[p]
-#教頭
-「なにがあったんですかじゃないですよ！えらいことになっているんです！」[p]
-「どうも桐嶋先生が全裸でこの学園の校庭を歩いている映像がネット上に出回っていたらしいんですよ！」[p]
-#肉山
-「えっ・・・！？」[p]
-#教頭
-「すでに元の動画は削除されているらしんですがね・・・。保存した生徒もいるらしくて学園中が今その話題で持ちきりですよ」[p]
-#肉山
-「く・・・」[p]
-（くそっ、いつの間に撮られたんだ！？野外調教はリスクがあると分かってたが・・・何度もやってるうちに気が緩んでたか・・・しまったな）[p]
-#教頭
-「一緒にいた男はハッキリと映っていなくて誰かわからないようですが・・・肉山先生、あなたなんじゃないんですか？」[p]
-#肉山
-「う・・・それは・・・」[p]
-#教頭
-「あなた確か桐嶋先生の心の悩みをカウンセリングしているとか言っていましたよね。露出願望があるとかで・・・」[p]
-#肉山
-「え、ええ・・・まぁそれは・・・」[p]
-#教頭
-「あなたにも責任があるということになりますよ。これが父兄にバレて事が大きくなったりしたら・・・私は知りませんからね！」[p]
-#肉山
-「わ、わかってます・・・それで香織・・・桐嶋先生は？」[p]
-#教頭
-「本人の耳にはまだ入っていないようですが・・・いずれは知ることになるでしょう。私も直接本人に聞くのはなかなか・・・」[p]
-#肉山
-（参ったな・・・はっきり映った動画があるなら問題はこのまま風化ってわけにはいかないだろうな。下手すると香織は懲戒解雇・・・）[p]
-（俺が関わっているってことが分かったら俺まで危ないな・・・。これはなんとかしないと）[p]
-（・・・こうなったらいっそのこと・・・香織を切り捨てるか・・・）[p]
-「わかりました。とりあえず桐嶋先生と話をしてみます」[p]
-「幸い明日は終業式で夏休みが始まります。その間に騒ぎも収まってくれるかもしれません」[p]
-#教頭
-「そう上手くいきますかねぇ・・・なにせ動画が・・・」[p]
-#肉山
-「なに、なんとかなりますよ。桐嶋先生は生徒たちに人気がありますし元々のイメージが良いですからね」[p]
-#教頭
-「なるほど・・・うーむ。まぁとりあえず様子を見ましょう。騒ぎが大きくなったら責任は取ってもらいますからね」[p]
-#肉山
-「わかってますよ」[p]
+#Nikuyama
+Ah, Vice Principal.[p]
+Is something the matter?[p]
+#Vice Principal
+What happened?[p]
+It's become a serious situation![p]
+It seems that there is a video circulating online showing Kirishima-sensei walking around the schoolyard of this school completely naked![p]
+#Nikuyama
+Huh...!?[p]
+#Vice Principal
+It seems that the original video has already been deleted...[p]
+However, it seems that some students have saved it, and the whole school is buzzing with that topic now.[p]
+#Nikuyama
+Damn...[p]
+(When was this taken!?[p]
+I knew there was a risk with outdoor play...[p]
+Maybe I let my guard down after doing it so many times...[p]
+)[p]
+#Vice Principal
+The man who was with her is not clearly visible, so we don't know who it is...[p]
+Nikuyama-sensei, isn't it you?[p]
+#Nikuyama
+Ugh...[p]
+that...[p]
+#Vice Principal
+I remember you saying that you were counseling Kirishima-sensei about her inner troubles.[p]
+Something about having an exhibitionist desire...[p]
+#Nikuyama
+Uh, well...[p]
+that's...[p]
+#Vice Principal
+You will also be held responsible for this.[p]
+If this gets exposed to the parents and becomes a big issue...[p]
+I won't know anything about it, you know![p]
+#Nikuyama
+I-I understand...[p]
+So, what about Kaori...[p]
+Kirishima-sensei?[p]
+#Vice Principal
+It seems that the person herself is still unaware of it...[p]
+but eventually, she will find out.[p]
+It's not easy for me to ask her directly either...[p]
+#Nikuyama
+(Damn...[p]
+If there's a clear video out there, this issue won't just fade away.[p]
+Kaori might even get fired...[p]
+) (If it becomes known that I'm involved, I'll be in danger too...[p]
+I have to do something about this.[p]
+) (...[p]
+In that case, should I just...[p]
+abandon Kaori...[p]
+) Understood.[p]
+For now, I'll talk to Kirishima-sensei.[p]
+Luckily, tomorrow is the closing ceremony and summer vacation begins.[p]
+[p]
+#Vice Principal
+I wonder if things will go smoothly...[p]
+After all, there's a video...[p]
+#Nikuyama
+Don't worry, I'll figure something out.[p]
+Kirishima-sensei is popular among the students and has a good image to begin with.[p]
+#Vice Principal
+I see...[p]
+Well, for now, let's observe the situation.[p]
+If the commotion becomes bigger, you will be held responsible, you know.[p]
+#Nikuyama
+I understand.[p]
 
 
 
@@ -1008,15 +1353,24 @@
 [chara_hide_all  time="1000"  wait="true"  ]
 [tb_start_text mode=1 ]
 #
-（くそっ、面倒なことになったな・・・）[p]
-（とりあえず俺自身の身を守らないといけないからな。香織本人に動画の男は俺以外の人間だったと説明させて・・・）[p]
-（その結果香織が解雇になってもそれは仕方がないだろう。学園内で性処理させられなくなるのは惜しいが・・・諦めるしかないな）[p]
-（洗脳が完全に効いてるから香織を言いくるめるのは簡単だが、どうやって説明の場を設けるか・・・）[p]
-（ん・・・？明日は終業式か・・・それならいっそのこと・・・）[p]
-（・・・そうだ・・・こうなったら・・・香織に究極の恥辱を味わわせてやるか・・・！）[p]
-（くくく・・・面白くなってきたぞ・・・ウヒヒヒヒ！）[p]
-・・・・・・[p]
-・・・[p]
+(Damn, this has become troublesome...[p]
+) (For now, I have to protect myself.[p]
+I need to make sure Kaori believes that the man in the video is someone other than me...[p]
+) (If as a result Kaori gets fired, well, there's no helping it.[p]
+It's a shame she won't be used for sexual favors at the school anymore...[p]
+but I have to give up on that.[p]
+) (Since she's completely brainwashed, it's easy to manipulate Kaori, but how can I create a situation for an explanation...[p]
+) (Hmm...?[p]
+Tomorrow is the closing ceremony...[p]
+In that case, maybe...[p]
+) (...[p]
+That's right...[p]
+If it comes to this...[p]
+I'll make Kaori experience the ultimate humiliation...![p]
+) (Hehehe...[p]
+It's getting interesting...[p]
+Uhihihihi![p]
+) ...[p]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -1028,44 +1382,57 @@
 [wait  time="1000"  ]
 [tb_ptext_hide  time="1000"  ]
 [tb_start_text mode=1 ]
-#校長
-「えー・・・夏休みというのは非常に誘惑の多い時期でありまして、みなさんには当学園の生徒であるという自覚をもって悪い誘いには乗らないように、節度のある休暇の過ごし方をしていただきたいと思います」[p]
-「近年犯罪の低年齢化が顕著であり、特に長期休暇においてはーーー」[p]
-#肉山
-（はぁ～・・・いつもながら校長の話は長くてくだらないな。聞いてる生徒は一人もいねえぞ）[p]
-（ククク、しかしそんな退屈そうな顔してられるのも今のうちだぜ・・・俺が特大級の爆弾を用意してやったからな）[p]
-（生徒たちがどんな顔をするか・・・楽しみだぜ、クククク）[p]
+#Principal
+Um...[p]
+The summer vacation is a time of great temptation, and I hope that all of you, as students of this school, will be aware of that and refrain from engaging in bad influences.[p]
+Please spend your vacation in a responsible and moderate manner.[p]
+In recent years, there has been a noticeable increase in crimes committed by young people, especially during long vacations...[p]
+#Nikuyama
+(Sigh...[p]
+The principal's speeches are always long and boring.[p]
+Not a single student is listening.[p]
+) (Hehehe, but it's only a matter of time before they regret not paying attention...[p]
+I've prepared a massive bomb for them.[p]
+Hehehehe)[p]
 #
-・・・・・・[p]
-・・・[p]
-#校長
-「えー・・・それではみなさん９月にまた元気な姿で会えることを楽しみにしています。以上」[p]
+・・・・・・・・・[p]
+#Principal
+Um...[p]
+Well then, I look forward to seeing everyone in September in good spirits.[p]
+That's all.[p]
 
 [_tb_end_text]
 
 [chara_show  name="教頭"  time="1000"  wait="true"  storage="chara/6/game49-1.png"  width="328"  height="772"  left="468"  top="37"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#教頭
-「えー校長ありがとうございました。校長もおっしゃったとおり皆さんくれぐれも問題を起こさないように」[p]
-「それではこれで・・・」[p]
-#香織
-「あの・・・ちょっと待ってください」[p]
+#Vice Principal
+Um, thank you very much, Principal.[p]
+As the Principal mentioned, please make sure not to cause any trouble.[p]
+Well then, that's all for now...[p]
+#Kaori
+Um...[p]
+please wait a moment.[p]
 [_tb_end_text]
 
 [chara_show  name="桐嶋"  time="1000"  wait="true"  storage="chara/1/game23.png"  width="344"  height="810"  left="32"  top="12"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#教頭
-「えっ、ど、どうしたんですか桐嶋先生・・・？」[p]
-#香織
-「その・・・す、少し話をさせてもらっていいですか・・・？」[p]
-#教頭
-「話・・・？な、なにを話すつもりですか？」[p]
-#香織
-「え・・・伝達事項を少し・・・」[p]
-#教頭
-「伝達事項ですか・・・わかりました。手短にお願いしますよ」[p]
-#香織
-「はい、すいません」[p]
+#Vice Principal
+Huh, w-what's wrong, Kirishima-sensei...?[p]
+#Kaori
+Um...[p]
+C-Can I talk to you for a moment...?[p]
+#Vice Principal
+Talk...?[p]
+W-What do you intend to talk about?[p]
+#Kaori
+Um...[p]
+I have a little something to convey...[p]
+#Vice Principal
+Is it a matter to convey...?[p]
+Understood.[p]
+Please keep it brief.[p]
+#Kaori
+Yes, I'm sorry.[p]
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
@@ -1074,33 +1441,51 @@
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Grease_Slide_Trap.mp3"  ]
 [chara_show  name="桐嶋"  time="1000"  wait="true"  storage="chara/1/game273-2.png"  width="662"  height="1059"  left="169"  top="-101"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#香織
-「えー・・・私の方から少しお話があります」[p]
-「えー・・・皆さんの間で私によく似た女性が夜中に当学園の校庭を全裸で徘徊している動画が出回っていると聞きました」[p]
-「そ・・・それは間違いなく私です」[p]
-#全校生徒
-「えっ・・・！？」ザワザワザワッ[p]
-#教頭
-「ちょ、ちょっと桐嶋先生！な、なにを・・・！？」[p]
-#香織
-「動画は確認していませんが、わたしが夜中に校庭を全裸でうろついていたことは事実です」[p]
-「一緒にいた男性は名前は明かせませんが当学園とは関係のない人物です」[p]
-「私は・・・露出癖という歪んだ性癖があり・・・裸や恥ずかしい姿を他人に見られたいという変態的な欲求が抑えきれない時があります」[p]
-「こんなノーブラミニスカのエッチな格好をしているのも皆さんに恥ずかしい格好を見て欲しいからです」[p]
-#全校生徒
-「き、桐嶋先生・・・？」[p]
-「か、香織先生が・・・露出狂・・・！？」ザワザワザワッ[p]
-#教頭
-「こ、これは・・・？肉山先生！？」[p]
-#肉山
-「いや、私は知りませんよ。彼女が勝手に・・・もう少し聞いてみましょう」[p]
-（ククク、今止められたら困るからな。面白くなるのはこれからだぜ！）[p]
-#香織
-「動画の男性・・・ご主人様は私のそんな変態的な性癖に付き合ってくださっている方で・・・よく裸の私に首輪を着けて犬の様に散歩してもらっています」[p]
-「学園内を全裸で引き回されたときは・・・とても興奮しました。これが昼間だったら・・・生徒のみんなに私のこんな姿を見られたら・・・と思うとオマンコがビチョビチョになりました」[p]
-「今まで騙していてごめんなさい・・・本当の私を見てください・・・っ！」[p]
-#全校生徒
-「えっ・・・うわぁっ！？」[p]
+#Kaori
+Um...[p]
+I have something to talk about.[p]
+Um...[p]
+I heard that there is a video circulating among everyone where a woman who looks very similar to me is wandering around the schoolyard naked at night.[p]
+Th-that is definitely me.[p]
+#All students
+Huh...!?[p]
+Murmurs and whispers.[p]
+#Vice Principal
+W-Wait, Kirishima-sensei![p]
+W-What is...!?[p]
+#Kaori
+I haven't seen the video, but it is true that I was wandering around the schoolyard naked at night.[p]
+The man who was with me cannot be named, but he is not affiliated with this school.[p]
+I...[p]
+have a twisted sexual desire called exhibitionism...[p]
+There are times when I can't control my perverted urge to be seen by others in a naked or embarrassing state.[p]
+That's why I dress in this sexy outfit with no bra and a mini skirt, because I want everyone to see me in embarrassing clothes.[p]
+#All students
+K-Kirishima-sensei...?[p]
+I-Is Kaori-sensei...[p]
+an exhibitionist...!?[p]
+Buzzing and murmuring.[p]
+#Vice Principal
+W-What is this...?[p]
+Nikuyama-sensei!?[p]
+#Nikuyama
+No, I don't know.[p]
+She did it on her own...[p]
+Let's hear a little more (Hehehe, if I stop now, it'll be troublesome.[p]
+)[p]
+#Kaori
+The man in the video...[p]
+my partner is someone who indulges in my perverted sexual desires...[p]
+He often puts a collar on me when I'm naked and takes me for walks like a dog around the school grounds.[p]
+When I was dragged around completely naked, I got really excited.[p]
+If this happened during the day...[p]
+if all the students saw me like this...[p]
+my pussy would get soaking wet.[p]
+I'm sorry for deceiving everyone until now...[p]
+Please look at the real me...![p]
+#All students
+Huh...!?[p]
+Oh my...!?[p]
 [_tb_end_text]
 
 [stopbgm  time="1000"  ]
@@ -1109,12 +1494,21 @@
 [playbgm  volume="100"  time="1000"  loop="true"  storage="烈火翔ける.mp3"  ]
 [chara_mod  name="桐嶋"  time="600"  cross="false"  storage="chara/1/game273-4.png"  ]
 [tb_start_text mode=1 ]
-#香織
-「み、みなさん・・・これが本当の私です・・・っ！」[p]
-「私・・・桐嶋香織は、ドスケベで・・・露出狂の変態で・・・おチンポ大好きな女です・・っ！」[p]
-「そ、それだけじゃありません・・・私はマゾの変態で・・・いつもご主人様に家畜として調教していただいています」[p]
-「浣腸されたり、お尻を叩かれたりするのが大好きです・・・。ご主人様のアナルも舐めますし・・・おしっこも喜んで飲ませていただきます」[p]
-「男子生徒のみんな・・・私はご主人様の肉便器です。ごめんなさい・・・よかったらわたしをオナペットに―――」[p]
+#Kaori
+E-everyone...[p]
+this is the real me...![p]
+I...[p]
+Kaori Kirishima, am a perverted exhibitionist...[p]
+and a woman who loves cocks...![p]
+B-but that's not all...[p]
+I'm also a masochistic pervert...[p]
+I'm always being trained as a pet by my master...[p]
+I love being given enemas and spanked on my butt...[p]
+I also lick my master's anus...[p]
+and happily drink their pee...[p]
+Boys, I am my master's flesh toilet.[p]
+I'm sorry...[p]
+if you want, I can be your masturbation pet...[p]
 
 
 [_tb_end_text]
@@ -1123,18 +1517,20 @@
 [bg  time="1000"  method="crossfade"  storage="game104.jpg"  ]
 [chara_show  name="教頭"  time="1000"  wait="true"  storage="chara/6/game49-2.png"  width="402"  height="946"  left="450"  top="7"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#教頭
-「・・・ハッ！？」[p]
-「ちょ、ちょっと！皆さん早く桐嶋先生を止めてください！」[p]
-#教師たち
-「えっ・・・は、はい！」[p]
-#生徒たち
-「アワワ・・・」[p]
-「な、なにこれ・・・」[p]
-「桐嶋先生・・・」[p]
+#Vice Principal
+...[p]
+Huh!?[p]
+W-Wait a minute![p]
+Everyone, please stop Kirishima-sensei quickly![p]
+#Teachers
+Huh...[p]
+Yes![p]
+#Students
+Ahh...[p]
+W-What is this...[p]
+Kirishima-sensei...[p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -1144,287 +1540,467 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="music58.mp3"  ]
 [tb_start_text mode=1 ]
-#教頭
-「ああ・・いったいなんてことを・・・」[p]
-#男性教師
-「しかし驚いたなぁ・・・あの桐嶋先生がなんで・・・？」[p]
-#肉山
-「ああいう完璧に見える人こそストレスが溜まりやすいんですよ。抑えつけていたストレスが極限に達してあのような行動に走ってしまったんでしょう」[p]
-#男性教師
-「なるほど。・・・いや、それにしてもねぇ・・・」[p]
-#教頭
-「とりあえず今は騒いでる生徒たちをなんとかしないと。外部にこのことが漏れないように緘口令を敷いて・・・」[p]
-#肉山
-「とりあえず、私は桐嶋先生を家まで送ってきます」[p]
-#教頭
-「ええ・・・そうですね。頼みましたよ」[p]
+#Vice Principal
+Ah...[p]
+What on earth is happening...[p]
+#Male teacher
+But I'm surprised...[p]
+Why did Kirishima-sensei...?[p]
+#Nikuyama
+People who appear perfect like that are the ones who tend to accumulate stress.[p]
+It seems that the stress they had been suppressing reached its limit and led them to behave like that.[p]
+#Male teacher
+I see...[p]
+Well, even so...[p]
+#Vice Principal
+For now, we need to do something about the students who are causing a commotion.[p]
+We should impose a gag order to ensure that this matter doesn't leak outside.[p]
+#Nikuyama
+For now, I will take Kirishima-sensei home.[p]
+#Vice Principal
+Yes...[p]
+I see.[p]
+I'll leave it to you.[p]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
 [bg  time="1000"  method="crossfade"  storage="game103.jpg"  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
-#肉山
-「ええ・・・今は落ち着いていますが・・・はい、わかりました。では私は学園には戻らずにこのまま帰宅しますね」[p]
-ガチャッ[p]
-「ククク、学園は大騒ぎだったみたいだな。後始末が大変そうだぜ」[p]
-「伝説に残るだろうな。マスコミが嗅ぎ付けたらえらいことだぜ。『美人教師突然の乱心！？全裸で変態性癖を告白！！』ってな、グハハハハ」[p]
+#Nikuyama
+Well...[p]
+things have calmed down now...[p]
+Yes, understood.[p]
+In that case, I will go home instead of returning to the school.[p]
+Hahaha, it seems like the school was in chaos.[p]
+It looks like it will be quite a mess to clean up.[p]
+It will surely become a legendary incident.[p]
+If the media catches wind of it, it will be a big problem.[p]
+They might write something like Beautiful Teacher's Sudden Madness!?[p]
+Hahaha[p]
 [_tb_end_text]
 
 [chara_show  name="桐嶋"  time="1000"  wait="true"  storage="chara/1/game51.png"  width="413"  height="973"  left="400"  top="6"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#香織
-「く・・・最低ね・・・！あんなことをさせておいて・・・」[p]
-「もう学園には戻れないわ・・・みんなに変態だと思われてしまった・・・うぅ・・・」[p]
-#肉山
-「結構ノリノリでやってたじゃないか。途中から本音でやってるんじゃないかと思ったぞ」[p]
-#香織
-「そんなわけないでしょう！あなたの命令で・・・最終試練だというからやったのよ！」[p]
-#肉山
-「ククク、そうだったな。しかしまさか本当にやるとはな。絶対に無理だと思ってたぜ」[p]
-#香織
-「あなたの支配から逃れるためならなんだってやるわ・・・！一生あなたの奴隷で生きていくなら死んだ方がマシよ！」[p]
-#肉山
-「なんとまぁ、嫌われたものだねぇ」[p]
-#香織
-「それで・・・最終試練をクリアしたんだから私はこれで自由よね？そうはっきりと約束したはずよ」[p]
-#肉山
-「ああ・・・確かに約束したな」[p]
-#香織
-「それじゃあ・・・私は自由になったのね・・・？これでもうあなたの命令に従う必要はないのね・・・！？」[p]
-#肉山
-「ククク・・・」[p]
-#香織
-「・・・？」[p]
-#肉山
-「プププ・・・ブッ！・・・ブハハハハハハ！」[p]
-#香織
-「な・・・なに？何を笑ってるの・・・？」[p]
-#肉山
-「クククク・・・いや失礼。さすがに・・・お前が哀れに思えてきてな・・・フフフ」[p]
-#香織
-「ど、どういう意味・・・？」[p]
-#肉山
-「ふふ・・・お前が俺の言いなりになってきたそもそもの原因である淫乱症ってやつだがな」[p]
-#香織
-「そ、それがなんなの・・・？」[p]
-#肉山
-「ププッ・・・あれはな、ウソだ」[p]
-#香織
-「・・・・・・」[p]
-「・・・・・・は？」[p]
-#肉山
-「いや、いわゆる異常性欲になる病気は実際に存在するよ。だが、お前は別にそんな異常はない。俺の診断は完全なデタラメだ」[p]
-#香織
-「な、なにをバカなことを・・・そんなはずないでしょう・・・」[p]
-#肉山
-「今更信じたくないのは解るがな。完全な嘘だ。お前を陥れるために嘘をついたのさ」[p]
-#香織
-「そっ・・・そんなはずはないわ・・・騙そうったってそうはいかないわ・・・！」[p]
-「た・・・たしかに私は淫乱症よ！だって・・・実際に異常な性欲が・・・」[p]
-#肉山
-「確かにお前はかなりドスケベだったよ。嘘から出たまことってやつかな。だが、異常ってほどではないぜ。常識の範囲内でちょっとスケベな女って程度だ」[p]
-#香織
-「そ、そんなわけないでしょう・・・！だって教育委員会が・・・」[p]
-#肉山
-「全部お前をだますためのデタラメさ。そもそも仮にお前が本物の異常性欲症だったとしても、それを理由に行動を制限したり治療を強制したりする法律なんて無いからな」[p]
-#香織
-「えっ・・・！？だ、だって異常性欲の人間は・・・矯正施設に閉じこめられて・・・」[p]
-#肉山
-「そんなもんあるわけないだろ。そんな人権を無視した施設の存在、今まで聞いたことあるか？この令和の時代によ、クククッ」[p]
+#Kaori
+Ugh...[p]
+How despicable...![p]
+To make me do something like that...[p]
+I can't go back to the school anymore...[p]
+Everyone must think I'm a pervert...[p]
+Ugh...[p]
+#Nikuyama
+You were really getting into it, weren't you?[p]
+I thought you were speaking your true feelings halfway through.[p]
+#Kaori
+That can't be true![p]
+I did it because you ordered me to...[p]
+You said it was the final trial![p]
+#Nikuyama
+Hehehe, that's right.[p]
+But I never thought you would actually do it.[p]
+I thought it was impossible for sure.[p]
+#Kaori
+I'll do anything to escape from your control...![p]
+It would be better to die than to live as your slave for the rest of my life![p]
+#Nikuyama
+My, how disliked I am.[p]
+#Kaori
+So...[p]
+since I cleared the final trial, I am free now, right?[p]
+You clearly promised me that.[p]
+#Nikuyama
+Ah...[p]
+I did promise, indeed.[p]
+#Kaori
+So...[p]
+I am free now, right?[p]
+I don't have to obey your orders anymore, right?![p]
+#Nikuyama
+Hehehe...[p]
+#Kaori
+？[p]
+#Nikuyama
+*chuckles* ...[p]
+Buhahaha![p]
+#Kaori
+W-What?[p]
+What are you laughing at...?[p]
+#Nikuyama
+Kukukuku...[p]
+No, excuse me.[p]
+I must say...[p]
+I'm starting to feel sorry for you...[p]
+Fufufu.[p]
+#Kaori
+W-What do you mean...?[p]
+#Nikuyama
+Hehe...[p]
+The root cause of you becoming obedient to me is your nymphomania.[p]
+#Kaori
+W-What is that supposed to mean...?[p]
+#Nikuyama
+Hehehe...[p]
+That was a lie.[p]
+#Kaori
+...[p]
+Huh?[p]
+#Nikuyama
+Well, there is actually a disease called abnormal sexual desire.[p]
+But you don't have any such abnormality.[p]
+My diagnosis was completely made up.[p]
+#Kaori
+W-What are you saying...?[p]
+That can't be true...[p]
+#Nikuyama
+I understand that you don't want to believe it now.[p]
+It's a complete lie.[p]
+I lied to trap you.[p]
+#Kaori
+Th-That...[p]
+that can't be true...[p]
+Even if you try to deceive me, it won't work...![p]
+I-I admit it, I have nymphomania![p]
+Because...[p]
+I actually have abnormal sexual desires...[p]
+#Nikuyama
+Indeed, you were quite perverted.[p]
+I guess there's some truth in the saying truth comes from lies.[p]
+However, it's not to the extent of being abnormal.[p]
+You're just a little naughty within the bounds of common sense, that's all.[p]
+#Kaori
+T-That can't be true...![p]
+Because the Board of Education...[p]
+#Nikuyama
+It was all nonsense to deceive you.[p]
+Besides, even if you were actually suffering from abnormal sexual desire, there is no law that restricts your actions or forces you to undergo treatment based on that.[p]
+#Kaori
+Eh...!?[p]
+B-But people with abnormal sexual desires...[p]
+they get locked up in correctional facilities...[p]
+#Nikuyama
+There's no way something like that exists.[p]
+Have you ever heard of a facility that disregards human rights?[p]
+In this Reiwa era, hehehe...[p]
 [_tb_end_text]
 
 [chara_mod  name="桐嶋"  time="600"  cross="false"  storage="chara/1/game52.png"  ]
 [tb_start_text mode=1 ]
-#香織
-「う、うそ・・・それじゃあの検査は・・・？フェラチオ検査とか・・・あの変な器具とか・・・陰毛チェックとか・・・尿を・・・飲むとか・・・」[p]
-#肉山
-「プハハハハ、全部デタラメだよ。お前にセクハラして楽しむためのな。常識で考えろよ、小便を飲ませる検査なんてあるわけがないだろう」[p]
-#香織
-「そ、そんな・・・っ・・・そ、それじゃ・・・せ、セックス治療は・・・調教プログラム・・・は・・・？」[p]
-#肉山
-「お前を性処理用の奴隷にするためのウソさ。お前は自分では気づいてなかったかもしれないが、この数週間お前は俺の性奴隷になっていたんだぜ」[p]
-#香織
-「そ、そんな・・・！？わ、わたしは・・・」[p]
-#肉山
-「よくよく思い返してみろよ。俺の言うことはかなり荒唐無稽だったぜ。子供でも信じないようなウソだ。お前は全部信じたがな、プヒャヒャヒャヒャ！」[p]
-#香織
-「え・・・あ・・・あぁ・・・！？な、なんで・・・なんで私・・・あんなこと・・・！？」[p]
-「な、なんで私・・・あんなことを信じてたの・・・！？な、なんで・・・」[p]
-#肉山
-「それはな、お前がバカだからだよ。お前は自分で自分のことを賢いと思っているようだが、実際には子供だましのウソも信じてしまうほどのバカなのさ、ウヒヒヒヒ」[p]
-#香織
-「そ、そんな・・・そんなこと・・・あぁ・・・ハァッ・・・ハァッ・・・」[p]
-#肉山
-「自分の馬鹿さ加減に絶望したか？お前は全く従う必要のない命令に従い続けていたんだよ」[p]
-「俺様の性欲を満たすためにな。毎日そんな必要もないのに頑張ってチンポに奉仕し精液を飲み、尿を飲み、土下座したり全裸で犬の様に連れまわされたり、中出しセックスを受け入れたりしていたんだよ」[p]
-#香織
-「ハァッ・・・あ・・・あぁ・・・ハァッ・・・ハァッ・・・」[p]
-#肉山
-「ああ、淫乱症だから妊娠しにくいってのも当然ウソだぜ。結構中に出したからな、もうすでに孕んじまってるかもな、ウハハハハハ！」[p]
-#香織
-「・・・・・・ハァッ・・・」[p]
-「・・・・・・・・・」[p]
-#肉山
-「どうした？あまりのショックに言葉も出なくなっちまったか？ククククク」[p]
-#香織
-「・・・・・・」[p]
+#Kaori
+N-No...[p]
+Then what about that examination...?[p]
+The fellatio examination...[p]
+and those strange instruments...[p]
+the pubic hair check...[p]
+drinking urine...[p]
+#Nikuyama
+Puhahaha, it's all nonsense.[p]
+It was just to enjoy sexually harassing you.[p]
+Use common sense, there's no way there would be a test where you have to drink urine.[p]
+#Kaori
+Th-That...[p]
+th-then...[p]
+s-sexual treatment...[p]
+training program...?[p]
+#Nikuyama
+It was a lie to turn you into a sexual slave.[p]
+You might not have realized it, but for the past few weeks, you've been my sex slave.[p]
+#Kaori
+Th-That...!?[p]
+I-I...[p]
+#Nikuyama
+Think back carefully.[p]
+What I said was completely absurd.[p]
+It was a lie that even a child wouldn't believe.[p]
+But you believed it all, hahaha![p]
+#Kaori
+E...[p]
+A...[p]
+Ahh...!?[p]
+W-Why...[p]
+Why did I...[p]
+do such things!?[p]
+W-Why did I...[p]
+believe those things!?[p]
+W-Why...[p]
+#Nikuyama
+Well, that's because you're an idiot.[p]
+You may think you're smart, but in reality, you're dumb enough to believe even the most obvious lies, like a gullible child.[p]
+Uhuhuhu.[p]
+#Kaori
+T-That...[p]
+That kind of thing...[p]
+*panting* *panting*[p]
+#Nikuyama
+Have you despaired at your own stupidity?[p]
+You've been following orders that you didn't need to follow at all, just to satisfy my sexual desires.[p]
+Every day, you've been working hard to serve my cock, drinking semen and urine, kneeling down and being paraded around like a dog while naked, and even accepting creampie sex.[p]
+#Kaori
+*panting* ...[p]
+Ah...[p]
+*panting* *panting*[p]
+#Nikuyama
+Ah, it's also obvious that the claim about being less likely to get pregnant due to nymphomania is a lie.[p]
+I've ejaculated inside you quite a few times, so you might already be pregnant, uhahahaha![p]
+#Kaori
+*panting*...[p]
+#Nikuyama
+What's wrong?[p]
+Are you so shocked that you can't even speak?[p]
+Kukukukuku.[p]
+#Kaori
+・・・・・・[p]
 [_tb_end_text]
 
 [chara_mod  name="桐嶋"  time="600"  cross="false"  storage="chara/1/game51.png"  ]
 [tb_start_text mode=1 ]
-#香織
-「・・・・・・く・・・ゆ、許さない・・・」[p]
-#肉山
-「ん？」[p]
-#香織
-「ゆ、許さない・・・！絶対に許さないわ・・・！絶対に・・・絶対に復讐してやる・・・！」[p]
-#肉山
-「おーおー怖い怖い。怒りで自分を取り戻したか。さすがは気の強い女だぜ」[p]
-#香織
-「く・・・許さないわ・・・私の人生を無茶苦茶にして・・・絶対に許さない・・・！」[p]
-#肉山
-「ククク、許さないってどうするつもりだ？え？」[p]
-#香織
-「警察に訴えてやるわ！あなたのやったことは犯罪よ！刑務所に入れてやる・・・！」[p]
-#肉山
-「ほぉ、警察にねぇ。罪状はなんだ？」[p]
-#香織
-「そ、そんなの・・・詐欺罪に・・・強姦罪よ！」[p]
-#肉山
-「強姦？俺がやったことはすべて合意の上の行為だぜ。お前自身が納得して受け入れたはずだ」[p]
+#Kaori
+...[p]
+I...[p]
+I won't forgive you...[p]
+#Nikuyama
+Hm?[p]
+#Kaori
+I-I won't forgive you...![p]
+I will never forgive you...![p]
+Absolutely...[p]
+I will absolutely get my revenge...![p]
+#Nikuyama
+Oh, oh, scary, scary.[p]
+Have you regained yourself with anger?[p]
+As expected of a strong-willed woman.[p]
+#Kaori
+I...[p]
+I won't forgive you...[p]
+You've ruined my life...[p]
+I will never forgive you...![p]
+#Nikuyama
+Kukuku, what do you plan to do about not forgiving me?[p]
+Huh?[p]
+#Kaori
+I'll report you to the police![p]
+What you've done is a crime![p]
+I'll make sure you go to prison...![p]
+#Nikuyama
+Oh, the police, huh?[p]
+What crime are you accusing me of?[p]
+#Kaori
+Th-that's...[p]
+fraud...[p]
+and rape![p]
+#Nikuyama
+Rape?[p]
+Everything I did was consensual.[p]
+You should have accepted it yourself.[p]
 [_tb_end_text]
 
 [tb_image_show  time="1000"  storage="default/game200.png"  width="295"  height="262"  x="478"  y="251"  _clickable_img=""  name="img_193"  ]
 [tb_image_hide  time="1000"  ]
 [tb_start_text mode=1 ]
-#香織
-「なっ・・・そ、それはあなたのウソを信じていたからでしょう！明らかな詐欺行為よ！」[p]
-#肉山
-「俺は確かにウソをついたがはたしてまともな大人が信じるような巧妙な嘘かね？ほとんどジョークのようなものじゃないか？」[p]
-#香織
-「そ、そんなこと・・・私は信じたわ・・・！そこが問題よ！」[p]
-#肉山
-「もし裁判になったら俺はこう主張するね。二人は同意の上の肉体関係で、仲がこじれたから腹いせに作り話で被害を訴えた、とね」[p]
-#香織
-「そ、そんな話・・・誰が・・・！」[p]
-#肉山
-「そもそも合意の上のプレイだったことを証明する証拠は山ほどあるからな。お前がチンポをおねだりしている動画とかな。クククク」[p]
-#香織
-「なっ・・・！？そ、それはあなたに強制されて撮られたものじゃない・・・！私は逆らえない状況にあって・・・」[p]
-#肉山
-「その逆らえない根拠が無いからな。荒唐無稽なジョークを信じたなんて通用すると思うか？同意の上のプレイだったという主張の方が断然信ぴょう性が高いだろう」[p]
+#Kaori
+Ngh...[p]
+Th-that's because I believed your lies![p]
+It's clearly an act of fraud![p]
+#Nikuyama
+It's true that I lied, but is it really a clever lie that a sensible adult would believe?[p]
+Isn't it more like a joke?[p]
+#Kaori
+T-That's...[p]
+I believed in you...![p]
+That's the problem![p]
+#Nikuyama
+If it comes to a trial, this is how I would argue.[p]
+We had a consensual physical relationship, but things soured between us, so they fabricated a story out of spite and accused me of wrongdoing.[p]
+#Kaori
+S-So, such a story...[p]
+Who...![p]
+#Nikuyama
+There's plenty of evidence to prove that it was consensual play from the start.[p]
+Like videos of you begging for my cock.[p]
+Kukukuku.[p]
+#Kaori
+Ngh...![p]
+Th-that...[p]
+those were not taken against my will...![p]
+I was in a situation where I couldn't resist...[p]
+#Nikuyama
+There is no evidence to contradict that.[p]
+Do you really think that believing in such an absurd joke would hold up?[p]
+The claim that it was consensual play is much more credible.[p]
 
 [_tb_end_text]
 
 [tb_image_show  time="1000"  storage="default/game200.png"  width="340"  height="302"  x="441"  y="220"  _clickable_img=""  name="img_196"  ]
 [tb_image_hide  time="1000"  ]
 [tb_start_text mode=1 ]
-#香織
-「そ、そんな・・・はずは・・・」[p]
-#肉山
-「俺はお前に怪我は一切負わせていない。全てお前が自分の意志で応じた行為だ。それに俺はお前から１円も取ってないしな。それで詐欺や強制わいせつが成立するかな？」[p]
-#香織
-「うっ・・・で、でも私はあなたに精神的苦痛を・・・」[p]
-#肉山
-「お前が気持ちよさそうにセックスを楽しんでいる動画も山ほどあるぜ。はたしてあれがレイプされているように見えるかな？ムヒヒヒ」[p]
-#香織
-「そ、そんな・・・あれは・・・仕方がなく・・・っ」[p]
-#肉山
-「おまけにお前は今日全校生徒の前で素っ裸になって変態性癖を告白しているからな。お前の精神が錯乱していることを裏付けてくれる証人は大量にいるぜ」[p]
-#香織
-「そ、それもあなたの命令で・・・ハッ・・・！？まさか・・・わ、わざとやらせたのね！罠にはめたのね・・・！？」[p]
-#肉山
-「プハハハハ！そんなつもりは無かったがな！単に面白いショーが見たかっただけだぜ。プクククッ、まったく最高に面白かったよあれは」[p]
-#香織
-「く・・・あ、あなたって人は・・・本当に最低の人間ね！！」[p]
-#肉山
-「おいおいご主人様に向かって暴言を吐くなんて、奴隷の心得を忘れたのか？」[p]
-#香織
-「だ、誰がご主人様よ！私はもう奴隷なんかじゃ・・・」[p]
-#肉山
-「そう言いながらさっきからずっと直立不動じゃないか。心の中では自分が奴隷だと理解しているんじゃないのか？」[p]
-#香織
-「なっ・・・！？こ、これは・・・っ」[p]
-#肉山
-「おっと、動くなよ。勝手に動いたらお仕置きだぞ」[p]
-#香織
-「お、お仕置き・・・！？あ、あなたにそんな権利は・・・」[p]
-#肉山
-「無いと思うのか？そう思うなら動けるはずじゃないか」[p]
-#香織
-「い、いくらでも動いて・・・っ・・・う・・・！？」[p]
+#Kaori
+Th-there's no way...[p]
+#Nikuyama
+I haven't caused you any harm.[p]
+All of the actions were willingly agreed upon by you.[p]
+Besides, I haven't taken a single yen from you.[p]
+So, can fraud or forced indecency be established?[p]
+#Kaori
+Ugh...[p]
+But I have suffered emotional pain because of you...[p]
+#Nikuyama
+There are plenty of videos of you enjoying sex and looking pleasured.[p]
+Muhuhu[p]
+#Kaori
+T-That...[p]
+That was...[p]
+I had no choice...[p]
+#Nikuyama
+Moreover, you stripped naked in front of the entire school today and confessed your perverted sexual tendencies.[p]
+There are plenty of witnesses who can confirm that your mind is disturbed.[p]
+#Kaori
+Th-That was also your command...[p]
+Hah...!?[p]
+Could it be...[p]
+you intentionally made me do it![p]
+You set a trap, didn't you...!?[p]
+#Nikuyama
+Puhahaha![p]
+I didn't intend for that, but I just wanted to see an entertaining show.[p]
+Pukukuku, it was truly hilarious.[p]
+#Kaori
+You...[p]
+You're truly the worst kind of person!![p]
+#Nikuyama
+Hey hey, have you forgotten the rules of being a slave?[p]
+How dare you speak rudely to your master?[p]
+#Kaori
+W-Who's your master?![p]
+I'm not a slave anymore...[p]
+#Nikuyama
+You've been standing still this whole time while saying that.[p]
+Don't you understand deep down that you're still a slave?[p]
+#Kaori
+Ngh...!?[p]
+Th-This is...![p]
+#Nikuyama
+Oh, don't move.[p]
+If you move without permission, there will be punishment.[p]
+#Kaori
+P-Punishment...!?[p]
+Y-You don't have the right to...[p]
+#Nikuyama
+Don't you think I have it?[p]
+If you think so, then you should be able to move.[p]
+#Kaori
+I-I can move as much as I want...[p]
+Ah...!?[p]
 [_tb_end_text]
 
 [quake  time="300"  count="3"  hmax="2"  wait="true"  vmax="1"  ]
 [chara_mod  name="桐嶋"  time="600"  cross="true"  storage="chara/1/game52.png"  ]
 [tb_start_text mode=1 ]
-#香織
-「・・・っ・・・くっ・・・ハァッ・・・え・・・？」[p]
-「う・・・ど、どうして・・・！？どうなってるの・・・！？」[p]
-#肉山
-「どうした？動かないのか？」[p]
-#香織
-「くっ・・・ハァッ！・・・な・・・わ、私に何をしたの・・・っ！？」[p]
-#肉山
-「別に何もしてないぜ。動けないのはお前が心の中では俺に従いたいと思ってるからだ」[p]
+#Kaori
+...[p]
+t...[p]
+ku...[p]
+haa...[p]
+eh...?[p]
+U...[p]
+why...!?[p]
+What's happening...!?[p]
+#Nikuyama
+What's wrong?[p]
+Can't you move?[p]
+#Kaori
+Kuh...[p]
+Haa!...[p]
+Na...[p]
+Wa, what did you do to me...!?[p]
+#Nikuyama
+I haven't done anything.[p]
+The reason you can't move is because deep down in your heart, you want to obey me.[p]
 [_tb_end_text]
 
 [tb_image_show  time="700"  storage="default/game200.png"  width="321"  height="285"  x="451"  y="245"  _clickable_img=""  name="img_201"  ]
 [tb_image_hide  time="700"  ]
 [chara_mod  name="桐嶋"  time="600"  cross="true"  storage="chara/1/game51.png"  ]
 [tb_start_text mode=1 ]
-#香織
-「そ、そんなわけないでしょう！誰があなたなんかに・・・！殺してやりたいほど憎んでるのよっ！」[p]
-#肉山
-「殺してやりたいほど憎んでるからじゃないのか？」[p]
-#香織
-「は・・・はぁ！？」[p]
-#肉山
-「殺してやりたいほど憎んでる相手に服従することをお前は望んでいるんだよ。お前はマゾだからな」[p]
+#Kaori
+Th-There's no way![p]
+Who would...[p]
+hate you enough to want to kill you!?[p]
+#Nikuyama
+Isn't it because you hate me enough to want to kill me?[p]
+#Kaori
+Haa...[p]
+Huh!?[p]
+#Nikuyama
+You want to submit to someone you hate enough to want to kill.[p]
+Because you're a masochist.[p]
 [_tb_end_text]
 
 [tb_image_show  time="600"  storage="default/game200.png"  width="321"  height="285"  x="451"  y="245"  _clickable_img=""  name="img_204"  ]
 [tb_image_hide  time="600"  ]
 [tb_start_text mode=1 ]
-#香織
-「そっ・・・そんなわけ・・・な、ない・・・！」[p]
-#肉山
-「自分でも気づいてるんだろう？俺に奴隷扱いされて虐められていた時に今までに感じたことのない悦びに自分が満たされていたことに」[p]
-#香織
-「はっ・・・！？そっ・・・そんな・・・ことは・・・！」[p]
-#肉山
-「だからあんな子供だましのウソを信じたんじゃないのか？え？お前は被虐を求めて自分から進んでウソを信じたんだろう？」[p]
+#Kaori
+Th-...[p]
+That's...[p]
+that's not...[p]
+true...![p]
+#Nikuyama
+You must have realized it yourself, right?[p]
+That when you were treated as a slave and bullied by me, you were filled with a pleasure you had never felt before.[p]
+#Kaori
+Haa...!?[p]
+Th-...[p]
+That...[p]
+that's not...[p]
+true...![p]
+#Nikuyama
+So, you believed such a childish lie?[p]
+Huh?[p]
+You willingly believed the lie because you wanted to be subjected to abuse, right?[p]
 [_tb_end_text]
 
 [tb_image_show  time="500"  storage="default/game200.png"  width="321"  height="285"  x="451"  y="245"  _clickable_img=""  name="img_207"  ]
 [tb_image_hide  time="500"  ]
 [tb_start_text mode=1 ]
-#香織
-「そっ、そんなわけないわ・・・！私は・・・わたしはあなたの命令がイヤだった・・・絶対に・・・！」[p]
-#肉山
-「イヤだから興奮したんだろう？嫌なことに従わされることでもたらされる快感をお前は無意識に求めていたんだよ」[p]
+#Kaori
+Th-There's no way...![p]
+I...[p]
+I didn't want to obey your orders...[p]
+Absolutely not...![p]
+#Nikuyama
+You got excited because you didn't like it, right?[p]
+Unconsciously, you were seeking the pleasure that comes from being made to do things you dislike.[p]
 
 [_tb_end_text]
 
 [tb_image_show  time="400"  storage="default/game200.png"  width="321"  height="285"  x="451"  y="245"  _clickable_img=""  name="img_210"  ]
 [tb_image_hide  time="400"  ]
 [tb_start_text mode=1 ]
-#香織
-「そ、そんなはずが・・・そんなはずあるわけないわ・・・わたしが奴隷でいたがっているなんて・・・そんなはずは・・・」[p]
-#肉山
-「なぁに、無理に自分で認める必要はないぜ。お前はイヤだからこそ興奮するんだからな」[p]
-「お前が奴隷で居続けられる理由を与えてやろう。例えば・・・そうだな、お前の調教の様子を記録したビデオ。あれをネットにばらまくとかいうのはどうだ？」[p]
-#香織
-「な・・・そ、そんなことされたら・・・！」[p]
-#肉山
-「ククク、これでお前は俺には逆らえないわけだ」[p]
-#香織
-「あ・・・う・・・ひ、卑怯者・・・」[p]
-#肉山
-「よしよし、たっぷりとチンポで調教してやるからな」[p]
-#香織
-「あっ・・・ああっ！？」[p]
+#Kaori
+Th-There's no way...[p]
+There's no way that could be true...[p]
+There's no way I would want to be a slave...[p]
+That can't be true...[p]
+#Nikuyama
+Hey, there's no need for you to force yourself to admit it.[p]
+It's precisely because you dislike it that you get excited.[p]
+Let me give you a reason to continue being my slave.[p]
+For example...[p]
+how about spreading a video recording of your training on the internet?[p]
+#Kaori
+N-No...[p]
+If...[p]
+if something like that were to happen...![p]
+#Nikuyama
+Hehehe, now you can't defy me anymore.[p]
+#Kaori
+Ah...[p]
+ugh...[p]
+you coward...[p]
+#Nikuyama
+Alright, I'll thoroughly train you with my cock.[p]
+#Kaori
+Ah...[p]
+Ahh!?[p]
 #
 [_tb_end_text]
 
@@ -1434,70 +2010,106 @@
 [bg  time="1000"  method="crossfade"  storage="game225-2.jpg"  ]
 [tb_start_text mode=1 ]
 #
-パンッ！パンッ！パンッ！[p]
-#肉山
-「オラッ！自分の立場が分かったか！？」[p]
-#香織
-「はひぃっ！も、もう二度と・・・逆らいませんンーッ♥」[p]
-#肉山
-「オラッ！お前はなんだ？言ってみろ！」[p]
-#香織
-「アヒィッ♥に、肉山様の・・・性処理用肉奴隷ですぅ・・・っ♥」[p]
-#肉山
-「そうだお前は奴隷だ！俺様の命令には絶対服従だ！」[p]
+*Slap![p]
+* *Slap![p]
+*[p]
+#Nikuyama
+Hey![p]
+Do you understand your position now!?[p]
+#Kaori
+Hahi![p]
+defy you anymore, uhh ♥[p]
+#Nikuyama
+Hey![p]
+Who are you?[p]
+Speak up![p]
+#Kaori
+Ahh ♥ I'm...[p]
+Takeshi-sama's...[p]
+♥[p]
+#Nikuyama
+That's right, you are a slave![p]
+You must absolutely obey my orders![p]
 #
-パンッ！パンッ！パンッ！[p]
-#香織
-「は、ハヒィーーーッ♥」[p]
-#肉山
-「どうだ、悔しいか？下種と蔑んでた男の奴隷にされて悔しいだろう！ん？」[p]
-#香織
-「くっ・・・悔しいですぅーーーーっ♥」[p]
-#肉山
-「でも恥ずかしい動画を撮られてるから逆らえない！そうだな！？」[p]
-#香織
-「は、はいぃ・・・さ、逆らえませんーーーーっ♥」[p]
-#肉山
-「お前は明日から風俗で働かせてやる」[p]
-#香織
-「えっ・・・！？ふ、風俗・・・アヒィッ♥」[p]
-#肉山
-「お前はこれから風俗嬢として男のチンポをしゃぶることで金を稼ぐんだよ」[p]
-#香織
-「そ、そんな・・・い、嫌ですぅっ・・・！アンンッ♥」[p]
-#肉山
-「きっと人気が出るぞぉ。大金を稼げるぜ。学園の関係者も客として来るかもしれないな、クククク」[p]
-#香織
-「そ、そんな・・・イヤァッ・・・アヒッ♥」[p]
-#肉山
-「そして稼いだ金は全額俺様が頂く。お前には俺から時々小遣いをやろう。グハハハハハ」[p]
-#香織
-「そ、そんなぁ・・・ひ、ひどい・・・アヒッ♥・・・こ、この・・・人でなし・・・っ！」[p]
-#肉山
-「どうだ、悔しいか？」[p]
+*Slap![p]
+* *Slap![p]
+*[p]
+#Kaori
+H-Hahi~♥[p]
+#Nikuyama
+How does it feel?[p]
+It must be frustrating to be turned into a slave by a man you looked down upon as lowly, right?[p]
+Hm?[p]
+#Kaori
+It's frustrating~♥[p]
+#Nikuyama
+But I can't defy you because you have embarrassing videos of me![p]
+Isn't that right!?[p]
+#Kaori
+I-I can't defy youuuu ♥[p]
+#Nikuyama
+I'll make you work at a brothel starting tomorrow.[p]
+#Kaori
+Eh...!?[p]
+Ahii ♥[p]
+#Nikuyama
+From now on, you will earn money by sucking men's dicks as a sex worker.[p]
+#Kaori
+N-No...[p]
+Ahn~♥[p]
+#Nikuyama
+I'm sure it will become popular.[p]
+You can earn a lot of money.[p]
+Even people from the school might come as customers, hehehe.[p]
+#Kaori
+T-That...[p]
+Ahh♥[p]
+#Nikuyama
+And I will take all the money you earn.[p]
+I'll give you pocket money from time to time.[p]
+Guhahahaha.[p]
+#Kaori
+Th-That's...[p]
+s-so mean...[p]
+Ahh♥...[p]
+Y-You...[p]
+heartless...[p]
+person...![p]
+#Nikuyama
+How does it feel?[p]
+Are you frustrated?[p]
 #
-パンッ！パンッ！パンッ！パンッ！[p]
-#香織
-「く・・・悔しいですぅーーーーーーっ♥アヒィーーーーッ♥」[p]
-#肉山
-「悔しくて気持ちいいだろうが！どうなんだ、オラッ！？」[p]
-#香織
-「は、はひぃー－－－－っ♥く・・・悔しくて・・・気持ちいイイですぅーーーーーーっっ♥♥」[p]
-#肉山
-「オラッ、憎い男のチンポでイっちまえっ・・・！」[p]
+*Slap![p]
+* *Slap![p]
+* *Slap![p]
+*[p]
+#Kaori
+so frustratedddd ♥ Ahiiiiii ♥[p]
+#Nikuyama
+It must feel frustrating and pleasurable, right?[p]
+How about it, huh!?[p]
+#Kaori
+H-Hahiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii♥ It's...[p]
+and feels so goooooooddddddddd♥♥[p]
+#Nikuyama
+Take this, you despicable man's cock...[p]
+cum for me...![p]
 #
-パン！パン！パン！パン！パンッ！[p]
-#香織
-「ンヒィーーーーーーーッ♥ダメェーーーッ♥イっちゃうぅぅーーーーーーーッッ♥♥」[p]
+*Slap![p]
+* *Slap![p]
+* *Slap![p]
+* *Slap![p]
+*[p]
+#Kaori
+Nhiiiiiiiiiiiiiiiiiiiiiiiiiiiiii♥ It's not gooddddddddd♥ I'm gonna cummmmmmmmmmmmmmmmmmmmmm♥♥[p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 [_tb_end_text]
 
 [call  storage="sr.ks"  target=""  ]
 [tb_start_text mode=1 ]
 #
-エンディングNo.４　『真性マゾ奴隷・香織』[p]
+Ending No[v0] 4 True Masochistic Slave Kaori[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1507,7 +2119,7 @@
 
 [tb_start_text mode=1 ]
 #
-このエンディングの条件を満たしていません[p]
+You have not met the conditions for this ending.[p]
 [_tb_end_text]
 
 [jump  storage="mein.ks"  target="*aa2"  ]

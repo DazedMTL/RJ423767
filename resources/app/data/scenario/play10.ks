@@ -6,12 +6,12 @@
 [chara_show  name="桐嶋"  time="1000"  wait="true"  storage="chara/1/game22.png"  width="367"  height="864"  left="726"  top="12"  reflect="false"  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
-#肉山
-「全員揃ったか？」[p]
-#香織
-「はい、これで全員です」[p]
-#肉山
-「それじゃ始めるか」[p]
+#Nikuyama
+Is everyone here?[p]
+#Kaori
+Yes, everyone is here.[p]
+#Nikuyama
+Well then, shall we begin?[p]
 [_tb_end_text]
 
 [tb_show_message_window  ]
@@ -21,14 +21,16 @@
 [chara_show  name="早瀬"  time="1000"  wait="false"  storage="chara/2/game47.png"  width="371"  height="873"  left="-23"  top="40"  reflect="false"  ]
 [chara_show  name="津山"  time="1000"  wait="true"  storage="chara/5/game48.png"  width="309"  height="727"  left="943"  top="156"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#赤井
-「ねぇ、アタシらなんで呼び出されたの？超ダルいんですけど」[p]
-#藤野
-「体育の補習とかでしょうか・・・？でも桐嶋先生もいらっしゃるようですし・・・」[p]
-#早瀬
-「体育の補習ならわたしが呼ばれるはずないよ」[p]
-#津山
-「ここ入るの初めてです」キョロキョロ[p]
+#Akai
+Hey, why were we called here?[p]
+It's super boring.[p]
+#Fujino
+Is this some kind of supplementary physical education...?[p]
+But it seems that Kirishima-sensei is here too...[p]
+#Hayase
+If it's supplementary physical education, I shouldn't have been called.[p]
+#Tsuyama
+This is my first time entering here, looking around nervously.[p]
 
 [_tb_end_text]
 
@@ -38,21 +40,24 @@
 [chara_show  name="田端"  time="1000"  wait="false"  storage="chara/7/game43-1.png"  width="341"  height="802"  left="619"  top="32"  reflect="false"  ]
 [chara_show  name="木本"  time="1000"  wait="true"  storage="chara/8/game44-1.png"  width="449"  height="926"  left="158"  top="13"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#木本
-「ぶ、部活のことじゃなかったのかな・・・？なんか女子がいるけど・・・」[p]
-#田端
-「カメラ持ってこいって言われたから持ってきたけど・・・」[p]
+#Kimoto
+W-Was this not about club activities...?[p]
+There are girls here...[p]
+#Tabata
+They told me to bring a camera, so I brought it, but...[p]
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
 [chara_show  name="桐嶋"  time="1000"  wait="true"  storage="chara/1/game22.png"  width="375"  height="882"  left="730"  top="16"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#香織
-「今から肉山先生が説明するから静かに。大事な話だからちゃんと聞きなさい」[p]
-#肉山
-「うむ、それじゃよく聞け」[p]
-「今日お前らを呼んだのは身体測定のやり直しをするためだ」[p]
-「赤井のあ、早瀬みちる、藤野あやめ、津山さなえ。以上４名は４月に行った身体測定で気になる数値があったため、今から身体データを精密に測りなおす」[p]
+#Kaori
+Nikuyama-sensei will explain starting now, so please be quiet.[p]
+It's an important conversation, so listen carefully.[p]
+#Nikuyama
+Alright, listen up.[p]
+The reason I called you all here today is to redo the physical measurements.[p]
+Akai, Hayase Michiru, Fujino Ayame, Tsuyama Sanae.[p]
+These four individuals had some concerning values in the physical measurements conducted in April, so we will now re-measure their body data with precision.[p]
 
 [_tb_end_text]
 
@@ -64,31 +69,35 @@
 [chara_show  name="津山"  time="1000"  wait="true"  storage="chara/5/game48.png"  width="309"  height="727"  left="943"  top="156"  reflect="false"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="捜査会議.mp3"  ]
 [tb_start_text mode=1 ]
-#赤井
-「身体測定のやりなおしぃ・・・？」[p]
-#藤野
-「私たちなにか病気でも見つかったんでしょうか・・・？」[p]
-#肉山
-「いや、そんな深刻な病気とかではないから安心しろ。ちょっとした体質に関することだ」[p]
-#早瀬
-「体質・・・？どんなことですか？」[p]
-#肉山
-「お前ら４人は潜在的淫乱症の疑いがあるんだ」[p]
-#津山
-「せんざいてきいんらんしょう・・・？」[p]
-#赤井
-「なんだよそれ？」[p]
-#肉山
-「淫乱症とはホルモンバランスの偏りによって突発的に性欲が高まったりしてしまう症状のことだ」[p]
-「わかりやすく言うと急にスケベな気分になってそれが抑えられなくなってしまうということだ」[p]
-#藤野
-「えっ・・・！？」[p]
-#赤井
-「なっ・・・そんなことあるわけねーだろ！」[p]
-#早瀬
-「そ、そんな病気聞いたことが・・・」[p]
-#肉山
-（やっぱり信じないわな、こんな話・・・だが・・・！）[p]
+#Akai
+Redoing the physical measurements...?[p]
+#Fujino
+Did they find some kind of illness in us...?[p]
+#Nikuyama
+No, don't worry, it's not anything serious like a severe illness.[p]
+It's just something related to our physical constitution.[p]
+#Hayase
+Physical constitution...?[p]
+What do you mean?[p]
+#Nikuyama
+The four of you are suspected of having latent nymphomania.[p]
+#Tsuyama
+Wasn't this supposed to be about club activities...?[p]
+#Akai
+What is that?[p]
+#Nikuyama
+Nymphomania is a condition where the imbalance of hormones causes a sudden increase in sexual desire.[p]
+To put it simply, it means suddenly feeling horny and being unable to control it.[p]
+#Fujino
+Eh...!?[p]
+#Akai
+Wha...[p]
+There's no way something like that could happen![p]
+#Hayase
+I-I've never heard of such an illness...[p]
+#Nikuyama
+(I guess they don't believe this kind of story after all...[p]
+)[p]
 [_tb_end_text]
 
 [tb_image_show  time="1000"  storage="default/game200.png"  width="273"  height="243"  x="470"  y="255"  _clickable_img=""  name="img_30"  ]
@@ -96,21 +105,29 @@
 [chara_hide_all  time="600"  wait="true"  ]
 [chara_show  name="桐嶋"  time="1000"  wait="true"  storage="chara/1/game22.png"  width="375"  height="882"  left="660"  top="16"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#香織
-「皆さん、急にこんなことを聞かされて不安かもしれませんが大事なことですからちゃんと話を聞いてください」[p]
-「淫乱症は特殊な病気ではありません。女性の中には一定数いる体質です。今のうちに適切に対処すれば問題なく生活できますから、なにより早期発見が大事なんです」[p]
-#藤野
-「桐嶋先生がおっしゃってるってことは・・・本当に存在する症状ですのね」[p]
-#早瀬
-「そ、そうなんだ・・・」[p]
-#赤井
-「う・・・わ、わかったよ。ちゃんと話を聞くよ」[p]
-#肉山
-（よし、香織に説明させれば簡単に信じやがった・・・！）[p]
-（あらかじめ香織には洗脳できっちりと言い含めてあるからな。このやり方ならだれが相手でも洗脳が通用する・・・！）[p]
-「まぁまだ疑いがあるというだけでお前らが淫乱症だと決まったわけではない」[p]
-「それに桐嶋先生もおっしゃったように、仮に淫乱症だと判明しても今のうちに適切な処置をすれば将来的に問題なく生活できるから安心しろ」[p]
-「というわけでこれから一人ずつ身体検査をしていくぞ」[p]
+#Kaori
+Everyone, you might feel anxious hearing something like this suddenly, but it's important, so please listen carefully.[p]
+Nymphomania is not a special illness.[p]
+It's a certain constitution that some women have.[p]
+If we deal with it properly now, we can live without any problems.[p]
+That's why early detection is crucial.[p]
+#Fujino
+So, what Kirishima-sensei is saying...[p]
+is that this symptom really exists, right?[p]
+#Hayase
+I-I see...[p]
+#Akai
+U...[p]
+U-understood.[p]
+I'll listen carefully.[p]
+#Nikuyama
+(Alright, if I make Kaori explain, they'll easily believe it...![p]
+)(I've already thoroughly brainwashed Kaori beforehand.[p]
+With this method, brainwashing will work on anyone...![p]
+) Well, just because there are still doubts, it doesn't mean that all of you have nymphomania.[p]
+And as Kirishima-sensei mentioned, even if it is confirmed that you have nymphomania, if we take appropriate measures now, you can live without any problems in the future.[p]
+So rest assured.[p]
+[p]
 
 [_tb_end_text]
 
@@ -120,26 +137,34 @@
 [chara_show  name="早瀬"  time="1000"  wait="false"  storage="chara/2/game47.png"  width="371"  height="873"  left="-23"  top="40"  reflect="false"  ]
 [chara_show  name="津山"  time="1000"  wait="true"  storage="chara/5/game48.png"  width="309"  height="727"  left="943"  top="156"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#早瀬
-「身体検査が必要なのはわかりましたけど・・・なんで肉山先生が？保健の先生とかじゃないんですか？」[p]
-#赤井
-「そうだよな。それになんで香織先生もいるんだ？英語の先生だろ？」[p]
+#Hayase
+I understand that physical examinations are necessary, but...[p]
+why is it Nikuyama-sensei?[p]
+Isn't it supposed to be the school nurse or someone like that?[p]
+#Akai
+That's right.[p]
+And why is Kaori-sensei here too?[p]
+She's an English teacher, right?[p]
 [_tb_end_text]
 
 [tb_image_show  time="1000"  storage="default/game200.png"  width="319"  height="283"  x="464"  y="271"  _clickable_img=""  name="img_41"  ]
 [tb_image_hide  time="1000"  ]
 [tb_start_text mode=1 ]
-#肉山
-「文部科学省の規定で淫乱症の検査は教育委員会に任命された教師が行うことになっているんだ」[p]
-「桐嶋先生がいるのはその方がお前らが安心するだろうから来てもらったんだ」[p]
-#香織
-「男の先生だけだと何があるかわからないですから。監視のためでもあります」[p]
-#藤野
-「たしかに・・・心強いです」[p]
-#赤井
-「そうだな。ゴリ・・・肉山先生だけだと絶対に嫌だし」[p]
-#肉山
-「フン、まぁそういうことだ」[p]
+#Nikuyama
+According to the regulations of the Ministry of Education, Culture, Sports, Science and Technology, the examination for nymphomania is supposed to be conducted by a teacher appointed by the Board of Education.[p]
+Kaori-sensei is here because having her present would make you all feel more at ease.[p]
+#Kaori
+Because we don't know what might happen with just male teachers.[p]
+It's also for supervision.[p]
+#Fujino
+Indeed...[p]
+It's reassuring.[p]
+#Akai
+Yeah, that's right.[p]
+Having only Nikuyama-sensei...[p]
+I definitely don't like it.[p]
+#Nikuyama
+Hmph, well, that's how it is.[p]
 
 [_tb_end_text]
 
@@ -147,18 +172,21 @@
 [chara_show  name="田端"  time="1000"  wait="false"  storage="chara/7/game43-1.png"  width="341"  height="802"  left="619"  top="32"  reflect="false"  ]
 [chara_show  name="木本"  time="1000"  wait="true"  storage="chara/8/game44-1.png"  width="449"  height="926"  left="158"  top="13"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#田端
-「あの・・・僕らは一体なんで呼ばれたんでしょう・・・？」[p]
-#肉山
-「ああ、お前らは記録係だ」[p]
-#木本
-「記録係・・・？」[p]
-#肉山
-「そうだ。検査が適切に行われたかどうか写真を撮って記録する係だ。重要な役割だからしっかり頼むぞ」[p]
-#田端
-「は、はぁ・・・」[p]
-#木本
-「え、写真を撮るって・・・？」[p]
+#Tabata
+Um...[p]
+Why were we called here in the first place...?[p]
+#Nikuyama
+Ah, you guys are in charge of keeping records.[p]
+#Kimoto
+Record keeper...?[p]
+#Nikuyama
+That's right.[p]
+You're in charge of taking photos to record whether the examination was conducted properly.[p]
+It's an important role, so I'm counting on you to do it properly.[p]
+#Tabata
+H-haa...[p]
+#Kimoto
+Eh, taking photos...?[p]
 [_tb_end_text]
 
 [chara_hide_all  time="600"  wait="true"  ]
@@ -167,49 +195,66 @@
 [chara_show  name="早瀬"  time="1000"  wait="false"  storage="chara/2/game47.png"  width="371"  height="873"  left="-23"  top="40"  reflect="false"  ]
 [chara_show  name="津山"  time="1000"  wait="true"  storage="chara/5/game48.png"  width="309"  height="727"  left="943"  top="156"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#赤井
-「ちょっと！身体検査って下着とかなるんじゃあないの！？そんな写真撮られるなんて絶対イヤだよ！」[p]
-#藤野
-「えっ・・・し、下着姿を・・・？そんなの困ります・・・っ」[p]
-#津山
-「恥ずかしいです・・・」[p]
-#肉山
-「そういう決まりがあるんだから仕方がないだろう。撮った写真はちゃんとこっちで管理するから流出することはない。安心しろ」[p]
+#Akai
+Hey![p]
+Are you saying that the physical examination includes taking pictures of our underwear?![p]
+I absolutely don't want to have those kind of photos taken![p]
+#Fujino
+Eh...[p]
+t-taking pictures of our underwear?[p]
+That's troubling...[p]
+#Tsuyama
+It's embarrassing...[p]
+#Nikuyama
+Well, there are rules like that, so there's no helping it.[p]
+The photos we take will be properly managed here, so there won't be any leaks.[p]
+Don't worry.[p]
 
 [_tb_end_text]
 
 [tb_image_show  time="1000"  storage="default/game200.png"  width="286"  height="254"  x="490"  y="255"  _clickable_img=""  name="img_54"  ]
 [tb_image_hide  time="1000"  ]
 [tb_start_text mode=1 ]
-#香織
-「男子に裸を見られるのは恥ずかしいでしょうけど、あなたたちが安全に身体検査を受けられるようにするためなんだから我慢して」[p]
-#赤井
-「でも・・・なんでこいつらなの？香織先生が撮ってくれればいいじゃん！」[p]
-#香織
-「そういう決まりなのよ。我慢して」[p]
-#早瀬
-「そんな・・・」[p]
-#藤野
-「ちゃんと言うことを聞きましょう。桐嶋先生もついていてくださるんだから・・・」[p]
-#赤井
-「チッ・・・仕方ないか・・・」[p]
-#肉山
-「よし、じゃあまず早瀬からいくか。服をすべて脱いでこちらに来い」[p]
-#早瀬
-「えっ・・・わたしからですか・・・？」[p]
-「服を全部って・・・制服をってことですよね？」[p]
-#肉山
-「いや、下着も全部だ」[p]
-#早瀬
-「ええっ！？」[p]
-#藤野
-「エッ・・・全部・・・！？」[p]
-#田端＆木本
-「エエーーーッ！？」[p]
-#赤井
-「おい、ふざけんなって！全裸とか無理に決まってんじゃん！」[p]
-#肉山
-「精密検査と言っただろう。正確なデータが必要だからそういう規則になってるんだ」[p]
+#Kaori
+It may be embarrassing to be seen naked by boys, but we have to endure it so that you can safely undergo the physical examination.[p]
+#Akai
+But...[p]
+why them?[p]
+Wouldn't it be better if Kirishima-sensei took the pictures?[p]
+#Kaori
+That's the rule.[p]
+Endure it.[p]
+#Hayase
+That's...[p]
+#Fujino
+Let's listen properly.[p]
+Kirishima-sensei is also here to support us...[p]
+#Akai
+Tch...[p]
+I guess there's no helping it...[p]
+#Nikuyama
+Alright, then let's start with Hayase.[p]
+Take off all your clothes and come over here.[p]
+#Hayase
+Eh...[p]
+From me...?[p]
+Take off all my clothes...[p]
+You mean my school uniform, right?[p]
+#Nikuyama
+No, everything including your underwear.[p]
+#Hayase
+Eh!?[p]
+#Fujino
+Eh...[p]
+Everything...!?[p]
+#Tabata & Kimoto
+Eeeehhh!?[p]
+#Akai
+Hey, don't mess around![p]
+It's obvious that being completely naked is impossible![p]
+#Nikuyama
+I said it's a thorough examination.[p]
+We need accurate data, so that's why those rules are in place.[p]
 
 
 [_tb_end_text]
@@ -217,29 +262,35 @@
 [tb_image_show  time="1000"  storage="default/game200.png"  width="323"  height="287"  x="480"  y="265"  _clickable_img=""  name="img_57"  ]
 [tb_image_hide  time="1000"  ]
 [tb_start_text mode=1 ]
-#香織
-「みんな恥ずかしいのは解るわ。でも聞いてちょうだい」[p]
-「もし淫乱症だということに気づかずに大人になるまで放置してしまったら・・・大変なことになるのよ」[p]
-#藤野
-「大変なこと・・・？」[p]
-#香織
-「そう・・・裸を見られるなんかよりもずっと辛いことが待ってるわ。人生をも台無しにしてしまいかねない・・・危険なことなの淫乱症という体質は・・・」[p]
-#赤井
-「そ、そんなに・・・」[p]
-#藤野
-「桐嶋先生はその淫乱症というのに詳しいのですか・・・？」[p]
-#香織
-「え、ええ・・・知り合いでそういう人がいるのよ・・・」[p]
-#肉山
-「そうだ。だからしっかりと調べないといけないんだ。早瀬、ささっと脱いでさっと終わらせてしまおう」[p]
-#早瀬
-「で、でも・・・」[p]
-「・・・・・・や、やっぱり無理・・・っ」[p]
-#香織
-「早瀬さん・・・」[p]
-#肉山
-「うーむ、このままでは時間が押してしまいますね」[p]
-「桐嶋先生、すいませんがお手本を見せていただけませんか？」[p]
+#Kaori
+I understand that everyone feels embarrassed.[p]
+But please listen, if someone were to grow up without realizing they have a nymphomania disorder and leave it untreated...[p]
+it would become a serious problem.[p]
+#Fujino
+Is something serious happening...?[p]
+#Kaori
+Yes...[p]
+There's something much more difficult waiting for me than being seen naked.[p]
+It's a dangerous condition called nymphomania that can ruin my life...[p]
+#Akai
+S-So much...[p]
+#Fujino
+Is Kirishima-sensei knowledgeable about this nymphomania disorder...?[p]
+#Kaori
+Eh, yes...[p]
+I know someone who has that condition...[p]
+#Nikuyama
+That's right.[p]
+That's why we need to thoroughly investigate.[p]
+Hayase, quickly take off your clothes and let's get it over with.[p]
+#Hayase
+B-But...[p]
+I-I still can't do it...[p]
+#Kaori
+Hayase-san...[p]
+#Nikuyama
+Hmm, at this rate we'll run out of time.[p]
+Kirishima-sensei, I'm sorry but could you show me an example?[p]
 
 
 [_tb_end_text]
@@ -247,14 +298,17 @@
 [chara_hide_all  time="1000"  wait="true"  ]
 [chara_show  name="桐嶋"  time="1000"  wait="true"  storage="chara/1/game23.png"  width="376"  height="885"  left="657"  top="15"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#香織
-「えっ・・・！？お、お手本・・・？」[p]
-#肉山
-「ええ、桐嶋先生が手本となって裸になっていただければ生徒たちも勇気が出て後に続けるんではないかと思うんですが」[p]
-#香織
-「・・・そ、そうですね、わかりました。それじゃまず先生が手本を見せます」[p]
-#早瀬
-「え・・・っ？」[p]
+#Kaori
+Eh...!?[p]
+A-a demonstration...?[p]
+#Nikuyama
+Yes, I think if Kirishima-sensei were to serve as an example and undress, it would give the students courage and encourage them to follow suit.[p]
+#Kaori
+...[p]
+Y-Yes, I understand.[p]
+In that case, let's start with the teacher showing an example.[p]
+#Hayase
+Eh...?[p]
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
@@ -262,102 +316,151 @@
 [bg  time="1000"  method="crossfade"  storage="game126.jpg"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="マダムの口紅.mp3"  ]
 [tb_start_text mode=1 ]
-#藤野
-「えっ・・・き、桐嶋先生・・・！？」[p]
-#赤井
-「ちょっ・・・先生・・・！」[p]
+#Fujino
+Eh...[p]
+K-Kirishima-sensei...!?[p]
+#Akai
+Wait...[p]
+Sensei...![p]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game100.jpg"  ]
 [chara_show  name="桐嶋"  time="1000"  wait="true"  storage="chara/1/game42.png"  width="374"  height="880"  left="437"  top="11"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#香織
-「ど、どうですか。これでみんなも・・・は、恥ずかしくないでしょう？」[p]
-#早瀬
-「き、桐嶋先生・・・っ」[p]
-#藤野
-「あぁ・・・桐嶋先生が・・・あぁ・・・っ」[p]
-#田端＆木本
-「おぉぉ・・・！？き、桐嶋先生の・・・は、裸・・・！」[p]
-#赤井
-「お、おい！・・・なにも香織先生がそこまで・・・っ！に、肉山も見てるのに・・・！」[p]
-#香織
-「身体検査では普通のことです。お医者さんの前で裸になるのと・・・お、同じことですよ」[p]
-#赤井
-「そ、それはそうかもしれないけどさ・・・」[p]
-#肉山
-「それじゃせっかくですから測定のやり方も見せましょう」[p]
-#香織
-「は、はい・・・」[p]
+#Kaori
+H-How is it?[p]
+With this, everyone won't...[p]
+feel embarrassed, right?[p]
+#Hayase
+K-Kirishima-sensei...[p]
+#Fujino
+Ah...[p]
+Kirishima-sensei...[p]
+Ah...[p]
+#Tabata & Kimoto
+Ohhh...!?[p]
+K-Kirishima-sensei's...[p]
+is naked...![p]
+#Akai
+H-Hey![p]
+...[p]
+Why is Kirishima-sensei going that far...![p]
+And Nikuyama is watching too...![p]
+#Kaori
+It's normal during a physical examination.[p]
+It's the same as getting naked in front of a doctor...[p]
+Oh.[p]
+#Akai
+W-Well, that might be true but...[p]
+#Nikuyama
+Well then, since we're already here, let me show you how the measurements are done.[p]
+#Kaori
+Y-Yes...[p]
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
 [bg  time="1000"  method="crossfade"  storage="game129-2.jpg"  ]
 [tb_start_text mode=1 ]
-#肉山
-「えーと・・・バストは・・・と」[p]
-#赤井
-「おぉ・・・すげえ・・・」[p]
-#藤野
-「あぁ・・・桐嶋先生の・・・キレイ・・・」[p]
-#木本
-「おぉ・・・は、裸だ・・・ゴクリ」[p]
-#香織
-（ん・・・恥ずかしい・・・けど・・・生徒たちの為よ。我慢しないと・・・）[p]
-#肉山
-「えー・・・１０４ｃｍですね」[p]
-#田端
-「１０４ｃｍ・・・！？す、すごっ・・・」[p]
-#肉山
-「おい、なにしてる。ちゃんと記録を撮らんか」[p]
-#田端
-「えっ！あ・・・は、はいっ」[p]
+#Nikuyama
+Um...[p]
+the bust measurement is...[p]
+and...[p]
+#Akai
+Oh...[p]
+amazing...[p]
+#Fujino
+Ah...[p]
+Kirishima-sensei's...[p]
+beautiful...[p]
+#Kimoto
+Oh...[p]
+*gulp*[p]
+#Kaori
+(Hmm...[p]
+It's embarrassing...[p]
+but...[p]
+it's for the sake of my students.[p]
+)[p]
+#Nikuyama
+Um...[p]
+it's 104cm.[p]
+#Tabata
+104cm...!?[p]
+A-Amazing...[p]
+#Nikuyama
+Hey, what are you doing?[p]
+Make sure to record it properly.[p]
+#Tabata
+Eh![p]
+Ah...[p]
+Y-Yes.[p]
 [_tb_end_text]
 
 [chara_show  name="田端"  time="1000"  wait="true"  storage="chara/7/game43-3.png"  width="442"  height="842"  left="428"  top="141"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#田端
-パシャッ！パシャッ！パシャッ！[p]
-#肉山
-「ちゃんと全体が映るように撮るんだぞ」[p]
-#田端
-「はいっ」[p]
-パシャッ！パシャッ！パシャッ！[p]
-#赤井
-「ちょ、ちょっと！先生の写真まで撮る必要ねーだろ！やめろよ！」[p]
-#田端
-「えっ・・・そ、そう言われても・・・」[p]
-#香織
-「い、いいのよ。お手本なんだから。遠慮なく撮ってちょうだい」[p]
-#田端
-「あ、はい・・・」[p]
-パシャッ！パシャッ！[p]
-#赤井
-「先生・・・」[p]
-#肉山
-「えーっと・・・ウエストは６２ｃｍ・・・そしてヒップは・・・と」[p]
-#田端
-パシャッ！パシャッ！パシャッ！[p]
-#香織
-（あぁ・・・いつもやってることなのに・・・生徒たちが見ていると思うと恥ずかしくて・・・アァッ）[p]
-#肉山
-「ヒップは９３ｃｍですね。結構肉が付いてますね」モミモミ[p]
-#香織
-「アン・・・ッ♥」[p]
-#赤井
-「お、おい！なに触ってるんだよ！」[p]
-#肉山
-「サイズを測るだけじゃわからないからな。触診も必要なんだ」[p]
-#香織
-「そ、そうよ。全然いやらしいことじゃないわ。これはあくまで診療なんだから平気よ」[p]
-#赤井
-「そ、そうなのか・・・？」[p]
-#肉山
-（おっと、ついつい調子に乗ってしまったぜ）[p]
-（香織の身体はいつでも好きにできるんだ。今は生徒たちを信用させるのが最優先だ）[p]
-「まぁこんな感じで測定をしていくから。桐嶋先生、協力ありがとうございました」[p]
-#香織
-「い、いえ・・・生徒たちの為ですから」[p]
+#Tabata
+Snap![p]
+Snap![p]
+Snap![p]
+#Nikuyama
+Make sure to capture the whole thing properly.[p]
+#Tabata
+Yes, snap![p]
+Snap![p]
+Snap![p]
+#Akai
+Hey, hey![p]
+There's no need to take pictures of the teacher![p]
+Stop it![p]
+#Tabata
+Eh...[p]
+even if you say that...[p]
+#Kaori
+I-It's fine.[p]
+It's for reference, so please take the pictures without hesitation.[p]
+#Tabata
+Ah, yes...[p]
+Snap![p]
+Snap![p]
+#Akai
+Teacher...[p]
+#Nikuyama
+Um...[p]
+The waist is 62 cm...[p]
+And the hips...[p]
+#Tabata
+Snap![p]
+Snap![p]
+Snap![p]
+#Kaori
+(Ah...[p]
+even though it's something I always do...[p]
+it's embarrassing to think that the students are watching...[p]
+)[p]
+#Nikuyama
+The hips are 93 cm.[p]
+There's quite a bit of flesh there, so squishy squishy.[p]
+#Kaori
+♥[p]
+#Akai
+Hey, hey![p]
+What are you touching?![p]
+#Nikuyama
+Just measuring the size won't be enough to understand.[p]
+A physical examination is also necessary.[p]
+#Kaori
+Y-Yes, that's right.[p]
+It's not anything lewd at all.[p]
+This is just a medical examination, so it's fine.[p]
+#Akai
+I-Is that so...?[p]
+#Nikuyama
+(Oops, I got carried away) (I can do whatever I want with Kaori's body anytime.[p]
+Right now, the top priority is to gain the trust of the students) Well, let's continue with the measurements like this.[p]
+Thank you for your cooperation, Kirishima-sensei.[p]
+#Kaori
+N-No...[p]
+It's for the sake of the students.[p]
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
@@ -367,10 +470,12 @@
 [chara_show  name="早瀬"  time="1000"  wait="true"  storage="chara/2/game47.png"  width="393"  height="925"  left="204"  top="38"  reflect="false"  ]
 [chara_show  name="桐嶋"  time="1000"  wait="true"  storage="chara/1/game42.png"  width="364"  height="856"  left="737"  top="4"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#香織
-「こ、これでやり方はわかったでしょう？全然恥ずかしいことじゃないから早瀬さんも勇気を出して」[p]
-#早瀬
-「は、はい・・・わかりました」[p]
+#Kaori
+D-Do you understand the method now?[p]
+It's not embarrassing at all, so please gather your courage, Hayase-san.[p]
+#Hayase
+Y-Yes...[p]
+I understand.[p]
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
@@ -378,112 +483,165 @@
 [bg  time="1000"  method="crossfade"  storage="game247-0.jpg"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Grease_Slide_Trap.mp3"  ]
 [tb_start_text mode=1 ]
-#早瀬
-「・・・っ」[p]
-#藤野
-「みちる・・・」[p]
-#香織
-「そうよ。早瀬さん・・・頑張って」[p]
-#肉山
-（ククク、いいぞ。こういうのは一人が脱いだらみんな安心して脱ぐからな）[p]
-（早瀬は色気のないスポブラに縞パンか。イメージ通りでグッドだぜ、ムフフフ）[p]
-#早瀬
-「・・・あぁ・・・やっぱり恥ずかしい・・・」[p]
-#香織
-「ほら、あと１枚よ。勇気を出して。怖くないわ」[p]
-#早瀬
-「は、はい・・・っ」[p]
+#Hayase
+...[p]
+#Fujino
+Michiru...[p]
+#Kaori
+That's right.[p]
+Hayase-san...[p]
+do your best.[p]
+#Nikuyama
+(Hehehe, good.[p]
+Once one person undresses, everyone else feels relieved and undresses too) (Hayase is wearing a plain sports bra and striped panties.[p]
+Mufufu)[p]
+#Hayase
+...[p]
+Ah...[p]
+It's still embarrassing after all...[p]
+#Kaori
+Come on, just one more.[p]
+Gather your courage.[p]
+It's not scary.[p]
+#Hayase
+Y-Yes...[p]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game247-1.jpg"  ]
 [tb_start_text mode=1 ]
-#肉山
-「よし、全部脱いだな。偉いぞ。それじゃささっと測定を済ませてしまおう」[p]
-#早瀬
-「は、はい・・・」[p]
-#肉山
-「おい、胸を隠してたら測定できないぞ。腕を頭の後ろに置くんだ」[p]
-#早瀬
-「は、はい・・・っ」[p]
-#肉山
-「よし、それじゃ測っていくぞ。記録係、ちゃんと仕事しろよ」[p]
-#田端
-「は、はいっ」[p]
+#Nikuyama
+Alright, you've undressed completely.[p]
+Well done.[p]
+Now, let's quickly finish the measurements.[p]
+#Hayase
+Y-Yes...[p]
+#Nikuyama
+Hey, if you hide your chest, I can't take measurements.[p]
+Put your arms behind your head.[p]
+#Hayase
+Y-Yes...[p]
+#Nikuyama
+Alright, then let's start measuring.[p]
+Record keeper, do your job properly.[p]
+#Tabata
+Y-Yes.[p]
 [_tb_end_text]
 
 [chara_show  name="田端"  time="1000"  wait="true"  storage="chara/7/game43-3.png"  width="444"  height="846"  left="510"  top="141"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#田端
-「おぉ・・・これがあの早瀬みちるの・・・」[p]
-パシャッ！パシャッ！パシャッ！[p]
-#早瀬
-「く・・・いやぁ・・・っ」[p]
-#肉山
-「ほら、手を下ろしちゃだめだ。ぴしっと上げて胸を張って」[p]
-#早瀬
-「は、はい・・・く・・・っ」[p]
-#木本
-「ち、ち、乳首・・・ゴクリ」[p]
-#赤井
-「おい！カメラマンは仕方ないとして・・・もう一人のこいつはなんのために居るんだよ・・・っ」[p]
-#木本
-「えっ・・・え？な、な、なんでだろ・・・？」[p]
-#肉山
-「書記だよ。所見データを記録する役目だ。記録係はニ人一組でないといけない決まりなんだよ」[p]
-「えーっと・・・早瀬のバストは・・・７７．６ｃｍか」[p]
-（ククク、まだまだつぼみって感じのオッパイだな。日焼けの跡がエロい感じだぜ）[p]
-「乳首が尖ってるな。これは要チェックだな。ちゃんとメモしておけよ」[p]
-#木本
-「は、はいっ・・・！えっと・・・乳首が尖っている・・・と」[p]
-#早瀬
-「は、恥ずかしい・・・っ」[p]
-#肉山
-「次はウエストだな・・・えーっと・・・」[p]
-（おぉ・・・さすがに陸上部のエースだけあって引き締まってるな。腹筋が浮き出てるぜ）[p]
-「５５．７ｃｍか。腹筋がかなり発達してるな」サワサワ[p]
-#早瀬
-「アッ・・・！？」[p]
-#肉山
-「こら、動くんじゃない。筋肉の付き方をチェックしてるんだ。ホルモンバランスと関係してくるからな」[p]
-#早瀬
-「す、すいません・・・こそばかったもので・・・」[p]
-#肉山
-「さて最後はヒップだな・・・」[p]
+#Tabata
+Oh...[p]
+*snap* *snap* *snap*[p]
+#Hayase
+Kuh...[p]
+No...[p]
+#Nikuyama
+Come on, don't lower your hands.[p]
+Lift them up straight and puff out your chest.[p]
+#Hayase
+Y-Yes...[p]
+ku...[p]
+#Kimoto
+gulp[p]
+#Akai
+Hey![p]
+I understand having a photographer, but what is the purpose of this other person...?[p]
+#Kimoto
+Huh...[p]
+Huh?[p]
+W-Why is that...?[p]
+#Nikuyama
+I'm the record keeper.[p]
+It's my job to record the observation data.[p]
+It's a rule that there should be two people in charge of recording.[p]
+Let's see...[p]
+Hayase's bust is...[p]
+77.[p]
+6 cm (Hehehe, her breasts still have that budding feeling.[p]
+The tan lines are quite erotic).[p]
+Her nipples are pointed.[p]
+This needs to be checked.[p]
+Make sure to take proper notes.[p]
+#Kimoto
+Y-Yes...[p]
+Um...[p]
+The nipples are pointed...[p]
+and...[p]
+#Hayase
+It's embarrassing...[p]
+#Nikuyama
+Next is the waist...[p]
+let's see...[p]
+(Oh...[p]
+as expected of the track and field ace, it's well-toned.[p]
+Their abs are defined) 55.[p]
+7 cm.[p]
+Their abs are quite developed, I can feel them.[p]
+#Hayase
+Ah...!?[p]
+#Nikuyama
+Hey, don't move.[p]
+I'm checking the muscle development.[p]
+It's related to hormone balance, you know.[p]
+#Hayase
+S-Sorry...[p]
+I was just a little embarrassed...[p]
+#Nikuyama
+Now, let's move on to the hips...[p]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game247-2.jpg"  ]
 [tb_start_text mode=1 ]
-#肉山
-「ちゃんと臀部の一番膨らんでいるところにメジャーを当てて・・・と」[p]
-「うーむ・・・８４ｃｍちょうどだな」[p]
-#田端
-「お尻・・・ゴクリ」[p]
-パシャッ！パシャッ！パシャッ！[p]
-#早瀬
-「も、もういいですか・・・」[p]
-#肉山
-「ちょっと待て。臀部の肉の付き方を調べるからな」[p]
-「ふむふむ・・・やはり筋肉がしっかり発達していて脂肪は薄めだな。年齢の割に性徴がやや遅れているな」モミモミ[p]
-#早瀬
-「アァ・・・ンッ」[p]
-#木本
-「脂肪が薄め・・・成長（？）が遅れている・・・と」[p]
-#肉山
-「最後に陰毛のチェックをしておこう」[p]
-#早瀬
-「えっ・・・イヤァッ！？」[p]
-#肉山
-「ほれ、隠すな。ホルモンバランスを調べるのに重要なことだからな」[p]
-「ふむふむ・・・陰毛はかなり薄めだな。こちらもやや年齢に比べて発達の遅れが見られる」[p]
-#田端
-「ぉおお・・・！」[p]
-パシャッ！パシャッ！パシャッ！[p]
-#早瀬
-「あぁ・・・撮らないでぇ・・・うぅ・・・」[p]
-#藤野
-「あぁ・・・みちる・・・」[p]
-#肉山
-「よし、早瀬はこんなもんでいいだろう」[p]
+#Nikuyama
+Let's properly measure the fullest part of the hips...[p]
+Hmmm...[p]
+It's exactly 84 cm.[p]
+#Tabata
+Butt...[p]
+*gulp* Snap![p]
+Snap![p]
+Snap![p]
+#Hayase
+I-Is it...[p]
+enough already...?[p]
+#Nikuyama
+Wait a moment.[p]
+I'm going to examine the way the flesh attaches to the buttocks.[p]
+Hmmm...[p]
+As I thought, the muscles are well developed and the fat is thin.[p]
+*Groping*[p]
+#Hayase
+Ah...[p]
+ngh...[p]
+#Kimoto
+The fat is thin...[p]
+and the growth (?[p]
+) is delayed...[p]
+#Nikuyama
+Let's check the pubic hair one last time.[p]
+#Hayase
+Huh...[p]
+Nooo!?[p]
+#Nikuyama
+Look, don't hide it.[p]
+It's important to examine the hormone balance.[p]
+Hmmm...[p]
+The pubic hair is quite thin.[p]
+Here too, there seems to be a slight delay in development compared to their age.[p]
+#Tabata
+Ohhh...![p]
+Snap![p]
+Snap![p]
+Snap![p]
+#Hayase
+Ah...[p]
+Please don't take pictures...[p]
+Ugh...[p]
+#Fujino
+Ah...[p]
+Michiru...[p]
+#Nikuyama
+Alright, Hayase is fine like this.[p]
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
@@ -494,18 +652,25 @@
 [chara_show  name="藤野"  time="1000"  wait="false"  storage="chara/3/game45.png"  width="384"  height="903"  left="249"  top="16"  reflect="false"  ]
 [chara_show  name="津山"  time="1000"  wait="true"  storage="chara/5/game48.png"  width="309"  height="727"  left="943"  top="156"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#肉山
-「早瀬はもう服を着ていいぞ。あとでまとめて注意事項を伝えるから着替えて待っておけ」[p]
-#早瀬
-「は、はい・・・」[p]
-#赤井
-「あたしらもあんなことやらされるのかよ・・・最悪だよ。なんであたしが・・・」[p]
-#津山
-「怖いです・・・」[p]
-#肉山
-「よし、次は赤井だ。服を脱げ」[p]
-#赤井
-「ゲッ・・・あたしかよ・・・クソッやればいいんでしょやれば・・・」[p]
+#Nikuyama
+Hayase, you can get dressed now.[p]
+I'll tell you the instructions later, so change your clothes and wait.[p]
+#Hayase
+Y-Yes...[p]
+#Akai
+Are we going to be made to do something like that too...?[p]
+This is the worst.[p]
+Why me...[p]
+#Tsuyama
+I'm scared...[p]
+#Nikuyama
+Alright, next is Akai.[p]
+Take off your clothes.[p]
+#Akai
+Ugh...[p]
+It's me...[p]
+Damn it, just do it, right?[p]
+If I do it...[p]
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
@@ -513,123 +678,171 @@
 [bg  time="1000"  method="crossfade"  storage="game246-0.jpg"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Grease_Slide_Trap.mp3"  ]
 [tb_start_text mode=1 ]
-#赤井
-「く・・・っ」[p]
-#肉山
-（ほう、赤井の下着は薄紫か。結構肉付きのいいスタイルしてるな、ムフフフ）[p]
-「ほら後が詰まってるんだ、さっさと脱げ。ギャルなんだから裸くらい大丈夫だろう」[p]
-#赤井
-「ちょっ・・・ギャルだからって恥ずかしくないとかあるわけないじゃん・・・！」[p]
-#田端＆木本
-「あ、赤井のあの裸・・・ゴクリ」[p]
-#赤井
-「くっ・・・せめてこいつらは外に出してくれよ！キモい目で見やがって・・・！」[p]
-#肉山
-「記録係が必要だと言っただろう。我慢しろ」[p]
-#香織
-「我慢して赤井さん。すぐに終わるから」[p]
-#赤井
-「う・・・わ、わかったよ・・・」[p]
-スル・・・[p]
-#田端＆木本
-「おぉ・・・！」[p]
+#Akai
+Ugh...[p]
+#Nikuyama
+Oh, Akai's underwear is light purple.[p]
+You have quite a well-built figure, hehehe.[p]
+Hurry up and take it off.[p]
+Since you're a gal, being naked should be fine, right?[p]
+#Akai
+Hey...[p]
+Just because I'm a gal doesn't mean I'm not embarrassed...![p]
+#Tabata & Kimoto
+gulp[p]
+#Akai
+Ugh...[p]
+At least let me leave this place![p]
+They're looking at me with such creepy eyes...![p]
+#Nikuyama
+I told you we need a record keeper.[p]
+Endure it.[p]
+#Kaori
+Endure it, Akai-san.[p]
+It will be over soon.[p]
+#Akai
+Ugh...[p]
+F-Fine...[p]
+I'll do it...[p]
+#Tabata & Kimoto
+Oh...![p]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game246-1.jpg"  ]
 [tb_start_text mode=1 ]
-#赤井
-「ぬ、脱いだよ・・・」[p]
-#肉山
-「よし、サイズを測定するからここに立て」[p]
-#赤井
-「く・・・」[p]
-#肉山
-「まずはバストからだ。おら、手をしっかり上げて」[p]
-#赤井
-「う・・・」[p]
-#肉山
-「どれどれ、ふむ、なかなか形の良いオッパイだな。乳輪は大きめで・・・ん？」[p]
-「なんだ赤井、お前乳首がめり込んでるじゃないか。こりゃあ見事な陥没乳首だ」[p]
-#赤井
-「く・・・み、見るなよ・・・っ」[p]
-#肉山
-「これも大事なデータだからな。赤井は陥没乳首・・・と。ちゃんと記録しておけよ」[p]
-#木本「は、はいっ。赤井のあ・・・陥没乳首・・・と」
-#赤井
-「く・・・っ・・・くそぉ・・・」[p]
-#肉山
-「写真もしっかり撮れよ」[p]
+#Akai
+I-I took it off...[p]
+#Nikuyama
+Alright, stand here so I can measure your size.[p]
+#Akai
+Ugh...[p]
+#Nikuyama
+First, let's start with your bust.[p]
+Come on, raise your hands firmly.[p]
+#Akai
+Ugh...[p]
+#Nikuyama
+Let's see, hmm, your breasts have a nice shape.[p]
+The areolas are on the larger side...[p]
+Huh?[p]
+Akai, your nipples are inverted.[p]
+This is quite an impressive case of inverted nipples.[p]
+#Akai
+D-Don't...[p]
+don't look...[p]
+#Nikuyama
+This is important data too.[p]
+Akai has inverted nipples...[p]
+Make sure to record it properly.[p]
+#Kimoto "Y-Yes. Akai's... sunken nipples..."
+#Akai
+Ugh...[p]
+damn it...[p]
+#Nikuyama
+Make sure to take proper photos.[p]
 
 [_tb_end_text]
 
 [chara_show  name="田端"  time="500"  wait="true"  storage="chara/7/game43-3.png"  width="434"  height="827"  left="493"  top="156"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#田端
-「はいっ！ウヒヒヒッ」[p]
-パシャッ！パシャッ！パシャッ！[p]
-#赤井
-「お、おめえら覚えてろよ・・・っ」[p]
-#肉山
-「しかし遊んでる割には乳首の色はきれいなピンクだな。感心感心」[p]
-「さてサイズは・・・と。・・・ムムム・・・８６．４ｃｍだな」[p]
-#木本
-「８６．４ｃｍ・・・と」[p]
-#赤井
-「く・・・」[p]
-#肉山
-「若いから大きくても垂れてないし張りがあっていいオッパイだな。陥没乳首だけが惜しいが」[p]
-#赤井
-「も、もういいでしょ！さっさと次を測ってよ・・・！」[p]
-#肉山
-「はいはい、ウエストは・・・６４ｃｍか。ふむ、早瀬と比べるとだいぶムチムチしているな」[p]
-#赤井
-「ンッ・・・に、肉をつままないで・・・！」[p]
+#Tabata
+Yes![p]
+Uhuhu, snap![p]
+Snap![p]
+Snap![p]
+#Akai
+Y-You all better remember this...[p]
+#Nikuyama
+However, despite playing around, your nipple color is a beautiful pink.[p]
+Impressive, impressive.[p]
+Now then, let's move on to the size...[p]
+Hmmm...[p]
+86.[p]
+4 cm.[p]
+#Kimoto
+86.[p]
+and[p]
+#Akai
+Ugh...[p]
+#Nikuyama
+Your breasts are nice, with a good shape and firmness, even though they're big because you're young.[p]
+The only downside is your inverted nipples.[p]
+#Akai
+E-Enough already![p]
+Hurry up and measure the next thing...![p]
+#Nikuyama
+Alright, alright, your waist is...[p]
+64 cm.[p]
+Hmmm, compared to Hayase, you're quite plump.[p]
+#Akai
+Nn...[p]
+D-Don't pinch my flesh...![p]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game246-2.jpg"  ]
 [tb_start_text mode=1 ]
-#肉山
-「ヒップは・・・と。こっちもよく肉が付いてるなぁ。プリッとして形もいい」[p]
-#田端
-「うひょー！」[p]
-パシャッ！パシャッ！パシャッ！[p]
-#赤井
-「く・・・にやにやしながら写真撮ってんじゃねえよ・・・っ」[p]
-#肉山
-「どれサイズは・・・８７．２ｃｍか。なかなか高校生離れしたスリーサイズだな」[p]
-「お前は確か付き合ってる男がいたな。もうセックスは経験済みか？」[p]
-#赤井
-「そ、そんなの関係ないでしょ・・・！」[p]
-#肉山
-「バカ言え、淫乱症の判断にはものすごく重要なことだ。正直に答えなさい」[p]
-#赤井
-「そ、そんなこと・・・」[p]
-#香織
-「赤井さん、あなたの為なのよ。正直に答えて」[p]
-#赤井
-「く・・・や、やってるよ」[p]
-#肉山
-「ふむ、やっぱり非処女か。月にどのくらいのペースでやってるんだ？」[p]
-#赤井
-「そ、それは・・・週に１～２回・・・とか・・・」[p]
-#肉山
-「ゴムはちゃんとしてるんだろうな？」[p]
-#赤井
-「し、してるよ・・・！」[p]
-#肉山
-「経験人数は？今の男が何人目だ？」[p]
-#赤井
-「ひ、一人目だよっ！もういいだろ！」[p]
-#肉山
-「うむまぁいいだろう。ちゃんと今のデータ記録しておけよ」[p]
-#木本
-「はいっ・・・セックスは週に１～２回・・・」[p]
-#赤井
-「く・・・っ！」[p]
-#肉山
-「おっと、最後に陰毛をチェックしておかないとな。ん、これはしっかり手入れしてあるが・・・もともとそんなに濃くはなさそうだな」[p]
-「よし、終わりだ。お疲れさん」[p]
+#Nikuyama
+And as for your hips...[p]
+Hmm, there's a good amount of flesh here too.[p]
+They're nice and firm, with a good shape.[p]
+#Tabata
+Uhyo![p]
+Snap![p]
+Snap![p]
+Snap![p]
+#Akai
+D-Don't take pictures while smirking like that...![p]
+#Nikuyama
+So, your measurements are...[p]
+87.[p]
+2 cm.[p]
+Quite an impressive three sizes for a high school student.[p]
+I heard you have a boyfriend.[p]
+Have you already had sex?[p]
+#Akai
+Th-That's not relevant at all...![p]
+#Nikuyama
+Don't say stupid things.[p]
+It's very important for determining nymphomania.[p]
+Answer honestly.[p]
+#Akai
+Th-That's not...[p]
+#Kaori
+Akai-san, it's for your own sake.[p]
+Please answer honestly.[p]
+#Akai
+D-D-Doing it...[p]
+#Nikuyama
+Hmm, so you're not a virgin after all.[p]
+How often do you do it in a month?[p]
+#Akai
+W-Well...[p]
+about once or twice a week...[p]
+#Nikuyama
+I hope you're using protection, right?[p]
+#Akai
+I-I'm doing it...![p]
+#Nikuyama
+How many sexual partners have you had?[p]
+How many men have you been with before your current boyfriend?[p]
+#Akai
+I-I'm the first one![p]
+Isn't that enough already![p]
+#Nikuyama
+Well, I guess that's fine.[p]
+Make sure to properly record the current data.[p]
+#Kimoto
+Yes...[p]
+I have sex once or twice a week...[p]
+#Akai
+Kuh...![p]
+#Nikuyama
+Oh, I almost forgot to check your pubic hair.[p]
+Hmm, it seems to be well-groomed...[p]
+It doesn't seem to be too thick to begin with.[p]
+Alright, we're done.[p]
+Good job.[p]
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
@@ -640,22 +853,26 @@
 [chara_show  name="早瀬"  time="1000"  wait="false"  storage="chara/2/game47.png"  width="371"  height="873"  left="-23"  top="40"  reflect="false"  ]
 [chara_show  name="津山"  time="1000"  wait="true"  storage="chara/5/game48.png"  width="309"  height="727"  left="943"  top="156"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#肉山
-「よし、次は津山さなえ。お前だ」[p]
-#津山
-「う、うう・・・わたしの番だ・・・」[p]
-#香織
-「肉山先生、本当に津山さんが淫乱症疑いのリストに入ってるんですか？何かの間違いじゃ・・・？」[p]
-#肉山
-「淫乱症はなにも発育のいい女性だけに現れる体質ではないですよ」[p]
-「津山の体形は中央値から大きく外れていますから、統計上なんらかの理由で引っかかったんでしょう」[p]
-#香織
-「なるほど・・・」[p]
-#肉山
-「まぁ淫乱症だと決まったわけではないですからね。まずは詳しいデータを取らないと」[p]
-「ということだから早く脱ぎなさい」[p]
-#津山
-「は、はい・・・」[p]
+#Nikuyama
+Alright, next is Tsuyama Sanae.[p]
+It's your turn.[p]
+#Tsuyama
+U-uh...[p]
+it's my turn...[p]
+#Kaori
+Mr.[p]
+Nikuyama, is it true that Tsuyama-san is on the list of suspected nymphomaniacs?[p]
+Could it be a mistake...?[p]
+#Nikuyama
+Nymphomania is not a condition that only appears in well-developed women.[p]
+Tsuyama's body shape deviates significantly from the average, so statistically there must be some reason why they were flagged.[p]
+#Kaori
+I see...[p]
+#Nikuyama
+Well, it's not like we've determined that it's nymphomania.[p]
+We just need to gather more detailed data, so please hurry up and undress.[p]
+#Tsuyama
+Y-Yes...[p]
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
@@ -663,118 +880,165 @@
 [bg  time="1000"  method="crossfade"  storage="game248-0.jpg"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Grease_Slide_Trap.mp3"  ]
 [tb_start_text mode=1 ]
-#津山
-「んしょ・・・」[p]
-#肉山
-「ん？なんだお前ブラしてないのか？」[p]
-#津山
-「え・・・してないです・・・」[p]
-#肉山
-ふむ・・・まぁその体形ならいらないか」[p]
-#津山
-「学園に入る時にお母さんが買ってくれたですけど使ってないです・・・。なんか恥ずかしいです」[p]
-#香織
-「気にしないでいいわ。もう少しして身体が大きくなったら着ければいいんだから」[p]
-#津山
-「はいです・・・」[p]
-#肉山
-（うーん・・・服を脱ぐとさらに子供に見えるな。なんかすごく危険なものを見ている気になるぞ）[p]
-（パンツも白の綿パンか。色気のかけらもないが逆にエロく感じるな・・・）[p]
+#Tsuyama
+Nnsho...[p]
+#Nikuyama
+Huh?[p]
+Why aren't you wearing a bra?[p]
+#Tsuyama
+I...[p]
+I'm not wearing one...[p]
+#Nikuyama
+Hmmm...[p]
+well, with that body shape, you don't really need one.[p]
+#Tsuyama
+My mother bought it for me when I entered school, but I haven't used it...[p]
+It's kind of embarrassing.[p]
+#Kaori
+Don't worry about it.[p]
+You can just wear it when your body gets a little bigger.[p]
+#Tsuyama
+Yes...[p]
+#Nikuyama
+(Hmm...[p]
+When you take off your clothes, you look even more like a child.[p]
+It makes me feel like I'm looking at something really dangerous.[p]
+) (And your panties are plain white cotton.[p]
+)[p]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game248-1.jpg"  ]
 [tb_start_text mode=1 ]
-#肉山
-「うーむ、見事なほどに幼児体型だな」[p]
-「念のため聞いておくが生理は始まってるんだろうな？」[p]
-#津山
-「え・・・は、はじまってるです・・・」[p]
-#肉山
-「そりゃそうか・・・それじゃバストを測るからバンザイして」[p]
-#津山
-「あぅ・・・恥ずかしいです」[p]
-#香織
-「大丈夫よ津山さん。すぐに終わるから」[p]
-#肉山
-「それじゃ測っていくぞ」[p]
-「うーむ・・・乳首も小さいな。色素の沈着も全くない」[p]
-「ええと・・・バストは・・・７０．８ｃｍだな」[p]
+#Nikuyama
+Hmmm, your body shape is remarkably childlike.[p]
+Just to make sure, have you started your period?[p]
+#Tsuyama
+Umm...[p]
+I, I've started...[p]
+#Nikuyama
+I see...[p]
+Well then, raise your hands and let me measure your bust.[p]
+#Tsuyama
+Ah...[p]
+It's embarrassing.[p]
+#Kaori
+It's okay, Tsuyama-san.[p]
+It will be over soon.[p]
+#Nikuyama
+Alright, let's start measuring...[p]
+Your nipples are small too.[p]
+There's no pigmentation at all...[p]
+As for your bust...[p]
+it's 70.[p]
+8 cm.[p]
 
 [_tb_end_text]
 
 [chara_show  name="田端"  time="1000"  wait="true"  storage="chara/7/game43-3.png"  width="461"  height="878"  left="459"  top="105"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#田端
-「・・・・・・」[p]
-パシャッ！パシャッ！[p]
-#肉山
-（こいつ、わかりやすいくらい他の子と比べて興味が薄いな）[p]
-#木本
-「ろ、ろ、ロリっ子・・・グフフフフ」[p]
-#津山
-「あぅぅ・・・み、見ないでくださいです・・・」[p]
-#肉山
-（デブの方はロリコンもいけるのか）[p]
-「よし、次はウエストだ」[p]
-「ええと・・・うへぇ！４９ｃｍだ！細いな本当に・・・」[p]
+#Tabata
+...[p]
+Snap![p]
+Snap![p]
+#Nikuyama
+)[p]
+#Kimoto
+hehehehe[p]
+#Tsuyama
+Ahh...[p]
+P-Please don't look at me...[p]
+#Nikuyama
+(Can a chubby person be a lolicon?[p]
+) Alright, next is the waist...[p]
+Hmm...[p]
+Ugh![p]
+It's 49 cm![p]
+So slim...[p]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game248-2.jpg"  ]
 [tb_start_text mode=1 ]
-#肉山
-「お尻も小さいが・・・結構プニッとはしているな」[p]
-#津山
-「ヒャンッ！？」[p]
-#肉山
-「こら動くな。ピシっと立って」[p]
-#津山
-「は、はい・・・」[p]
-#肉山
-「えーと・・・ヒップは７６ｃｍか」[p]
-「うーんやはり全体的に小さすぎるな。もっとご飯食べないといかんぞ」[p]
-#津山
-「は、はいです・・・」[p]
-#肉山
-「陰毛は・・・ははぁ全く生えてないな。ツルツルだ」[p]
-#田端
-パシャッ！パシャッ！[p]
-#木本
-「つ、つ、つるつるおま〇こ・・・フヒッ」[p]
-#津山
-「あぁ・・・恥ずかしいです・・・グスン」[p]
-#香織
-「もう少しよ。我慢して」[p]
-#肉山
-「自慰とかはしてるのか？」[p]
-#津山
-「じい・・・？」[p]
-#肉山
-「オナニーだよ。自分で性器をいじったりしたことはあるのか？」[p]
-#津山
-「そ、そんなの・・・ないです・・・っ」[p]
-#肉山
-「本当か？正直に答えないといかんぞ？」[p]
-#津山
-「う・・・」[p]
-#香織
-「全然恥ずかしいことじゃないのよ。みんなやってることだし、全然普通のことなのよ」[p]
-#津山
-「せ、先生も・・・やってるですか・・・？[p]
-#香織
-「え！？え、ええ・・・先生もしてるわ」[p]
-#肉山
-「そうだ、みんなやってるんだぞ。やってない方がおかしいんだからな」[p]
-#津山
-「・・・わ、わたしも時々やってるです・・・」[p]
-#肉山
-「割れ目に指入れたりしてるのか？まさか道具とか使ってたりするのか？」[p]
-#津山
-「え・・・ま、枕とか・・・ぎゅっとしたりするです・・・」[p]
-#肉山
-「枕？・・・ああ、なるほど股間に押し付けて擦ったりするんだな。ふむ、その程度か」[p]
-「よし、そんなことろかな。もう服を着ていいぞ」[p]
+#Nikuyama
+Your butt is small too...[p]
+but it's quite plump.[p]
+#Tsuyama
+Hyaaah!?[p]
+#Nikuyama
+Hey, don't move.[p]
+Stand up straight.[p]
+#Tsuyama
+Y-Yes...[p]
+#Nikuyama
+Hmm...[p]
+Your hips are 76 cm...[p]
+Well, they're still too small overall.[p]
+You need to eat more rice.[p]
+#Tsuyama
+Y-Yes...[p]
+#Nikuyama
+Pubic hair...[p]
+Haha, there's absolutely none.[p]
+It's smooth.[p]
+#Tabata
+Snap![p]
+Snap![p]
+#Kimoto
+S-Smooth...[p]
+smooth pussy...[p]
+Hehe.[p]
+#Tsuyama
+Ah...[p]
+*sniffles*[p]
+#Kaori
+Just a little more.[p]
+Endure it.[p]
+#Nikuyama
+Do you masturbate?[p]
+#Tsuyama
+Huh...?[p]
+#Nikuyama
+Do you masturbate?[p]
+Have you ever touched your own genitals?[p]
+#Tsuyama
+I-I don't...[p]
+have that...[p]
+#Nikuyama
+Is that true?[p]
+You have to answer honestly, you know?[p]
+#Tsuyama
+Uhh...[p]
+#Kaori
+It's not embarrassing at all.[p]
+Everyone does it, it's completely normal.[p]
+#Tsuyama
+T-Teacher, do you...[p]
+do it too...?[p]
+#Kaori
+Eh!?[p]
+W-Wait...[p]
+Teacher, you do it too?[p]
+#Nikuyama
+That's right, everyone does it.[p]
+It's strange if you don't do it.[p]
+#Tsuyama
+I...[p]
+I do it sometimes too...[p]
+#Nikuyama
+Do you put your finger in your crotch?[p]
+Or do you use any tools?[p]
+#Tsuyama
+Umm...[p]
+I...[p]
+sometimes hug a pillow tightly...[p]
+#Nikuyama
+A pillow?[p]
+...[p]
+Ah, I see.[p]
+You press it against your crotch and rub it, huh.[p]
+Hmm, I guess that's the extent of it.[p]
+Alright, you can put your clothes back on.[p]
 
 [_tb_end_text]
 
@@ -786,18 +1050,21 @@
 [chara_show  name="藤野"  time="1000"  wait="false"  storage="chara/3/game45.png"  width="384"  height="903"  left="249"  top="16"  reflect="false"  ]
 [chara_show  name="早瀬"  time="1000"  wait="true"  storage="chara/2/game47.png"  width="371"  height="873"  left="-23"  top="40"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#肉山
-「よし、それじゃ最後はいよいよお待ちかねの藤野だな」[p]
-#藤野
-「えっ・・・お待ちかね？」[p]
-#肉山
-「ああ、いやなんでもない。服を全部脱いでこちらへ来なさい」[p]
-#藤野
-「はい・・・」[p]
-#早瀬
-「あやめ、頑張って」[p]
-#藤野
-「うん・・・大丈夫」[p]
+#Nikuyama
+Alright, then finally it's time for the long-awaited Fujino.[p]
+#Fujino
+Huh...[p]
+Have you been waiting for me?[p]
+#Nikuyama
+Ah, it's nothing.[p]
+Take off all your clothes and come over here.[p]
+#Fujino
+Yes...[p]
+#Hayase
+Ayame, do your best.[p]
+#Fujino
+Yeah...[p]
+I'm okay.[p]
 
 [_tb_end_text]
 
@@ -806,133 +1073,196 @@
 [bg  time="1000"  method="crossfade"  storage="game249-0.jpg"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Grease_Slide_Trap.mp3"  ]
 [tb_start_text mode=1 ]
-#藤野
-「・・・っ」[p]
-#肉山
-（うひょーー！ついに藤野の裸が拝めるぜ！）[p]
-（学園一の美少女というだけでなく才色兼備のお嬢様で全男子生徒の憧れの的。藤野が脱ぐというだけでプレミア感が違うな！）[p]
-#田端＆木本
-「おぉぉぉぉぉぉ・・・！」[p]
-#肉山
-（おお、制服着ててもあの胸は目立ってたが、脱ぐとやっぱりすごいボリュームだな！）[p]
-（下着は薄ピンクか・・・そんな派手じゃないがたぶんすげえ高級な品なんだろうな）[p]
-#藤野
-「ん・・・あぁ・・・恥ずかしい・・・」[p]
-#肉山
-「恥ずかしいか？ゆっくりでいいからな」[p]
-#藤野
-「は、はい・・・大丈夫です」[p]
-#肉山
-（他のみんなが脱いだことで覚悟はできてるようだな。特に憧れの桐嶋先生が脱いで見せたのが大きかったようだ）[p]
-（おぉっ・・・ついに藤野あやめの全裸だ・・・！）[p]
+#Fujino
+...[p]
+#Nikuyama
+(Woohoo![p]
+Finally, I get to see Fujino naked![p]
+) (Not only is she the most beautiful girl in school, but she's also a talented and elegant young lady who is the object of every boy's admiration.[p]
+)[p]
+#Tabata & Kimoto
+Ohhhhhhhh...![p]
+#Nikuyama
+(Oh, even though she was wearing her school uniform, her breasts were still noticeable, but when she takes them off, they're really impressive in terms of volume![p]
+) (Her underwear is light pink...[p]
+)[p]
+#Fujino
+Mmm...[p]
+Ah...[p]
+It's embarrassing...[p]
+#Nikuyama
+Are you embarrassed?[p]
+Take your time.[p]
+#Fujino
+Y-Yes...[p]
+I'm okay.[p]
+#Nikuyama
+(It seems like everyone else has prepared themselves by undressing.[p]
+Especially when the admired Kirishima-sensei undressed, it made a big impact.[p]
+) (Ohhh...[p]
+)[p]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game249-1.jpg"  ]
 [tb_start_text mode=1 ]
-#藤野
-「お、お願いします・・・」[p]
-#田端
-「うぉぉぉー！すげぇー－－！」[p]
-パシャッ！パシャッ！パシャッ！パシャッ！[p]
-#肉山
-「ほぉー、これは発育がいいな。乳輪もぷっくりと膨らんで・・・乳首も大きめだな」[p]
-（うひょーたまらんぜ。思いっきり揉んでみてえー！それにシャンプーか・・・？なんかすげーいい匂いがするぜ！）[p]
-#藤野
-「あぁ・・・あんまり見ないでください・・・」[p]
-#肉山
-「なにもスケベな気持ちで見ているんじゃないぞ。淫乱症の判別には重要なことだからな」[p]
-「うむ、重みもすごいな、ずしっと来るぞ」タプタプ[p]
-#藤野
-「アッ・・・イヤンッ・・・」[p]
-#木本
-「おぉ・・・うらやましい・・・」[p]
-#早瀬
-「あやめ・・・」[p]
-#肉山
-「よし、サイズを測っていこう。しっかり乳首の先っぽにメジャーを当てて・・・」[p]
-#藤野
-「アッ・・・ンッ・・・」[p]
-#肉山
-「これでよし・・・と。えーっと・・・９３．８ｃｍだな」[p]
-#田端
-「おぉ・・・っ！」[p]
-パシャッ！パシャッ！パシャッ！パシャッ！[p]
-#赤井
-「でっか・・・」[p]
-#藤野
-「あぁ・・・恥ずかしい・・・」[p]
-#肉山
-「乳房の発達は淫乱症の最も顕著な特徴だからな」[p]
-#藤野
-「そ、そんな・・・」[p]
-#肉山
-「なに、まだそうと決まったわけじゃない。よし、次はウエストを測ろう」[p]
-「えー・・・６１．８ｃｍか。筋肉は少なめだな」プニプニ[p]
-#藤野
-「アハァッ・・・う、運動は苦手で・・・」[p]
-#肉山
-「なーに、これくらい軟らかい身体の方が好きな男は多い」[p]
-「さあ最後はヒップだな」[p]
+#Fujino
+P-Please...[p]
+#Tabata
+Whoa![p]
+Amazing![p]
+Snap![p]
+Snap![p]
+Snap![p]
+Snap![p]
+#Nikuyama
+Oh, this is some good development.[p]
+The areolas are plump and the nipples are on the larger side.[p]
+(Wow, I can't resist.[p]
+I really want to squeeze them hard![p]
+And is that shampoo...?[p]
+)[p]
+#Fujino
+Ah...[p]
+Please don't look too much...[p]
+#Nikuyama
+I'm not looking with any perverted intentions, you know.[p]
+It's important for distinguishing nymphomania, and the weight is also impressive.[p]
+It's quite stimulating.[p]
+#Fujino
+Ah...[p]
+Iyaan...[p]
+#Kimoto
+Oh...[p]
+I'm envious...[p]
+#Hayase
+Ayame...[p]
+#Nikuyama
+Alright, let's measure the size.[p]
+Firmly place the measuring tape on the tip of the nipple...[p]
+#Fujino
+Ah...[p]
+ngh...[p]
+#Nikuyama
+Alright...[p]
+and done.[p]
+Let's see...[p]
+it's 93.[p]
+8 cm.[p]
+#Tabata
+Oh...![p]
+Snap![p]
+Snap![p]
+Snap![p]
+Snap![p]
+#Akai
+Huge...[p]
+#Fujino
+Ah...[p]
+It's embarrassing...[p]
+#Nikuyama
+The development of breasts is the most prominent characteristic of nymphomania.[p]
+#Fujino
+Th-there's no way...[p]
+#Nikuyama
+Well, it's not decided yet.[p]
+Alright, let's measure the waist next...[p]
+61.[p]
+8 cm.[p]
+It's a bit lacking in muscles, soft and squishy.[p]
+#Fujino
+Ahh...[p]
+I'm not good at exercising...[p]
+#Nikuyama
+Well, many men actually prefer a soft body like this.[p]
+Alright, let's measure the hips last.[p]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game249-2.jpg"  ]
 [tb_cg  id="246"  ]
 [tb_start_text mode=1 ]
-#肉山
-「うむ、安産型のどっしりしたいい尻だ。丈夫な赤ん坊を生みそうだ」サワサワ[p]
-#藤野
-「アンッ・・・あ、ありがとうございます・・・」[p]
-#肉山
-「しかし上品な顔して陰毛はかなり濃いな。手入れもしてないのか？」[p]
-#藤野
-「は、はい・・・すいません・・・あぁ・・・」[p]
-#田端
-「うぉぉ・・・！」[p]
-パシャッ！パシャッ！パシャッ！パシャッ！[p]
-#木本
-「ふ、ふ、藤野さんのアソコ・・・おほぅっ！」[p]
-#赤井
-「こいつら・・・スケベな目で見やがって・・・」[p]
-#早瀬
-「あやめ・・・もう少しだから頑張って・・・」[p]
-#肉山
-「どれ、サイズは・・・８８．７ｃｍだな。うむ素晴らしい」[p]
-「結局、藤野のスリーサイズは・・・だいたい９４・６２・８９か！なんてムチムチした・・・ＪＫにあるまじき身体だ・・・けしからん！」[p]
-#藤野
-「え・・・す、すいません・・・」[p]
-#肉山
-「ああ、いや、女性らしくて良い体型だ。うむ」[p]
-「念のために聞いておくが性経験は無いよな？」[p]
-#藤野
-「は、はい・・・」[p]
-#肉山
-「自慰行為はどのくらいの頻度でやってる？」[p]
-#藤野
-「そ、それは・・・あの・・・」[p]
-#香織
-「恥ずかしがらないで正直に答えて。大事なことだから」[p]
-#藤野
-「は、はいっ・・・週に・・・１回くらいです」[p]
-#肉山
-「本当か？正直に答えないといかんぞ？」[p]
-#藤野
-「ほ、本当です」[p]
-#肉山
-「ふむ、道具とかは使ったりするのか？」[p]
-#藤野
-「い、いえ・・・」[p]
-#肉山
-「どんなふうにオナるんだ？指を入れたりは？」[p]
-#藤野
-「あ・・・その・・・」[p]
-「う・・・シャワーを・・・当てたり・・・」[p]
-#肉山
-「なるほど、水圧を楽しむというわけか。ふむふむ」[p]
-「だいたいこんなところかな。それじゃこれで終わりなのでもう服を着ていいぞ」[p]
-#藤野
-「は、はい」[p]
+#Nikuyama
+Hmm, it's a sturdy and well-rounded butt.[p]
+It looks like it could give birth to a healthy baby, swaying softly.[p]
+#Fujino
+Ahh...[p]
+Th-thank you...[p]
+#Nikuyama
+But they have such a refined face, yet their pubic hair is quite thick.[p]
+Haven't they been grooming it?[p]
+#Fujino
+Y-Yes...[p]
+I'm sorry...[p]
+Ahh...[p]
+#Tabata
+Whoa...![p]
+Snap![p]
+Snap![p]
+Snap![p]
+Snap![p]
+#Kimoto
+F-Fujino-san's crotch...[p]
+ohh![p]
+#Akai
+These guys...[p]
+looking at me with such perverted eyes...[p]
+#Hayase
+Ayame...[p]
+Just a little more, so hang in there...[p]
+#Nikuyama
+Alright, the size is...[p]
+88.[p]
+7 cm.[p]
+Hmm, splendid.[p]
+In the end, Fujino's three sizes are...[p]
+approximately 94-62-89![p]
+Such plump...[p]
+body for a high school girl...[p]
+it's unacceptable![p]
+#Fujino
+Uh...[p]
+I-I'm sorry...[p]
+#Nikuyama
+Ah, no, they have a good feminine body shape.[p]
+Just to confirm, they have no sexual experience, right?[p]
+#Fujino
+Y-Yes...[p]
+#Nikuyama
+How often do they engage in masturbation?[p]
+#Fujino
+Th-That is...[p]
+um...[p]
+#Kaori
+Don't be embarrassed, answer honestly.[p]
+It's an important question.[p]
+#Fujino
+Y-Yes...[p]
+About once a week...[p]
+#Nikuyama
+Is that true?[p]
+You have to answer honestly, you know?[p]
+#Fujino
+Y-Yes, it's true.[p]
+#Nikuyama
+Hmm, do they use any tools or anything?[p]
+#Fujino
+N-No...[p]
+#Nikuyama
+How do they masturbate?[p]
+Do they insert their fingers?[p]
+#Fujino
+Ah...[p]
+um...[p]
+I...[p]
+use the shower...[p]
+#Nikuyama
+I see, so they enjoy the water pressure.[p]
+Hmm, I understand.[p]
+That's about it, then.[p]
+Well, you can put your clothes back on now.[p]
+#Fujino
+Y-Yes[p]
 
 [_tb_end_text]
 
@@ -946,115 +1276,136 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="捜査会議.mp3"  ]
 [tb_start_text mode=1 ]
-#肉山
-「これで身体検査は終わりだ。お疲れさん」[p]
-「全員の精密な身体データが計測できたから、これを教育委員会の方に提出しておく」[p]
-「淫乱症かどうかの判定結果は後日私のもとに返ってくるから、分かり次第一人一人に個別で報告することになる」[p]
-#赤井
-「もし・・・その淫乱症ってやつだと判ったらどうなるの？」[p]
-#肉山
-「さっきも言った通り淫乱症だと判定されても今のうちに適切に対処すれば将来に影響はないから心配することはない」[p]
-「それからこれはとても大事なことだが、今日のことに関しては絶対に口外しないように」[p]
+#Nikuyama
+With this, the physical examination is over.[p]
+Thanks for your hard work, everyone.[p]
+We were able to measure precise body data for each of you, so I will submit this to the Board of Education.[p]
+The results of determining whether it's a case of nymphomania or not will be returned to me at a later date.[p]
+Once I receive them, I will report individually to each person as soon as possible.[p]
+#Akai
+What will happen if they determine that it's nymphomania?[p]
+#Nikuyama
+As I mentioned earlier, even if they determine it as nymphomania, there is no need to worry as long as we handle it appropriately now.[p]
+It's important to note that we must absolutely not disclose anything about today's events.[p]
 
 [_tb_end_text]
 
 [tb_image_show  time="1000"  storage="default/game200.png"  width="258"  height="229"  x="502"  y="278"  _clickable_img=""  name="img_160"  ]
 [tb_image_hide  time="1000"  ]
 [tb_start_text mode=1 ]
-#早瀬
-「どうしてですか？」[p]
-#肉山
-「淫乱症は決して危険な病気ではないし感染も遺伝もしないが、その症状や患者の個人データは徹底して伏せる決まりになっている」[p]
-「なぜなら淫乱症はその特性上、誤解や偏見を受けやすいからだ」[p]
-#藤野
-「誤解や偏見・・・」[p]
-#肉山
-「わかりやすく言うと、淫乱症の女性だと知られると「あいつはスケベな女だ」とか「男に飢えていて男ならだれとでも寝る」とかそういう偏見の目で見られてしまうということだ」[p]
-#早瀬
-「そ、そんな・・・！」[p]
-#肉山
-「それだけならまだいいが、実際にレイプや痴漢やストーカーなどの被害に遭うケースも多い。だから淫乱症に関しては情報の秘匿を徹底することが法律で定められているのだ」[p]
-「だからネットなどで調べても淫乱症に関する情報はほとんどないし、一般的にはその存在もほとんど知られていない」[p]
-#赤井
-「だから聞いたことなかったのか・・・」[p]
-#香織
-「というわけだから友達や家族にも絶対に今回のことは話さないようにしてください」[p]
-#藤野
-「え・・・家族も駄目なんですか？」[p]
-#肉山
-「まだ淫乱症と決まったわけではないし余計な心配をかけても仕方がないからな。親御さんも混乱するだろうし説明が大変だから」[p]
-#津山
-「お母さんもだめですか？」[p]
-#香織
-「ダメです。お母さんに余計な心配かけたくないでしょう？」[p]
-#津山
-「はいです」[p]
-#肉山
-「ということで今日は終わりだ」[p]
-「後日結果が判ったら個別でまたここに来てもらうことになるからそのつもりで。今日はもう帰っていいぞ」[p]
-#香織
-「みんなお疲れ様。秘密厳守は絶対に気をつけてね」[p]
-#藤野・早瀬・赤井・津山
-「はい」[p]
+#Hayase
+Why?[p]
+#Nikuyama
+Nymphomania is not a dangerous illness, and it is neither contagious nor hereditary.[p]
+However, it is strictly required to keep the symptoms and personal data of the patients confidential.[p]
+This is because nymphomania is prone to misunderstandings and prejudice due to its characteristics.[p]
+#Fujino
+Misunderstandings and prejudice...[p]
+#Nikuyama
+To put it simply, if it becomes known that someone has nymphomania, they will be seen with biased eyes as a lewd woman who is hungry for men and will sleep with anyone.[p]
+#Hayase
+No, no way...![p]
+#Nikuyama
+It's not just that, but there are many cases where people with nymphomania become victims of rape, molestation, stalking, and other forms of harassment.[p]
+That's why it is legally mandated to strictly keep information about nymphomania confidential.[p]
+That's why there is hardly any information about nymphomania available online, and it is generally not well-known.[p]
+#Akai
+So that's why I've never heard of it...[p]
+#Kaori
+That's why please make sure not to talk about this to your friends or family under any circumstances.[p]
+#Fujino
+Eh...[p]
+Is it also not allowed to tell family?[p]
+#Nikuyama
+It hasn't been determined as nymphomania yet, so there's no point in causing unnecessary worry.[p]
+It would be difficult to explain and parents would also be confused.[p]
+#Tsuyama
+Is it also not allowed to tell my mother?[p]
+#Kaori
+No, it's not allowed.[p]
+You wouldn't want to cause unnecessary worry to your mother, right?[p]
+#Tsuyama
+Yes.[p]
+#Nikuyama
+That's all for today.[p]
+Once the results are determined, you will need to come back here individually.[p]
+You can go home now.[p]
+#Kaori
+Good work, everyone.[p]
+Please be absolutely careful to keep this a secret.[p]
+#Fujino Hayase Akai Tsuyama
+Fujino, Hayase, Akai, Tsuyama: Yes.[p]
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
 [chara_show  name="田端"  time="1000"  wait="false"  storage="chara/7/game43-1.png"  width="355"  height="835"  left="657"  top="35"  reflect="false"  ]
 [chara_show  name="木本"  time="1000"  wait="true"  storage="chara/8/game44-1.png"  width="452"  height="932"  left="183"  top="15"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#肉山
-「お前らもご苦労さん。言うまでもないがお前らも絶対に今日のことを口外するなよ」[p]
-#田端＆木本
-「は、はい。もちろんです」[p]
-#肉山
-「それじゃもういいぞ帰って」[p]
-#香織
-「あ、待って。画像データを回収しないと・・・」[p]
-#肉山
-「おっと、そうだったな。記録したデータは全部こっちで預かる」[p]
-#田端
-「そりゃそうですよね・・・くそっ・・・惜しいなあ・・・」[p]
-#木本
-「仕方ないよ。見られただけでもすごいラッキーなんだから」[p]
-#香織
-「秘密厳守は絶対にお願いよ。彼女たちの学園生活が懸かってるんだから」[p]
-#田端
-「は、はいっ。もちろんです」[p]
-#木本
-「し、失礼します」[p]
+#Nikuyama
+You all worked hard.[p]
+It goes without saying, but make sure you absolutely do not talk about what happened today.[p]
+#Tabata & Kimoto
+Yes, of course.[p]
+#Nikuyama
+Alright, you can go home now.[p]
+#Kaori
+Ah, wait.[p]
+We need to collect the image data...[p]
+#Nikuyama
+Oh, right.[p]
+I forgot.[p]
+I'll take care of all the recorded data here.[p]
+#Tabata
+Yeah, that's right...[p]
+Damn it...[p]
+It's a shame...[p]
+#Kimoto
+It can't be helped.[p]
+Just being seen is already incredibly lucky.[p]
+#Kaori
+Please absolutely keep this a secret.[p]
+Their school lives are at stake.[p]
+#Tabata
+Y-Yes.[p]
+Of course.[p]
+#Kimoto
+E-Excuse me.[p]
 
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
 [chara_show  name="桐嶋"  time="1000"  wait="true"  storage="chara/1/game22.png"  width="376"  height="885"  left="423"  top="17"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#香織
-「彼女たちが全員陰性だといいけど・・・」[p]
-#肉山
-「まぁ、陽性判定になったとしても適切な対処をすれば大丈夫だ」[p]
-#香織
-「そうですけど・・・」[p]
-#肉山
-「本当は淫乱症の仲間が欲しい気持ちもちょっとはあるんじゃないのか？」[p]
+#Kaori
+I hope all of them test negative...[p]
+#Nikuyama
+Well, even if they test positive, as long as we handle it properly, it'll be okay.[p]
+#Kaori
+That's right, but...[p]
+#Nikuyama
+Don't you have a little desire to have companions with nymphomania?[p]
 
 
 [_tb_end_text]
 
 [chara_mod  name="桐嶋"  time="600"  cross="true"  storage="chara/1/game13.png"  ]
 [tb_start_text mode=1 ]
-#香織
-「そ、そんなことはありません・・・！彼女たちには私のような苦労を味わってほしくないんです・・・」[p]
-#肉山
-「そんなに淫乱症が嫌か？俺が献身的に付き合ってやってるのに」[p]
-#香織
-「そ、それは・・・当然でしょう・・・！」[p]
-#肉山
-「ククク、まぁいい。それじゃ今日もチンポ調教を始めるぞ」[p]
-#香織
-「は、はい・・・」[p]
+#Kaori
+Th-That's not true...![p]
+I don't want them to experience the hardships like I have...[p]
+#Nikuyama
+Do you dislike nymphomania that much?[p]
+Even though I've been devotedly accompanying you.[p]
+#Kaori
+Th-That's...[p]
+of course...![p]
+#Nikuyama
+Hehehe, well, never mind.[p]
+Then, let's start the cock training today too.[p]
+#Kaori
+Y-Yes...[p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -1071,7 +1422,7 @@
 [chara_hide_all  time="1000"  wait="true"  ]
 [tb_start_text mode=1 ]
 #
-誰を呼び出す？[p]
+Who are you calling out?[p]
 [_tb_end_text]
 
 [glink  color="black"  storage="play10.ks"  size="20"  text="早瀬みちる"  target="*seito2aa"  width="120"  height="20"  x="510"  y="220"  ]
@@ -1086,87 +1437,122 @@
 [chara_show  name="早瀬"  time="1000"  wait="true"  storage="chara/2/game47.png"  width="418"  height="984"  left="201"  top="31"  reflect="false"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Grease_Slide_Trap.mp3"  ]
 [tb_start_text mode=1 ]
-#肉山
-「この前の身体検査の結果が返ってきた」[p]
-#早瀬
-「はい・・・そ、それで、どうだったんですか？」[p]
-#肉山
-「結果は陽性・・・つまり淫乱症だということが判明した」[p]
-#早瀬
-「そ、そんな・・・！？」[p]
-#香織
-「落ち着いて早瀬さん。大丈夫だから。前に説明したでしょう、今からちゃんと処置をすれば大丈夫だって」[p]
-#肉山
-「そうだぞ。淫乱症体質だということが判っただけだから、これから適切な処置をしていけば発症は抑えられる」[p]
-#早瀬
-「は、はい・・・。でも適切な処置ってどんな・・・？」[p]
-#肉山
-「なに、そんなに大変なことじゃない。私が行うので通院の必要もないし、放課後に数回この部屋に通って簡単な・・・カウンセリングのようなことを行うだけだ」[p]
-#早瀬
-「肉山先生が・・・」[p]
-#肉山
-「そうだ。そんなに固くなることはない。簡単な処置をするだけだからな。ねえ桐嶋先生？」[p]
+#Nikuyama
+The results of the previous physical examination have come back.[p]
+#Hayase
+Yes...[p]
+S-So, how did it go?[p]
+#Nikuyama
+The results came back positive...[p]
+which means it has been confirmed that you have nymphomania.[p]
+#Hayase
+S-So, that...!?[p]
+#Kaori
+Calm down, Hayase-san.[p]
+It's okay.[p]
+I explained it before, right?[p]
+If we take proper measures from now on, everything will be fine.[p]
+#Nikuyama
+That's right.[p]
+It's just that we confirmed you have a nymphomaniac constitution, so if we take appropriate measures from now on, we can suppress the symptoms.[p]
+#Hayase
+Y-Yes...[p]
+But what kind of appropriate measures...?[p]
+#Nikuyama
+What, it's not that difficult.[p]
+There's no need for you to visit the clinic, I will take care of it.[p]
+Just come to this room a few times after school and we'll do something simple...[p]
+like counseling.[p]
+#Hayase
+Dr.[p]
+Nikuyama...[p]
+#Nikuyama
+That's right.[p]
+You don't have to worry so much.[p]
+It's just a simple treatment.[p]
+Right, Kirishima-sensei?[p]
 
 [_tb_end_text]
 
 [tb_image_show  time="1000"  storage="default/game200.png"  width="290"  height="258"  x="499"  y="266"  _clickable_img=""  name="img_195"  ]
 [tb_image_hide  time="1000"  ]
 [tb_start_text mode=1 ]
-#香織
-「そ、そうよ。簡単な・・・処置だから。肉山先生の言うことをよく聞いて指示に従っていれば・・・すぐに終わるわ」[p]
-#早瀬
-「は、はぁ・・・」[p]
-#肉山
-「早速今から処置を始めていこう」[p]
-#早瀬
-「えっ、今からですか・・・？」[p]
-#肉山
-「早く始めた方が良いからな。よし、とりあえず服を全部脱ぎなさい」[p]
-#早瀬
-「えっ！？ま、またですか・・・？」[p]
-#肉山
-「そうだ。ちょっと恥ずかしいかもしれないが淫乱症の発現を防ぐためだからね。嫌だろう、淫乱症になるのは？」[p]
-#早瀬
-「は、はい・・・」[p]
-#香織
-「あなたの為なのよ。我慢して・・・」[p]
-#早瀬
-「は、はい・・・わかりました・・・」[p]
-#肉山
-「それじゃ桐嶋先生は退室していてもらえますか」[p]
-#香織
-「はい、わかりました」[p]
-#早瀬
-「えっ、桐嶋先生は居てくれないんですか・・・？」[p]
-#香織
-「ええ・・・私は見ていない方が良いから・・・」[p]
-「くれぐれも肉山先生の言うことをよく聞いて指示に従うのよ。いいわね？」[p]
-#早瀬
-「はい・・・わかりました」[p]
-#香織
-「それじゃ頑張ってね」[p]
+#Kaori
+Y-Yes.[p]
+It's a simple...[p]
+treatment.[p]
+If you listen to Dr.[p]
+Nikuyama's instructions and follow them, it will be over soon.[p]
+#Hayase
+Haa...[p]
+#Nikuyama
+Let's start the treatment right away.[p]
+#Hayase
+Huh, right now...?[p]
+#Nikuyama
+It's better to start quickly.[p]
+Alright, for now, take off all your clothes.[p]
+#Hayase
+Eh!?[p]
+A-Again...?[p]
+#Nikuyama
+That's right.[p]
+It might be a little embarrassing, but it's to prevent the manifestation of nymphomania.[p]
+You wouldn't want to become a nymphomaniac, would you?[p]
+#Hayase
+Y-Yes...[p]
+#Kaori
+It's for your sake.[p]
+Please endure...[p]
+#Hayase
+Y-Yes...[p]
+I understand...[p]
+#Nikuyama
+Then, could you please leave the room, Dr.[p]
+Kirishima?[p]
+#Kaori
+Yes, I understand.[p]
+#Hayase
+Eh, won't Dr.[p]
+Kirishima be here...?[p]
+#Kaori
+Um...[p]
+It's better if I don't watch...[p]
+Please make sure to listen to what Dr.[p]
+Nikuyama says and follow his instructions carefully.[p]
+Got it?[p]
+#Hayase
+Yes...[p]
+I understand.[p]
+#Kaori
+Well then, do your best.[p]
 [_tb_end_text]
 
 [chara_hide  name="桐嶋"  time="1000"  wait="true"  pos_mode="true"  ]
 [tb_start_text mode=1 ]
-#肉山
-「よし、それじゃ始めるから服を脱いで」[p]
-#早瀬
-「は、はい・・・」[p]
+#Nikuyama
+Alright, then let's start.[p]
+Please take off your clothes.[p]
+#Hayase
+Y-Yes...[p]
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
 [bg  time="1000"  method="crossfade"  storage="game247-0.jpg"  ]
 [tb_start_text mode=1 ]
-#肉山
-「全部脱いだらそこに立って。脱いだ服はその辺に置いておきなさい」[p]
-#早瀬
-「はい・・・」[p]
-「あ、あの・・・これから何するんですか・・・？」[p]
-#肉山
-「なに、緊張しないでいい。リラックスして。すぐに終わるから」[p]
-#早瀬
-「は、はぁ・・・」[p]
+#Nikuyama
+Once you've taken everything off, stand over there.[p]
+Leave your clothes that you took off around there.[p]
+#Hayase
+Yes...[p]
+Umm...[p]
+What are we going to do from now on...?[p]
+#Nikuyama
+Don't be nervous.[p]
+Relax.[p]
+It will be over soon.[p]
+#Hayase
+H-Haa...[p]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -1175,72 +1561,127 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Indomitable.mp3"  ]
 [tb_start_text mode=1 ]
-#早瀬
-「アァ・・・ッ！！やっぱり・・・イヤァァァッ！！」[p]
-#肉山
-「ほら、暴れるんじゃない。力を抜け」[p]
-#早瀬
-「で、でも・・・こんなの・・・アァッ」[p]
-#肉山
-「だから説明しただろう。淫乱症の抑止には適切な性交経験が必要不可欠だって」[p]
-「潜在的淫乱症体質の女性が適齢期を過ぎても性交を未経験だったり、初体験が適切に行われなかった場合、淫乱症が発症してしまう危険性が高いのだ」[p]
-#早瀬
-「で、でも・・・あぅ・・・こ、こんなの・・・初めてなのに・・・」[p]
-#肉山
-「これはセックスではなくあくまで医療行為なんだから初体験に数える必要はない。本当の初体験は将来好きな相手とすればいい」[p]
-#早瀬
-「そ、そんなこと・・・言っても・・・うぅ・・・」[p]
-#肉山
-「それじゃいくぞ。ちょっと痛いかもしれないが・・・」[p]
-#早瀬
-「エッ！？ちょ・・・ちょっと待っ・・・」[p]
+#Hayase
+Ah...![p]
+I-I can't...[p]
+Noooo!![p]
+#Nikuyama
+Hey, don't struggle.[p]
+Relax and let go of your strength.[p]
+#Hayase
+B-But...[p]
+something like this...[p]
+Ahh...[p]
+#Nikuyama
+I already explained this.[p]
+It is essential for women with a potential nymphomaniac disposition to have appropriate sexual experiences in order to suppress nymphomania.[p]
+If a woman with a potential nymphomaniac disposition reaches the appropriate age without any sexual experience or if her first sexual experience is not conducted properly, there is a high risk of developing nymphomania.[p]
+#Hayase
+B-But...[p]
+Ahh...[p]
+Th-This is...[p]
+my first time...[p]
+#Nikuyama
+This is not sex, it's purely a medical procedure, so there's no need to count it as your first experience.[p]
+Your true first experience should be with someone you love in the future.[p]
+#Hayase
+E-Even if you say that...[p]
+ugh...[p]
+#Nikuyama
+Alright, here we go.[p]
+It might hurt a little...[p]
+#Hayase
+Eh!?[p]
+W-Wait a...[p]
+wait...[p]
 #
-ズプッ・・・！[p]
-#早瀬
-「アァッ！？アァァ・・・は、入って・・・ンン－－－ッ！？」[p]
-#肉山
-「さすがにきついな・・・お、これが処女膜かな・・・？」[p]
-#早瀬
-「ンッ・・・ハァッ！・・・ク・・・フゥッ・・・ッ！」[p]
-#肉山
-「いくぞ・・・そらっ！」[p]
+*squelch*...![p]
+#Hayase
+Ahh!?[p]
+Ahhh...[p]
+It's...[p]
+going in...[p]
+Uhhhhhh!?[p]
+#Nikuyama
+It's quite tight...[p]
+Oh, is this the hymen...?[p]
+#Hayase
+Nn...[p]
+Haa![p]
+...[p]
+Ku...[p]
+Fuu![p]
+#Nikuyama
+Here we go...[p]
+Take this![p]
 #
-ブチッ・・・！[p]
-#早瀬
-「ッーーーーーーーッ！？・・・ハァッ・・・ッ！・・・ヒィッ・・・ッ！？」[p]
-#肉山
-「痛かったか？しばらく動かずにこのままにしてるから深呼吸して力を抜け」[p]
-#早瀬
-「ハァッ・・・う・・・は、はい・・・ハァッ・・・フゥッ・・・」[p]
-#肉山
-（ウヒヒッ！女子生徒の生マンコゲットだぜ！しかもボーイッシュ陸上女の処女膜だ！たまらねえな！）[p]
-#早瀬
-「ハァッ・・・ハァッ・・・ンンッ・・・フゥッ・・・」[p]
-#肉山
-「どうだ、落ち着いたか？」[p]
-#早瀬
-「あ・・・はい・・・ンッ・・・ハァッ」[p]
-#肉山
-「よし、それじゃ奥まで入れていくぞ」[p]
+*thrust*...![p]
+#Hayase
+Uuuuuuuh!?...[p]
+Haaah...[p]
+Hh!...[p]
+Hiiiih...!?[p]
+#Nikuyama
+Did it hurt?[p]
+Take a deep breath and relax for a moment without moving.[p]
+#Hayase
+Haa...[p]
+u...[p]
+yes...[p]
+haa...[p]
+fuu...[p]
+#Nikuyama
+(Uhuhu![p]
+I've got a high school girl's raw pussy![p]
+And it's the virgin hymen of a tomboyish track and field girl![p]
+)[p]
+#Hayase
+Haa...[p]
+Haa...[p]
+Nnn...[p]
+Fuu...[p]
+#Nikuyama
+How are you feeling now?[p]
+#Hayase
+Ah...[p]
+Yes...[p]
+Haaah[p]
+#Nikuyama
+Alright, then I'll go deep inside.[p]
 #
-ズププッ・・・！[p]
-#早瀬
-「アアッ・・・く・・・ンハァッ！」[p]
-#肉山
-「む・・・さすが陸上部・・・すごい締りだ。ムムっ！」[p]
+*Squelch*...![p]
+#Hayase
+Ahh...[p]
+ku...[p]
+nhaa![p]
+#Nikuyama
+Mmm...[p]
+As expected of the track and field club...[p]
+It's really tight.[p]
+Mmm![p]
 #
-ギュギュギュッ・・・ッ[p]
-#早瀬
-「ンンーーッ！？ア・・・アヒッ！・・・ググ・・・ッ」[p]
-#肉山
-「よし・・・なんとか根本まで入ったぞ。どうだ、初めて男のチンポが入った感触は？」[p]
-#早瀬
-「う・・・い、痛いし・・・苦しい・・・です・・・」[p]
-#肉山
-「最初は誰でもそうだ。だがだんだん気持ちよくなる」[p]
-「それじゃ少しずつ動いていくぞ」[p]
-#早瀬
-「えっ・・・ま、待って・・・アァッ！？」[p]
+Squeeze...![p]
+#Hayase
+Nnghh!?[p]
+Ah...[p]
+Ahhii!...[p]
+Guh...[p]
+#Nikuyama
+Alright...[p]
+I managed to go all the way in.[p]
+How does it feel to have a man's penis inside you for the first time?[p]
+#Hayase
+It...[p]
+hurts and...[p]
+it's uncomfortable...[p]
+#Nikuyama
+At first, everyone feels that way.[p]
+But gradually, it starts to feel good.[p]
+So let's move little by little.[p]
+#Hayase
+Eh...[p]
+W-Wait...[p]
+Ahh!?[p]
 
 
 [_tb_end_text]
@@ -1248,85 +1689,185 @@
 [bg  time="1000"  method="crossfade"  storage="game258-2.jpg"  ]
 [tb_start_text mode=1 ]
 #
-ニチュッ・・・ズズッ・・・[p]
-#早瀬
-「アッ・・・ハァッ！・・・う・・・クゥッ・・・」[p]
-#肉山
-「最初だから痛いと思うがちょっと我慢しろよ」[p]
-#早瀬
-「アゥ・・・は、はい・・・ッ・・・フゥッ・・・」[p]
+*Squelch*...[p]
+*Squeeze*...[p]
+#Hayase
+Ahh...[p]
+Haa!...[p]
+U...[p]
+Kuuh...[p]
+#Nikuyama
+I know it hurts because it's your first time, but please bear with it for a little bit.[p]
+#Hayase
+Ah...[p]
+Y-Yes...[p]
+Fuu...[p]
 #
-ズププッ・・・ヌチッ・・・ズプッ・・・ヌヌッ・・・[p]
-#肉山
-（くぅ～～なんて締りだ。香織のマンコも名器だが・・・このまだ青い身体を無理やりこじ開けていく感じも悪くないぜ・・・ウヒヒヒ！）[p]
+*Squelch*...[p]
+*Squeeze*...[p]
+*Squelch*...[p]
+*Nunu*...[p]
+#Nikuyama
+(Mmm...[p]
+What a tightness.[p]
+Kaori's pussy is amazing, but...[p]
+the feeling of forcefully prying open this still inexperienced body isn't bad either...[p]
+)[p]
 #
-ズプッ・・・ヌチュッ・・・ズププッ・・・ニチュッ・・・[p]
-#肉山
-「お、ちょっと湿った音がしてきたな。少しは感じてきたのか？」[p]
-#早瀬
-「えっ・・・アッ・・・ハァッ・・・ンンッ・・・」[p]
-#肉山
-「ほら・・・だんだんピストンがスムーズになってきたぞ。早瀬の身体が先生のチンポを受け入れてきた証拠だ」[p]
+*Squelch*...[p]
+*Squeeze*...[p]
+*Squelch*...[p]
+*Nunu*...[p]
+#Nikuyama
+Oh, I hear a wet sound.[p]
+Are you starting to feel something?[p]
+#Hayase
+Eh...[p]
+Ahh...[p]
+Haa...[p]
+Nn...[p]
+#Nikuyama
+Look...[p]
+The piston is starting to go smoothly.[p]
+It's proof that Hayase's body is accepting sensei's cock.[p]
 #
-ズププッ・・・ヌチュッ・・・ヌププッ・・・[p]
-#早瀬
-「アッ・・・そ、そんな・・・ハァッ・・・ンフゥッ・・・」[p]
-#肉山
-「良いことだぞ。処置は順調に進んでるってことだ、ムフフフ」[p]
-「よし、ピストンのスピードを上げていくぞ」[p]
+*Squelch*...[p]
+*Squeeze*...[p]
+*Squelch*...[p]
+#Hayase
+Ah...[p]
+D-Don't...[p]
+Haa...[p]
+Nngh...[p]
+#Nikuyama
+This is good.[p]
+It means the treatment is progressing smoothly.[p]
+Mufufu, let's increase the speed of the piston.[p]
 #
-ズプッ！・・・ヌプッ！・・・ズプッ！[p]
-#早瀬
-「アッ！？・・・ヤッ・・・い、痛い・・・ハァッ！」[p]
-#肉山
-「ちょっと我慢しろ。そのうち痛みは無くなるから」[p]
-（処女とヤるのは初めてだから知らないけどな。気持ち良すぎてこっちがもう止まらん）[p]
+*Squelch*...[p]
+*Squeeze*...[p]
+*Squelch*...[p]
+#Hayase
+Ah!?...[p]
+Ya...[p]
+It hurts...[p]
+Haa![p]
+#Nikuyama
+Hold on a moment.[p]
+The pain will eventually go away.[p]
+)[p]
 #
-ズパンッ！ズパンッ！ズパンッ！[p]
-#早瀬
-「アヒッ！・・・ハァンッ・・・アッ・・・クゥッ・・・！」[p]
-#肉山
-「どうだ？少し気持ちよくなってきたんじゃないか？」[p]
+*Squelch*...[p]
+*Squeeze*...[p]
+*Squelch*...[p]
+#Hayase
+Ahh!...[p]
+Haan...[p]
+Ahh...[p]
+Kuuh...![p]
+#Nikuyama
+How is it?[p]
+Aren't you starting to feel a little good?[p]
 #
-パンッ！パンッ！パンッ！パンッ！[p]
-#早瀬
-「アフゥッ！・・・あ・・・わ、わかりません・・・アァッ・・・なんか・・・変な感じ・・・ヒィッ！」[p]
-#肉山
-「俺の方はすごく気持ちいいぞ。早瀬のマンコは素晴らしい」[p]
+*Slap![p]
+* *Slap![p]
+* *Slap![p]
+*[p]
+#Hayase
+Ahh!...[p]
+A...[p]
+I don't know...[p]
+Ahh...[p]
+It feels...[p]
+strange...[p]
+Eek![p]
+#Nikuyama
+It feels really good for me.[p]
+Hayase's pussy is amazing.[p]
 #
-パンッ！パンッ！パンッ！パンッ！[p]
-#早瀬
-「エッ？・・・アンッ・・・ヤァッ・・・そんなこと・・・ンンッ・・・！」[p]
-#肉山
-「医療行為だとは言ったが正直先生はすごく興奮している。チンポがガチガチになっているのが判るだろう？」[p]
+*Slap![p]
+* *Slap![p]
+* *Slap![p]
+*[p]
+#Hayase
+Eh?...[p]
+Ahn...[p]
+Yaa...[p]
+I can't believe...[p]
+Unn...![p]
+#Nikuyama
+I did say it was a medical procedure, but honestly, the doctor seems really excited.[p]
+You can tell that their cock is rock hard, right?[p]
 #
-パンッ！パンッ！パンッ！パンッ！[p]
-#早瀬
-「アッ！？・・・そ、そんな・・・アヒィッ♥・・・わ、わたしなんか・・・アフゥッ」[p]
-#肉山
-「早瀬はもっと自分に自信を持っていいぞ。こんなに魅力的な身体をしてるんだからな、ムフフフ」[p]
+*Slap![p]
+* *Slap![p]
+* *Slap![p]
+*[p]
+#Hayase
+Ahh!?...[p]
+S-Something like that...[p]
+Ahii♥...[p]
+Afuu[p]
+#Nikuyama
+Hayase, you should have more confidence in yourself.[p]
+After all, you have such an attractive body, hehehe.[p]
 #
-パンッ！パンッ！パンッ！パンッ！[p]
-#早瀬
-「アンッ♥・・・せ、先生・・・っ・・・アヒッ・・・なんか身体が・・・アフゥッ♥」[p]
-#肉山
-「早瀬、これが正しいセックスだぞ！体でよく覚えておくんだ・・・そらっ！」[p]
+*Slap![p]
+* *Slap![p]
+* *Slap![p]
+*[p]
+#Hayase
+Ahh♥...[p]
+T-Teacher...[p]
+Ahh...[p]
+my body...[p]
+Ahh...[p]
+Ahh♥[p]
+#Nikuyama
+Hayase, this is what real sex is![p]
+Remember it well with your body...[p]
+like this![p]
 #
-パンッ！パンッ！パンッ！パンッ！[p]
-#早瀬
-「ンンーーッ♥アッ・・・アアッ・・・ヤァッ・・・な、なんか変・・・アァーーーッ♥」[p]
-#肉山
-「フゥッ・・・こっちももう限界だ。そろそろスパートさせてもらうぞ」[p]
+*Slap![p]
+* *Slap![p]
+* *Slap![p]
+*[p]
+#Hayase
+Nnnn...[p]
+Ahh...[p]
+Aahh...[p]
+It feels...[p]
+Ahhhhh♥[p]
+#Nikuyama
+Fuu...[p]
+I can't hold back anymore.[p]
+I'm going to pick up the pace soon.[p]
 #
-パンッ！パンッ！パンッ！パンッ！パンッ！[p]
-#早瀬
-「アァッ！ま、待って・・・ンヒッ♥こ、壊れちゃ・・・うっ・・・ハァンーーーッ♥」[p]
-#肉山
-「そらっ・・・中に出すぞ！先生のザーメンをしっかりと受け止めろ・・・っ」[p]
+*Slap![p]
+* *Slap![p]
+* *Slap![p]
+* *Slap![p]
+*[p]
+#Hayase
+Ahh![p]
+W-Wait...[p]
+Nhi♥ I-I'm going to...[p]
+break...[p]
+Haaan♥[p]
+#Nikuyama
+Here it comes...[p]
+I'm going to cum inside![p]
+Take my teacher's semen firmly...[p]
 #
-パンッ！パンッ！パンッ！パンッ！パンッ！[p]
-#早瀬
-「アァッ！？アッ・・・イヤァッ♥アヒィッ・・・アアァアーーーーーーーッ♥」[p]
+*Slap![p]
+* *Slap![p]
+* *Slap![p]
+* *Slap![p]
+*[p]
+#Hayase
+Ahh!?[p]
+Ahh...[p]
+Aaaahhhhhhhhh♥[p]
 
 
 [_tb_end_text]
@@ -1335,20 +1876,27 @@
 [tb_cg  id="258"  ]
 [tb_start_text mode=1 ]
 #
-ドピュッッ！！[p]
-#肉山
-「オォ・・・ッ・・・たまらんっ・・・！」[p]
-#早瀬
-「アァァッ！アヒィ・・・ウ・・・ンハァッ♥」[p]
+Dopuッッ!![p]
+#Nikuyama
+Oh...[p]
+I can't...[p]
+take it anymore...![p]
+#Hayase
+Ahhh![p]
+Ahii...[p]
+Nhaa♥[p]
 #
-ビュルビュルビュルッ・・・ッ！[p]
-#肉山
-「オォォ・・・ＪＫの処女マンコに中出し・・・ウヒッ！」[p]
-#早瀬
-「アァ・・・ハァッ・・・ンッ・・・ハァンッ♥」[p]
+*[p]
+#Nikuyama
+Ohhh...[p]
+creampie in a high school girl's virgin pussy...[p]
+Uhi![p]
+#Hayase
+Ahh...[p]
+Haa...[p]
+Haan♥[p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -1358,45 +1906,52 @@
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Grease_Slide_Trap.mp3"  ]
 [chara_show  name="早瀬"  time="1000"  wait="true"  storage="chara/2/game47.png"  width="400"  height="941"  left="413"  top="8"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#肉山
-「これで早瀬は無事に正しいセックスを経験できたわけだ」[p]
-#早瀬
-「・・・は、はい」[p]
-#肉山
-「あと何回かしっかりと性経験を積めば、今後淫乱症が発現する心配はなくなるだろう」[p]
-#早瀬
-「えっ・・・きょ、今日で終わりじゃないんですか・・・？」[p]
-#肉山
-「一回だけだともしかしたら今後間違った性交をしてしまったときに上書きされてしまう可能性があるからな」[p]
-「しっかりと先生のチンポで正常なセックスを身体に染み込ませておかないと安心はできない」[p]
-#早瀬
-「そ、そうですか・・・」[p]
-#肉山
-「今日は初めてだったから辛かったかもしれないが、もし下手くそな男だったら何倍もきつかっただろう」[p]
-「正しいやり方で初めてを終えられたのはラッキーなことだぞ」[p]
-#早瀬
-「そ、そうなんですか・・・ありがとうございます・・・」[p]
-#肉山
-「もちろん今日の行為はあくまで医療行為なのでお前の性経験には数えなくていいからな。形式上お前はまだ処女のままだ」[p]
-「今回の処置については当然誰にも言ってはいけないぞ。処置が無事済んだらすべて忘れて何もなかったことにするんだ」[p]
-#早瀬
-「は、はい」[p]
-#肉山
-「それじゃ今日はもう帰っていいぞ。次に呼ばれたらまたここに来るように」[p]
-#早瀬
-「はい・・・失礼します」[p]
+#Nikuyama
+With this, Hayase was able to experience proper sex safely.[p]
+#Hayase
+...[p]
+Yes.[p]
+#Nikuyama
+If you have a few more solid sexual experiences, you won't have to worry about developing nymphomania in the future.[p]
+#Hayase
+Huh...[p]
+Is today not the end...?[p]
+#Nikuyama
+If it's only once, there's a possibility that it might be overwritten if you happen to have incorrect sexual encounters in the future.[p]
+So, it's important to thoroughly let the teacher's penis soak into your body and ensure a proper sex experience to feel at ease.[p]
+#Hayase
+I-Is that so...[p]
+#Nikuyama
+Today might have been tough since it was your first time, but if it had been with an inexperienced guy, it would have been much harder.[p]
+It's lucky that you were able to finish your first time in the right way.[p]
+#Hayase
+I-Is that so...[p]
+Thank you very much...[p]
+#Nikuyama
+Of course, today's act was purely a medical procedure, so you don't have to count it as part of your sexual experience.[p]
+Formally, you are still a virgin, and you must not tell anyone about this treatment.[p]
+Once the procedure is done safely, forget everything and pretend like nothing happened.[p]
+#Hayase
+Y-Yes.[p]
+#Nikuyama
+Well then, you can go home for today.[p]
+If you're called again, make sure to come back here.[p]
+#Hayase
+Yes...[p]
+Excuse me.[p]
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
 [tb_start_text mode=1 ]
 #
-ウハハハハハ！体育教師になって１７年！ついに夢だった女子生徒とのセックスを実現したぜ！[p]
-成熟した香織の身体も良いが、ピチピチした若い身体もたまらねえぜ[p]
-洗脳に香織の手を借りないといけないという難しさはあるが、女子生徒を抱けるって言うのは夢が広がるな[p]
-それに一度香織が俺に従っているところを見せたせいか、俺に対する信頼度も上がってる気がするぜ[p]
-この調子で残りの３人も頂いちまうか・・・ウヒヒヒッ[p]
-・・・・・・[p]
-・・・[p]
+Nikuyama: U-ha-ha-ha-ha![p]
+I've been a physical education teacher for 17 years![p]
+I finally made my dream come true by having sex with a female student![p]
+Kaori's mature body is great, but there's nothing like a tight young body.[p]
+It's difficult because I have to rely on Kaori's brainwashing, but being able to embrace female students is a dream come true.[p]
+Maybe it's because Kaori showed that she's obedient to me once, but I feel like the level of trust towards me has increased.[p]
+At this rate, I might as well have the remaining three as well...[p]
+[p]
 [_tb_end_text]
 
 [tb_eval  exp="f.e3=2"  name="e3"  cmd="="  op="t"  val="2"  val_2="undefined"  ]
@@ -1409,68 +1964,88 @@
 [chara_show  name="桐嶋"  time="1000"  wait="true"  storage="chara/1/game22.png"  width="417"  height="982"  left="733"  top="8"  reflect="false"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Grease_Slide_Trap.mp3"  ]
 [tb_start_text mode=1 ]
-#赤井
-「えっ・・・陽性・・・！？ウソでしょ・・・？」[p]
-#肉山
-「残念だが本当だ。これが検査結果の報告書だ」[p]
-#赤井
-「あたしが淫乱症・・・そんな・・・」[p]
-#香織
-「そんなに落ち込まないで。大丈夫よ。今ちゃんと適切な処置を行えば発症は防げるんだから」[p]
-#赤井
-「本当に・・・？でも、医者に通ったりするんじゃ・・・」[p]
-#肉山
-「病院に通う必要はない。私がその資格を持っているから放課後にここに何回か通ってカウンセリングを受けるだけでいい」[p]
-#赤井
-「え・・・肉山先生が・・・？他の人じゃダメなの？」[p]
-#肉山
-「身体検査を担当した教師がやることに決まっているんだ。なるべく情報を知る人間は少ない方が良いからな」[p]
+#Akai
+Huh...[p]
+Positive...!?[p]
+You're kidding, right...?[p]
+#Nikuyama
+Unfortunately, it's true.[p]
+This is the report of the examination results.[p]
+#Akai
+I have nymphomania...[p]
+No way...[p]
+#Kaori
+Don't be so down.[p]
+It's okay.[p]
+If we perform the appropriate treatment now, we can prevent the symptoms from occurring.[p]
+#Akai
+Really...?[p]
+But, wouldn't I have to go see a doctor...?[p]
+#Nikuyama
+There's no need to go to the hospital.[p]
+You just need to come here a few times after school and receive counseling from me, since I have the qualifications for it.[p]
+#Akai
+Eh...[p]
+Mr.[p]
+Nikuyama...?[p]
+Can't it be someone else?[p]
+#Nikuyama
+It's decided that the teacher in charge of the physical examination will do it.[p]
+It's better to have as few people as possible who know the information.[p]
 
 [_tb_end_text]
 
 [tb_image_show  time="1000"  storage="default/game200.png"  width="269"  height="239"  x="496"  y="269"  _clickable_img=""  name="img_232"  ]
 [tb_image_hide  time="1000"  ]
 [tb_start_text mode=1 ]
-#香織
-「肉山先生に任せておけば大丈夫だから。ちゃんと言うことを聞いて指示に従いなさい」[p]
-#赤井
-「う・・・香織先生がそう言うなら・・・」[p]
-#肉山
-「それではさっそく処置を始めていこうか」[p]
-#赤井
-「えっ、今から・・・？」[p]
-#肉山
-「早く始めた方が良いからな。とりあえず服を全部脱いでそこに置きなさい」[p]
-#赤井
-「えっ！？ま、また脱ぐの・・・！？」[p]
-#肉山
-「脱がないと処置が行えないだろう」[p]
-#香織
-「ほら、恥ずかしいだろうけど我慢して。あなたの為なんだから」[p]
-#赤井
-「う・・・わ、わかったよ。脱げばいいんでしょ」[p]
+#Kaori
+You can trust Mr.[p]
+Nikuyama, so please listen to him and follow his instructions.[p]
+#Akai
+Ugh...[p]
+If Kaori-sensei says so...[p]
+#Nikuyama
+Well then, shall we start the treatment right away?[p]
+#Akai
+Eh, right now...?[p]
+#Nikuyama
+It's better to start quickly.[p]
+For now, take off all your clothes and place them there.[p]
+#Akai
+Eh!?[p]
+A-Are you saying I have to undress again...!?[p]
+#Nikuyama
+We can't proceed with the treatment unless you undress.[p]
+#Kaori
+Come on, it might be embarrassing but please endure it.[p]
+It's for your own sake.[p]
+#Akai
+U...[p]
+U-understood.[p]
+I-I just have to undress, right?[p]
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
 [bg  time="1000"  method="crossfade"  storage="game246-0.jpg"  ]
 [tb_start_text mode=1 ]
-#赤井
-「く・・・なんであたしが・・・」[p]
-#香織
-「それじゃ私はこれで・・・」[p]
-#肉山
-「ええ、ご苦労様」[p]
-#赤井
-「えっ、香織先生行っちゃうの・・・？」[p]
-#香織
-「ええ、私がいると邪魔になるから」[p]
-「これから行う処置はちょっと辛いかもしれないけど・・・ちゃんと肉山先生の指示に従うのよ」[p]
-#赤井
-「えっ・・・う、うん・・・」[p]
-#肉山
-「よし、全部脱いだら服はそこに置いてこちらに来なさい」[p]
-#赤井
-「は、はい・・・」[p]
+#Akai
+Why...[p]
+why do I have to...[p]
+#Kaori
+Well then, with this...[p]
+#Nikuyama
+Yes, thank you for your hard work.[p]
+#Akai
+Eh, is Kaori-sensei leaving...?[p]
+#Kaori
+Yes, it might be a little difficult to follow Takeshi-sensei's instructions without me being here, but please do your best to obey them.[p]
+#Akai
+Eh...[p]
+Y-Yeah...[p]
+#Nikuyama
+Alright, once you've undressed completely, leave your clothes there and come over here.[p]
+#Akai
+Y-Yes...[p]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -1479,190 +2054,341 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Indomitable.mp3"  ]
 [tb_start_text mode=1 ]
-#赤井
-「イヤアッ！？ちょ、ちょっと・・・何すんのよ！？」[p]
-#肉山
-「これから行うのはセックス療法だ」[p]
+#Akai
+Eeek!?[p]
+W-Wait...[p]
+What are you doing!?[p]
+#Nikuyama
+What we're going to do now is sex therapy.[p]
 [_tb_end_text]
 
 [tb_image_show  time="1000"  storage="default/game200.png"  width="287"  height="255"  x="462"  y="200"  _clickable_img=""  name="img_244"  ]
 [tb_image_hide  time="1000"  ]
 [tb_start_text mode=1 ]
-#赤井
-「せ、セックス療法・・・！？」[p]
-#肉山
-「お前は元々淫乱症体質だったところに、間違った性体験をしていることで今非常に危険な状態にある」[p]
-#赤井
-「ま、間違った性体験・・・？」[p]
-#肉山
-「簡単に言うとお前の初体験の相手が下手くそだったために、お前の中で性欲が昇華しきれずに心身にストレスが溜まってしまっているんだ」[p]
-#赤井
-「そ、そんな・・・！？シュンヤは下手なんかじゃ・・・」[p]
-#肉山
-「たしかお前の彼氏はD組の三好だったか？あいつとのセックスでちゃんとイかせてもらってるか？」[p]
-#赤井
-「そ、そんなの・・・関係・・・っ！」[p]
-#肉山
-「やはり、満足させてもらってないんだろう。残念ながらそれが原因でお前は淫乱症を発症しそうになっているんだ」[p]
-#赤井
-「う、うそ・・・そんなこと・・・あたしはシュンヤを愛してる・・・！」[p]
-#肉山
-「愛は関係ない。問題はチンポのサイズとテクニックだ。このままではお前は欲求不満によるストレスで淫乱症を発症してしまう」[p]
-「だからこれからセックス療法で先生がお前に正しいセックスというものを味わわせてやるからな、ムフフフ」[p]
-#赤井
-「い、イヤァッ！離して・・・っ・・・キモいって・・・！」[p]
-#肉山
-「いかんぞ赤井、先生に対してキモいなんて言葉を使っちゃ。これはチンポでお仕置きが必要だな」[p]
-#赤井
-「ちょ・・・待ってってば！ヤメッ・・・イヤァァッ！！」[p]
+#Akai
+S-Sex therapy...!?[p]
+#Nikuyama
+You were originally predisposed to nymphomania, and now you're in a very dangerous state due to having incorrect sexual experiences.[p]
+#Akai
+I-Incorrect sexual experiences...?[p]
+#Nikuyama
+To put it simply, because your first sexual experience partner was clumsy, your sexual desire couldn't be fully satisfied and it has caused stress to accumulate in your mind and body.[p]
+#Akai
+W-Wait...[p]
+Shunya isn't clumsy...[p]
+#Nikuyama
+If I remember correctly, your boyfriend is Miyoshi from Class D, right?[p]
+Are you able to orgasm properly during sex with him?[p]
+#Akai
+Th-That...[p]
+doesn't matter...![p]
+#Nikuyama
+As I suspected, you haven't been satisfied.[p]
+Unfortunately, that seems to be the cause of you developing nymphomania.[p]
+#Akai
+N-No...[p]
+That can't be true...[p]
+I love Shunya...![p]
+#Nikuyama
+Love is irrelevant.[p]
+The problem lies in the size and technique of the penis.[p]
+If things continue like this, you will develop nymphomania due to the stress of sexual frustration.[p]
+That's why I, as your teacher, will make you experience proper sex through sex therapy.[p]
+Mufufu.[p]
+#Akai
+N-No![p]
+Let go...[p]
+it's...[p]
+gross...![p]
+#Nikuyama
+Akai, it's not good to use words like gross towards your teacher.[p]
+You need to be punished with a penis.[p]
+#Akai
+W-Wait...[p]
+Stop...[p]
+Nooo!![p]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game261-2.jpg"  ]
 [tb_start_text mode=1 ]
 #
-ズプッ！[p]
-#赤井
-「アァッ！？や・・・ヤァッ！・・・ハァッ・・・ンンッ！」[p]
-#肉山
-「どうだ赤井、先生のチンポがずっぽりと入ったぞ。大人のチンポはすごいだろう」[p]
-#赤井
-「アヒッ・・・ンンッ！シュンヤのと・・・全然違う・・・アァンッ！」[p]
-#肉山
-「ククク、三好のヘナチンしか知らないから驚いたか？これが本物の男のチンポだぞ」[p]
+*squelch*[p]
+#Akai
+Ahh!?[p]
+Y-You...[p]
+Yaaah!...[p]
+Haaah...[p]
+Nnn![p]
+#Nikuyama
+How is it, Akai?[p]
+The teacher's penis went all the way in.[p]
+Adult penises are amazing, aren't they?[p]
+#Akai
+Ahh...[p]
+Nnn![p]
+It's completely different from Shunya's...[p]
+Aahh![p]
+#Nikuyama
+Kukuku, are you surprised because you only know Miyoshi's small penis?[p]
+This is a real man's dick.[p]
 #
-ズプッ！ズプッ！[p]
-#赤井
-「ンハァッ・・・アンッ！・・・アァッ・・・ア、アソコが・・・一杯に・・・アヒッ♥」[p]
-#肉山
-「すまんな赤井、先生のチンポを味わっちまったらもう三好のチンポではもうなにも感じなくなっちまうかもしれないな」[p]
+*squelch* *squelch*[p]
+#Akai
+Nhaa...[p]
+Ahn!...[p]
+Aah...[p]
+My...[p]
+my crotch is...[p]
+Ahh♥[p]
+#Nikuyama
+I'm sorry, Akai.[p]
+If you taste the teacher's penis, you might not feel anything anymore with Miyoshi's penis.[p]
 #
-ズプッ！ヌプッ！ズプッ！[p]
-#赤井
-「ク・・・・ンンッ・・・そ、そんなこと・・・ない・・・っ！シュンヤの方が・・・あんたなんかより・・・アヒッ♥」[p]
-#肉山
-「そうか、それじゃ遠慮なく突かせてもらうかな。お前には本当のセックスで気持ちよくなってもらわないといけないからな。そらっ！」[p]
+*squelch* *squelch* *squelch*[p]
+#Akai
+Ku...[p]
+Nnn...[p]
+Th-That's not...[p]
+true...![p]
+Shunya is...[p]
+Ahh♥[p]
+#Nikuyama
+I see, in that case, I won't hold back and thrust into you.[p]
+I have to make sure you feel good with real sex.[p]
+Here we go![p]
 #
-ズパンッ！ズプッ！ヌチュッ！[p]
-#赤井
-「アヒィッ♥ちょ・・・待っ・・・アンンーーッ♥そんなに・・・やられたら・・・アアンッ♥」[p]
-#肉山
-「気持ちよかったら気持ちいいって言っていいんだぞ。女の子は素直なのが一番だからな、グフフフ」[p]
+*squelch* *squelch* *squelch*[p]
+#Akai
+Ahh...[p]
+Wait...[p]
+Ahhh![p]
+If you do it like that...[p]
+Ahh![p]
+#Nikuyama
+If it feels good, you can say it feels good.[p]
+Girls being honest is the best, hehehe.[p]
 #
-ズプッ！ヌチュッ！ジュポッ！[p]
-#赤井
-「ヤァッ・・・だ、誰が・・・アヒィッ♥・・・ンンッ・・・ハァンッ♥」[p]
-#肉山
-「ほれ、三好の粗チンじゃこんなところまで突いてもらえないだろう。うりゃっ！」[p]
+*squelch* *squelch* *squelch*[p]
+#Akai
+Yaa...[p]
+W-Who...[p]
+Ahii♥...[p]
+Haann♥[p]
+#Nikuyama
+Look, Miyoshi's small dick wouldn't be able to penetrate this deep.[p]
+Take this![p]
 #
-ズパンッ！グリュッ！ズププッ！[p]
-#赤井
-「ンヒィッ！？ハァッ・・・そ、そこ・・・ダメェッ♥お、おかしくなっちゃう・・・アヒィッ♥」[p]
-#肉山
-「先生のチンポがお前の子宮に当たってるのが分かるか？ここを突かれると身体が勝手にメスの悦びに満たされるだろう、グフフフ」[p]
+*squelch* *squeeze* *squelch*[p]
+#Akai
+Nghh!?[p]
+Haa...[p]
+Th-There...[p]
+Nooo♥ It's...[p]
+Ahh♥[p]
+#Nikuyama
+Do you feel my cock hitting your uterus?[p]
+When I thrust here, your body will be filled with the pleasure of being a female, hehehe.[p]
 #
-ズムッ！グチュッ！ズププッ！[p]
-#赤井
-「アヒィッ♥ンハァッ・・・ダ、ダメェッ・・・ンンーーーーーーッ♥」[p]
-#肉山
-「中イきは初めてか？オラッ、先生のチンポでイっちまえ・・・！」[p]
+*squelch* *squelch* *squelch*[p]
+#Akai
+Ahii♥ Nhaa...[p]
+Nnnnーーーーーhh♥[p]
+#Nikuyama
+Is this your first time cumming?[p]
+Come on, let me make you cum with my cock, sensei...![p]
 #
-ズリュッ！ヌチュッ！ズムッ！グチュッ！[p]
-#赤井
-「アァッ♥アン・・・ンッ♥・・・・・・ッ・・・ンヒィーーーーーーーーーッ♥」[p]
-#肉山
-「ククク、派手にイったな。なかなか可愛い声で鳴くじゃないか」[p]
-#赤井
-「ンッ・・・ハァッ♥・・・ハフゥッ・・・ンンッ・・・ッ♥」[p]
-#肉山
-「どうだ、初めて男のチンポで絶頂に達した気分は？お前らは俺をゴリラと呼んで馬鹿にしてたが、ゴリラのチンポに屈服させられるのも悪くないだろう？グヒヒヒッ」[p]
-#赤井
-「ハァッ・・・ハァッ・・・も、もう・・・いいでしょ・・・ンンッ」[p]
-#肉山
-「何を言ってるんだ。まだまだ本番はこれからだぞ？先生がまだイってないじゃないか」[p]
+*Squelch![p]
+* *Splat![p]
+* *Squish![p]
+*[p]
+#Akai
+Ahh♥ Ahh...[p]
+Nngh♥...[p]
+Uhh...[p]
+Hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii♥[p]
+#Nikuyama
+Hehehe, you came so loudly.[p]
+You have quite a cute voice.[p]
+#Akai
+Nn...[p]
+Haa♥...[p]
+Hafu...[p]
+Ahh♥[p]
+#Nikuyama
+How does it feel to reach climax for the first time with a man's cock?[p]
+You all used to call me a gorilla and make fun of me, but it's not so bad to be brought to submission by a gorilla's cock, right?[p]
+Guhuhu.[p]
+#Akai
+Haa...[p]
+Haa...[p]
+It's...[p]
+It's enough already...[p]
+Nnn...[p]
+#Nikuyama
+What are you saying?[p]
+The real thing is just beginning![p]
+Sensei hasn't cum yet, you know.[p]
 #
-ズプッ！ヌチュッ！[p]
-#赤井
-「そ、そんな・・・！？アヒッ♥も、もう・・・これ以上は・・・アアンッ♥」[p]
-#肉山
-「ガキの生っチョロいセックスとは違うんだぞ。今日は大人の本当のセックスでお前をめいっぱい可愛がってやるからな、オラッ！」[p]
+*Squelch![p]
+*[p]
+#Akai
+Th-there...!?[p]
+Ahh♥ I-I can't...[p]
+Aahh♥[p]
+#Nikuyama
+This is different from the sloppy sex of a kid.[p]
+Today, I'm going to take care of you with real adult sex, so get ready![p]
 #
-ズパンッ！ズパンッ！ズパンッ！[p]
-#赤井
-「アヒィッ♥アンッ・・・アハァッ♥ンンッ・・・ダ、ダメェッ♥」[p]
-#肉山
-「前々からお前は生活態度も悪いし、いくら注意しても言うことを聞かなかったよなぁ。んん？」[p]
+*Squelch![p]
+* *Splat![p]
+*[p]
+#Akai
+Ahh♥ Ahn...[p]
+Ahh...[p]
+No, stop♥[p]
+#Nikuyama
+You've had a bad attitude for a while now, and no matter how much I warned you, you never listened, huh?[p]
+Hm?[p]
 #
-ズパンッ！ズパンッ！ズパンッ！[p]
-#赤井
-「アヒィンッ♥アアッ・・・そ、そこは・・・イったばっかりだからぁっ・・・アヒィーーーッ♥」[p]
-#肉山
-「オラオラッ！どうした？これがお前がバカにしてきた教師のチンポだぞっ！オラッ！」[p]
+*Squelch![p]
+* *Splat![p]
+*[p]
+#Akai
+Ahh♥ Ahh...[p]
+Th-that spot...[p]
+Ahhh♥[p]
+#Nikuyama
+Ora ora![p]
+What's wrong?[p]
+This is the dick of the teacher you've been making fun of, you know![p]
+Ora![p]
 #
-ズパンッ！ズパンッ！ズパンッ！[p]
-#赤井
-「ヒィッ♥・・・ンンッ・・・ご、ごめんなさいィーーーーーッ♥・・・ンハァッ♥も、もう・・・許してぇ・・・アアンッ♥」[p]
-#肉山
-「お前みたいな不良生徒にはチンポ教育が必要なんだ。オラッ精神注入！」[p]
+*Squelch![p]
+* *Splat![p]
+*[p]
+#Akai
+Hii...[p]
+Nngh...[p]
+I-I'm sorry...[p]
+Ahhh♥...[p]
+Aahh♥[p]
+#Nikuyama
+A delinquent student like you needs some dick education.[p]
+Ora, I'll inject some spirit into you![p]
 #
-ズムッ！ズムッ！ズチュッ！[p]
-#赤井
-「アンッ♥アンンッ♥ヒィッ・・・ンハァッ♥ヤァッ・・・アフゥッ♥」[p]
-#肉山
-「どうだ？三好のチンポと先生のチンポとどっちが良い？正直に答えてみろっ」[p]
+*Squelch![p]
+* *Splat![p]
+*[p]
+#Akai
+Ahh♥ Ahnn♥ Hii...[p]
+Afuu♥[p]
+#Nikuyama
+How about it?[p]
+Which one is better, Miyoshi's dick or the teacher's dick?[p]
+Answer honestly.[p]
 #
-ズムッ！ズパンッ！ズパンッ！[p]
-#赤井
-「ンンーッ♥そ、そんなの・・・シュンヤ・・・に・・・ンンッ♥・・・決まって・・・っ・・・ンハァッ♥」[p]
-#肉山
-「なんだ？声が小さいぞ。はっきりと答えなさいっ！」[p]
+*Squelch![p]
+* *Splat![p]
+*[p]
+#Akai
+Nngh♥ Th-that...[p]
+Shunya...[p]
+ngh♥...[p]
+of course...[p]
+it's...[p]
+nghaa♥...[p]
+nghaah♥[p]
+#Nikuyama
+What's that?[p]
+Your voice is too quiet.[p]
+Answer clearly![p]
 #
-ズパンッ！ズパンッ！ズパンッ！ズパンッ！[p]
-#赤井
-「アヒィーーーーッ♥・・・せ、先生・・・っ・・・ンハァッ♥・・・ですぅ・・・アァァンッ♥」[p]
-#肉山
-「『肉山先生のおチンポの方がずっと気持ちいいです』と言うんだ。オラッ！」[p]
+*Squelch![p]
+* *Splat![p]
+* *Squish![p]
+*[p]
+#Akai
+Ahhhh♥...[p]
+T-teacher...[p]
+ngh...[p]
+Nhhaa♥...[p]
+aaannn♥[p]
+#Nikuyama
+They say Mr.[p]
+Nikuyama's dick feels much better.[p]
+Ora![p]
 #
-ズパンッ！ズパンッ！ズパンッ！ズパンッ！[p]
-#赤井
-「ヒィンッ♥・・・に、にくやま先生の・・・ハァッ♥お、おチンポの方が・・・ずっと気持ちイイですぅーーーーっ♥」[p]
-#肉山
-「『今まで生意気な態度をとってごめんなさい』と言え！」[p]
+*Squelch![p]
+* *Splat![p]
+* *Squish![p]
+*[p]
+#Akai
+Hiiin...[p]
+N-Nikuyama-sensei's...[p]
+Haa...[p]
+c-cock feels...[p]
+ughhh♥[p]
+#Nikuyama
+Say, I'm sorry for having such an arrogant attitude until now![p]
 #
-ズパンッ！ズパンッ！ズパンッ！ズパンッ！[p]
-#赤井
-「ンンーーーーッ♥く・・・い、今まで・・・生意気な態度をとって・・・アフゥッ♥ご、ごめんなさいぃーーーーーッ♥」[p]
-#肉山
-「よしよし、よく言えたな。ご褒美に目一杯イかせてやろう・・・おらぁっ！」[p]
+*Squelch![p]
+* *Splat![p]
+* *Squish![p]
+*[p]
+#Akai
+Nnghhh...[p]
+I-I've been...[p]
+I'm so sorryyy♥[p]
+#Nikuyama
+Good job, well said.[p]
+As a reward, I'll make you come as much as you want...[p]
+Here we go![p]
 #
-ズパンッ！ズパンッ！ズパンッ！ズパンッ！[p]
-#赤井
-「アァーーーーッ♥・・・ヒィッ♥も、もうダメェーーーーッ♥お、おかしく・・・なっちゃうぅーーーーーッ♥」[p]
-#肉山
-「そろそろ・・・フィニッシュだ・・・！中に一杯出してやるからな・・・！」[p]
-#赤井
-「アァァッ♥ンヒィーーーーーーッ♥」[p]
+*Squelch![p]
+* *Splat![p]
+* *Squish![p]
+*[p]
+#Akai
+Ahhhhh♥...[p]
+Hiiii♥...[p]
+I-I can't take it anymore♥...[p]
+going to cum♥[p]
+#Nikuyama
+It's about time...[p]
+for the finish...![p]
+I'm going to fill you up inside...![p]
+#Akai
+Ahhhhh♥ Unghhhhhhh♥[p]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game261-3.jpg"  ]
 [tb_cg  id="261"  ]
 [tb_start_text mode=1 ]
 #
-ドピュッッ！！[p]
-#赤井
-「ンンーーーーーッ♥・・・・・・ッ・・・・ァァァ・・・ッッ♥」[p]
-#肉山
-「オホッ・・・生意気ギャルＪＫにお仕置き中出し最高ぅーーーーッ！」[p]
+*[p]
+#Akai
+Nnnn♥...[p]
+Ahhh...[p]
+♥[p]
+#Nikuyama
+Ohh...[p]
+punishing a cheeky gal JK with a creampie is the best![p]
 #
-ビュビュビュビュルル・・・ッ！[p]
-#赤井
-「アフゥッ♥アァ・・・お、奥に・・・出てる・・・アヒ・・・ッ♥」[p]
-#肉山
-「これが正しいセックスだぞ赤井。身体で覚えろよぉ、ムヒヒヒッ」[p]
-#赤井
-「アァッ・・・は、はいっ・・・アフゥッ・・・ッ♥」[p]
+Bububububururu...![p]
+#Akai
+Ahhh♥ Ahh...[p]
+It's...[p]
+coming out deep inside...[p]
+♥[p]
+#Nikuyama
+This is what real sex is, Akai.[p]
+Remember it with your body, muhihihi.[p]
+#Akai
+Ahh...[p]
+Y-Yes...[p]
+♥[p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -1672,54 +2398,75 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Grease_Slide_Trap.mp3"  ]
 [tb_start_text mode=1 ]
-#肉山
-「今日の治療はここまでだ。お疲れさん」[p]
-#赤井
-「う・・・治療ってただのセックスじゃん・・・！」[p]
-#肉山
-「淫乱症を抑えるための治療だ。これは必要な処置なんだ」[p]
-#赤井
-「で、でも・・・治療とか言って楽しんでたじゃん・・・あんなに犯しまくって・・・」[p]
-#肉山
-「まぁ多少熱が入りすぎたのは認めるがな。お前が可愛すぎるのがいけないんだぞ」[p]
-#赤井
-「なっ・・・！？な、なに言ってんだよ・・・！」[p]
-#肉山
-「お前の方もだいぶ楽しんでたじゃないか。可愛い声でアンアン鳴いて。大人のセックスは気持ちよかっただろう？」[p]
-#赤井
-「そ、そんな・・・っ・・・し、知らないよ・・・っ」[p]
-#肉山
-「何も悪いことじゃないんだぞ。ああやってセックスの本当の気持ちよさを知ることが重要なんだ。それが心の安定を産んで淫乱症を抑えられるんだからな」[p]
-#赤井
-「そ、そうなの・・・？」[p]
-#肉山
-「しばらくこの治療を続ければ淫乱症が発症する危険は無くなるだろう」[p]
-#赤井
-「え・・・終わりじゃないの！？あんなのを何回も・・・？」[p]
-#肉山
-「しっかりと正しいセックスを身体に染み込ませないといけないからな。お前の場合は非処女だからより時間がかかるぞ」[p]
-#赤井
-「そ、そんな・・・ほ、他の子はどうだったの？陽性だったのはあたしだけ・・・？」[p]
-#肉山
-「それは個人情報なので教えられない。聞いてはいけないし、お前もこのことについては絶対に口外するなよ」[p]
-#赤井
-「う・・・言えねーよこんなこと・・・」[p]
-#肉山
-「それじゃ今日は帰っていいぞ。また呼び出されたらすぐここに来るように」[p]
-#赤井
-「く・・・はい・・・」[p]
+#Nikuyama
+Today's treatment is over.[p]
+Good job.[p]
+#Akai
+Ugh...[p]
+This treatment is just sex...![p]
+#Nikuyama
+This is a necessary treatment to control nymphomania.[p]
+It's a necessary measure.[p]
+#Akai
+B-But...[p]
+you were enjoying it, calling it treatment...[p]
+you kept violating me so much...[p]
+#Nikuyama
+Well, I admit that I got a little too heated.[p]
+But it's because you're too cute, that's the problem.[p]
+#Akai
+Wha...!?[p]
+W-What are you saying...![p]
+#Nikuyama
+You seemed to be enjoying yourself quite a bit too, didn't you?[p]
+Moaning with such a cute voice.[p]
+The adult sex felt good, didn't it?[p]
+#Akai
+I-I don't...[p]
+know about that...[p]
+#Nikuyama
+It's not a bad thing at all.[p]
+It's important to experience the true pleasure of sex like that.[p]
+It helps bring about emotional stability and control nymphomania.[p]
+#Akai
+I-Is that so...?[p]
+#Nikuyama
+If we continue this treatment for a while, the risk of developing nymphomania should disappear.[p]
+#Akai
+Eh...[p]
+It's not over yet!?[p]
+Doing that so many times...?[p]
+#Nikuyama
+We have to firmly imprint the correct sex into your body.[p]
+In your case, since you're not a virgin, it will take more time.[p]
+#Akai
+T-That...[p]
+w-what about the other girls?[p]
+Am I the only one who tested positive...?[p]
+#Nikuyama
+That's personal information, so I can't tell you.[p]
+You shouldn't ask, and you absolutely must not disclose this matter.[p]
+#Akai
+Ugh...[p]
+I can't say something like this...[p]
+#Nikuyama
+Well then, you can go home for today.[p]
+If you're called again, make sure to come here right away.[p]
+#Akai
+Ugh...[p]
+Yes...[p]
 
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
 [tb_start_text mode=1 ]
 #
-ウハハハハ！あの生意気ギャルの赤井のあをチンポ教育してやったぜ！[p]
-前からムチムチした身体に目をつけていたんだ。校則違反の短いスカートでウロウロしおって俺の生徒指導にも反抗的な態度をとってやがったからな・・・[p]
-俺のチンポでヒィヒィ鳴かせてやったぜ。心も金玉もスカっとしたな[p]
-俺のチンポがだいぶ気に入ってたみたいだし、あの調子じゃ洗脳なしでセックスペットにするのも夢じゃないぞ、ムヒヒヒ[p]
-・・・・・・[p]
-・・・[p]
+Uhahaha![p]
+I gave that cheeky gal, Akai Noa, a dick education![p]
+I've had my eye on her plump body for a while.[p]
+She was wandering around in violation of the school rules with her short skirt, and she even showed a rebellious attitude towards my student guidance...[p]
+So I made her moan with my dick.[p]
+Her heart and balls felt refreshed, it seems like she really liked my dick, so it's not a dream to turn her into a sex pet without brainwashing, muhihihi...[p]
 [_tb_end_text]
 
 [tb_eval  exp="f.e3=3"  name="e3"  cmd="="  op="t"  val="3"  val_2="undefined"  ]
@@ -1732,66 +2479,81 @@
 [chara_show  name="桐嶋"  time="1000"  wait="true"  storage="chara/1/game22.png"  width="397"  height="934"  left="665"  top="28"  reflect="false"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Grease_Slide_Trap.mp3"  ]
 [tb_start_text mode=1 ]
-#津山
-「陽性・・・です？」[p]
-#肉山
-「うむ、残念ながらお前は潜在的淫乱症体質だということが判明した」[p]
-#津山
-「ガーーーン・・・です。わたし・・・どうなるです？」[p]
-#肉山
-「心配することはない。今の段階で適切な処置をすれば発症することはないから」[p]
-#津山
-「エッチな病気出ないですか・・・？」[p]
-#香織
-「大丈夫よ。肉山先生の言うとおりにすれば発症は防げるから。安心して」[p]
-#津山
-「はいです・・・」[p]
-#肉山
-「それじゃ今日から早速始めていこう。早い方が良いからな」[p]
-#津山
-「なにをするですか・・・？」[p]
-#肉山
-「まぁ運動療法というか、カウンセリングのようなものだな、うむ。とりあえず服を全部脱いでしまおうか」[p]
-#津山
-「え・・・裸なるですか・・・？」[p]
-#肉山
-「裸にならないと治療が行えないからな」[p]
+#Tsuyama
+Positive...?[p]
+#Nikuyama
+Well, unfortunately it has been determined that you have a latent nymphomania disposition.[p]
+#Tsuyama
+Oh no...[p]
+What will happen to me?[p]
+#Nikuyama
+There's no need to worry.[p]
+If we take appropriate measures at this stage, you won't develop any symptoms.[p]
+#Tsuyama
+Is there no way to avoid getting a sexual disease...?[p]
+#Kaori
+It's okay.[p]
+If we do as Mr.[p]
+Nikuyama says, we can prevent the onset.[p]
+So don't worry.[p]
+#Tsuyama
+Yes...[p]
+#Nikuyama
+Well then, let's start right away from today.[p]
+It's better to start early, you know.[p]
+#Tsuyama
+What are we going to do...?[p]
+#Nikuyama
+Well, it's more like physical therapy or counseling, I suppose.[p]
+For now, let's just take off all your clothes.[p]
+#Tsuyama
+Eh...[p]
+Are you saying I have to get naked...?[p]
+#Nikuyama
+You won't be able to receive treatment unless you get naked.[p]
 [_tb_end_text]
 
 [tb_image_show  time="1000"  storage="default/game200.png"  width="284"  height="252"  x="482"  y="280"  _clickable_img=""  name="img_270"  ]
 [tb_image_hide  time="1000"  ]
 [tb_start_text mode=1 ]
-#香織
-「大丈夫よ、津山さん。ちょっとびっくりすることもあるかもしれないけど・・・肉山先生に任せておけば大丈夫だから」[p]
-「ちゃんと肉山先生を信頼して言うことを聞くのよ。できるわね？」[p]
-#津山
-「わかったです・・・」[p]
-#肉山
-「えらいねぇ。それじゃ頑張って脱ぎ脱ぎしようね」[p]
-#津山
-「はいです・・・」[p]
+#Kaori
+It's okay, Tsuyama-san.[p]
+There might be some surprising things, but...[p]
+if you leave it to Dr.[p]
+Nikuyama and trust him, everything will be fine.[p]
+Can you do that?[p]
+#Tsuyama
+I understand...[p]
+#Nikuyama
+Wow, you're amazing.[p]
+Well then, let's do our best and take off your clothes.[p]
+#Tsuyama
+Yes...[p]
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
 [bg  time="1000"  method="crossfade"  storage="game248-0.jpg"  ]
 [tb_start_text mode=1 ]
-#津山
-「んしょ・・・」[p]
-#香織
-「それじゃ私はこれで・・・」[p]
-#肉山
-「ああ、ご苦労様」[p]
-#津山
-「え・・・桐嶋先生行っちゃうですか・・・？」[p]
-#香織
-「ええ、わたしは治療の邪魔になるから外に出ていないといけないのよ」[p]
-「肉山先生の言うことをちゃんと聞いて頑張るのよ」[p]
-#津山
-「はいです・・・」[p]
-#香織
-「それじゃ失礼します」[p]
-#肉山
-「よし、脱いだ服はその辺に置いて。さぁ治療を始めようか」[p]
+#Tsuyama
+Mmm...[p]
+#Kaori
+Well then, I'll be going now...[p]
+#Nikuyama
+Ah, good work.[p]
+#Tsuyama
+Eh...[p]
+Is Kirishima-sensei leaving...?[p]
+#Kaori
+Yes, I have to stay outside because I would be a hindrance to the treatment.[p]
+I will listen to Dr.[p]
+Nikuyama's instructions properly and do my best.[p]
+#Tsuyama
+Yes...[p]
+#Kaori
+Well then, I'll be going now.[p]
+#Nikuyama
+Alright, put your clothes over there.[p]
+Now, shall we begin the treatment?[p]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -1800,238 +2562,384 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
 #
-クチュッ・・・クチュッ・・・[p]
-#津山
-「アッ・・・ンンッ・・・ハァッ」[p]
-#肉山
-「ふむ、だいぶマンコもほぐれてきたか。これならなんとかいけるだろう」[p]
-#津山
-「ハァッ・・・アフゥ・・・え・・・？」[p]
+*smooch* *smooch*[p]
+#Tsuyama
+Ah...[p]
+Unn...[p]
+Haahh...[p]
+#Nikuyama
+Hmmm, it seems the pussy has loosened up quite a bit.[p]
+With this, we should be able to manage somehow.[p]
+#Tsuyama
+Haa...[p]
+Ahh...[p]
+Eh...?[p]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game260-1.jpg"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="music57.mp3"  ]
 [tb_start_text mode=1 ]
-#津山
-「えっ・・・な、なにするですか・・・！？」[p]
-#肉山
-「大丈夫だよ～。ちょっとお注射するだけだからねぇ～」[p]
-#津山
-「お注射・・・？で、でもこれ・・・おちんちんです・・・」[p]
-#肉山
-「そうだよ、この先生のおちんちんを津山の割れ目ちゃんにプスってするだけだよぉ～」[p]
-#津山
-「そ、それって・・・せ、セックス・・・です」[p]
-#肉山
-「お、セックスなんて知ってるのか。えらいな～」[p]
-#津山
-「大人だから・・・知ってるです・・・」[p]
-#肉山
-「あぁそういえば身体が子供なだけで実際は大人だったな。じゃあおちんちんを見たことはあるか？」[p]
-#津山
-「な、ないです・・・はじめてです・・・」[p]
-#肉山
-「そうかそうか。これが大人の本物のおちんちんだぞ。なかなかかわいいだろう？」[p]
-#津山
-「う・・・こ、怖いです・・・」[p]
-#肉山
-「これからやるのはセックスじゃない。セックスごっこみたいなものだ」[p]
-#津山
-「せっくす・・・ごっこ・・・？」[p]
-#肉山
-「そうだ。津山のようにもう大人なのにおっぱいぺったんこでツルツルおまんこな女は、ちゃんとしたセックスが出来なくて病気になっちゃうから先生とセックスごっこをして病気を予防するんだよ」[p]
-#津山
-「そ、そうなんです・・・？それでエッチな病気ならないです・・・？」[p]
-#肉山
-「そうそう。先生とセックスごっこすれば大丈夫だ」[p]
-#津山
-「でも・・・お・・・おちんちん入れるです・・・？」[p]
-#肉山
-「そりゃセックスごっこだから入れるよ」[p]
-#津山
-「い、痛いです・・・？」[p]
-#肉山
-「最初はちょっとだけ痛いけど、すぐに大丈夫になるよ」[p]
-#津山
-「こ、怖いです・・・」[p]
-#肉山
-「でもエッチな病気になりたくないだろう？」[p]
-#津山
-「は、はいです・・・」[p]
-#肉山
-「じゃあ我慢しないとな。なぁに、すぐにオナニーよりもずっと気持ちよくなるから、ムヒヒヒ」[p]
-「それじゃ入れていくぞ」[p]
-#津山
-「アアッ・・・！？」[p]
+#Tsuyama
+Eh...[p]
+W-What are you doing...!?[p]
+#Nikuyama
+I'm just going to give you a little injection, so don't worry~[p]
+#Tsuyama
+An injection...?[p]
+B-But this...[p]
+is a penis...[p]
+#Nikuyama
+That's right, I'm just going to put my penis into Tsuyama's pussy and thrust it in gently~[p]
+#Tsuyama
+Th-That...[p]
+is...[p]
+s-sex...[p]
+#Nikuyama
+Impressive~[p]
+#Tsuyama
+Because I'm an adult...[p]
+I know about it...[p]
+#Nikuyama
+Oh, speaking of which, despite having a childlike body, I'm actually an adult.[p]
+So, have you ever seen a penis?[p]
+#Tsuyama
+N-No...[p]
+This is my first time...[p]
+#Nikuyama
+I see, I see.[p]
+This is a real adult penis.[p]
+It's quite cute, isn't it?[p]
+#Tsuyama
+U...[p]
+It's scary...[p]
+#Nikuyama
+What we're about to do isn't sex.[p]
+It's more like playing pretend sex.[p]
+#Tsuyama
+Pretend...[p]
+sex...?[p]
+#Nikuyama
+That's right.[p]
+Girls like Tsuyama, who may look like adults but have flat chests and smooth pussies, can get sick if they can't have proper sex.[p]
+So, we play pretend sex with the teacher to prevent getting sick.[p]
+#Tsuyama
+I-Is that so...?[p]
+And if we don't have proper sex, we won't get sick...?[p]
+#Nikuyama
+That's right.[p]
+If we play pretend sex with the teacher, it'll be okay.[p]
+#Tsuyama
+But...[p]
+w-will you put your...[p]
+penis inside...?[p]
+#Nikuyama
+Well, it's pretend sex, so I'll put it in.[p]
+#Tsuyama
+Does it...[p]
+hurt?[p]
+#Nikuyama
+At first, it might hurt a little, but it'll be okay soon.[p]
+#Tsuyama
+I-I'm scared...[p]
+#Nikuyama
+But you don't want to get a naughty illness, right?[p]
+#Tsuyama
+Y-Yes...[p]
+#Nikuyama
+Well then, if you can't hold it in.[p]
+Don't worry, it'll feel much better than masturbating, hehehe.[p]
+Alright, I'm going to put it in now.[p]
+#Tsuyama
+Ahh...!?[p]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game260-2.jpg"  ]
 [tb_start_text mode=1 ]
 #
-ググ・・・っ[p]
-#津山
-「アッ・・・うぅ・・・こ、怖い・・・」[p]
-#肉山
-「ほら、力んでると余計に痛いぞ。深呼吸してリラックスしろ」[p]
-#津山
-「う・・・はいです・・・フゥ・・・ハァ・・・」[p]
-#肉山
-「いいぞ・・・よし、先っぽが入ったぞ」[p]
-#津山
-「うぅ・・・ハァ・・・フゥ・・・ヒッ・・・」[p]
-#肉山
-「むう、さすがにキチギチだな・・・呼吸に合わせてちょっとずつ入れていくしかないな」[p]
+*moans*[p]
+#Tsuyama
+Ahh...[p]
+ugh...[p]
+I-I'm scared...[p]
+#Nikuyama
+Hey, if you tense up, it'll hurt even more.[p]
+Take a deep breath and relax.[p]
+#Tsuyama
+Ugh...[p]
+*panting* *sigh*[p]
+#Nikuyama
+Good...[p]
+Alright, the tip has entered.[p]
+#Tsuyama
+*panting* *sigh*[p]
+#Nikuyama
+Mmm, you're really tight...[p]
+I guess I'll have to slowly ease in, matching it with your breath.[p]
 #
-ズ・・・ズ・・・メリッ・・・[p]
-#津山
-「ンフゥッ！？・・・ハヒッ・・・ハフッ・・・ンムーッ・・・」[p]
-#肉山
-「そろそろ膜かな・・・？きつすぎてよくわからんが・・・」[p]
+*moans*[p]
+#Tsuyama
+Nfu!?[p]
+...[p]
+Hahi...[p]
+Hafu...[p]
+Nmuu...[p]
+#Nikuyama
+It's about time for the membrane...[p]
+It's so tight that I can't really tell...[p]
 #
-メリッ・・・メリメリッ・・・ブチッ！[p]
-#津山
-「ッッ・・・！？ヒギィーーーーーーー・・・・・・ッ！！」[p]
-#肉山
-「おっ、今のがそうか！やったなちびっこ、処女を卒業したぞ。これで一人前の女だな」[p]
-#津山
-「はぐぅ・・・ヒィッ・・・痛い・・・ハァッ！」[p]
-#肉山
-「落ち着け、落ち着いて深呼吸しろ。力を抜かないと余計に痛いぞ」[p]
-#津山
-「ハゥッ・・・ハヒィッ・・・フゥーッ・・・ハァッ」[p]
-#肉山
-「よし、とりあえず入るところまで入れていくぞ、そらっ」[p]
+Meri...[p]
+Merimeri...[p]
+Buchi![p]
+#Tsuyama
+*Gasp*...!?[p]
+Hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii...![p]
+#Nikuyama
+Oh, so that was it![p]
+Well done, little one.[p]
+You've graduated from being a virgin.[p]
+Now you're a full-fledged woman.[p]
+#Tsuyama
+Hagu...[p]
+Hii...[p]
+It hurts...[p]
+Haa![p]
+#Nikuyama
+Calm down, take a deep breath.[p]
+If you don't relax, it'll hurt even more.[p]
+#Tsuyama
+Hah...[p]
+Hahi...[p]
+Fuu...[p]
+Haa...[p]
+#Nikuyama
+Alright, for now, I'll go in as far as I can.[p]
+Here we go.[p]
 #
-ズリュッ！！[p]
-#津山
-「ハグゥッ！？」[p]
+Zuryu!![p]
+#Tsuyama
+Hagu!?[p]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game260-3.jpg"  ]
 [tb_start_text mode=1 ]
-#肉山
-「おっと、すまんすまん一気に奥まで入れてしまったぞ」[p]
-「これ以上入らないな。まだチンポの根元が余ってるんだが・・・うむ、これが子宮かな？」[p]
+#Nikuyama
+Oops, sorry sorry.[p]
+I accidentally went all the way in.[p]
+It won't go any further.[p]
+The base of my penis is still sticking out...[p]
+Hmm, is this the uterus?[p]
 #
-ツンツンッ[p]
-#津山
-「ウギィッ！？・・・ハゥウ・・・ッ・・・お、お腹が・・・ハァッ」[p]
-#肉山
-「さすがに狭いなロリマ●コは。おおっ、お腹がチンポで膨らんでるのが外からでも見えるな」[p]
-#津山
-「アグゥ・・・ぬ、抜いてください・・・っ・・・ハフゥッ」[p]
-#肉山
-「もうちょっと我慢しなさい。大人の女はみんなこれをやって一人前になるんだぞ」[p]
-#津山
-「はぐぅ・・・が、我慢するです・・・ンハァッ」[p]
-#肉山
-「えらいぞ。それじゃおちんちんズポズポしていくからな」[p]
+Tsun tsun[p]
+#Tsuyama
+Ugh!?...[p]
+Hauu...[p]
+*panting*...[p]
+M-my...[p]
+Haaah[p]
+#Nikuyama
+As expected, your loli pussy is tight.[p]
+Oh, your stomach is bulging from my dick, it's visible even from the outside.[p]
+#Tsuyama
+Ahh...[p]
+P-please pull out...[p]
+Haa...[p]
+#Nikuyama
+Just hold on a little longer.[p]
+Every grown woman goes through this to become a full-fledged adult.[p]
+#Tsuyama
+Hagu...[p]
+Nhaaah[p]
+#Nikuyama
+Good job.[p]
+Well then, I'll start thrusting my penis in and out.[p]
 #
-ヌチュッ・・・ズププッ・・・[p]
-#津山
-「はぅっ・・・んぎ・・・ハァッ・・・ンンッ」[p]
-#肉山
-「フゥッ・・・こうして見ると改めて小さいな。まるで生オナホだ。ホレッホレッ」[p]
+*Squelch...[p]
+*[p]
+#Tsuyama
+Hau...[p]
+ngi...[p]
+nn[p]
+#Nikuyama
+*Sigh*...[p]
+Looking at it like this, it's really small.[p]
+It's just like a live masturbator.[p]
+Look, look.[p]
 #
-ズプッ・・・ズプッ・・・[p]
-#津山
-「アゥゥ・・・ッ・・・ハァッ！・・・うぎぃ・・・っ」[p]
-#肉山
-「激しくやると壊れちまいそうだ。だがそれが興奮するな、ハァハァ」[p]
+*Squelch...[p]
+*[p]
+#Tsuyama
+Ahh...[p]
+*panting*...[p]
+Haaah...[p]
+ughh...[p]
+#Nikuyama
+It feels exciting when I go at it intensely, like I might break you.[p]
+Haah, haah.[p]
 #
-ズププッ！・・・ヌプッ！[p]
-#津山
-「あぐぅ・・・っ・・・ヒッ！・・・ヒギィ・・・ッ！」[p]
-#肉山
-「ほぉら痛くない痛くない。もうちょっと我慢だからねぇ～」[p]
+*Squelch...[p]
+*[p]
+#Tsuyama
+Aguu...[p]
+t...[p]
+Hic!...[p]
+Higii...[p]
+t![p]
+#Nikuyama
+Just endure a little longer~[p]
 #
-ギチュッ！ヌチュッ！ズププッ！[p]
-#津山
-「アヒィッ！？あぐぅぅぅ・・・っ・・・マ、ママァ・・・ママァッ！」[p]
-#肉山
-「お？いい歳してママに助けを求めるのか？泣いてもママは来ないぞぉ、ムヒヒヒッ」[p]
+*Squelch...[p]
+*[p]
+#Tsuyama
+Ahii!?[p]
+Aguuu...[p]
+M-mama...[p]
+Mamaaa![p]
+#Nikuyama
+Oh?[p]
+Are you asking Mama for help even though you're at such an age?[p]
+Even if you cry, Mama won't come, muhihihi.[p]
 #
-ズププッ！ギュポッ！ニチュッ！[p]
-#津山
-「はぐぅっ・・・お、お腹が・・・ヒィッ・・・壊れちゃう・・・うぅ・・・っ」[p]
-#肉山
-「大丈夫だよ～そんな簡単には壊れないからね。深呼吸してリラックスしなさい」[p]
+*Squelch...[p]
+*[p]
+#Tsuyama
+Hagu...[p]
+My, my stomach...[p]
+Hii...[p]
+It feels like it's going to break...[p]
+Ugh...[p]
+#Nikuyama
+It's okay~ You won't break that easily.[p]
+Take a deep breath and relax.[p]
 #
-ズプッ！ズプッ！ヌプッ！[p]
-#津山
-「うぅ・・・ヒィッ・・・フゥッ・・・ハァッ」[p]
-#肉山
-「気が紛れるようにおっぱいもチュッチュしてやろう。ムチューッ」[p]
-#津山
-「アンンッ！？ヤァッ・・・んんんっ・・・ハァッ」[p]
-#肉山
-「痛いと思うから痛くなるんだよ。気持ちいいと思いなさい」[p]
+*Squelch...[p]
+*[p]
+#Tsuyama
+Ugh...[p]
+Hic!...[p]
+Fuu...[p]
+Haa...[p]
+#Nikuyama
+*Mwah*[p]
+#Tsuyama
+Ahh!?[p]
+Yaa...[p]
+Haa[p]
+#Nikuyama
+It hurts because you think it hurts.[p]
+Just think that it feels good.[p]
 #
-ヌチュッ！ズチュッ！グチュッ！[p]
-#津山
-「ハゥッ・・・ッ・・・ハァッ・・・ヒッ」[p]
-#肉山
-「ほら、口に出して言ってみろ。おちんちん気持ちいいって」[p]
+*Squelch...[p]
+*[p]
+#Tsuyama
+Haa...[p]
+Haa...[p]
+Haa...[p]
+Hic.[p]
+#Nikuyama
+Come on, say it out loud.[p]
+Say that the penis feels good.[p]
 #
-ズプッ！ズムッ！ズプッ！[p]
-#津山
-「アヒッ！・・・ハァッ・・・お、おちんちん・・・きもちいいですぅ・・・はぐぅっ」[p]
-#肉山
-「いいぞ、先生も気持ちいいぞ。津山のおまんこすごく気持ちいいぞぉ！」[p]
+*Squelch...[p]
+slurp...[p]
+*[p]
+#Tsuyama
+Ahh!...[p]
+Haa...[p]
+The, the penis...[p]
+Hagu~[p]
+#Nikuyama
+Good, it feels good for you too, Sensei.[p]
+Tsuyama's pussy feels really good![p]
 #
-ニュプッ！ギュポッ！ズプッ！[p]
-#津山
-「はぁっ・・・ヒッ・・・んんん－－っ！」[p]
-#肉山
-「津山のおま●こが気持ち良すぎておチンポミルクがドピュッと出ちまいそうだ、ハァハァッ」[p]
+*Squelch...[p]
+slurp...[p]
+*[p]
+#Tsuyama
+Haa...[p]
+Hic...[p]
+Nnnn--![p]
+#Nikuyama
+Tsuyama's pussy feels so good that my penis milk is about to shoot out, haa haa.[p]
 #
-ギュポッ！ギュポッ！ギュポッ！[p]
-#津山
-「あぁぁっ・・・イヤァッ・・・アッ・・・ママ・・・ママァッ！」[p]
-#肉山
-「ママは呼んでも来ないんだよっ。オラッ、子宮に直接ドピュッと出してやるからな・・・っ！」[p]
+*Squelch...[p]
+slurp...[p]
+*[p]
+#Tsuyama
+Ahh...[p]
+Noo...[p]
+Ahh...[p]
+Mama...[p]
+Mamaa![p]
+#Nikuyama
+Mama won't come even if you call her.[p]
+I'm gonna shoot my load directly into your womb...![p]
 #
-ギュポッ！ギュポッ！ギュポッ！[p]
-#津山
-「ヒギィーーーーッ！？アアァッ・・・ハァッ・・・ハァァッ！」[p]
-#肉山
-「う・・・で、出るっ・・・！」[p]
+*Squelch...[p]
+slurp...[p]
+*[p]
+#Tsuyama
+Higiiii!?[p]
+Aaah...[p]
+Haa...[p]
+Haaa...[p]
+#Nikuyama
+U...[p]
+I'm...[p]
+gonna cum...![p]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game260-4.jpg"  ]
 [tb_start_text mode=1 ]
 #
-ドピュッッ！！[p]
-#津山
-「アァァッーーーーーー・・・・・・ッ！！」[p]
-#肉山
-「おほぅ・・・ロリマ●コに大量中出しぃ・・・っ」[p]
+*[p]
+#Tsuyama
+Ahhhhhhhhh...![p]
+#Nikuyama
+Ohh...[p]
+I'm gonna creampie your loli pussy...[p]
 #
-ビュルビュルビュビュ・・・ッ[p]
-#津山
-「あぅ・・・ひっ・・・ハァッ・・・フゥッ・・・」[p]
-#肉山
-「ハァ・・・この背徳感・・・たまんねぇな・・・フゥ」[p]
-#津山
-「あ・・・え・・・中で出した・・・ですか？」[p]
-#肉山
-「あ？・・・うむ、中にピュッピュしたぞ。これが大人の正しいセックスだ」[p]
-#津山
-「あ・・・赤ちゃんできちゃうです・・・」[p]
-#肉山
-「大丈夫だ。まだ毛が生えてないから赤ちゃんはできないよ」[p]
-#津山
-「え・・・そ、そうなんです・・・？」[p]
-#肉山
-「知らなかったのか？アソコの毛が生えるまでは妊娠はしないんだぞ。だからつるつるマンマンのお前にはいくら中出ししても大丈夫だ」[p]
-#津山
-「し、知らなかったです・・・」[p]
-#肉山
-「また一つ賢くなったな」[p]
+*Squelch...[p]
+slurp...[p]
+*[p]
+#Tsuyama
+Ahh...[p]
+Hii...[p]
+Haa...[p]
+Fuu...[p]
+#Nikuyama
+Haa...[p]
+This sense of immorality...[p]
+It's so arousing...[p]
+Fuu.[p]
+#Tsuyama
+Ah...[p]
+eh...[p]
+Did you cum inside me?[p]
+#Nikuyama
+Huh?...[p]
+Yeah, I came inside.[p]
+This is the proper way for adults to have sex.[p]
+#Tsuyama
+Ah...[p]
+I think I might be pregnant...[p]
+#Nikuyama
+Don't worry.[p]
+Since you don't have any hair yet, you can't have a baby.[p]
+#Tsuyama
+Eh...[p]
+Is, is that so...?[p]
+#Nikuyama
+Didn't you know?[p]
+Until hair grows down there, you can't get pregnant.[p]
+So even if I creampie your smooth pussy, it's perfectly fine.[p]
+#Tsuyama
+I...[p]
+I didn't know...[p]
+#Nikuyama
+You've become a little wiser.[p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -2041,50 +2949,60 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Grease_Slide_Trap.mp3"  ]
 [tb_start_text mode=1 ]
-#肉山
-「セックスごっこはどうだった？きつかったか？」[p]
-#津山
-「痛くて・・・すごく苦しかったです・・・」[p]
-#肉山
-「ふむ、しかしこれでお前も正しいセックスを経験できたわけだ。一人前の大人の女になれたな」[p]
-#津山
-「大人・・・なれたです？」[p]
-#肉山
-「うむ、よく頑張ったな」[p]
-#津山
-「・・・うれしいです・・・」[p]
-#肉山
-「淫乱症の発症を確実に防ぐためには後何回か今日みたいなことをやらないといかん」[p]
-#津山
-「え・・・まだやるですか・・・？」[p]
-#肉山
-「うむ、仕方ないことなのだ。でも次からは今日みたいに痛くないしだんだん気持ちよくなってくるはずだから」[p]
-#津山
-「本当です・・・？」[p]
-#肉山
-「本当だ。大人の女はみんな子供に内緒で気持ちのいいセックスを楽しんでるんだぞ」[p]
-#津山
-「知らなかったです」[p]
-#肉山
-「先生とセックスごっこして慣れておけば、いずれ恋人ができて初めてセックスする時もおたおたしなくていいぞ。好きな男子とかいるのか？」[p]
-#津山
-「い、い、いないです」[p]
-#肉山
-「本当か～？」[p]
-#津山
-「ほ、ほ、本当です」[p]
-#肉山
-「まぁいい。ところで分かってると思うが今日のことは絶対に誰にも言ったらだめだからな」[p]
-#津山
-「わかってるです」[p]
-#肉山
-「友達とかお母さんとかにも絶対秘密だぞ」[p]
-#津山
-「言わないです」[p]
-#肉山
-「よし、それじゃ今日は終わりだからもう帰っていいぞ」[p]
-#津山
-「はいです。先生さようならです」[p]
+#Nikuyama
+How was our sex play?[p]
+Was it intense?[p]
+#Tsuyama
+It hurt...[p]
+It was really painful...[p]
+#Nikuyama
+Hmm, but with this, you have also experienced proper sex.[p]
+You have become a full-fledged adult woman.[p]
+#Tsuyama
+Have I...[p]
+become an adult?[p]
+#Nikuyama
+Well, you did well.[p]
+#Tsuyama
+...[p]
+I'm happy...[p]
+#Nikuyama
+In order to prevent the onset of nymphomania, we'll have to do things like this a few more times today.[p]
+#Tsuyama
+Eh...[p]
+Are we still going to do it...?[p]
+#Nikuyama
+Yes, it can't be helped.[p]
+But from now on, it shouldn't hurt like today and it should gradually start feeling good.[p]
+#Tsuyama
+Is that true...?[p]
+#Nikuyama
+That's true.[p]
+All adult women secretly enjoy pleasurable sex without the knowledge of children.[p]
+#Tsuyama
+I didn't know.[p]
+#Nikuyama
+If you get used to playing sex pretend with me, when you eventually have a boyfriend and have sex for the first time, you won't have to be all flustered.[p]
+Do you have any boys you like?[p]
+#Tsuyama
+I-I-I don't have any.[p]
+#Nikuyama
+Is that true~?[p]
+#Tsuyama
+R-R-Really...[p]
+#Nikuyama
+Well, it's fine.[p]
+By the way, I think you understand, but you absolutely must not tell anyone about what happened today.[p]
+#Tsuyama
+I understand.[p]
+#Nikuyama
+It's an absolute secret from friends and even your mother.[p]
+#Tsuyama
+I won't say anything.[p]
+#Nikuyama
+Alright, then we're done for today, so you can go home now.[p]
+#Tsuyama
+Yes, goodbye, Sensei.[p]
 
 
 [_tb_end_text]
@@ -2092,13 +3010,12 @@
 [chara_hide_all  time="1000"  wait="true"  ]
 [tb_start_text mode=1 ]
 #
-ふう、ついにロリっ子に手を出してしまったな[p]
-全員陽性は怪しいから陰性にするための要員として数に入れたんだが・・・まぁいいか[p]
-基本的にはムチムチボディの方が好きだが、たまにはロリも悪くない[p]
-やってはいけないことをやってる気がして罪悪感はあるがそこが逆に興奮するぜ[p]
-性癖の幅が広がりそうだ[p]
-・・・・・・[p]
-・・・[p]
+Phew, I finally ended up getting involved with a loli girl.[p]
+I included her as a member to turn the positive into negative because it's suspicious for everyone to be positive...[p]
+Well, it's fine.[p]
+Generally, I prefer a plump body, but occasionally, lolis aren't bad either.[p]
+I feel guilty for doing something I shouldn't, but that guilt actually excites me.[p]
+It seems like my sexual preferences are expanding...[p]
 [_tb_end_text]
 
 [tb_eval  exp="f.e3=4"  name="e3"  cmd="="  op="t"  val="4"  val_2="undefined"  ]
@@ -2111,86 +3028,120 @@
 [chara_show  name="桐嶋"  time="1000"  wait="true"  storage="chara/1/game22.png"  width="385"  height="906"  left="212"  top="-1"  reflect="false"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Grease_Slide_Trap.mp3"  ]
 [tb_start_text mode=1 ]
-#藤野
-「えっ・・・陽性・・・ですか？」[p]
-#肉山
-「うむ、残念ながら君が潜在的淫乱症であることが明らかになった。これが検査結果報告書だ」[p]
-#藤野
-「そ、そんな・・・」[p]
-#肉山
-「そんなに落ち込まなくても大丈夫だ。今のうちに正しい処置をすれば発症は防げるから」[p]
-#香織
-「そうよ、若いうちに検査で発見できたことはむしろ幸運だわ」[p]
-#藤野
-「そ、そうなんでしょうか・・・」[p]
-#肉山
-「私に任せておけば大丈夫だ。安心して処置を受けなさい」[p]
-#藤野
-「あの・・・肉山先生が治療してくださるんですか・・・？お医者様ではなくて・・・？」[p]
-#肉山
-「そうだ。淫乱症の治療に関しては豊富な経験を持っているからな。安心しろ」[p]
+#Fujino
+Eh...[p]
+Positive...?[p]
+#Nikuyama
+Yes, unfortunately it has become clear that you have latent nymphomania.[p]
+This is the test result report.[p]
+#Fujino
+T-That...[p]
+#Nikuyama
+It's okay, you don't have to be so down.[p]
+If we take the right measures now, we can prevent the onset.[p]
+#Kaori
+That's right, it's actually fortunate that we were able to discover it through the examination while you're still young.[p]
+#Fujino
+I-Is that so...?[p]
+#Nikuyama
+Leave it to me.[p]
+Relax and receive the treatment.[p]
+#Fujino
+Um...[p]
+Nikuyama-sensei, are you going to treat me...?[p]
+Instead of a doctor...?[p]
+#Nikuyama
+That's right.[p]
+I have plenty of experience in treating nymphomania, so don't worry.[p]
 #
 [_tb_end_text]
 
 [tb_image_show  time="1000"  storage="default/game200.png"  width="280"  height="249"  x="489"  y="267"  _clickable_img=""  name="img_264"  ]
 [tb_image_hide  time="1000"  ]
 [tb_start_text mode=1 ]
-#香織
-「肉山先生は淫乱症治療の資格を持っていらっしゃるから。肉山先生に治療していただけば問題なく生活できるわ」[p]
-#藤野
-「肉山先生は過去にも何人も治療なされてきたのですか？」[p]
-#肉山
-「え？・・・あ、ああもちろんだ。これまでも何人もの治療をしてきたとも。前にも言った通り淫乱症に関しては秘密厳守が徹底されているから知っている人はほとんどいないがな」[p]
-#藤野
-「そうでしたか・・・。それでしたら安心です」[p]
-#肉山
-「うむ、それでは早速今日から治療を始めていくからな。こういうのは早い方が良いから」[p]
-#藤野
-「あ、はい・・・治療っていったいどういうことをするのでしょうか・・・？」[p]
-#肉山
-「まぁ運動療法というか、カウンセリングとマッサージを兼ねたようなことをだな・・・とにかく任せてきなさい」[p]
-#藤野
-「は、はい。よろしくお願いします」[p]
-#肉山
-「それじゃ服を全部脱いでこちらに来なさい」[p]
-#藤野
-「えっ・・・！？あの・・・また裸に・・・？」[p]
-#肉山
-「ああ、もちろん。裸にならないと治療ができないからね」[p]
+#Kaori
+Dr.[p]
+Nikuyama is qualified to treat nymphomania.[p]
+If you receive treatment from Dr.[p]
+Nikuyama, you can live without any problems.[p]
+#Fujino
+Has Dr.[p]
+Nikuyama treated many people in the past?[p]
+#Nikuyama
+Huh?...[p]
+Ah, yes, of course.[p]
+I have treated many people in the past as well.[p]
+As I mentioned before, when it comes to nymphomania, strict confidentiality is maintained, so very few people know about it.[p]
+#Fujino
+Is that so...?[p]
+If that's the case, then I feel relieved.[p]
+#Nikuyama
+Yes, then let's start the treatment right away from today.[p]
+It's better to start early in cases like this.[p]
+#Fujino
+Ah, yes...[p]
+What exactly does the treatment involve...?[p]
+#Nikuyama
+Well, it's a combination of exercise therapy, counseling, and massage...[p]
+Anyway, leave it to me.[p]
+#Fujino
+Y-Yes.[p]
+Nice to meet you.[p]
+#Nikuyama
+Well then, please take off all your clothes and come over here.[p]
+#Fujino
+Eh...!?[p]
+Um...[p]
+get naked again...?[p]
+#Nikuyama
+Ah, of course.[p]
+You can't receive treatment without getting naked.[p]
 [_tb_end_text]
 
 [tb_image_show  time="1000"  storage="default/game200.png"  width="295"  height="262"  x="495"  y="264"  _clickable_img=""  name="img_267"  ]
 [tb_image_hide  time="1000"  ]
 [tb_start_text mode=1 ]
-#香織
-「恥ずかしいでしょうけど我慢して。あなたの将来のためだから・・・」[p]
-#藤野
-「は、はい・・・わかりました」[p]
+#Kaori
+It might be embarrassing, but please endure it.[p]
+It's for the sake of your future...[p]
+#Fujino
+Y-Yes...[p]
+I understand.[p]
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
 [bg  time="1000"  method="crossfade"  storage="game249-0.jpg"  ]
 [tb_start_text mode=1 ]
-#藤野
-「あぁ・・・は、恥ずかしい・・・」[p]
-#香織
-「それじゃ後はお願いします」[p]
-#肉山
-「ええ、お疲れ様です」[p]
-#藤野
-「えっ・・・桐嶋先生は居てくれないのですか？」[p]
-#香織
-「治療の邪魔になってしまうから。大丈夫よ、肉山先生を信頼してちゃんと指示に従っておけば問題ないわ」[p]
-#藤野
-「桐嶋先生は肉山先生をとても信頼していらっしゃるんですね・・・？」[p]
-#香織
-「え？ええ・・・肉山先生は信頼できる素晴らしい先生よ。任せておけば大丈夫だから・・・」[p]
-#藤野
-「はい・・・わかりました」[p]
-#香織
-「それじゃ頑張って・・・」[p]
-#肉山
-「さぁ、服を全部脱いだらこちらに来なさい、ムフフフ」[p]
+#Fujino
+Ah...[p]
+I-It's embarrassing...[p]
+#Kaori
+Well then, I'll leave the rest to you.[p]
+#Nikuyama
+Ah, good work.[p]
+#Fujino
+Eh...[p]
+Is Kirishima-sensei not here?[p]
+#Kaori
+It's because it would interfere with the treatment.[p]
+Don't worry, if you trust Dr.[p]
+Nikuyama and follow their instructions properly, there won't be any problems.[p]
+#Fujino
+Does Kirishima-sensei really trust Dr.[p]
+Nikuyama so much...?[p]
+#Kaori
+Eh?[p]
+Well...[p]
+Dr.[p]
+Nikuyama is a trustworthy and amazing doctor.[p]
+If you leave it to them, everything will be fine...[p]
+#Fujino
+Yes...[p]
+I understand.[p]
+#Kaori
+Well then, do your best...[p]
+#Nikuyama
+Now, come over here after you've taken off all your clothes, hehehe.[p]
 
 [_tb_end_text]
 
@@ -2200,96 +3151,185 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="マダムの口紅.mp3"  ]
 [tb_start_text mode=1 ]
-#藤野
-「アッ・・・アフゥッ・・・アンッ♥・・・ハァッ」[p]
+#Fujino
+Ah...[p]
+Ahh...[p]
+Haa[p]
 #
-モミモミモミッ[p]
-#肉山
-「ムホッなんて揉み心地のいい乳房だ。ずっしりと重みもあって・・・肌理が細かいから手に吸い付くようだ。いくら揉んでも揉み飽きないな」[p]
-#藤野
-「ンンッ・・・せ、先生・・・ほ、本当にこれが必要なんですか・・・？」[p]
-#肉山
-「そうだぞ藤野。さっきも説明したがお前のような生育のいい女が性経験が乏しいのは淫乱症の進行には非常に危険なんだ」[p]
-「今の状態で下手な男と間違った初体験をしてしまうと、その影響で淫乱症が発症してしまいかねない。だからその前に先生が正しい性経験を疑似体験させてやっているんだ」[p]
-#藤野
-「は、はい・・・アンッ・・・正しい・・・性体験・・・アフゥッ♥」[p]
-#肉山
-「この大きなオッパイもしっかり揉んでやるからな、ムフーッ」[p]
+Squeeze, squeeze, squeeze.[p]
+#Nikuyama
+Mmm, what a pleasant feeling to squeeze these breasts.[p]
+They have a nice weight to them...[p]
+and the texture of the skin is so smooth, it feels like they stick to my hands.[p]
+No matter how much I squeeze, I never get tired of it.[p]
+#Fujino
+Nn...[p]
+S-sensei...[p]
+I-is this really necessary...?[p]
+#Nikuyama
+That's right, Fujino.[p]
+I explained earlier, but it's very dangerous for a healthy woman like you with limited sexual experience to have the progression of nymphomania.[p]
+If you were to have a misguided first experience with an inexperienced man in your current state, it could potentially trigger the onset of nymphomania.[p]
+That's why I, as your doctor, am providing you with a simulated sexual experience to ensure the correct sexual experience beforehand.[p]
+#Fujino
+Y-Yes...[p]
+Ahh...[p]
+The correct...[p]
+Ahh♥[p]
+#Nikuyama
+I'll make sure to thoroughly squeeze these big breasts, hehehe.[p]
 #
-モミモミモミンッ[p]
-#藤野
-「アァッ・・・ンンッ♥・・・は、恥ずかしい・・・です・・・アハァッ♥」[p]
-#肉山
-「藤野の身体がエロいから先生のチンポはもうガッチガチだぞ。背中に当たってるのが分かるか？」[p]
-#藤野
-「アッ・・・は、はい・・・ンンッ・・・ハァッ♥」[p]
-#肉山
-「藤野はキスはしたことあるのか？」[p]
-#藤野
-「え・・・い、いえ・・・ありません・・・ンンッ」[p]
-#肉山
-「それはいかん！こんなスケベな身体なのにキスもしたことがないなんて・・・。非常に危険だ。体験しておかないといかんな」[p]
-#藤野
-「アッ・・・え・・・？」[p]
-#肉山
-「ムチューーーッ」[p]
-#藤野
-「ンンッ・・・！？ンッ・・・ン・・・チュッ・・・」[p]
-#肉山
-「チュバチュバッ・・・ハムッ」[p]
-#藤野
-「ンンッ・・・チュムッ・・・ハァッ！・・・ヤァッ・・・わたし・・・は、初めてなのに・・・」[p]
-#肉山
-「なに、これはあくまで医療行為だからな。初キスに数える必要はない。ノーカウントだノーカウント」[p]
-#藤野
-「え・・・そ、そうなんですか・・・？」[p]
-#肉山
-「そうだ。だから安心してもっと舌を絡ませなさい。ムチュゥッ・・・チュバッ」[p]
-#藤野
-「ンムッ・・・チュバッ・・・ああ・・・セ、先生っ・・・アムッ・・・レロレロッ♥」[p]
-#肉山
-「チュバッ・・・チュゥッ・・・ムフーッ・・・藤野の唾液は美味しいぞぉ・・・チュバッ」[p]
-#藤野
-「アムッ・・・レロレロッ♥・・・ンンッ・・・チュムッ♥」[p]
-#肉山
-「ンムッ・・・チュバッ・・・レロレロレロッ・・・モミモミモミモミッ」[p]
-#藤野
-「ンンッ♥・・・レロレロッ・・・アフゥッ♥・・・あぁ・・・肉山先生・・・っ」[p]
-#肉山
-「ムフフフ、だいぶ気持ちもほぐれてきたか？そろそろこっちの方もほぐしてやらないとな・・・よっ」[p]
+Squeeze, squeeze, squeeze.[p]
+#Fujino
+Ahh...[p]
+Unn♥...[p]
+It's...[p]
+Ahh♥[p]
+#Nikuyama
+Fujino's body is so sexy that my cock is already rock hard.[p]
+Can you feel it pressing against your back?[p]
+#Fujino
+Ah...[p]
+Y-yes...[p]
+Haa♥[p]
+#Nikuyama
+Has Fujino ever kissed before?[p]
+#Fujino
+E...[p]
+No...[p]
+I haven't...[p]
+Nngh...[p]
+#Nikuyama
+This is unacceptable![p]
+Having such a lewd body and never having kissed before...[p]
+It's extremely dangerous.[p]
+You must experience it.[p]
+#Fujino
+Ah...[p]
+Eh...?[p]
+#Nikuyama
+*smooch*[p]
+#Fujino
+Nngh...!?[p]
+Nngh...[p]
+*smooch*[p]
+#Nikuyama
+*sucking noises* ...[p]
+Hmmpf.[p]
+#Fujino
+Nngh...[p]
+Chum...[p]
+Haa...[p]
+Yaa...[p]
+Even though it's my first time...[p]
+#Nikuyama
+What, this is just a medical procedure.[p]
+There's no need to count it as a first kiss.[p]
+It doesn't count, it doesn't count.[p]
+#Fujino
+Eh...[p]
+Is that so...?[p]
+#Nikuyama
+That's right.[p]
+So relax and let our tongues entwine more.[p]
+*sucking noises*[p]
+#Fujino
+Nnmu...[p]
+Chubba...[p]
+Aah...[p]
+S-sensei...[p]
+Lick, lick ♥[p]
+#Nikuyama
+Chubba...[p]
+Chu...[p]
+Mmm...[p]
+Fujino's saliva is delicious...[p]
+Chubba.[p]
+#Fujino
+Ahh...[p]
+Lick, lick ♥...[p]
+Chum ♥[p]
+#Nikuyama
+Nnmu...[p]
+Chubba...[p]
+Lick, lick...[p]
+Momi momi momi momi...[p]
+#Fujino
+Nngh ♥...[p]
+Lick, lick...[p]
+Ahh ♥...[p]
+Ahh...[p]
+Nikuyama-sensei...[p]
+#Nikuyama
+Mufufu, have you relaxed enough?[p]
+It's about time I loosen things up on this side too...[p]
 #
-クチュッ・・・[p]
-#藤野
-「ンンッ・・・ンムッ！？ハァッ・・・せ、先生そ、そこは・・・アヒッ！」[p]
-#肉山
-「なんだ、もう濡れてるじゃないか。先生のキスで感じちゃったのか？んん？」[p]
-#藤野
-「ハァンッ・・・そ、そんなこと・・・アンンッ♥だ、ダメです・・・アフゥッ♥」[p]
-#肉山
-「ほら、クチュクチュいってるぞ。オッパイもみもみされて感じてたんだな。なんてスケベな身体だ、ムヒヒヒ」[p]
-#藤野
-「アフゥッ♥・・・そ、そんな・・・ンンッ♥・・・ち、違います・・・アヒッ♥」[p]
-#肉山
-「褒めてるんだぞ。スケベなのは良いことなんだからな。女として正常だってことだぞ」[p]
-#藤野
-「エッ・・・そ、そうなんですか・・・アフゥッ♥」[p]
-#肉山
-「藤野は身体はこんなにスケベなのに心でそれを抑圧していたんだ。それはとても危険なことだ。もっと素直にならないといかんぞ」[p]
-#藤野
-「ハァンッ♥・・・で、でも・・・アッ・・・ヤァンッ♥・・・ハァッ・・・」[p]
-#肉山
-「ほれ、もっとキスしてやろう。舌を出しなさい、ベロベロッ」[p]
-#藤野
-「アッ・・・ンムッ・・・レロレロッ・・・ムチュッ♥・・・ハァッ・・・先生・・・っ♥」[p]
-#肉山
-「チュバッ・・・先生が藤野の身体をしっかりと女の身体に開発してやるからな。安心して身をゆだねなさい」[p]
+*smooch*...[p]
+#Fujino
+Nn...[p]
+Mmm!?[p]
+Haah...[p]
+S-sensei, t-that place...[p]
+Ahh![p]
+#Nikuyama
+What's this, you're already wet.[p]
+Did you get turned on by my kiss?[p]
+Hm?[p]
+#Fujino
+Haa...[p]
+S-something like that...[p]
+Afu ♥[p]
+#Nikuyama
+Look, you're making squishy sounds.[p]
+Your breasts were being fondled and you were feeling it, huh?[p]
+What a perverted body, muhihihi.[p]
+#Fujino
+Ahh ♥...[p]
+Th-that...[p]
+Nngh ♥...[p]
+Ahh ♥[p]
+#Nikuyama
+I'm praising you.[p]
+Being perverted is a good thing.[p]
+It means you're normal as a woman.[p]
+#Fujino
+Eh...[p]
+Ahh ♥[p]
+#Nikuyama
+Fujino's body is so perverted, yet they were suppressing it in their heart.[p]
+That's very dangerous.[p]
+They need to be more honest with themselves.[p]
+#Fujino
+Haaan ♥...[p]
+B-but...[p]
+Ahh...[p]
+Yaaan ♥...[p]
+Haa...[p]
+#Nikuyama
+Here, let me kiss you more.[p]
+Stick out your tongue, lickety-lick.[p]
+#Fujino
+Ahh...[p]
+Mmm...[p]
+Lick, lick...[p]
+Smooch ♥...[p]
+Haah...[p]
+♥[p]
+#Nikuyama
+Chu...[p]
+I will thoroughly develop Fujino's body into that of a woman, sensei.[p]
+So relax and entrust yourself to me.[p]
 #
-モミモミモミッ・・・クチュッ・・・ジュポッ[p]
-#藤野
-「ンンーッ♥・・・ハァンッ・・・アヒッ♥・・・は、はい・・・っ・・・先生・・・アンンッ♥」[p]
+Squeeze, squeeze...[p]
+*suck*[p]
+#Fujino
+Nnnggghh ♥...[p]
+Haaan...[p]
+Ahh ♥...[p]
+Y-yes...[p]
+Unngghh ♥[p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 
 [_tb_end_text]
 
@@ -2299,44 +3339,73 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Indomitable.mp3"  ]
 [tb_start_text mode=1 ]
-#藤野
-「ハァッ・・・せ、先生・・・絶対にやらないといけないことなんですよね・・・」[p]
-#肉山
-「うむ、先生と疑似セックスで初体験を経験しておくことで淫乱症の発症を防ぐんだ。わかるな？」[p]
-#藤野
-「は、はい・・・でも・・・こ、怖いです・・・」[p]
-#肉山
-「初めてだから緊張するのは仕方ない。でもしっかりと時間をかけてオマ●コをほぐしたから、そんなに痛みは無いはずだ」[p]
-#藤野
-「は、はい・・・う・・・」[p]
-#肉山
-「先生は準備万端で待ってるからな。自分のタイミングで来ればいいぞ」[p]
-#藤野
-「は、はい・・・ハァッ・・・ンッ」[p]
-#肉山
-「先生のチンポは早く藤野のオマンコと合体したいって先っぽからよだれを垂らしちゃってるぞ、ムフフフ」[p]
-#藤野
-「あぁ・・・く・・・フゥッ・・・」[p]
-#肉山
-「おっ、先っぽが触ったぞ。オマンコでチンポにキスしたみたいだな」[p]
-#藤野
-「ハァッ・・・フゥッ・・・」[p]
-#肉山
-「ゆっくりでいいぞ。・・・そうだ、そうそう・・・おぉっ、亀頭が入ったぞ。オホッ」[p]
-#藤野
-「アッ！？な、なんかビクって・・・」[p]
-#肉山
-「ああ、すまんすまん。藤野のオマンコの感触が気持ち良すぎてな。チンポは気持ちいいとビクンって動いてしまうんだ。気にせず続けてくれ」[p]
-#藤野
-「は、はい・・・ンッ・・・アンッ♥」[p]
-#肉山
-「よし、いいぞ。あとはそのまま腰を落とすだけだ。自分のタイミングでいいからな」[p]
-#藤野
-「はいっ・・・ハァッ・・・い、いきます・・・っ」[p]
-#肉山
-「おっ」[p]
-#藤野
-「ハァッ・・・フゥッ・・・ンッ♥・・・い、いきます・・・っ」[p]
+#Fujino
+Haa...[p]
+S-Sensei...[p]
+It's something I absolutely have to do, right...[p]
+#Nikuyama
+Yes, by experiencing a simulated sexual experience with sensei as my first time, it will prevent the onset of nymphomania.[p]
+Do you understand?[p]
+#Fujino
+Y-Yes...[p]
+but...[p]
+I'm scared...[p]
+#Nikuyama
+It's natural to be nervous because it's your first time.[p]
+But since I took the time to properly loosen up your pussy, there shouldn't be much pain.[p]
+#Fujino
+Y-Yes...[p]
+Uhh...[p]
+#Nikuyama
+Sensei is fully prepared and waiting.[p]
+You can come at your own pace.[p]
+#Fujino
+Y-Yes...[p]
+Haa...[p]
+Ahh...[p]
+#Nikuyama
+Sensei's cock is already drooling with anticipation to merge with Fujino's pussy, hehehe.[p]
+#Fujino
+Ahh...[p]
+ku...[p]
+Fuu...[p]
+#Nikuyama
+Oh, I touched the tip.[p]
+It's like my pussy kissed your cock.[p]
+#Fujino
+Haa...[p]
+Fuu...[p]
+#Nikuyama
+Take it slow...[p]
+That's right, just like that...[p]
+Oh, the tip went in.[p]
+Ohh.[p]
+#Fujino
+Ah!?[p]
+I-I felt a twitch...[p]
+#Nikuyama
+Ah, sorry, sorry.[p]
+The sensation of Fujino's pussy feels too good.[p]
+My cock feels so good that it twitches.[p]
+Please continue without worrying.[p]
+#Fujino
+Y-Yes...[p]
+Ahh♥[p]
+#Nikuyama
+Alright, good.[p]
+Just lower your hips as they are.[p]
+Take your time and do it at your own pace.[p]
+#Fujino
+Yes...[p]
+Haa...[p]
+I-I'm coming...[p]
+#Nikuyama
+Oh[p]
+#Fujino
+Haa...[p]
+Fuu...[p]
+Nn♥...[p]
+I-I'm coming...[p]
 [_tb_end_text]
 
 [stopbgm  time="1000"  fadeout="true"  ]
@@ -2344,121 +3413,208 @@
 [playbgm  volume="100"  time="1000"  loop="true"  storage="music57.mp3"  ]
 [tb_start_text mode=1 ]
 #
-ブチッ[p]
-#藤野
-「ッ！？・・・－－－－－－－ッ！！」[p]
-#肉山
-「おぉっ、きたっ」[p]
-#藤野
-「アァッ・・・！ハァッ・・・アフゥッ・・・」[p]
-#肉山
-「どうだ、思ったほど痛くなかっただろう？」[p]
-#藤野
-「ハァッ・・・は、はい・・・ちょっとジンジンしますけど・・・そんなには・・・ハフウッ」[p]
-#肉山
-「とにかくこれで藤野も一人前の女になったわけだ。おめでとう」[p]
-#藤野
-「ンンッ・・・は、はい・・・ありがとうございます・・・アァッ♥」[p]
-#肉山
-「藤野のオマンコに初めて入ったチンポが先生のチンポになったな。先生もすごく嬉しいぞ」[p]
-#藤野
-「アァッ・・・は、恥ずかしいです・・・ンッ・・・ハァッ♥」[p]
-#肉山
-「もちろんこれは疑似セックスだから正式には初体験ではないがな。先生が藤野の初めての男になったことは二人だけの秘密だ」[p]
-#藤野
-「アァッ・・・ンッ・・・はい・・・っ」[p]
-#肉山
-「それじゃ痛みが治まってきたらゆっくり動いてみなさい」[p]
-#藤野
-「は、はい・・・ンンッ・・・ッ」[p]
-#肉山
-「そうそう、わかってるじゃないか。腰を上下にそうやってな」[p]
-#藤野
-「ンンッ・・・ハァッ♥・・・ンフゥッ」[p]
-#肉山
-「オマンコの中のチンポをちゃんと意識してな。オマンコでチンポをしごくように上下させるんだ」[p]
-#藤野
-「は、はい・・・ンンッ・・・アフゥッ・・・ハァッ♥」[p]
-#肉山
-「この体位を騎乗位というんだぞ。覚えておきなさい。男は寝てるだけで女の方が主導権を握るセックスの仕方だ」[p]
-#藤野
-「は、はい・・・ンッ・・・き、きじょうい・・・ハァンッ♥」[p]
-#肉山
-「先生のチンポを使って好きなようにしていいんだぞ。自分で気持ちよくなるようにやってみなさい」[p]
-#藤野
-「ンッ・・・そ、そんな・・・ど、どうすればいいか・・・アヒッ♥」[p]
-#肉山
-「とりあえずもうちょっとスピードを上げてリズミカルに動かしてみなさい」[p]
-#藤野
-「は、はい・・・ンンッ♥」[p]
+*sound effect*[p]
+#Fujino
+Ah!?...[p]
+Ahhhhhhh!![p]
+#Nikuyama
+Oh, it's here.[p]
+#Fujino
+Ahh...![p]
+Haa...[p]
+Afu...[p]
+#Nikuyama
+How is it?[p]
+It didn't hurt as much as you thought, right?[p]
+#Fujino
+Haa...[p]
+Y-Yes...[p]
+It's tingling a bit...[p]
+Hafuu[p]
+#Nikuyama
+Anyway, with this, Fujino has become a full-fledged woman.[p]
+Congratulations.[p]
+#Fujino
+Nn...[p]
+Yes...[p]
+Ahh♥[p]
+#Nikuyama
+The first cock to enter Fujino's pussy has become Sensei's cock.[p]
+Sensei is also very happy.[p]
+#Fujino
+Ahh...[p]
+It's embarrassing...[p]
+Haa♥[p]
+#Nikuyama
+Of course, this is just simulated sex, so it's not officially Fujino's first experience.[p]
+The fact that Sensei became Fujino's first man is a secret between the two of us.[p]
+#Fujino
+Ahh...[p]
+Unn...[p]
+Yes...[p]
+#Nikuyama
+Then, when the pain subsides, try moving slowly.[p]
+#Fujino
+Y-Yes...[p]
+Nn...[p]
+Ahh...[p]
+#Nikuyama
+That's right, you understand, don't you?[p]
+Move your hips up and down like that.[p]
+#Fujino
+Nn...[p]
+Nfuu[p]
+#Nikuyama
+Be conscious of the cock inside your pussy.[p]
+Move your hips up and down as if you're stroking the cock with your pussy.[p]
+#Fujino
+Y-Yes...[p]
+Nn...[p]
+Haa♥[p]
+#Nikuyama
+This position is called cowgirl.[p]
+Remember it.[p]
+In this sex position, the woman takes the lead while the man just lies down.[p]
+#Fujino
+Y-Yes...[p]
+Nn...[p]
+Haa♥[p]
+#Nikuyama
+You can use Sensei's cock however you like.[p]
+Try to make yourself feel good.[p]
+#Fujino
+Nn...[p]
+S-So...[p]
+Ahh♥[p]
+#Nikuyama
+For now, try increasing the speed a little and move rhythmically.[p]
+#Fujino
+Nn♥[p]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game262-3.jpg"  ]
 [tb_start_text mode=1 ]
-#藤野
-「アァッ♥・・・ンンッ・・・ハァッ・・・アンッ♥」[p]
+#Fujino
+Ahh...[p]
+Nn...[p]
+Ahn♥[p]
 #
-ズプッ・・・ヌチュッ・・・[p]
-#肉山
-「うむ、いいぞ。もっと先生の上にドーンと身体を落としても大丈夫だぞ」[p]
-#藤野
-「は、はい・・・ンンッ・・・アンッ♥・・・アンンッ♥」[p]
+*slurp*...[p]
+*squish*...[p]
+#Nikuyama
+Yes, that's good.[p]
+It's okay to drop your body heavily onto Sensei's body even more.[p]
+#Fujino
+Y-Yes...[p]
+Nn...[p]
+Ahhnn♥[p]
 #
-バチュンッ！・・・バチュンッ！[p]
-#肉山
-「そうだ、チンポが奥の方に当たるだろう。先生のチンポが藤野の子宮にタッチしてるのが分かるか？」[p]
-#藤野
-「アヒッ♥・・・は、はひぃ・・・アアッ・・・ンハァッ♥」[p]
-#肉山
-「そんじょそこらの男のチンポじゃこうはいかないからな。先生のようなたくましいチンポでないとそこまで届かないんだぞ、ムフフフ」[p]
-#藤野
-「ハァンッ♥・・・アァッ・・・ヒィンッ♥」[p]
+*Slap![p]
+*...[p]
+*[p]
+#Nikuyama
+I see, the cock should be hitting deep inside.[p]
+Can you feel Sensei's cock touching your womb, Fujino?[p]
+#Fujino
+Ahh♥...[p]
+H-Hahi...[p]
+Unhaa♥[p]
+#Nikuyama
+You see, a regular guy's cock won't cut it.[p]
+It takes a strong cock like Sensei's to reach that far, hehehe.[p]
+#Fujino
+Haaan♥...[p]
+Hiiin♥[p]
 #
-バチュンッ！バチュンッ！[p]
-#肉山
-「ククク、だいぶ先生のチンポを気に入ってくれたようだな。藤野のオマンコも気持ちいいぞ」[p]
-#藤野
-「アンッ♥・・・アフゥッ・・・ハァァッ♥」[p]
-#肉山
-「オマンコをきゅっと締めてみなさい。膣の壁でチンポのカリの膨らんだ部分を感じるように」[p]
-#藤野
-「ンンッ・・・ヒィンッ♥アッ・・・ダメェッ♥・・・ハァッ」[p]
+*Slap![p]
+*[p]
+#Nikuyama
+Hehehe, it seems like you've grown fond of Sensei's cock.[p]
+Fujino's pussy feels good too.[p]
+#Fujino
+Ahh♥...[p]
+Haaah♥[p]
+#Nikuyama
+Squeeze your pussy tight.[p]
+Feel the swollen part of the cock's glans against the walls of your vagina.[p]
+#Fujino
+Nn...[p]
+Hiiin♥ Ahh...[p]
+Haaahh[p]
 #
-バチュンッ！バチュンッ！[p]
-#肉山
-「どうだ、気持ちいい部分があるだろう？腰が止まらなくなってきたな、ムフフフ」[p]
-#藤野
-「アヒィッ♥・・・ハァッ・・・な、なんだか・・・身体が・・・アフゥッ♥」[p]
-#肉山
-「いいんだぞ、思う存分気持ちよくなって。藤野のスケベなところを先生にいっぱい見せてごらん、ムフフフ」[p]
-#藤野
-「アハァッ♥・・・アァッ・・・お、おかしく・・・なってしまいますぅ・・・アヒィッ♥」[p]
-#肉山
-「これがセックスの快感だぞ。全然悪いことじゃないんだから思いっきり先生のチンポを味わいなさい」[p]
-#藤野
-「は、はひぃっ・・・アフゥンッ♥・・・アァッ・・・ンンーッ♥」[p]
-#肉山
-「そうだ、もっとストロークを大きく！高く腰を上げて一気に落とす！そうそう！」[p]
+*Slap![p]
+*[p]
+#Nikuyama
+How is it?[p]
+There must be a pleasurable spot, right?[p]
+Your hips can't stop moving, hehehe.[p]
+#Fujino
+Ahh♥...[p]
+Haa...[p]
+Somehow...[p]
+my body...[p]
+Ahfu♥[p]
+#Nikuyama
+It's okay, feel as good as you want.[p]
+Show Sensei all of your naughty parts, hehehe.[p]
+#Fujino
+Ahh...[p]
+Aahh...[p]
+I'm...[p]
+starting to feel...[p]
+Ahh♥[p]
+#Nikuyama
+This is the pleasure of sex.[p]
+It's not a bad thing at all, so go ahead and fully taste Sensei's cock.[p]
+#Fujino
+H-Hahi...[p]
+Ahfuun♥...[p]
+Nnngghh♥[p]
+#Nikuyama
+That's right, make your strokes bigger![p]
+Lift your hips higher and drop them all at once![p]
+Yes, yes![p]
 #
-バチュンッ！バチュンッ！バチュンッ！[p]
-#藤野
-「アフゥッ♥アァッ・・・やぁっ・・・アアンッ♥」[p]
-#肉山
-「おっぱいがバルンバルン揺れてるな。無心で先生のチンポをむさぼって・・・なんてエロくて可愛いんだ藤野！」[p]
-#藤野
-「アアアァッ・・・せ、先生ぃ・・・っ・・・アヒィッ♥・・・も、もう・・・アァッ♥」[p]
-#肉山
-「おぉっ、初セックスでイくのか？素晴らしいぞ藤野！お前はセックスも優等生だな！」[p]
+*Slap![p]
+* *Slap![p]
+*[p]
+#Fujino
+Ahfu♥ Aahh...[p]
+Aaann♥[p]
+#Nikuyama
+Your breasts are bouncing so much.[p]
+It's so erotic and cute how you're eagerly devouring Sensei's cock, Fujino![p]
+#Fujino
+Aaaah...[p]
+S-Sensei...[p]
+Ahh...[p]
+I can't...[p]
+anymore...[p]
+Ahh♥...[p]
+#Nikuyama
+Ohh, are you going to climax during your first time having sex?[p]
+That's amazing, Fujino![p]
+You're an honor student even in sex![p]
 #
-バチュンッ！バチュンッ！バチュンッ！[p]
-#藤野
-「ンンンッ・・・・・・ヒィッ♥・・・ク・・・ンンッ・・・ハァンッ♥」[p]
-#肉山
-「よし、先生もイくぞ・・・っ！オマンコでギュッとチンポを締めるんだ藤野っ！」[p]
-#藤野
-「アヒィンッ♥・・・も、もう・・・アァァ・・・・・・っっ！」[p]
-#肉山
-「おぉぉ・・・中に出すぞ藤野・・・っ。藤野の子宮にいっぱいザーメン出すからな・・・っ！」[p]
+*Slap![p]
+* *Slap![p]
+*[p]
+#Fujino
+Nnnn...[p]
+Hii♥...[p]
+Ku...[p]
+Haan♥[p]
+#Nikuyama
+Alright, Sensei is going to cum...![p]
+Fujino, tighten your pussy around my cock![p]
+#Fujino
+Ahhin♥...[p]
+M-Mou...[p]
+Aaaahhh...![p]
+#Nikuyama
+Ohhh...[p]
+I'm going to cum inside you, Fujino...[p]
+I'm going to fill your uterus with lots of semen![p]
 
 [_tb_end_text]
 
@@ -2466,28 +3622,38 @@
 [tb_cg  id="262"  ]
 [tb_start_text mode=1 ]
 #
-ドピュッッ！！[p]
-#藤野
-「ァアアァーーーーーーーーーーーーーーーッ♥・・・・・・・ッ！！」[p]
-#肉山
-「ウォッ・・・搾り取られる・・・っ！」[p]
+*[p]
+#Fujino
+Aaaahhhhhhhhh♥...!![p]
+#Nikuyama
+Ahh...[p]
+I'm being squeezed...![p]
 #
-ビュルビュルビュルッ・・・ッ！[p]
-#藤野
-「アァァ・・・ッ・・・ンンーッ・・・ッ♥」[p]
-#肉山
-「おふぅ・・・出たな・・・ハァハァ」[p]
-#藤野
-「アッ・・・アフゥッ・・・ン・・・ハァッ♥」[p]
-#肉山
-「ふぅ・・・藤野のオマンコが気持ち良すぎて中に一杯出してしまったよ、グフフフ」[p]
-#藤野
-「あぁ・・・中に・・・いっぱい・・・アフゥンッ♥」[p]
-#肉山
-「おっと、初めての絶頂で惚けちゃってるのか。可愛いやつめ・・・ムフフフ」[p]
+*[p]
+#Fujino
+Ahh...[p]
+Nn...[p]
+♥[p]
+#Nikuyama
+*panting* I...[p]
+*pant*[p]
+#Fujino
+Ahh...[p]
+Ahh...[p]
+Haa♥[p]
+#Nikuyama
+*sigh*...[p]
+Fujino's pussy felt so good that I ended up cumming inside, hehehe.[p]
+#Fujino
+Ahh...[p]
+Inside...[p]
+Ahhnn♥[p]
+#Nikuyama
+Oh, looks like you're acting all dazed from your first climax.[p]
+You're such a cute one...[p]
+Mufufu.[p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -2497,91 +3663,127 @@
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Grease_Slide_Trap.mp3"  ]
 [chara_show  name="藤野"  time="1000"  wait="true"  storage="chara/3/game45-1.png"  width="426"  height="1002"  left="389"  top="13"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#肉山
-「無事に疑似セックスが終わってよかったな。これで藤野も大人の女になったわけだ」[p]
-#藤野
-「は、はい・・・」[p]
-#肉山
-「しかしお淑やかな藤野が初めてのセックスであんなに盛大にイくとは意外だったな、ムフフフ」[p]
-#藤野
-「あぁ・・・は、恥ずかしいです・・・」[p]
-#肉山
-「いや、良いことなんだぞ。気持ちのいいセックスは健全な精神の維持に不可欠だからな。こんなスケベな身体をしてて初セックスが遅れていたらかなり危険だったぞ」[p]
-#藤野
-「そ、そうなんですか・・・？」[p]
-#肉山
-「そうだぞ。医療行為とはいえ先生もすっかり楽しんでしまったよ、ムフフ」[p]
-#藤野
-「あ、あの・・・」[p]
-#肉山
-「ん？どうした？」[p]
-#藤野
-「その・・・な、中に・・・その・・・出ていましたけど・・・大丈夫なんでしょうか・・・？」[p]
-#肉山
-「ん、ああ、妊娠しないか心配なのか。大丈夫だよ、心配はいらん」[p]
-「騎乗位で着床することは滅多に無いからな。重力で精液が下に落ちるからなかなか子宮まで到着せんのだ」[p]
+#Nikuyama
+I'm glad the simulated sex ended without any issues.[p]
+This means Fujino has become a grown woman.[p]
+#Fujino
+Y-Yes...[p]
+#Nikuyama
+However, I was surprised that the usually refined Fujino had such an intense orgasm during her first time having sex, hehehe.[p]
+#Fujino
+Ahh...[p]
+Haa, it's embarrassing...[p]
+#Nikuyama
+No, it's a good thing.[p]
+Pleasurable sex is essential for maintaining a healthy mind.[p]
+If someone with such a perverted body like mine had delayed their first time having sex, it would have been quite dangerous.[p]
+#Fujino
+I-Is that so...?[p]
+#Nikuyama
+That's right.[p]
+Even though it was a medical procedure, the doctor ended up enjoying it too, hehehe.[p]
+#Fujino
+Ah, um...[p]
+#Nikuyama
+Hm?[p]
+What's wrong?[p]
+#Fujino
+Um...[p]
+I-I mean, inside...[p]
+um...[p]
+it came out, but...[p]
+is it okay...?[p]
+#Nikuyama
+Hm?[p]
+Ah, are you worried about getting pregnant?[p]
+Don't worry, it's highly unlikely for implantation to occur in the cowgirl position.[p]
+The semen tends to flow downwards due to gravity, so it doesn't easily reach the uterus.[p]
 [_tb_end_text]
 
 [tb_image_show  time="1000"  storage="default/game200.png"  width="263"  height="234"  x="494"  y="256"  _clickable_img=""  name="img_292"  ]
 [tb_image_hide  time="1000"  ]
 [tb_start_text mode=1 ]
-#藤野
-「そ、そうでしたか・・・安心しました」[p]
-#肉山
-「普通避妊する場合はコンドームを着けるわけだが、淫乱症防止のためには本当の正しいセックスをしないといけないからな。中出しするのが必要なんだ」[p]
-#藤野
-「は、はい・・・」[p]
-#肉山
-「とりあえずもうしばらくはこのセックス治療を続けていこう。正しいセックスを身体が覚えるまでな」[p]
-#藤野
-「えっ・・・これで終わりではないんですか・・・？」[p]
-#肉山
-「もちろんだ。少なくともあと１０回は必要だな。先生がチンポでしっかりと藤野の身体を開発してやるからな」[p]
-#藤野
-「１０回・・・そ、そんなに・・・」[p]
-#肉山
-「なんだ、藤野は先生とのセックスが嫌なのか？先生は悲しいぞ」[p]
-#藤野
-「えっ・・・い、いえ・・・そんなことはありません・・・」[p]
-#肉山
-「そうか？ちゃんと気持ちよくしてあげるから先生に任せておきなさい」[p]
-#藤野
-「は、はい・・・」[p]
-#肉山
-「それとこれは今更だが、今回のことは絶対に誰にも言ってはいけないぞ」[p]
-#藤野
-「あ・・・はい」[p]
-#肉山
-「親とか親友にも絶対に言ってはダメだ。淫乱症は秘密厳守しないといけないからな」[p]
-#藤野
-「はい・・・。あ、あの・・・」[p]
-#肉山
-「ん、なんだ？」[p]
-#藤野
-「みちる・・・早瀬さんの検査結果も教えていただくわけにはいかないでしょうか？」[p]
-#肉山
-「ダメだダメだ。絶対に教えてはいけないことになっている」[p]
-「本人ともこの件に関しての話はしないようにな。親友同士とはいえプライベートなことだからな」[p]
-#藤野
-「はい・・・わかりました」[p]
-#肉山
-「それじゃ今日はもう帰っていいぞ。近々また呼び出しがあるのでここに来るように」[p]
-#藤野
-「はい、失礼します」[p]
+#Fujino
+I-I see...[p]
+I'm relieved.[p]
+#Nikuyama
+Normally, when practicing contraception, you would wear a condom.[p]
+However, in order to prevent nymphomania, you have to engage in true and proper sex.[p]
+It's necessary to have creampie.[p]
+#Fujino
+Y-Yes...[p]
+#Nikuyama
+For now, let's continue with this sex therapy for a while.[p]
+Until my body learns the proper way of having sex.[p]
+#Fujino
+Huh...[p]
+Is it not over yet...?[p]
+#Nikuyama
+Of course.[p]
+We'll need at least 10 more times.[p]
+I'll use my penis to thoroughly develop Fujino's body, so don't worry.[p]
+#Fujino
+10 times...[p]
+Th-That many...[p]
+#Nikuyama
+What's wrong, Fujino?[p]
+Do you dislike having sex with me?[p]
+It makes me sad.[p]
+#Fujino
+Eh...[p]
+N-No...[p]
+It's not like that...[p]
+#Nikuyama
+I see.[p]
+Don't worry, I'll make sure to pleasure you properly, so leave it to me, Sensei.[p]
+#Fujino
+Y-Yes...[p]
+#Nikuyama
+And also, this goes without saying, but you must absolutely not tell anyone about what happened this time.[p]
+#Fujino
+Ah...[p]
+Yes.[p]
+#Nikuyama
+You must absolutely not tell your parents or close friends.[p]
+We must keep the nymphomania a strict secret.[p]
+#Fujino
+Yes...[p]
+Uhm...[p]
+#Nikuyama
+Hm, what is it?[p]
+#Fujino
+Michiru...[p]
+Is it possible for you to tell me the results of Haya-se's examination?[p]
+#Nikuyama
+No, no.[p]
+You absolutely must not tell anyone about this.[p]
+We must keep this matter strictly between ourselves, even though we are close friends.[p]
+It's a private matter, after all.[p]
+#Fujino
+Yes...[p]
+I understand.[p]
+#Nikuyama
+Well then, you can go home for today.[p]
+There will be another summons soon, so make sure to come here.[p]
+#Fujino
+Yes, excuse me.[p]
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
 [tb_start_text mode=1 ]
 #
-ウハハハハハ！ついにあの藤野あやめを犯ってやったぞ！[p]
-巨乳でお嬢様で才色兼備、全男子の憧れの的、藤野あやめの処女をいただいたぜ！[p]
-くぅ～～～～この優越感と言ったらないね[p]
-しかもレイプじゃなくて同意の上のセックス、それも初セックスでイかせてやった！[p]
-さすがはお嬢様、身体の方もプレミアムだったなぁ・・・[p]
-とりあえずこれで身体検査を行った４人は一通り食ったわけだが、しばらくは治療の名目でいつでも呼び出せることになっている[p]
-どの娘を呼び出すかは好み次第だぜ。楽しくなってきやがった・・・！[p]
-・・・・・・[p]
-・・・[p]
+Nikuyama: Uhahaha![p]
+I finally had my way with that Ayame Fujino![p]
+She's got big breasts, she's a lady, and she's smart and beautiful.[p]
+She's the object of every guy's desire, and I took her virginity![p]
+Kuuu~ This feeling of superiority is indescribable.[p]
+And not only that, it wasn't rape, it was consensual sex.[p]
+And I made her climax during her first time![p]
+Truly fitting for a lady, her body was also premium...[p]
+Anyway, now that the four of us have had our turn with the physical examination, we can call any of them whenever we want under the pretense of treatment.[p]
+It all depends on personal preference which girl we call.[p]
+It's getting more and more fun...![p]
+[p]
 [_tb_end_text]
 
 [tb_eval  exp="f.e3=5"  name="e3"  cmd="="  op="t"  val="5"  val_2="undefined"  ]
@@ -2592,19 +3794,20 @@
 [chara_show  name="早瀬"  time="1000"  wait="true"  storage="chara/2/game47.png"  width="389"  height="915"  left="435"  top="28"  reflect="false"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Grease_Slide_Trap.mp3"  ]
 [tb_start_text mode=1 ]
-#肉山
-「よし、早速治療を始めるぞ」[p]
-#早瀬
-「はい・・・」[p]
+#Nikuyama
+Alright, let's start the treatment right away.[p]
+#Hayase
+Yes...[p]
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
 [bg  time="1000"  method="crossfade"  storage="game247-2.jpg"  ]
 [tb_start_text mode=1 ]
-#肉山
-「ふむ、サイズに変化はないようだな。それじゃセックス療法に移ろうか」[p]
-#早瀬
-「は、はい・・・」[p]
+#Nikuyama
+Hm, it seems there is no change in size.[p]
+Shall we move on to the sex therapy then?[p]
+#Hayase
+Y-Yes...[p]
 [_tb_end_text]
 
 [stopbgm  time="1000"  fadeout="true"  ]
@@ -2612,21 +3815,36 @@
 [playbgm  volume="100"  time="1000"  loop="true"  storage="music54.mp3"  ]
 [tb_start_text mode=1 ]
 #
-パンッ！パンッ！パンッ！[p]
-#早瀬
-「アンッ♥・・・アァッ・・・ハァッ・・・アヒィッ♥」[p]
-#肉山
-「相変わらず締りのいいマンコだな。気持ちいいぞ」[p]
+*Thud![p]
+Thud![p]
+*[p]
+#Hayase
+Ahh...[p]
+Aahh...[p]
+Haa...[p]
+Ahii...[p]
+#Nikuyama
+Your pussy is still tight as ever.[p]
+Feels good.[p]
 #
-パンッ！パンッ！パンッ！[p]
-#早瀬
-「アッ・・・ンンッ♥ヤァッ・・・アァンッ♥」[p]
-#肉山
-「お前もだいぶ可愛い声で鳴くようになってきたじゃないか。だいぶ俺のチンポがなじんできたんじゃないか？」[p]
+Thud![p]
+Thud![p]
+Thud![p]
+#Hayase
+Ahh...[p]
+Aann♥[p]
+#Nikuyama
+You've started to make cute sounds too, haven't you?[p]
+Has my cock gotten used to you?[p]
 #
-パンッ！パンッ！パンッ！[p]
-#早瀬
-「アンッ♥・・・そ、そんな・・・ンンッ・・・ハアッ♥」[p]
+*Thud![p]
+Thud![p]
+*[p]
+#Hayase
+Ahh...[p]
+Th-That...[p]
+Nngh...[p]
+Ahh♥[p]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -2634,15 +3852,18 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
 #
-ドピュッッ！！[p]
-#早瀬
-「アァァァーーーーーーーッ♥・・・ッ・・・・・・ァッ！！」[p]
-#肉山
-「早瀬の子宮を先生のザーメンで一杯にしてやるぞっ！」[p]
+Dopuッッ!![p]
+#Hayase
+Ahhhhhhhhhhh♥...[p]
+Ah...![p]
+#Nikuyama
+I'm going to fill Hayase's womb with my semen, sensei![p]
 #
-ビュビュビュ・・・ッ！[p]
-#早瀬
-「アァァッ・・・な、中に・・・出てる・・・アヒッ♥[p]
+Bububu...![p]
+#Hayase
+Ahh...[p]
+It's coming out...[p]
+Ahh♥[p]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -2652,14 +3873,17 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Grease_Slide_Trap.mp3"  ]
 [tb_start_text mode=1 ]
-#肉山
-「ククク、なかなか気持ちよかったぞ早瀬のマンコ」[p]
-#早瀬
-「う・・・うぅ・・・」[p]
-#肉山
-「今日はもう帰っていいぞ。また呼ばれたらすぐに来るように」[p]
-#早瀬
-「はい・・・失礼します」[p]
+#Nikuyama
+Hehehe, Hayase's pussy felt quite good.[p]
+#Hayase
+U...[p]
+Ugh...[p]
+#Nikuyama
+You can go home for today.[p]
+Make sure to come back immediately if you're called again.[p]
+#Hayase
+Yes...[p]
+Excuse me.[p]
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
@@ -2670,35 +3894,40 @@
 [chara_show  name="赤井"  time="1000"  wait="true"  storage="chara/4/game46.png"  width="391"  height="920"  left="446"  top="20"  reflect="false"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Grease_Slide_Trap.mp3"  ]
 [tb_start_text mode=1 ]
-#肉山
-「よし、さっさと服を脱げ。今日もたっぷり可愛がってやるからな、ククク」[p]
-#赤井
-「く・・・っ」[p]
+#Nikuyama
+Alright, hurry up and take off your clothes.[p]
+I'm going to pamper you plenty today, hehehe.[p]
+#Akai
+Ku...[p]
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
 [bg  time="1000"  method="crossfade"  storage="game246-2.jpg"  ]
 [tb_start_text mode=1 ]
-#肉山
-「ふん、相変わらずムチムチのエロい身体だな。まったくけしからん」[p]
-#赤井
-「く・・・ほっといてよっ」[p]
-#肉山
-「これから先生のチンポでみっちりお仕置きしてやらんといかんなぁ、ムヒヒヒッ」[p]
-#赤井
-「アッ・・・イヤァッ」[p]
+#Nikuyama
+Hmph, as always, you have a plump and erotic body.[p]
+It's truly indecent.[p]
+#Akai
+Ugh...[p]
+Just leave me alone.[p]
+#Nikuyama
+From now on, I have to punish you thoroughly with my cock, muhihihi.[p]
+#Akai
+Nooo[p]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game261-1.jpg"  ]
 [tb_start_text mode=1 ]
-#肉山
-「ほら、おチンポをくださいって言ってみろ赤井」[p]
-#赤井
-「な、なんでそんなこと言わないといけないのよ・・・！犯るならさっさと犯すればいいじゃんっ」[p]
-#肉山
-「まだ解ってないな、これはお前のドスケベを抑えるための治療なんだぞ。まったく、反抗的な態度もチンポで教育してやらんといかんな、そらっ」[p]
-#赤井
-「アンンーーッ！？」[p]
+#Nikuyama
+Come on, Akai, try saying Please give me your cock.[p]
+#Akai
+W-Why do I have to say something like that...![p]
+If you're going to violate me, just do it already![p]
+#Nikuyama
+You still don't understand, this is a treatment to control your lewdness.[p]
+Honestly, I have to educate your defiant attitude with my cock, of course.[p]
+#Akai
+Ahhh!?[p]
 [_tb_end_text]
 
 [stopbgm  time="1000"  fadeout="true"  ]
@@ -2706,49 +3935,77 @@
 [playbgm  volume="100"  time="1000"  loop="true"  storage="music54.mp3"  ]
 [tb_start_text mode=1 ]
 #
-ズプッ！ズプッ！ヌプッ！[p]
-#赤井
-「アンンッ♥ハァッ・・・クッ・・・・アヒィンッ♥」[p]
-#肉山
-「どうした赤井？奥を突かれて声が止まらないじゃないか。気持ちいいなら素直に言いなさい」[p]
+*Squelch![p]
+* *Squelch![p]
+*[p]
+#Akai
+Ahh...[p]
+Haa...[p]
+Kuh...[p]
+Ahhin...[p]
+#Nikuyama
+What's wrong, Akai?[p]
+Your voice won't stop when I thrust inside you.[p]
+If it feels good, just say it honestly.[p]
 #
-ズプッ！ズプッ！ズムッ！[p]
-#赤井
-「ンンッ・・・き、気持ちよくなんか・・・く・・・ハァッ♥」[p]
-#肉山
-「そんな強がっても無駄だぞ。もうお前の弱い所は知ってるんだからな。おらっ、気持ちいいって言いなさい」[p]
+*Squelch![p]
+* *Squelch![p]
+*[p]
+#Akai
+Nn...[p]
+It feels...[p]
+good...[p]
+Haa ♥[p]
+#Nikuyama
+It's useless to pretend like that.[p]
+I already know your weak points.[p]
+Now, come on, say It feels good.[p]
 #
-ズムッ！ヌチュッ！グチュッ！[p]
-#赤井
-「アヒィッ！？アァッ・・・き、気持ちいいーーーッ♥ヒッ・・・き、気持ちいいですぅーーーーッ♥」[p]
-#肉山
-「ちゃんと言えたじゃないか、偉いぞ。ご褒美にイかせてやろう」[p]
+*Squelch![p]
+* *Squelch![p]
+*[p]
+#Akai
+Ahh!?[p]
+Ahh...[p]
+It feels...[p]
+goooood ♥ Hii...[p]
+good, toooo ♥[p]
+#Nikuyama
+You said it properly, well done.[p]
+As a reward, I'll make you come.[p]
 #
-ズプッ！ズプッ！ズムッ！[p]
-#赤井
-「ヒッ♥・・・ンンーーーー・・・・・・ッ♥アァァァーーーーッ♥」[p]
+*Squelch![p]
+* *Squelch![p]
+*[p]
+#Akai
+Hii ♥...[p]
+Ahhhhh ♥[p]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game261-3.jpg"  ]
 [tb_start_text mode=1 ]
-#肉山
-「オラッ、中に一杯出してやるぞ・・・っ」[p]
-#赤井
-「アァッ！？い、イヤァッ・・・ダメェーーッ♥」[p]
+#Nikuyama
+I'm gonna cum inside you...[p]
+#Akai
+Ahh!?[p]
+Stopppp ♥[p]
 #
-ドピュッッ！！[p]
-#赤井
-「アァッ・・・で、出てるぅ・・・ッ・・・・ンンーーーッ♥」[p]
-#肉山
-「先生のザーメンを子宮でしっかりと受け止めなさい」[p]
+*[p]
+#Akai
+Ahh...[p]
+It's coming out...[p]
+Nnnn ♥[p]
+#Nikuyama
+Take my semen firmly in your uterus.[p]
 #
-ビュビュビュ・・・ッ！[p]
-#赤井
-「アァッ・・・イヤァ・・・ンンッ・・・ハァンッ♥」[p]
+*[p]
+#Akai
+Ahh...[p]
+No...[p]
+Haaan ♥[p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -2758,14 +4015,17 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Grease_Slide_Trap.mp3"  ]
 [tb_start_text mode=1 ]
-#肉山
-「ククク、今日も派手にイきまくってたな。先生のチンポがだいぶ気に入ってきたんじゃないか？」[p]
-#赤井
-「く・・・も、もういいでしょ！終わったんなら帰る・・・！」[p]
-#肉山
-「また呼ばれたらすぐに来いよ。おっと、それと秘密の厳守だけは守れよ」[p]
-#赤井
-「わかってるよ・・・」[p]
+#Nikuyama
+Hehehe, you've been cumming so extravagantly today as well.[p]
+Have you started to really like sensei's cock?[p]
+#Akai
+E-Enough already![p]
+If we're done, then go home...![p]
+#Nikuyama
+Come immediately if you're called again.[p]
+Oh, and make sure to keep our secret strictly confidential.[p]
+#Akai
+I understand...[p]
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
@@ -2776,10 +4036,11 @@
 [chara_show  name="津山"  time="1000"  wait="true"  storage="chara/5/game48.png"  width="319"  height="750"  left="500"  top="98"  reflect="false"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Grease_Slide_Trap.mp3"  ]
 [tb_start_text mode=1 ]
-#肉山
-「それじゃ今日も治療をしていくから、脱ぎ脱ぎしようね」[p]
-#津山
-「はいです・・・」[p]
+#Nikuyama
+Well then, let's continue the treatment today.[p]
+Let's undress, shall we?[p]
+#Tsuyama
+Yes...[p]
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
@@ -2787,66 +4048,86 @@
 [bg  time="1000"  method="crossfade"  storage="game248-2.jpg"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="music54.mp3"  ]
 [tb_start_text mode=1 ]
-#肉山
-「おっぱい大きくなったかな～？・・・うーん変わらずか」[p]
-#津山
-「うぅ・・・」[p]
-#肉山
-「オマ●コに毛は生えたかな？・・・まだツルツルか」[p]
-#津山
-「は、恥ずかしいです・・・」[p]
-#肉山
-「全然問題ないぞ。見なさい、先生のチンポはビンビンになっちゃてるからね」[p]
-#津山
-「あ・・・」[p]
-#肉山
-「それじゃセックスごっこ始めようか」[p]
-#津山
-「は、はいです・・・」[p]
+#Nikuyama
+I wonder if your breasts have gotten bigger...[p]
+Hmm, they seem unchanged.[p]
+#Tsuyama
+Ugh...[p]
+#Nikuyama
+I wonder if your pussy has grown hair...[p]
+Is it still smooth?[p]
+#Tsuyama
+I-I'm embarrassed...[p]
+#Nikuyama
+There's absolutely no problem.[p]
+Look, sensei's cock is getting hard.[p]
+#Tsuyama
+Ah...[p]
+#Nikuyama
+Shall we start playing the sex game then?[p]
+#Tsuyama
+Y-Yes...[p]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game260-5.jpg"  ]
 [tb_cg  id="260"  ]
 [tb_start_text mode=1 ]
 #
-ヌチュッ・・・ズプッ・・・[p]
-#津山
-「アァッ・・・んふぅっ・・・ハァッ・・・ンンッ♥」[p]
-#肉山
-「もう全然痛がらなくなってきたな。先生のおちんちんは気持ちいいか？」[p]
-#津山
-「ハァッ・・・わ、わかんない・・・ですっ・・・はふぅっ♥」[p]
-#肉山
-「嘘はいけないぞぉ。嘘をつく子は子宮をツンツンしちゃうぞ」[p]
+*moaning sounds*[p]
+#Tsuyama
+Ahh...[p]
+nfuu...[p]
+hnn♥[p]
+#Nikuyama
+You don't seem to be in pain anymore.[p]
+Does sensei's penis feel good?[p]
+#Tsuyama
+Haa...[p]
+I-I don't know...[p]
+hafuu♥[p]
+#Nikuyama
+You shouldn't lie.[p]
+Children who lie will have their uterus poked.[p]
 #
-ズムッ！ズムッ！[p]
-#津山
-「アァァッ！？んあぁっ♥・・・ご、ごめんなさいぃっ・・・き、気持ちいですぅっ♥先生のおちんちん・・・気持ちいいですぅ・・・っ♥」[p]
-#肉山
-「そうだろうそうだろう。正直に言えたご褒美におしっこお漏らしするまでズポズポしてあげようね～♪」[p]
-#津山
-「やぁぁっ！？アァァンッ♥・・・ンンッ・・・んヒィーーーーーッ♥」[p]
+Zoom![p]
+Zoom![p]
+#Tsuyama
+Ahh!?[p]
+Naaahh♥...[p]
+S-Sorry...[p]
+It feels good...[p]
+sensei's penis...[p]
+♥[p]
+#Nikuyama
+As a reward for being honest, I'll keep thrusting until you pee yourself~♪[p]
+#Tsuyama
+Yaaahh!?[p]
+Aaann♥...[p]
+nhiiiiiii♥[p]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
 [bg  time="1000"  method="crossfade"  storage="game260-4.jpg"  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
-#肉山
-「よし、おちんぽミルクたっぷり中に出してやるぞぉ。孕めっ・・・ロリママになっちまえ・・・っ！」[p]
+#Nikuyama
+Alright, I'll fill you up with plenty of penis milk.[p]
+Get pregnant...[p]
+become a loli mama...![p]
 #
-ドピュッッ！！[p]
-#津山
-「アァァーーーーーッ！！・・・ンンッ・・・－－－－－－－っ♥」[p]
-#肉山
-「ロリマ●コに特濃ザーメン大量中出し最高ぅ・・・っ」[p]
+Dopu~!![p]
+#Tsuyama
+Ahhhhh!!...[p]
+- - - - - - ♥[p]
+#Nikuyama
+Filling up a loli pussy with thick, abundant creampie is the best...[p]
 #
-ビュビュビュ・・・ッ[p]
-#津山
-「アァァッ・・・んぅぅ・・・んはぁっ♥」[p]
+Bububu...[p]
+#Tsuyama
+Ahhh...[p]
+nhahh♥[p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -2856,18 +4137,27 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Grease_Slide_Trap.mp3"  ]
 [tb_start_text mode=1 ]
-#肉山
-「今日の治療はここまでだ。どうだ、先生とのセックスごっこは楽しいか？」[p]
-#津山
-「う・・・わ、わかんないです・・・」[p]
-#肉山
-「うーむ、そうか。先生は津山を楽しませようとすごく頑張っているんだがなぁ」[p]
-#津山
-「え・・・あ、あの・・・楽しいかも・・・です」[p]
-#肉山
-「そうかそうか、それはよかった。まだ治療はしばらく続くからな。呼ばれたらすぐに来るように。今日はもう帰っていいぞ」[p]
-#津山
-「は、はい・・・先生さようならです」[p]
+#Nikuyama
+Today's treatment ends here.[p]
+So, how was playing pretend sex with the teacher?[p]
+#Tsuyama
+U...[p]
+I-I don't know...[p]
+#Nikuyama
+Hmm, I see.[p]
+The teacher is really trying their best to make Tsuyama enjoy it.[p]
+#Tsuyama
+Um...[p]
+Ah, um...[p]
+It might be...[p]
+enjoyable...[p]
+#Nikuyama
+I see, I see, that's good to hear.[p]
+The treatment will continue for a while longer, so make sure to come right away when called.[p]
+You can go home for today.[p]
+#Tsuyama
+Y-Yes...[p]
+Goodbye, teacher.[p]
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
@@ -2878,10 +4168,13 @@
 [chara_show  name="藤野"  time="1000"  wait="true"  storage="chara/3/game45.png"  width="380"  height="894"  left="430"  top="17"  reflect="false"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Grease_Slide_Trap.mp3"  ]
 [tb_start_text mode=1 ]
-#肉山
-「待ってたぞ藤野。さあ、早くセッ・・・治療を始めようか、ムフフフ」[p]
-#藤野
-「は、はい・・・」[p]
+#Nikuyama
+I've been waiting, Fujino.[p]
+Now, shall we start the tr...[p]
+treatment?[p]
+Mufufu.[p]
+#Fujino
+Y-Yes...[p]
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
@@ -2889,88 +4182,153 @@
 [bg  time="1000"  method="crossfade"  storage="game249-2.jpg"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="マダムの口紅.mp3"  ]
 [tb_start_text mode=1 ]
-#肉山
-「うむ、相変わらずムチムチでエッチな身体をしているなぁ藤野は」[p]
-#藤野
-「ぁ・・・む、胸が大きすぎるのがコンプレックスで・・・もっと痩せたいと思っているのですが・・・」[p]
-#肉山
-「なんでだ？先生は大好きだぞ。揉み心地のいい最高のおっぱいじゃないか」モミモミモミ[p]
-#藤野
-「アンッ♥ヤァッ・・・は、恥ずかしいです・・・っ」[p]
-#肉山
-「ムフフフ、それじゃセックス治療を始めようか。もうチンポがビンビンだ」[p]
-#藤野
-「は、はい・・・」[p]
+#Nikuyama
+Hmm, Fujino still has a plump and sexy body as always.[p]
+#Fujino
+Ah...[p]
+My, my big breasts are a complex for me...[p]
+I want to lose weight more...[p]
+#Nikuyama
+Why?[p]
+I love the teacher, you know.[p]
+They have the best breasts to fondle, don't they?[p]
+Fondle, fondle, fondle.[p]
+#Fujino
+Ahh...[p]
+It's embarrassing...[p]
+#Nikuyama
+Mufufu, shall we start the sex therapy then?[p]
+My dick is already rock hard.[p]
+#Fujino
+Y-Yes...[p]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game272.jpg"  ]
 [tb_start_text mode=1 ]
-#肉山
-「ンムッ・・・ジュルッ・・・藤野の唾液は美味いなぁ。もっと飲ませてくれ・・・ムチュゥッ・・・ベロベロッ」[p]
-#藤野
-「ンンッ・・・チュバッ♥・・・アフゥッ・・・チュムッ・・・レロレロンッ♥」[p]
-#肉山
-「ンムゥ・・・いくら揉んでも揉み飽きないな藤野のおっぱいは。お、乳首が固くなってるな。先生のキスで感じてるのか？」[p]
-#藤野
-「ンッ・・・あっ・・・は、はい・・・ンンッ♥」[p]
-#肉山
-「どーれ・・・お、本当だ。もういやらしい汁が溢れてるじゃないか」[p]
+#Nikuyama
+Mmm...[p]
+slurp...[p]
+Fujino's saliva tastes delicious.[p]
+*smack* *lick*[p]
+#Fujino
+Mmm...[p]
+*kiss*...[p]
+Ahh...[p]
+*lick*...[p]
+*lick*[p]
+#Nikuyama
+Mmm...[p]
+no matter how much I fondle them, I never get tired of Fujino's breasts.[p]
+Oh, your nipples are getting hard.[p]
+Are you feeling it from the teacher's kiss?[p]
+#Fujino
+Nn...[p]
+Ah...[p]
+Nnn♥[p]
+#Nikuyama
+Let's see...[p]
+Oh, it's true.[p]
+Your lewd juices are already overflowing, aren't they?[p]
 #
-クチュッ・・・[p]
-#藤野
-「アァンッ♥・・・あぁ・・・は、恥ずかしい・・・ですぅっ・・・アァッ♥」[p]
-#肉山
-「本当に藤野は感じやすい身体をしているなぁ。ついこの間まで処女だったのに、ムフフフ」[p]
-#藤野
-「あぁ・・・ンンッ♥・・・せ、先生・・・アフゥッ♥」[p]
-#肉山
-「なんだ、もうチンポが待ちきれないのか？いけない子だなぁ藤野は。よしよし、いっぱいチンコで可愛がってやるからな、ムヒヒッ」[p]
-#藤野
-「アッ・・・アァ・・・ッ♥」[p]
+*smack*...[p]
+#Fujino
+Ahh...[p]
+Ah...[p]
+It's...[p]
+embarrassing...[p]
+*moans* Ahh...[p]
+#Nikuyama
+Fujino really does have a sensitive body.[p]
+They were a virgin until just recently, hehehe.[p]
+#Fujino
+Ahh...[p]
+Nnn♥...[p]
+Ahh♥[p]
+#Nikuyama
+What's this, can't wait for my cock anymore?[p]
+You're such a naughty one, Fujino.[p]
+Alright, alright, I'll take good care of you with my cock, hehehe.[p]
+#Fujino
+Ahh...[p]
+♥[p]
 [_tb_end_text]
 
 [stopbgm  time="1000"  fadeout="true"  ]
 [bg  time="1000"  method="crossfade"  storage="game262-3.jpg"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="music54.mp3"  ]
 [tb_start_text mode=1 ]
-#藤野
-「アンンッ♥・・・ンハァッ・・・アフゥンッ♥」[p]
-#肉山
-「だいぶ大胆になってきたな藤野も。オッパイぶるんぶるん揺らしてチンポに夢中になってるじゃないか」[p]
-#藤野
-「ンンッ♥・・・やぁっ・・・そ、そんなこと・・・アヒィッ♥」[p]
-#肉山
-「いいんだぞ。自分の動きたいように動いて気持ちよくなっていいんだからな」[p]
-#藤野
-「アハァッ♥・・・は、はいっ・・・ンンッ♥せ、先生も・・・気持ち・・・いいですか・・・っ？」[p]
-#肉山
-「ああ気持ちいいぞ。藤野のオマンコが気持ち良すぎてチンポがもう爆発ちまいそうだ・・・オフゥッ」[p]
-#藤野
-「アアッ♥・・・わ、わたしの中で・・・ンフゥッ・・・どうぞ・・・出してください・・・っ♥」[p]
-#肉山
-「なんてエロいことを言えるようになったんだ藤野・・・先生はうれしいぞっ。よし、一緒にイこう・・・！」[p]
-#藤野
-「は、はひぃっ♥・・・アヒッ・・・アァァ・・・ッ・・・も、もう・・・先生っ・・・イ・・・イっちゃいますぅ・・・！！」[p]
-#肉山
-「よし・・・俺も・・・出すぞ・・・っ！」[p]
+#Fujino
+Ahh♥...[p]
+Afuun♥[p]
+#Nikuyama
+Fujino has become quite bold.[p]
+Look at those bouncing breasts, they're completely obsessed with my cock.[p]
+#Fujino
+Nn♥...[p]
+Ahh...[p]
+Ahii♥[p]
+#Nikuyama
+It's fine.[p]
+You can move however you want and feel good.[p]
+#Fujino
+Ahh...[p]
+♥ H-Hai...[p]
+Nn...[p]
+♥ T-Teacher...[p]
+Does it feel...[p]
+good for you too...?[p]
+#Nikuyama
+Ahh, it feels so good.[p]
+Fujino's pussy feels too good, my cock is about to explode...[p]
+Ohhh...[p]
+#Fujino
+Ahh♥...[p]
+I-Inside me...[p]
+Nfuuh...[p]
+Please...[p]
+♥[p]
+#Nikuyama
+Fujino, how did you become able to say such erotic things...[p]
+I'm happy, teacher.[p]
+Alright, let's come together...![p]
+#Fujino
+H-hahi♥...[p]
+Ahii...[p]
+Aaah...[p]
+M-mou...[p]
+Teacher...[p]
+I-I'm going to...[p]
+I'm going to come...!![p]
+#Nikuyama
+Alright...[p]
+I'm going to...[p]
+release it...![p]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game262-4.jpg"  ]
 [tb_start_text mode=1 ]
 #
-ドピュッッ！！[p]
-#藤野
-「ァアアアーーーーーーーーーーーーーーーッ！！・・・ンンーーー・・・・・・ッ♥」[p]
-#肉山
-「うぉぉ・・・まだ出る・・・っ」[p]
+Dopuッッ!![p]
+#Fujino
+Ahhhhhhhhh!!...[p]
+♥[p]
+#Nikuyama
+Whoa...[p]
+I'm still going to cum...[p]
 #
-ビュルビュルビュル・・・ッ！[p]
-#藤野
-「アァァ・・・ッ・・・ヒィッ・・・ンンーッ♥」[p]
-#肉山
-「ふぅ・・・精液を搾り取られちまったぜ」[p]
-#藤野
-「ハァッ・・・ハァッ・・・ンッ・・・アフゥ・・・ッ♥」[p]
+Buruburuburu...![p]
+#Fujino
+Ahh...[p]
+Hii...[p]
+♥[p]
+#Nikuyama
+Phew...[p]
+I've been completely drained of my semen.[p]
+#Fujino
+Haa...[p]
+Haa...[p]
+Nn...[p]
+♥[p]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -2980,18 +4338,25 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Grease_Slide_Trap.mp3"  ]
 [tb_start_text mode=1 ]
-#肉山
-「今日のセックス治療は終わりだ。どうだ気持ちよかったか？」[p]
-#藤野
-「え・・・あ・・・はい・・・」[p]
-#肉山
-「セックスって言うのは気持ちいいものだからな。これからも先生と一緒に正しいセックスを覚えていこうな」[p]
-#藤野
-「は、はい・・・」[p]
-#肉山
-「それじゃ今日はもう帰っていいぞ。お疲れさん」[p]
-#藤野
-「はい・・・失礼します」[p]
+#Nikuyama
+Today's sex therapy is over.[p]
+How was it?[p]
+Did it feel good?[p]
+#Fujino
+E...[p]
+A...[p]
+Yes...[p]
+#Nikuyama
+Sex is something that feels good.[p]
+Let's continue learning the right way to have sex together, sensei.[p]
+#Fujino
+Y-Yes...[p]
+#Nikuyama
+Well then, you can go home for today.[p]
+Good job.[p]
+#Fujino
+Yes...[p]
+Excuse me.[p]
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]

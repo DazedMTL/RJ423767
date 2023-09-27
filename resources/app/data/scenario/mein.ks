@@ -10,7 +10,8 @@
 [jump  storage="mein.ks"  target="*aa2"  cond="f.ss>339"  ]
 [tb_start_text mode=1 ]
 #
-昼休みだ。どうする？[p]
+It's lunch break.[p]
+What do you want to do?[p]
 
 [_tb_end_text]
 
@@ -22,7 +23,8 @@
 
 [tb_start_text mode=1 ]
 #
-昼休みだ。どうする？[p]
+It's lunch break.[p]
+What do you want to do?[p]
 
 [_tb_end_text]
 
@@ -49,7 +51,8 @@
 [jump  storage="mein.ks"  target="*bb2a"  cond="f.e3!=0"  ]
 [tb_start_text mode=1 ]
 #
-放課後だ。どうする？[p]
+It's after school.[p]
+What do you want to do?[p]
 [_tb_end_text]
 
 [glink  color="black"  storage="kaori2.ks"  size="20"  text="香織を呼び出す"  width="140"  x="530"  y="290"  height="20"  _clickable_img=""  target="*k00"  ]
@@ -60,7 +63,8 @@
 
 [tb_start_text mode=1 ]
 #
-放課後だ。どうする？[p]
+It's after school.[p]
+What do you want to do?[p]
 [_tb_end_text]
 
 [glink  color="black"  storage="kaori2.ks"  size="20"  text="香織を呼び出す"  width="190"  x="490"  y="220"  height="20"  _clickable_img=""  target="*k00"  ]
@@ -72,7 +76,7 @@
 
 [tb_start_text mode=1 ]
 #
-たまには仕事もしないとな[p]
+Sometimes we have to do some work too.[p]
 [_tb_end_text]
 
 [jump  storage="mein.ks"  target="*bb"  ]
@@ -82,31 +86,28 @@
 [tb_ptext_hide  time="1000"  ]
 [tb_start_text mode=1 ]
 #
-さてと、だいぶ順調に洗脳が進んでいるが、健康診断だけではエロいことをするにも限界がある[p]
-そこでもう一歩先に進むためにアイデアを考えてきた[p]
-かなり強引なやり方だが、これが上手くいけば一気に洗脳が進むはずだ[p]
-香織を呼び出してあるから、そろそろ来るはずだ[p]
-・・・・・・[p]
-・・・コンコン[p]
+Well, the brainwashing is progressing quite smoothly, but there are limits to doing naughty things with just a health examination.[p]
+So, in order to take it a step further, I've come up with an idea.[p]
+It's a rather forceful method, but if it works well, the brainwashing should progress rapidly.[p]
+*knock knock*[p]
 [_tb_end_text]
 
 [stopbgm  time="1000"  ]
 [chara_show  name="桐嶋"  time="1000"  wait="true"  storage="chara/1/game10.png"  width="386"  height="908"  left="445"  top="11"  reflect="false"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Grease_Slide_Trap.mp3"  ]
 [tb_start_text mode=1 ]
-#桐嶋
-「放課後にまで呼び出してなんの用ですか」[p]
-#肉山
-「先生のアンケート調査の結果を教育委員会に報告したんですがね」[p]
-「どうも桐嶋先生に異常性欲症候群の疑いがあるそうなんですよ」[p]
-#桐嶋
-「異常性欲・・・？」[p]
-「な、なんですかそれは」[p]
-#肉山
-「まぁ簡単に言えば性欲が異常に強く、理性で抑えられなくなる傾向があるということです」[p]
-#桐嶋
-「は！？」[p]
-「なにを馬鹿げたことを・・・」[p]
+#Kirishima
+Why did you call me out even after school?[p]
+#Nikuyama
+I reported the results of the teacher's survey to the board of education, and it seems that there are suspicions of Kaori Kirishima having abnormal sexual desires.[p]
+#Kirishima
+Abnormal sexual desires...?[p]
+W-What is that about?[p]
+#Nikuyama
+Well, to put it simply, it means that Kaori Kirishima has an abnormally strong sexual desire and tends to lose control of it due to lack of restraint by reason.[p]
+#Kirishima
+Huh!?[p]
+What nonsense...[p]
 
 [_tb_end_text]
 
@@ -114,104 +115,102 @@
 [tb_image_hide  time="1000"  ]
 [chara_mod  name="桐嶋"  time="0"  cross="false"  storage="chara/1/game11.png"  ]
 [tb_start_text mode=1 ]
-#桐嶋
-「・・・」[p]
-「・・・ど、どういうことですか」[p]
-「なにを根拠にそんなことを・・・！」[p]
-#肉山
-「そうですね・・・まず乳房が異常に大きいこと」[p]
-#桐嶋
-「なっ・・・！？」[p]
-#肉山
-「これは女性ホルモンの分泌が他人より多いことの証拠です」[p]
-#桐嶋
-「そんな・・・！」[p]
-#肉山
-「そして非常に知能が高いこと」[p]
-「頭がいい人ほどスケベであることは統計でわかっています」[p]
-「そして桐嶋先生のように正義感が強くて理想主義の人間ほどストレスが溜まりやすく、性欲も溜まりやすい」[p]
-「実際女性教員には淫乱症が多いそうです」[p]
-#桐嶋
-「そ、そんなの偏見です！」[p]
-#肉山
-「そしてなにより肌を見せることや性的な質問に対して過剰な反応を見せた」[p]
-「これは淫乱な人に特有の反応です」[p]
-#桐嶋
-「言いがかりです！」[p]
-「わたしは淫乱なんかじゃありません！」[p]
-#肉山
-「まぁまぁ、なにも桐嶋先生が異常性欲だと決め付けているわけじゃありません」[p]
-「データ上、その疑いがあるということです」[p]
-#桐嶋
-「く・・・」[p]
-「それで、どうしろというんですか？」[p]
-「病院に行って調べろとでも？」[p]
-#肉山
-「いえいえ、そこまでは必要ありません」[p]
-「ただ少し注意が必要というだけで」[p]
-「それでしばらくは私が責任者として桐嶋先生を観察していくことになりました」[p]
-#桐嶋
-「な、なんですって！？」[p]
-「そんなことどうかしています！」[p]
-「教育委員会に問いただして・・・」[p]
+#Kirishima
+W-What do you mean?[p]
+What evidence do you have to say such things...![p]
+#Nikuyama
+Well...[p]
+first of all, her breasts are abnormally large.[p]
+#Kirishima
+Wha...!?[p]
+#Nikuyama
+This is evidence that her secretion of female hormones is higher than others.[p]
+#Kirishima
+No way...![p]
+#Nikuyama
+And it is known through statistics that people who are highly intelligent tend to be perverted.[p]
+Also, individuals like Kirishima-sensei, who have a strong sense of justice and idealism, are more prone to stress accumulation and sexual desire.[p]
+In fact, it seems that there are many female teachers with nymphomania.[p]
+#Kirishima
+Th-That's just prejudice![p]
+#Nikuyama
+And above all, showing excessive reactions to exposing skin or sexual questions is a characteristic response of a promiscuous person.[p]
+#Kirishima
+This is baseless accusation![p]
+I am not promiscuous![p]
+#Nikuyama
+Well, well, I'm not saying that Kirishima-sensei has abnormal sexual desires.[p]
+Based on the data, there are suspicions about that.[p]
+#Kirishima
+W-What...[p]
+What do you want me to do then?[p]
+Go to the hospital and get checked?[p]
+#Nikuyama
+No, no, there's no need for that.[p]
+It's just that a little caution is necessary.[p]
+So, for now, I will be responsible for observing Kirishima-sensei.[p]
+#Kirishima
+W-What did you say!?[p]
+This is absolutely absurd![p]
+I will report this to the Board of Education...[p]
 
 [_tb_end_text]
 
 [tb_image_show  time="1000"  storage="default/game200.png"  width="311"  height="277"  x="485"  y="242"  _clickable_img=""  name="img_58"  ]
 [tb_image_hide  time="1000"  ]
 [tb_start_text mode=1 ]
-#肉山
-「もし桐嶋先生が本当に異常性欲なら男子生徒に手を出す危険性がありますからね」[p]
-「注意しなければいけないのは当然でしょう」[p]
-#桐嶋
-「そんなことしません！」[p]
-「わたしは淫乱なんかじゃありません！」[p]
-#肉山
-「それじゃ問題ないじゃないですか」[p]
-「一定期間観察して淫乱じゃないと証明されればいいわけですから」[p]
-#桐嶋
-「そ、それは・・・そうですが」[p]
-#肉山
-「まぁこのことは他の先生方や生徒には秘密にしておきますから」[p]
-#桐嶋
-「・・・」[p]
-#肉山
-「明日から桐嶋先生はわたしの観察下に置かれるということで」[p]
-「いいですね？」[p]
+#Nikuyama
+If Kirishima-sensei really has abnormal sexual desires, there is a risk of them getting involved with male students.[p]
+It's only natural that we need to be cautious and take measures.[p]
+#Kirishima
+I would never do such a thing![p]
+I am not promiscuous![p]
+#Nikuyama
+Well then, there shouldn't be a problem, right?[p]
+If we observe you for a certain period of time and prove that you're not promiscuous, everything will be fine.[p]
+#Kirishima
+W-Well, that's...[p]
+true, but...[p]
+#Nikuyama
+Well, let's keep this a secret from other teachers and students.[p]
+#Kirishima
+・・・[p]
+#Nikuyama
+Starting from tomorrow, it's decided that Kirishima-sensei will be placed under my observation, is that okay?[p]
 
 [_tb_end_text]
 
 [tb_image_show  time="1000"  storage="default/game200.png"  width="269"  height="239"  x="507"  y="249"  _clickable_img=""  name="img_61"  ]
 [tb_image_hide  time="1000"  ]
 [tb_start_text mode=1 ]
-#桐嶋
-「・・・わかりました」[p]
-#肉山
-（よし！）[p]
-#桐嶋
-「淫乱症じゃないということが判明するまでの間だけ我慢すればいいんでしょう」[p]
-#肉山
-「ええ、もちろんです」[p]
-（ククク、それを判断するのは俺だがな！）[p]
-「それじゃ今日はもうこれで帰ってもかまいませんよ」[p]
-「明日から昼休憩には必ずこの部屋に来てくださいね」[p]
-#桐嶋
-「く・・・わかりました」[p]
-「それでは失礼します」[p]
+#Kirishima
+...[p]
+Understood.[p]
+#Nikuyama
+)[p]
+#Kirishima
+I just have to endure until it is confirmed that I don't have a promiscuity disorder, right?[p]
+#Nikuyama
+Yes, of course.[p]
+(Hehehe, I'll be the one to judge that![p]
+) Well then, you can go home for today if you want.[p]
+Starting from tomorrow, make sure to come to this room during lunch break, okay?[p]
+#Kirishima
+Ugh...[p]
+Understood.[p]
+Excuse me then.[p]
 
 [_tb_end_text]
 
 [chara_hide  name="桐嶋"  time="1000"  wait="true"  pos_mode="false"  ]
 [tb_start_text mode=1 ]
 #
-やったぜ！[p]
-これで新たな洗脳のとっかかりができたぞ！[p]
-淫乱症かどうかを調べる、という名目で色んなセクハラをしてやるぞ[p]
-そうして徐々に抵抗を弱めていってエロい命令に従うように洗脳していけば・・・[p]
-もう半分チンコを挿入したも同然だ！[p]
-ダメだ興奮してきた[p]
-一発抜いて帰るか[p]
-・・・[p]
+Hooray![p]
+With this, I've found a new opportunity for brainwashing![p]
+Under the pretense of investigating whether or not they have a promiscuity disorder, I'll subject them to various sexual harassment and gradually weaken their resistance, brainwashing them to obey erotic commands...[p]
+It's practically like halfway inserting my dick![p]
+No, this is bad, I'm getting excited.[p]
+Should I jerk off and go home?[p]
 [_tb_end_text]
 
 [tb_eval  exp="f.ss=50"  name="ss"  cmd="="  op="t"  val="50"  val_2="undefined"  ]
@@ -224,44 +223,45 @@
 [chara_show  name="桐嶋"  time="1000"  wait="true"  storage="chara/1/game10.png"  width="375"  height="883"  left="460"  top="17"  reflect="false"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Grease_Slide_Trap.mp3"  ]
 [tb_start_text mode=1 ]
-#桐嶋
-「なんですか話って」[p]
-#肉山
-「教育委員会から女性教員の服装に関する指導要綱が来てましてね」[p]
+#Kirishima
+What is it that you want to talk about?[p]
+#Nikuyama
+The Board of Education has sent guidelines regarding the dress code for female teachers.[p]
 
 [_tb_end_text]
 
 [tb_image_show  time="1000"  storage="default/game202.jpg"  width="502"  height="605"  x="695"  y="11"  _clickable_img=""  name="img_75"  ]
 [chara_move  name="桐嶋"  anim="true"  time="300"  effect="linear"  wait="true"  left="60"  top="17"  width="375"  height="883"  ]
 [tb_start_text mode=1 ]
-#桐嶋
-「・・・？」[p]
-「なんですかこれは？」[p]
-#肉山
-「明日からそこにあるとおりの服装をしてきてください」[p]
-#桐嶋
-「・・・！？」[p]
-「えっ、これは・・・！？」[p]
-「なんですかこの無茶苦茶な内容は！？」[p]
-「ノーブラに超ミニスカートって・・・」[p]
-「なんでわたしがこんな破廉恥な服装をしなければいけないんですか！」[p]
+#Kirishima
+...?[p]
+What is this?[p]
+#Nikuyama
+Please come dressed as it is stated there starting from tomorrow.[p]
+#Kirishima
+...!?[p]
+Eh, what is this...!?[p]
+What is the meaning of this absurd content!?[p]
+No bra and a super mini skirt...[p]
+Why do I have to dress so indecently like this?[p]
 [_tb_end_text]
 
 [tb_image_show  time="1000"  storage="default/game200.png"  width="298"  height="265"  x="489"  y="257"  _clickable_img=""  name="img_78"  ]
 [tb_image_hide  time="500"  ]
 [tb_image_show  time="300"  storage="default/game202.jpg"  width="501"  height="603"  x="748"  y="24"  _clickable_img=""  name="img_80"  ]
 [tb_start_text mode=1 ]
-#肉山
-「桐嶋先生が淫乱かどうかを検査するためですよ」[p]
-#桐嶋
-「は？」[p]
-「どういうことですか！？」[p]
-#肉山
-「淫乱症の女が露出の高い服を着て生活すれば必ず淫乱女特有の反応が現れます」[p]
-「淫乱症の女を特定するための一般的な手法ですよ」[p]
-#桐嶋
-「そ、そんな！」[p]
-「こんなの・・・人権無視じゃないですか！」[p]
+#Nikuyama
+It's to examine whether or not Kirishima-sensei is promiscuous.[p]
+#Kirishima
+Huh?[p]
+What do you mean!?[p]
+#Nikuyama
+If a promiscuous woman lives wearing revealing clothes, she will definitely show the typical reactions of a promiscuous woman.[p]
+It's a common method to identify promiscuous women.[p]
+#Kirishima
+W-Wait![p]
+This...[p]
+isn't this a violation of human rights?![p]
 [_tb_end_text]
 
 [chara_mod  name="桐嶋"  time="600"  cross="false"  storage="chara/1/game11.png"  ]
@@ -269,49 +269,51 @@
 [tb_image_hide  time="500"  ]
 [tb_image_show  time="300"  storage="default/game202.jpg"  width="506"  height="609"  x="742"  y="20"  _clickable_img=""  name="img_85"  ]
 [tb_start_text mode=1 ]
-#肉山
-「生徒を守るためにはやむを得ない措置です」[p]
-「バスト１００ｃｍオーバーの女教師なんてそれだけでもうほとんどわいせつ物ですからね」[p]
-「それがもし淫乱症だったら生徒に対する危険は計り知れませんよ」[p]
-#桐嶋
-「なっ・・・！」[p]
-「なんでそこまで言われないといけないんですか！」[p]
-#肉山
-「とにかくあなたは医学的にドスケベで周りに悪影響を与える症状である可能性が高いと多くのデータが示してるわけですから」[p]
-「速やかに検査が必要ですし、桐嶋先生も協力する義務があると思いますがね」[p]
+#Nikuyama
+It is an unavoidable measure to protect the students.[p]
+A female teacher with a bust size over 100cm is already considered highly indecent.[p]
+If she also happens to have promiscuity disorder, the danger to the students would be immeasurable.[p]
+#Kirishima
+Wha...![p]
+Why do I have to be told such things?![p]
+#Nikuyama
+Anyway, there is a high possibility that you have a medically promiscuous symptom that can have a negative influence on others, as indicated by a lot of data.[p]
+Therefore, it is necessary to conduct an examination promptly, and I believe Kirishima-sensei also has an obligation to cooperate.[p]
 [_tb_end_text]
 
 [tb_image_show  time="1000"  storage="default/game200.png"  width="298"  height="265"  x="475"  y="243"  _clickable_img=""  name="img_87"  ]
 [tb_image_hide  time="500"  ]
 [tb_image_show  time="300"  storage="default/game202.jpg"  width="511"  height="615"  x="743"  y="23"  _clickable_img=""  name="img_89"  ]
 [tb_start_text mode=1 ]
-#桐嶋
-「う・・・」[p]
-「ど、どのくらいの間この服装をしなければいけないんですか？」[p]
-#肉山
-「検査が終わるまでです」[p]
-「疑いが晴れればすぐに元に戻りますよ」[p]
-#桐嶋
-「・・・わかりました」[p]
-「明日からこの通りの服装でくればいいんですね・・・」[p]
-「・・・失礼します」[p]
-#肉山
-「あ、それと検査のことは生徒や他の先生にも言わないでくださいね」[p]
-「余計な不安を与えたくないですからね」[p]
-#桐嶋
-「・・・わかりました」[p]
+#Kirishima
+Ugh...[p]
+H-How long do I have to dress like this?[p]
+#Nikuyama
+You have to dress like this until the examination is over.[p]
+If the suspicion is cleared, you will immediately return to your original attire.[p]
+#Kirishima
+...[p]
+I understand.[p]
+Starting from tomorrow, I will dress according to these guidelines...[p]
+Excuse me.[p]
+#Nikuyama
+Oh, and please don't tell the students or other teachers about the examination.[p]
+I don't want to cause unnecessary anxiety.[p]
+#Kirishima
+...[p]
+I understand.[p]
 [_tb_end_text]
 
 [tb_image_hide  time="1000"  ]
 [chara_hide  name="桐嶋"  time="1000"  wait="true"  pos_mode="true"  ]
 [tb_start_text mode=1 ]
 #
-よーし、成功だ！！[p]
-かなり強引な理論だったが騙し通せたぜ[p]
-洗脳が順調に進行している証拠だな[p]
-ちゃんと書面にしてプリントアウトしたのが正解だったな[p]
-明日どんなエロい格好で登校して来るか楽しみだぜ[p]
-うひひひひ[p]
+Success![p]
+It was a pretty forceful theory, but I managed to deceive them.[p]
+This is proof that brainwashing is progressing smoothly.[p]
+It was the right decision to write it down and print it out.[p]
+I'm looking forward to seeing what kind of erotic outfit they'll come to school in tomorrow.[p]
+Uhuhuhu.[p]
 [_tb_end_text]
 
 [tb_eval  exp="f.ch4=1"  name="ch4"  cmd="="  op="t"  val="1"  val_2="undefined"  ]
@@ -325,74 +327,79 @@
 [tb_ptext_hide  time="1000"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Grease_Slide_Trap.mp3"  ]
 [tb_start_text mode=1 ]
-#男子生徒Ａ
-「おい、見ろよアレ！」[p]
-#男子生徒Ｂ
-「うぉっ！すげー！」[p]
-#女子生徒Ａ
-「えっ、桐嶋先生・・・！？」[p]
-#女子生徒Ｂ
-「ど、どうしちゃったのかしら？」[p]
+#Male Student A
+Hey, look at that![p]
+#Male Student B
+Whoa![p]
+That's amazing![p]
+#Female Student A
+Eh, Kirishima-sensei...!?[p]
+#Female Student B
+W-What happened to her?[p]
 [_tb_end_text]
 
 [chara_show  name="桐嶋"  time="1000"  wait="true"  storage="chara/1/game23.png"  width="375"  height="883"  left="275"  top="1"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#桐嶋
-（なんかすごく見られちゃってるわ・・・）[p]
-（そりゃそうよね、こんな格好だし）[p]
-（スカートは超ミニだし・・・歩くと見えちゃわないかドキドキするわ）[p]
-（それにノーブラ・・・バレてないわよね？）[p]
-（すごく胸が揺れるからブラウスにこすれて・・・）[p]
-（乳首が立ったらバレちゃうし、意識したら余計になんだか変な気分に・・・）[p]
-#教頭
-「え・・・なっ！？」[p]
+#Kirishima
+(I feel like I'm being stared at a lot...[p]
+) (Well, it's understandable, considering how I'm dressed) (My skirt is super short...[p]
+I'm nervous that it might show when I walk) (And I'm not wearing a bra...[p]
+I hope no one notices) (The blouse rubs against my breasts and they jiggle a lot...[p]
+)[p]
+#Vice Principal
+Eh...[p]
+what!?[p]
 
 [_tb_end_text]
 
 [chara_show  name="教頭"  time="1000"  wait="true"  storage="chara/6/game49-2.png"  width="377"  height="887"  left="755"  top="24"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#教頭
-「き、桐嶋先生・・・！？」[p]
-#桐嶋
-「あっ、お、おはようございます」[p]
-#教頭
-「いや、その・・・おはよう」[p]
-「今日の格好は・・・一体・・・？」[p]
-#桐嶋
-「あ・・・これは・・・」[p]
-「まぁ・・・気分転換といいますか・・・その・・・」[p]
-（淫乱症の検査のことは秘密にしないといけないわ・・・なんとか誤魔化さないと）[p]
-#教頭
-「ははぁ・・・気分転換・・・」[p]
-「いや・・・うーん・・・しかしその服装はちょっと・・・」[p]
-#桐嶋
-（ここは強気に押し切りましょう）[p]
+#Vice Principal
+K-Kirishima-sensei...!?[p]
+#Kirishima
+Ah, g-good morning.[p]
+#Vice Principal
+Um, that...[p]
+Good morning.[p]
+What's with your outfit today...?[p]
+#Kirishima
+Ah...[p]
+this is...[p]
+well...[p]
+let's call it a change of pace...[p]
+um...[p]
+I have to somehow deceive them)[p]
+#Vice Principal
+Haha...[p]
+a change of pace...[p]
+well...[p]
+hmm...[p]
+but that outfit is a bit...[p]
+#Kirishima
+(I'll push through here assertively)[p]
 [_tb_end_text]
 
 [chara_mod  name="桐嶋"  time="400"  cross="false"  storage="chara/1/game12.png"  ]
 [tb_start_text mode=1 ]
-#桐嶋
-「な、なにか問題でも？」[p]
-#教頭
-「えっ、あ、いや・・・まぁ・・・」[p]
-（うーん、明らかに教師としてふさわしくない服装だが・・・今の時代色々とうるさいからな）[p]
-（若い女性教員の服装にとやかく言うのは危険かもしれないな。触らぬ神に祟りなし・・・だ）[p]
-「なに、ちょっと珍しいなと思いましてね・・・まぁ特に問題はないようですな。ハハハハ」[p]
-「それではまた後で」[p]
+#Kirishima
+I-Is there a problem?[p]
+#Vice Principal
+Eh, ah, well...[p]
+(Hmm, it's definitely not appropriate attire for a teacher...[p]
+but in this day and age, people are so particular about things) (It might be dangerous to comment on the clothing of a young female teacher.[p]
+Let sleeping dogs lie...[p]
+I suppose) Well, I just thought it was a bit unusual...[p]
+but there doesn't seem to be any particular issue.[p]
+Hahaha, well then, see you later.[p]
 [_tb_end_text]
 
 [chara_hide  name="教頭"  time="1000"  wait="true"  pos_mode="false"  ]
 [tb_start_text mode=1 ]
-#桐嶋
-「ふぅ・・・」[p]
-（なんとか大丈夫だったわね）[p]
-（でも、いやらしい女だと思われたでしょうね・・・）[p]
-（自分の意思でこんな格好してるんじゃないのに）[p]
-（でも検査だから仕方が無いわ）[p]
-（わたしが淫乱じゃないということがわかるまでの辛抱よ）[p]
+#Kirishima
+Phew...[p]
+) (I didn't choose to dress like this on my own) (But it can't be helped because of the examination) (I'll have to endure until they realize that I'm not promiscuous)[p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 [_tb_end_text]
 
 [chara_hide  name="桐嶋"  time="1000"  wait="false"  pos_mode="false"  ]
@@ -407,66 +414,66 @@
 [chara_show  name="桐嶋"  time="1000"  wait="true"  storage="chara/1/game12.png"  width="382"  height="898"  left="432"  top="17"  reflect="false"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Grease_Slide_Trap.mp3"  ]
 [tb_start_text mode=1 ]
-#桐嶋
-「放課後にまで呼び出してなにか用ですか」[p]
-「用があるなら昼休憩に言ってください」[p]
-#肉山
-「ああすいません、一つお伝えすることを忘れてましてね」[p]
-「明日までに陰毛を全て剃ってきてください」[p]
-#桐嶋
-「・・・は？」[p]
-「い、陰毛・・・！？」[p]
-#肉山
-「陰毛です」[p]
-「全部剃ってあそこをツルツルにしてきてください」[p]
+#Kirishima
+If you have something to talk about, please tell me during lunch break instead of calling me after school.[p]
+#Nikuyama
+Ah, sorry.[p]
+I forgot to mention one thing.[p]
+Please shave all your pubic hair by tomorrow.[p]
+#Kirishima
+...[p]
+Huh?[p]
+P-Pubic hair...!?[p]
+#Nikuyama
+Please shave all your pubic hair and make your crotch smooth.[p]
 #
 [_tb_end_text]
 
 [chara_mod  name="桐嶋"  time="500"  cross="false"  storage="chara/1/game13.png"  ]
 [tb_start_text mode=1 ]
-#桐嶋
-「な、なんでそんなことしないといけないんですか！？」[p]
-#肉山
-「なんでって・・・」[p]
-「陰毛が猥褻だからに決まってるでしょう」[p]
-「欧米では女性は剃るのが当たり前ですよ」[p]
-「まして教師は思春期の子供と日常的に接する立場ですからね」[p]
+#Kirishima
+W-Why do I have to do something like that!?[p]
+#Nikuyama
+Why?[p]
+...[p]
+Because pubic hair is considered obscene, isn't it obvious?[p]
+In the West, it's common for women to shave.[p]
+Especially for teachers who interact with adolescents on a daily basis.[p]
 #
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#桐嶋
-「そ、それはそうですが」[p]
-「でも他の女性教員は普通に・・・生えてるでしょう・・・！」[p]
-#肉山
-「見たことがあるんですか？」[p]
-「一般には知られていませんが若い女性教員は剃るのが当然ですよ？」[p]
+#Kirishima
+W-Well, that may be true, but other female teachers have...[p]
+pubic hair, right...?![p]
+#Nikuyama
+Have you seen it before?[p]
+It's not widely known, but it's natural for young female teachers to shave, you know?[p]
 #
 [_tb_end_text]
 
 [tb_image_show  time="1000"  storage="default/game200.png"  width="328"  height="291"  x="451"  y="221"  _clickable_img=""  name="img_120"  ]
 [tb_image_hide  time="1000"  ]
 [tb_start_text mode=1 ]
-#桐嶋
-「そ、そうなんですか・・・？」[p]
-#肉山
-「特に桐嶋先生のように若くて美人でバスト１００ｃｍ超えのドスケベな身体の教師は、ただでさえ男子生徒に悪影響が強いですからね」[p]
-「陰毛ぐらいちゃんと剃ってきてもらわないと」[p]
-#桐嶋
-「く・・・」[p]
-「わ、わかりました。明日までに剃っておきます・・・」[p]
+#Kirishima
+I-Is that so...?[p]
+#Nikuyama
+Especially for young and beautiful teachers like Kirishima-sensei, who have a perverted body with a bust size of over 100cm, it's important for them to shave their pubic hair properly.[p]
+Otherwise, it can have a strong negative influence on male students.[p]
+#Kirishima
+F-Fine...[p]
+I-I understand.[p]
+I'll shave it by tomorrow...[p]
 #
 [_tb_end_text]
 
 [chara_hide  name="桐嶋"  time="1000"  wait="true"  pos_mode="false"  ]
 [tb_start_text mode=1 ]
 #
-くくく・・・簡単に騙せるようになってきたな[p]
-別に俺はボーボーな女も嫌いじゃないが[p]
-ツルツルマンコにさせるのには理由があるんだ[p]
-・・・明日が楽しみだぜ[p]
-・・・・・・[p]
-・・・[p]
+Hehehe...[p]
+I've become quite good at deceiving easily.[p]
+It's not like I dislike women with a lot of pubic hair, but there's a reason for making them completely smooth...[p]
+I'm looking forward to tomorrow...[p]
 [_tb_end_text]
 
 [stopbgm  time="1000"  fadeout="true"  ]
@@ -476,36 +483,33 @@
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Radio.mp3"  ]
 [tb_start_text mode=1 ]
 #
-ジョリ・・・ジョリ・・・[p]
-#桐嶋
-ふぅ・・・やっと全部剃れたわ[p]
-元々薄い方だし、彼氏もいないからあまり処理もしてなかったけど[p]
-全部剃るって結構大変ね・・・[p]
-・・・[p]
-でも腋毛も剃るのが当たり前だし[p]
-陰毛もやはり剃った方がいいわよね・・・？[p]
-たしかに教員は年頃の子供たちと接する仕事なわけだし[p]
-陰毛をそのままにしてたのは迂闊だったわ[p]
-・・・それをあの肉山に指摘されて気付くなんて悔しいけど[p]
-・・・[p]
+Jori...[p]
+Jori...[p]
+#Kirishima
+Phew...[p]
+I finally shaved everything.[p]
+I didn't have much hair to begin with, and since I don't have a boyfriend, I didn't really bother with grooming.[p]
+But it's quite difficult to shave everything...[p]
+But it's common to shave armpit hair, and it's probably better to shave pubic hair too, right?[p]
+It's true that teachers interact with students of a certain age, so it was careless of me to leave my pubic hair as it was...[p]
+It's frustrating to realize that after being pointed out by that Nikuyama...[p]
 [_tb_end_text]
 
 [chara_show  name="桐嶋"  time="1000"  wait="true"  storage="chara/1/game24.png"  width="352"  height="828"  left="417"  top="18"  reflect="false"  ]
 [tb_start_text mode=1 ]
-・・・それにしても肉山の検査、だんだん過激になっていくわ[p]
-今日も検査のためとはいえペニスを握らされて、顔に精液まで・・・[p]
-なんとかしてわたしが淫乱症であると仕立て上げたいんでしょうけどそうはいかないわ[p]
-わたしは絶対に・・・淫乱症なんかじゃないんだから[p]
-・・・[p]
+...[p]
+But Nikuyama's inspections are becoming more and more extreme.[p]
+Today, even though it's for the inspection, I was made to hold his penis and even had semen on my face...[p]
+They must want to frame me as someone with nymphomania, but that's not true.[p]
+I absolutely...[p]
+I'm not someone with nymphomania...[p]
 
 [_tb_end_text]
 
 [chara_mod  name="桐嶋"  time="600"  cross="true"  storage="chara/1/game25.png"  ]
 [tb_start_text mode=1 ]
-でもあの脈打ったグロテスクなペニス・・・[p]
-なんともいえない精液の臭い・・・[p]
-・・・・・・[p]
-・・・[p]
+But that throbbing grotesque penis...[p]
+and the indescribable smell of semen...[p]
 #
 [_tb_end_text]
 
@@ -519,143 +523,153 @@
 [bg  time="1000"  method="rotateInDownLeft"  storage="game100.jpg"  ]
 [tb_start_text mode=1 ]
 #
-放課後・・・[p]
+After school...[p]
 [_tb_end_text]
 
 [stopbgm  time="1000"  fadeout="true"  ]
 [chara_show  name="桐嶋"  time="1000"  wait="true"  storage="chara/1/game12.png"  width="371"  height="873"  left="433"  top="30"  reflect="false"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Grease_Slide_Trap.mp3"  ]
 [tb_start_text mode=1 ]
-#桐嶋
-「今度はなんの用ですか」[p]
-#肉山
-「桐嶋先生はスマホを持ってますよね？」[p]
-#桐嶋
-「・・・持ってますけど。それがなにか」[p]
-#肉山
-「出してください」[p]
-#桐嶋
-「・・・？」[p]
-「なぜですか？」[p]
-#肉山
-「しばらくこちらで預からせてもらいます」[p]
+#Kirishima
+What do you need this time?[p]
+#Nikuyama
+Kirishima-sensei, you have a smartphone, right?[p]
+#Kirishima
+...[p]
+Yes, I have one.[p]
+What about it?[p]
+#Nikuyama
+Please take it out.[p]
+#Kirishima
+...?[p]
+Why?[p]
+#Nikuyama
+I'll keep it with me for a while.[p]
 [_tb_end_text]
 
 [chara_mod  name="桐嶋"  time="300"  cross="true"  storage="chara/1/game61.png"  ]
 [tb_start_text mode=1 ]
-#桐嶋
-「な・・・！？」[p]
-「なぜそんなこと・・・というかなんの権限があってそんなことをするですか！」[p]
-「お断りします！」[p]
-#肉山
-「そうは言っても、決まりですから従っていただかないと」[p]
-#桐嶋
-「決まり・・・？なんの決まりですか！？」[p]
-「理由を教えてください！」[p]
+#Kirishima
+Wha...!?[p]
+Why would you do something like that...?[p]
+And what authority do you have to do such a thing![p]
+I refuse![p]
+#Nikuyama
+Even if you say that, it's the rule, so you have to follow it.[p]
+#Kirishima
+Rule...?[p]
+What kind of rule is this!?[p]
+Please tell me the reason![p]
 [_tb_end_text]
 
 [tb_image_show  time="1000"  storage="default/game200.png"  width="338"  height="300"  x="452"  y="230"  _clickable_img=""  name="img_149"  ]
 [tb_image_hide  time="1000"  ]
 [tb_start_text mode=1 ]
-#肉山
-「異常性欲の人にインターネットを使わせると悪用する危険がありますからね」[p]
-「マッチングアプリで未成年と淫行したり、違法アダルトサイトを閲覧したり」[p]
-「ドスケベな桐嶋先生のことだから、すでにやましいところがあるんじゃないんですか？」[p]
-#桐嶋
-「なっ・・・！？」[p]
-「そんなことしてません！」[p]
-「マッチングアプリなんてどんなものかも良く知りません！」[p]
-#肉山
-「桐嶋先生は虚言癖がありますからね。口でいくら言っても信用するわけにはいきませんな」[p]
-「実際にこれまでも何度もウソをつかれていますからねぇ」[p]
-#桐嶋
-「うっ・・・ほ、本当です！」[p]
-「わたしはネットをそんな使い方したことはありません！」[p]
-「そもそもわたしは異常性欲なんかじゃ・・・」[p]
-#肉山
-「まぁ一時的に預かるだけですから」[p]
-「桐嶋先生が淫乱じゃないと判明すればすぐに返却します」[p]
+#Nikuyama
+There is a danger that people with abnormal sexual desires will misuse the internet.[p]
+Considering Kirishima-sensei's lewd nature, they might engage in inappropriate activities with minors on dating apps or view illegal adult websites.[p]
+Don't you think they already have something to hide?[p]
+#Kirishima
+Wha...!?[p]
+I haven't done anything like that![p]
+I don't even know what kind of thing a dating app is![p]
+#Nikuyama
+Kirishima-sensei has a habit of lying, you know.[p]
+No matter how much they say with their mouth, it's hard to trust them.[p]
+In fact, I've been lied to by them many times before.[p]
+#Kirishima
+Ugh...[p]
+I-I'm telling the truth![p]
+I have never used the internet in such a way![p]
+Besides, I don't have any abnormal sexual desires...[p]
+#Nikuyama
+Well, I'll just keep it temporarily, so if it's proven that Kirishima-sensei is not lewd, I'll return it right away.[p]
 
 [_tb_end_text]
 
 [chara_mod  name="桐嶋"  time="300"  cross="true"  storage="chara/1/game23.png"  ]
 [tb_start_text mode=1 ]
-#桐嶋
-「で、でも・・・スマホが無いと生活に困ります！」[p]
-#肉山
-「返却までの間は代用として、この通話とメールができる簡易フォンをお貸ししますよ」[p]
-「それに記録も調べないのでパスワードも教えてもらわなくて結構」[p]
-#桐嶋
-「う・・・でも・・・」[p]
-「なんであなたにそんなことを・・・」[p]
-#肉山
-「私は教育委員会から権限を与えられているんですよ」[p]
-「なんなら力ずくで没収しても良いんですよ？」[p]
-#桐嶋
-「く・・・！」[p]
-「わ、わかりました・・・！」[p]
-「淫乱症の疑いが晴れたらすぐに返してもらいますからね！」[p]
-#肉山
-「疑いが晴れればね（ククク）」[p]
-「ところで家にパソコンはありますか？」[p]
-「あればそれも没収しますが」[p]
-#桐嶋
-「ありません！」[p]
-#肉山
-「本当ですか？」[p]
-「・・・まぁいいでしょう」[p]
-「とにかくネットに接続することは禁止です」[p]
-#桐嶋
-「わかりました・・・！」[p]
-「失礼します！」[p]
+#Kirishima
+B-But...[p]
+I'll have trouble living without my smartphone![p]
+#Nikuyama
+Until it's returned, I'll lend you this simple phone that can make calls and send messages as a substitute.[p]
+Plus, I won't check the records, so you don't have to tell me the password.[p]
+#Kirishima
+Ugh...[p]
+But...[p]
+why would you do something like that...?[p]
+#Nikuyama
+I have been given authority by the Board of Education.[p]
+If necessary, I can even forcefully confiscate it, you know?[p]
+#Kirishima
+Ugh...[p]
+I-I understand...![p]
+If the suspicion of lewdness is cleared, please return it to me immediately![p]
+#Nikuyama
+If the suspicion is cleared (hehehe), by the way, do you have a computer at home?[p]
+If you do, I'll confiscate that too.[p]
+#Kirishima
+I don't have it![p]
+#Nikuyama
+Is that true?...[p]
+Well, whatever.[p]
+In any case, connecting to the internet is prohibited.[p]
+#Kirishima
+Understood...![p]
+I apologize and will take my leave![p]
 
 [_tb_end_text]
 
 [chara_hide  name="桐嶋"  time="1000"  wait="true"  pos_mode="false"  ]
 [tb_start_text mode=1 ]
-#肉山
-ふぅ・・・成功したか[p]
-これであいつを情報から隔離することができたぜ[p]
-ネットで色々調べられると俺の言ってることがでたらめだってすぐにバレちまうからな[p]
-チンポを握らせたり、股間を舐めたりする検査方法なんて常識で考えたらあるわけが無いんだから[p]
-前々からネット環境を奪わないといけないと思ってたんだ[p]
-ククク・・・[p]
-これで今後は心置きなく大胆なことができそうだぜ[p]
+#Nikuyama
+*sigh*...[p]
+I did it, didn't I?[p]
+I was able to isolate them from the information.[p]
+If they can search various things on the internet, they'll quickly realize that what I'm saying is nonsense.[p]
+That's why I had to resort to holding their dick or licking their crotch as a testing method.[p]
+It's common sense that such a method doesn't exist, so I've always thought that I needed to take away their internet environment.[p]
+Hehehe...[p]
+With this, they should be able to do bold things without any worries in the future.[p]
 [_tb_end_text]
 
 [tb_eval  exp="f.ss=145"  name="ss"  cmd="="  op="t"  val="145"  val_2="undefined"  ]
 [jump  storage="kitaku.ks"  target=""  ]
 [tb_start_text mode=1 ]
-（一応保存用コピー）[p]
+(Just a backup copy, for safekeeping)[p]
 
-#桐嶋
-今度はなんの用ですか[p]
-#肉山
-あなたの度重なる虚言についてですがね[p]
-桐嶋先生の監督者として厳重に注意しておこうと思いましてね[p]
-#桐嶋
-虚言・・・って、あれは・・・[p]
-#肉山
-桐嶋先生がわたしに何度も嘘をついたのは事実ですからね[p]
-嘘をつかれると検査にも支障をきたすし、なにより教師たるものが嘘をつくというのは問題ですよ[p]
-#桐嶋
-そ、それは・・・[p]
-生徒には嘘なんかついたことは・・・[p]
-#肉山
-とにかく、二度とわたしに嘘をつかないことを約束してください[p]
-#桐嶋
-くっ・・・[p]
-なんでそんなことを・・・[p]
-#肉山
-どうしたんですか[p]
-#桐嶋
-わ、わかりました・・・約束すれば良いんでしょう[p]
-・・・もう嘘はつきません。約束します[p]
-#肉山
-もっとちゃんと約束してください[p]
-その前に謝罪もしてもらいましょうか[p]
-#桐嶋
-く・・・っ！[p]
+#Kirishima
+What do you need this time?[p]
+#Nikuyama
+Regarding your repeated lies, as Kirishima-sensei's supervisor, I thought it would be best to give you a stern warning.[p]
+#Kirishima
+Lying...[p]
+that, um...[p]
+#Nikuyama
+It is a fact that Kirishima-sensei has lied to me multiple times.[p]
+Being lied to can hinder the investigation, and above all, it is a problem for someone who is a teacher to lie.[p]
+#Kirishima
+Th-that...[p]
+I've never lied to my students...[p]
+#Nikuyama
+Anyway, please promise me that you won't lie to me again.[p]
+#Kirishima
+Ugh...[p]
+Why would you do something like that...[p]
+#Nikuyama
+What's wrong?[p]
+#Kirishima
+O-Okay...[p]
+I understand...[p]
+I guess I just have to promise...[p]
+I won't lie anymore.[p]
+I promise.[p]
+#Nikuyama
+Please make a more sincere promise.[p]
+Should I also ask for an apology before that?[p]
+#Kirishima
+*gulp*[p]
 
 [_tb_end_text]
 
@@ -664,85 +678,93 @@
 [stopbgm  time="1000"  ]
 [tb_start_text mode=1 ]
 #
-放課後・・・[p]
+After school...[p]
 [_tb_end_text]
 
 [chara_show  name="桐嶋"  time="1000"  wait="true"  storage="chara/1/game23.png"  width="373"  height="878"  left="418"  top="13"  reflect="false"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Grease_Slide_Trap.mp3"  ]
 [tb_start_text mode=1 ]
-#肉山
-「さてと、検査の結果が出たわけですが」[p]
-#桐嶋
-「ちょ、ちょっと待ってください！」[p]
-「わたしは・・・わたしは淫乱症なんかじゃありません！」[p]
-#肉山
-「この期に及んでまだ否定するんですか？」[p]
-「先ほどアナルをいじられてあれだけ感じまくって、自分の口で淫乱だと言うことを認めたじゃないですか」[p]
-#桐嶋
-「くっ・・・あ、あれは・・・間違いで・・・」[p]
-#肉山
-「また得意のウソですか？」[p]
-「アナルを指でほじられてよがりまくるなんて淫乱以外のなにものでもないんですよ」[p]
-「いい加減に現実を受け入れたらどうですか」[p]
-#桐嶋
-「・・・っ」[p]
-「わ・・・わかりました」[p]
-「わたしは・・・淫乱です。認めます・・・」[p]
-「それで・・・わたしはどうなるんですか？」[p]
-#肉山
-「生徒に悪影響を与えるドスケベ教師ですからね、当然解雇」[p]
-#桐嶋
-「そんな・・・！」[p]
-#肉山
-「・・・のはずだったんですが、それは保留されました」[p]
-「やはりこれまで問題を起こしていないことや、教師としての優秀さが評価されて温情措置がとられたんでしょう」[p]
-「これまでどおり教師として仕事してよいということになりました」[p]
-#桐嶋
-「え・・・そうなんですか？」[p]
-「よかった・・・」[p]
-#肉山
-「まぁわたしの口ぞえもあったんですが」[p]
-「感謝して欲しいものですね」[p]
-#桐嶋
-「く・・・！」[p]
-「あ、ありがとうございます・・・」[p]
-#肉山
-「なに、どうということはありませんよ」[p]
-「いくらドスケベとバレてないとはいえ、桐嶋先生は生徒たちから慕われていますからねぇ」[p]
-#桐嶋
-「・・・それじゃわたしは今までどおり教師を続けられるんですね？」[p]
-#肉山
-「そういうことです」[p]
-「ただし条件があります」[p]
-#桐嶋
-「条件・・・？」[p]
-「いったいなんですか？」[p]
-#肉山
-「これからは桐嶋先生はわたしの管理下に置かれることになります」[p]
-「これからは行動は全て私に報告し、わたしの指導に従って生活してもらいます」[p]
-#桐嶋
-「な・・・っ！」[p]
+#Nikuyama
+Well then, the results of the examination have come out.[p]
+#Kirishima
+W-Wait a minute![p]
+I...[p]
+I'm not a nymphomaniac or anything![p]
+#Nikuyama
+Even at this point, are you still denying it?[p]
+Earlier, you were moaning so much when I played with your anus and admitted with your own mouth that you're a nymphomaniac, weren't you?[p]
+#Kirishima
+Ugh...[p]
+Th-that was...[p]
+a mistake...[p]
+#Nikuyama
+Are you resorting to your usual lies again?[p]
+How about accepting reality and admitting that you're nothing but a nymphomaniac, who moans in pleasure when I play with your anus?[p]
+#Kirishima
+*gulp* I...[p]
+I understand.[p]
+I admit that I'm...[p]
+a nymphomaniac.[p]
+So...[p]
+what will happen to me?[p]
+#Nikuyama
+Since you're a perverted teacher who has a negative influence on students, it's only natural that you'll be fired.[p]
+#Kirishima
+No way...![p]
+#Nikuyama
+...[p]
+That was supposed to happen, but it has been put on hold.[p]
+It seems that your lack of previous issues and your excellence as a teacher have been recognized, so leniency has been taken.[p]
+You are allowed to continue working as a teacher as before.[p]
+#Kirishima
+Eh...[p]
+Is that so?[p]
+I'm glad...[p]
+#Nikuyama
+Well, I did put in a good word for you, so I hope you're grateful.[p]
+#Kirishima
+Ugh...[p]
+Th-thank you...[p]
+#Nikuyama
+Well, it's nothing.[p]
+Even though you haven't been exposed as a pervert, Kirishima-sensei is still beloved by the students, you know.[p]
+#Kirishima
+...[p]
+So, I can continue working as a teacher as before?[p]
+#Nikuyama
+That's right.[p]
+However, there are conditions.[p]
+#Kirishima
+Conditions...?[p]
+What exactly are they?[p]
+#Nikuyama
+From now on, Kirishima-sensei will be placed under my supervision.[p]
+You will report all your actions to me and live according to my guidance.[p]
+#Kirishima
+Wha...![p]
 [_tb_end_text]
 
 [chara_mod  name="桐嶋"  time="300"  cross="true"  storage="chara/1/game13.png"  ]
 [tb_start_text mode=1 ]
-#桐嶋
-「なんであなたの指導なんか受けないといけないんですか！」[p]
-「絶対にお断りします！」[p]
-#肉山
-「はぁ・・・まだ自分の立場を理解していないようですね」[p]
-「あなたは寛大な措置で許されているだけで、本来なら矯正施設に入らないといけない異常者なんですよ」[p]
-「周りに悪影響を及ぼさないように責任あるものが管理しなければならないのは当然でしょう」[p]
-#桐嶋
-「異常者・・・！？く・・・っ」[p]
-「ですが、あなたのようなセクハラ体育教師に管理されるなんて・・・間違ってるわ・・・！」[p]
-「他の人にお願いします！」[p]
-#肉山
-「いいですか、教師を続ける以上あなたが異常性欲だということは生徒たちや他の教員に絶対にバレないようにしないといけないんですよ」[p]
-「だからわたしがあなたを管理するしかないんです」[p]
-「教育委員会の任命でもありましからね、そこは従ってもらわないと」[p]
-「イヤならやめても良いんですよ」[p]
-「その場合、当然教師は解雇、矯正施設に入所することになりますけどね」[p]
+#Kirishima
+Why do I have to receive your guidance?[p]
+I absolutely refuse![p]
+#Nikuyama
+Sigh...[p]
+It seems like you still don't understand your position.[p]
+You're only being allowed this leniency, but in reality, you're someone who should be in a correctional facility.[p]
+It's only natural that someone responsible needs to manage you so that you don't have a negative influence on those around you.[p]
+#Kirishima
+Abnormal person...![p]
+B-but, being managed by a sexual harassment gym teacher like you...[p]
+it's wrong...![p]
+I'll ask someone else, please![p]
+#Nikuyama
+Listen, if you want to continue being a teacher, you absolutely must ensure that your abnormal sexual desires are never exposed to the students or other faculty members.[p]
+That's why I have no choice but to manage you.[p]
+It's not only because of the appointment from the Board of Education, but also to prevent any negative influence.[p]
+If you don't want to follow that, you're free to quit.[p]
+In that case, of course, you will be dismissed as a teacher and have to enter a correctional facility.[p]
 
 
 [_tb_end_text]
@@ -751,69 +773,75 @@
 [tb_image_hide  time="1000"  ]
 [chara_mod  name="桐嶋"  time="300"  cross="true"  storage="chara/1/game23.png"  ]
 [tb_start_text mode=1 ]
-#桐嶋
-「くっ・・・！」[p]
-「これからずっとあなたに従い続けないといけないなんて・・・」[p]
-#肉山
-「永久というわけではありませんよ。年齢によって性欲が衰えたら解放されますよ」[p]
-「あるいは、もし症状が改善されたということを証明できれば管理は解除されます」[p]
-#桐嶋
-「えっ・・・そ、そうなんですか？」[p]
-「どうやったら証明できるんですか！？」[p]
-#肉山
-「それはもちろん、管理者である私が淫乱の症状が改善されたと判断した場合ですよ[p]
-#桐嶋
-「管理者の判断・・・？」[p]
-「それって・・・あなたのさじ加減次第なんじゃ・・・」[p]
-#肉山
-「そこは私情を挟まずに公平で客観的に判断をするので信用してください」[p]
-「そもそも私だって淫乱者の行動管理なんて重荷だし、やらなくてよくなるならそれに越したことはないんですからね」[p]
-#桐嶋
-「そ、そう・・・ですよね」[p]
-#肉山
-（バーカ、解放するわけがないだろ！ギャハハハ）[p]
-（こうやって逃げ道を用意するのが巧い洗脳のコツなんだよ）[p]
-「さぁどうしますか？矯正施設に行くか私の管理を受け入れるか」[p]
-「桐嶋先生自身で判断してください」[p]
-#桐嶋
-「・・・」[p]
-「・・・・・・っ」[p]
-「わかりました。肉山先生の管理を受け入れます」[p]
-#肉山
-「そうですか。賢明な判断ですよ」[p]
-「教師としての優秀なキャリアを捨てるのはもったいないですからね」[p]
-「・・・それではこの管理同意書にサインをお願いします」[p]
-#桐嶋
-「く・・・はい・・・」[p]
+#Kirishima
+Ugh...![p]
+Having to obey you from now on...[p]
+#Nikuyama
+It's not permanent.[p]
+If your sexual desire diminishes due to age, you will be released.[p]
+Alternatively, if you can prove that your symptoms have improved, the supervision will be lifted.[p]
+#Kirishima
+Eh...[p]
+Is that so?[p]
+How can I prove it!?[p]
+#Nikuyama
+Of course, it's when I, as the supervisor, determine that your symptoms of lewdness have improved.[p]
+#Kirishima
+The supervisor's judgment...?[p]
+That means...[p]
+it depends on your discretion, doesn't it...[p]
+#Nikuyama
+Please trust that I will make fair and objective judgments without personal bias.[p]
+In the first place, even for me, managing the actions of a perverted person is a burden, so if I don't have to do it anymore, it would be even better.[p]
+#Kirishima
+Y-Yes...[p]
+that's right, isn't it...[p]
+#Nikuyama
+(Idiot, there's no way I'll set you free![p]
+Gyahaha![p]
+) (This is the clever trick of brainwashing, creating an escape route like this) So, what will you do?[p]
+Decide for yourself whether to go to a correctional facility or accept my supervision, Kirishima-sensei.[p]
+#Kirishima
+...[p]
+I understand.[p]
+I will accept Mr.[p]
+Nikuyama's supervision.[p]
+#Nikuyama
+I see.[p]
+That's a wise decision.[p]
+It would be a waste to throw away your excellent career as a teacher...[p]
+Well then, please sign this supervision agreement.[p]
+#Kirishima
+Ugh...[p]
+Yes...[p]
 #
 [_tb_end_text]
 
 [tb_image_show  time="1000"  storage="default/game204.jpg"  width="527"  height="679"  x="661"  y="26"  _clickable_img=""  name="img_171"  ]
 [chara_move  name="桐嶋"  anim="true"  time="300"  effect="linear"  wait="true"  left="100"  top="13"  width="373"  height="878"  ]
 [tb_start_text mode=1 ]
-#桐嶋
-「・・・サインしました」[p]
-#肉山
-「ふむ・・・たしかに」[p]
-「それでは証拠の動画を撮るので服を脱いでください」[p]
-#桐嶋
-「は！？」[p]
-「動画ってなんですか・・・？」[p]
-#肉山
-「人権にかかわる問題ですからね」[p]
-「間違いなく本人が同意したという証拠の動画を撮るんですよ」[p]
-「こういう場合の常識ですよ」[p]
-#桐嶋
-「そ、そうなんですか・・・？」[p]
-「でも、なんで服を脱がないと・・・」[p]
-#肉山
-「きちんと管理されるとはいえ、異常性欲のドスケベ女を一般社会で生活させるわけですからね」[p]
-「ちゃんと自分の意思で従っています、危険性のない人物ですよ、と証明しておく必要があるんです」[p]
-「いきなり指示に逆らうようなら私も管理者として責任をもてませんからね」[p]
-「わたしに管理して欲しくないならいいんですよ？」[p]
-#桐嶋
-「く・・・っ！」[p]
-「う・・・わ、わかりました・・・っ」[p]
+#Kirishima
+...[p]
+I have signed.[p]
+#Nikuyama
+Hmmm...[p]
+Indeed, in that case, please take off your clothes so I can film the evidence video.[p]
+#Kirishima
+Huh!?[p]
+What do you mean by video...?[p]
+#Nikuyama
+It's a matter involving human rights, so it's common sense to film a video as evidence that the person themselves consented, you know.[p]
+#Kirishima
+I-Is that so...?[p]
+But why do I have to take off my clothes...[p]
+#Nikuyama
+Even though you will be properly supervised, it is necessary to prove that you are a safe individual who willingly follows instructions, considering that we are allowing a perverted woman with abnormal sexual desires to live in society.[p]
+If you suddenly start defying my orders, I cannot take responsibility as the supervisor.[p]
+If you don't want me to supervise you, that's fine too.[p]
+#Kirishima
+Ugh...[p]
+Ugh...[p]
+I-I understand...[p]
 #
 [_tb_end_text]
 
@@ -825,35 +853,42 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="music58.mp3"  ]
 [tb_start_text mode=1 ]
-#肉山
-「それではカメラに向かってさっき教えたセリフを言ってください」[p]
-#桐嶋
-「く・・・っ」[p]
-「・・・わ、私桐嶋香織は、ドスケベな・・・異常性欲者であることを認めます・・・」[p]
-#肉山
-「もっと大きな声で。最初から」[p]
-#桐嶋
-「・・・っ」[p]
-「・・・私桐嶋香織は異常性欲者であることを認めます」[p]
-「他人に迷惑をかけないように、自らの意思で肉山先生に生活を管理していただくことを望みました」[p]
-「・・・・・・」[p]
-#肉山
-「どうしたんです？続きがあるでしょう」[p]
-#桐嶋
-「く・・・に、肉山先生、どうかドスケベな私にご指導をよろしくお願いします・・・っ」[p]
-#肉山
-「OK、きっちり録画できました」[p]
-「これで桐嶋先生は正式にわたしの管理下に置かれたことになりました」[p]
-「桐嶋先生の行動は私の責任になりますから、これからは私の言うことにきちんと従って生活してもらいますよ」[p]
-#桐嶋
-「わ、わかりました・・・」[p]
-「でも、そちらも約束は守ってくださいよ」[p]
-「わたしが正常だということが判明したらすぐに普通の生活に戻らせてもらいますからね」[p]
-#肉山
-「もちろん、わかってますよ（ププッ）」[p]
-「それじゃ今日は帰っても良いですよ」[p]
-#桐嶋
-「・・・失礼します」[p]
+#Nikuyama
+Now, please say the lines I taught you earlier while facing the camera.[p]
+#Kirishima
+Ugh...[p]
+I-I, Kaori Kirishima, admit that I am a perverted...[p]
+individual with abnormal sexual desires...[p]
+#Nikuyama
+Louder.[p]
+From the beginning.[p]
+#Kirishima
+...[p]
+I...[p]
+Kaori Kirishima, admit that I am an individual with abnormal sexual desires.[p]
+I wished for Dr.[p]
+Nikuyama to manage my life so that I do not cause trouble to others and it was my own will...[p]
+#Nikuyama
+What's wrong?[p]
+There's more, right?[p]
+#Kirishima
+Ugh...[p]
+Dr.[p]
+Nikuyama, please guide me, a perverted individual, with your expertise...[p]
+#Nikuyama
+Okay, I've recorded everything properly.[p]
+With this, Kirishima-sensei is officially placed under my supervision.[p]
+Kirishima-sensei's actions will be my responsibility, so from now on, they will live according to my instructions.[p]
+#Kirishima
+I-I understand...[p]
+but please also keep your promise.[p]
+If it is confirmed that I am normal, please let me return to a regular life immediately.[p]
+#Nikuyama
+Of course, I understand (hehe).[p]
+Well then, you can go home for today.[p]
+#Kirishima
+...[p]
+Excuse me.[p]
 #
 [_tb_end_text]
 
@@ -862,14 +897,13 @@
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Grease_Slide_Trap.mp3"  ]
 [tb_start_text mode=1 ]
 #
-よぉーーーーし！！[p]
-ついにあの桐嶋を俺様の支配下においてやったぜ！[p]
-まだあくまで監督と選手程度の上下関係だがこれまでよりは色々出来ることが増えるはずだぜ[p]
-そろそろチンポをぶちこんでやってもいいんじゃねえか？[p]
-ここまでだいぶ時間をかけたからな。いよいよあいつを犯し放題になるかと思うと楽しみで仕方がないぜ[p]
-グヒヒヒヒヒっ[p]
-・・・・・・[p]
-・・・[p]
+Alright!![p]
+I finally have that Kirishima under my control![p]
+It's still just a coach and player relationship, but I should be able to do more things than before.[p]
+Maybe it's about time I stick my dick in?[p]
+I've spent quite a bit of time getting to this point.[p]
+I can't help but feel excited at the thought of having my way with them.[p]
+Guhuhuhu...[p]
 [_tb_end_text]
 
 [tb_eval  exp="f.ss=155"  name="ss"  cmd="="  op="t"  val="155"  val_2="undefined"  ]
@@ -883,13 +917,15 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Radio.mp3"  ]
 [tb_start_text mode=1 ]
-#桐嶋
-「はぁ・・・今日も疲れたわ」[p]
-「そうだ・・・フェラチオの練習をしないといけないんだったわ・・・」[p]
-「まったく、なんで私がこんなことを・・・」[p]
-「でもいざというときに自分の身を・・・自分と相手の身を守るためにも必要な技術なのよね・・・」[p]
-「私の身体が・・・スケベすぎるから・・・ハァ・・・なんでこんな体に生まれたのかしら・・・」[p]
-「とりあえず肉山からもらったアレを・・・」[p]
+#Kirishima
+*sigh* I'm so tired today...[p]
+That's right, I need to practice fellatio...[p]
+Seriously, why do I have to do this...[p]
+But it's a necessary skill to protect myself and my partner when the time comes...[p]
+Because my body is...[p]
+too perverted...[p]
+*sigh* Why was I born with this kind of body...[p]
+Well, for now, I'll use what I got from Nikuyama...[p]
 
 [_tb_end_text]
 
@@ -898,28 +934,38 @@
 [chara_mod  name="桐嶋"  time="600"  cross="true"  storage="chara/1/game25.png"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="マダムの口紅.mp3"  ]
 [tb_start_text mode=1 ]
-#桐嶋
-「ンチュ・・・ペロペロ・・・ンムッ」[p]
-「裏筋のところを舐めるのが気持ちいいんだったわね・・・レロッレロッ・・・チュプッ」[p]
-「唇を性器のようにして・・・吸い付くように・・・ジュプッ・・・ジュポッ・・・チュバッ・・・」[p]
-「ンッ・・・なんで私がこんな練習を・・・」[p]
-「あの肉山を気持ちよくするための練習をしないといけないなんて・・・屈辱だわ」[p]
-「ジュプッ・・・ジュプッ・・・」[p]
-「・・・これって本来は・・・お、オナニーに使うものよね・・・？」[p]
-「こんな大きなモノを中に入れるの・・・本当に？」[p]
-「・・・このスイッチは何かしら？」[p]
+#Kirishima
+Nchu...[p]
+Pero pero...[p]
+Mmm, licking the back muscles feels good...[p]
+Lero lero...[p]
+Chupu, sucking on lips like they're genitals...[p]
+Sucking and slurping...[p]
+Jupu...[p]
+Jupo...[p]
+Chubba...[p]
+Nn...[p]
+Why do I have to practice something like this...[p]
+Having to practice to please that Nikuyama...[p]
+It's humiliating, jupu...[p]
+Jupu...[p]
+But isn't this originally used for...[p]
+m-masturbation?[p]
+Putting something this big inside me...[p]
+Really?...[p]
+What does this switch do?[p]
 #
-ヴィィ～～～～～～・・・ッ[p]
-#桐嶋
-「キャッ！？」[p]
-「こ、こんな動き・・・いやらしい・・・」[p]
-「こんなのを中に入れたら・・・ゴクリ」[p]
-「・・・だ、ダメよ。オナニー禁止するように言われてるんだし」[p]
-「これを使ってオナニーなんかしたことがバレたら肉山になんて言われるか・・・」[p]
-「・・・はぁ」[p]
+Viiiiiiiiiiii...[p]
+#Kirishima
+Kyaa!?[p]
+Th-this movement...[p]
+it's lewd...[p]
+If I put something like this inside...[p]
+gulp...[p]
+n-no, it's no good.[p]
+haa[p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 [_tb_end_text]
 
 [tb_image_hide  time="1000"  ]
@@ -937,21 +983,37 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="マダムの口紅.mp3"  ]
 [tb_start_text mode=1 ]
-#桐嶋
-「ン・・・ジュプッ・・・ジュプッ・・・チュパッ・・・」[p]
-「・・・もっと強く吸い付いた方がいいのかしら・・・？ズチュッ・・・チュバッ！」[p]
-「舌も同時に使わないとね・・・レロレロ・・・チュバッ・・・ジュプッ」[p]
-「・・・はぁ、明日もチンポをしゃぶらされるのかしら・・・」[p]
-「あの肉山の汗臭いチンポを口でキレイにさせられるなんて・・・屈辱だわ」[p]
-「そして精液・・・あのドロっとして喉にからみつくような・・・なんともいえない気持ちの悪い感触・・・」[p]
-「それにあの味・・・苦いような甘いような・・・キノコみたいな薬みたいな変な臭いがするし・・・」[p]
-「あれを・・・な、中に・・・出されたら・・・妊娠しちゃうわけよね・・・」[p]
-「肉山のあのチンポが中に・・・犯されて・・・孕まされて・・・完全にあいつに屈しちゃう・・・」[p]
-「・・・そんなの絶対にイヤよ！」[p]
-「・・・」[p]
-「・・・これ、あいつのと同じ大きさよね・・・」[p]
-「ちょっとだけ入れてみても・・・」[p]
-「・・・黙ってればバレないわよね・・・？」[p]
+#Kirishima
+N...[p]
+Jupu...[p]
+Jupu...[p]
+Chupa...[p]
+Should I suck harder...?[p]
+Zuchu...[p]
+Chubba![p]
+I also need to use my tongue at the same time...[p]
+Lero lero...[p]
+Chubba...[p]
+Jupu...[p]
+Haah, will I be made to suck a dick again tomorrow...[p]
+To clean that sweaty dick of Nikuyama's with my mouth...[p]
+It's humiliating, and the semen...[p]
+That sticky sensation that clings to my throat...[p]
+It's an indescribably unpleasant feeling...[p]
+And that taste...[p]
+Bitter yet sweet...[p]
+It smells strange, like a mushroom or some kind of medicine...[p]
+If he were to...[p]
+ejaculate inside me...[p]
+I would get pregnant, right?[p]
+Nikuyama's dick inside me...[p]
+Violated and impregnated...[p]
+Completely surrendering to him...[p]
+I absolutely hate that![p]
+...[p]
+This is the same size as his, right?[p]
+Just putting it in a little bit...[p]
+They won't notice if I stay quiet, right?[p]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -961,82 +1023,137 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
 #
-ヌリュッ・・・[p]
-#桐嶋
-「ンァ・・・ッ」[p]
-「お、大きい・・・っ・・・ンッ」[p]
+Nuryu...[p]
+#Kirishima
+Nn...[p]
+Ah, it's big...[p]
+ngh...[p]
+Unh...[p]
 #
-ニチュ・・・ヌリュッ・・・[p]
-#桐嶋
-「アアッ・・・きつい・・・けど・・・」[p]
-「ンッ・・・入っていく・・・ハァッ」[p]
+Nchu...[p]
+Nuryu...[p]
+#Kirishima
+Ahh...[p]
+it's tight...[p]
+but...[p]
+ngh...[p]
+haa[p]
 #
-ヌチュッ・・・ズププ・・・ッ[p]
-#桐嶋
-「ハァッ・・・全部入った・・・ンッ」[p]
-「アソコが・・・おちんちんで・・・一杯・・・ハァッ」[p]
+Nchu...[p]
+Zupupu...[p]
+#Kirishima
+Haa...[p]
+It's all in...[p]
+My crotch...[p]
+Full of...[p]
+Haa[p]
 #
-ズチュッ・・・ヌプッ・・・[p]
-#桐嶋
-「アッ・・・指と・・・全然違う・・・アヒッ♥」[p]
-「身体の・・・内側を犯されてる感じ・・・アンッ♥」[p]
+Nchu...[p]
+Zupupu...[p]
+#Kirishima
+Ahh...[p]
+It's completely different from fingers...[p]
+Ahh♥ It feels like my body's...[p]
+Ahh♥[p]
 
 #
-ズプッ・・・ヌチュッ・・・[p]
-#桐嶋
-「アッ・・・肉山の・・・チンポが・・・入ってる・・・ンッ」[p]
-「ち・・・ちがっ・・・肉山のじゃない・・・他の誰かのよっ・・・ンンッ」[p]
-「これは肉山のじゃない・・・あんなグロテスクな・・・血管の脈打った・・・臭い・・・ンハァッ」[p]
+Zuppu...[p]
+Nuchu...[p]
+#Kirishima
+Ahh...[p]
+Nikuyama's...[p]
+penis is...[p]
+inside me...[p]
+Ungh...[p]
+It's different...[p]
+It's not Nikuyama's...[p]
+It belongs to someone else...[p]
+Unngh...[p]
+This isn't Nikuyama's...[p]
+It's so grotesque...[p]
+pulsating with veins...[p]
+Unhahh[p]
 #
-ヌチュッ・・・ヌチュッ・・・[p]
-#桐嶋
-「こ・・・このスイッチ入れたら・・・どうなるのかしら・・・」[p]
-「な、中で・・・あんな動きされたら・・・」[p]
-「ンンッ・・・こ、怖いけど・・・ちょっとだけ・・・」[p]
+Squelch...[p]
+squelch...[p]
+#Kirishima
+W-What will happen if I turn on this switch...[p]
+and...[p]
+experience that kind of movement inside me...[p]
+Nngh...[p]
+It's scary, but...[p]
+just a little bit...[p]
 #
-カチッ[p]
+*Click*[p]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game250-2.jpg"  ]
 [tb_cg  id="250"  ]
 [tb_start_text mode=1 ]
 #
-ヴィ～～～～～ッ[p]
-#桐嶋
-「アヒッ！？」[p]
-「お、お腹の中で動いて・・・アンッ！・・・すごっ・・・！」[p]
-「こ、こんなの・・・アンッ！・・・我慢できない・・・身体が勝手に反応しちゃう・・・っ！」[p]
-「アッ・・・ンンッ・・・アヒーーッ♥」[p]
+Viiii~[p]
+#Kirishima
+Ahh!?[p]
+It's moving inside my stomach...[p]
+Ungh!...[p]
+Amazing...![p]
+I-I can't...[p]
+I can't endure this...[p]
+My body is reacting on its own...![p]
+Ahh...[p]
+Ahhhh♥[p]
 #
-カチッ[p]
-#桐嶋
-「ハァッ・・・ハァッ・・・」[p]
-「い、今ので最弱・・・強度を上げたらいったいどうなっちゃうのかしら・・・」[p]
-「・・・・・・」[p]
+*Click*[p]
+#Kirishima
+Haa...[p]
+Haa...[p]
+With that just now, it was the weakest...[p]
+I wonder what would happen if I increased the intensity...[p]
 #
-カチッ[p]
-ヴィ～～～～～ッ[p]
-#桐嶋
-「アッ・・・アンッ！・・・アフゥッ」[p]
-「ンンッ・・・ハァッ・・・」[p]
+*Click*[p]
+#Kirishima
+Ahh...[p]
+Ungh!...[p]
+Ahfuhnn...[p]
+Haa...[p]
 #
-ヴィ～～～～～ッ・・・[p]
-ウィ～ン・・・ウィ～～ン・・・ッ！[p]
-#桐嶋
-「アッ！？アヒッ・・・す、すごっ・・・アアンッ♥」[p]
-「アンッ・・・アンッ・・・ンフゥッ・・・アンッ♥」[p]
-「アゥッ・・・ダメェッ・・・チ、チンポに・・・イカされちゃう・・・っ♥」[p]
+Viiii~...[p]
+Wheeeen...[p]
+Viiii~...![p]
+#Kirishima
+Ahh!?[p]
+Ahh...[p]
+A-amazing...[p]
+Ahhh♥ Ahhh...[p]
+Ahhh...[p]
+Unfuhh...[p]
+Ahhh♥ Ahh...[p]
+It's not good...[p]
+I-I'm going to be made to cum by a...[p]
+♥[p]
 #
-ヴィ～～～～～ン・・・・ッ[p]
-グチュッ！ズチュッ！ヌチュッ！[p]
-#桐嶋
-「アンッ！アンッ！アンッ！」[p]
-「ダメェ・・・ッ・・・アンッ♥チンポ・・・気持ち・・・イイ・・ッ♥」[p]
-「に、肉山の・・・チンポに・・・イカされちゃうぅぅ・・・っ♥」[p]
-「アヒィ～～～～～～～ッ！！」[p]
+Viiii~...[p]
+*Squish*![p]
+*Squish*![p]
+*Slurp*![p]
+#Kirishima
+Ahh![p]
+Ahh![p]
+Ahh![p]
+No...[p]
+I can't...[p]
+Ahh♥ It feels...[p]
+good...[p]
+to...[p]
+Meaty's...[p]
+penis...[p]
+♥ I'm going to...[p]
+cum...[p]
+from Meaty's...[p]
+penis...[p]
+♥ Ahhiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii!![p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 
 
 
@@ -1050,15 +1167,19 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Radio.mp3"  ]
 [tb_start_text mode=1 ]
-#桐嶋
-「・・・はぁ・・・」[p]
-「オナニー禁止されてるのに・・・ついついバイブで楽しんじゃった。やっぱり私って淫乱なんだわ・・・」[p]
-「しかもあの大嫌いな肉山のペニスを想像しながらイっちゃうなんて・・・最悪だわ」[p]
-「わたしがこんな変態だなんて知ったら生徒たちに幻滅されるでしょうね・・・」[p]
-「・・・このことは無かったことにしましょう。肉山には絶対知られないようにしないと・・・」[p]
+#Kirishima
+...[p]
+Haa...[p]
+Even though I'm not supposed to masturbate...[p]
+I couldn't help but enjoy myself with a vibrator.[p]
+I guess I really am a nympho...[p]
+And on top of that, I climax while imagining that detestable Takeshi's penis...[p]
+It's the worst.[p]
+If the students found out that I'm such a pervert, they would be disillusioned...[p]
+Let's pretend this never happened.[p]
+I have to make sure Takeshi never finds out...[p]
 #
-・・・・・[p]
-・・・[p]
+・・・・・・・・[p]
 [_tb_end_text]
 
 [tb_image_hide  time="1000"  ]
@@ -1075,75 +1196,105 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Radio.mp3"  ]
 [tb_start_text mode=1 ]
-#桐嶋
-「あら、もうこんな時間。明日の授業の用意は・・・と」[p]
-「あっ、その前に・・・このＤＶＤ・・・」[p]
-「肉山に渡されたこれ・・・いわゆるアダルトビデオってやつよね。これ今日中に観なきゃいけないのよね・・・。別に観たくないけど仕方が無いわ」[p]
-「いったいどんなのかしら・・・ドキドキ」[p]
+#Kirishima
+Oh, it's already this late.[p]
+I still need to prepare for tomorrow's class...[p]
+Oh, but before that...[p]
+this DVD...[p]
+Takeshi gave it to me...[p]
+it's what they call an adult video, right?[p]
+I have to watch it today...[p]
+even though I don't really want to.[p]
+I wonder what kind of video it is...[p]
+I'm getting nervous.[p]
 [_tb_end_text]
 
 [stopbgm  time="1000"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="マダムの口紅.mp3"  ]
 [tb_start_text mode=1 ]
 #
-・・・[p]
-・・・・・・[p]
-お名前をお願いします[p]
-『乳川亜季です。よろしくお願いします』[p]
-#桐嶋
-「インタビュから始まるのね。・・・すごくきれいな人だわ。こんなきれいな人がアダルト女優をやってるのね・・・」[p]
+Name please...[p]
+'I'm Aki Chichikawa.[p]
+'[p]
+#Kirishima
+So it starts with an interview...[p]
+They're really beautiful.[p]
+It's surprising that someone so beautiful is doing adult actress work...[p]
 #
-スリーサイズをお願いします[p]
-『上から１０４・６２・９３です』[p]
-#桐嶋
-「え・・・わたしと同じくらいだわ」[p]
+Please provide your measurements.[p]
+'[p]
+#Kirishima
+Eh...[p]
+It's about the same as me.[p]
 #
-なぜ出演しようと思ったんですか？[p]
-『えーと・・・セックスが大好きだからです』[p]
-初体験は？[p]
-『１９歳です』[p]
-相手は？[p]
-『大学のサークルの先輩です』[p]
-詳しく教えてください[p]
-『えーと、すごくチャラくて嫌いな先輩だったんですけど、二人っきりになったときに無理やりキスされて・・・』[p]
-『逃げようと思ったんですけど力も強くて逃げられなくて・・・そのまま服を引きちぎられて・・・奪われました』[p]
-#桐嶋
-「え・・・それってレ、レイプじゃないの・・・！」[p]
+Why did you decide to appear in this?[p]
+Um...[p]
+because I love sex.[p]
+What was your first experience like?[p]
+I was 19 years old.[p]
+Who was your partner?[p]
+It was a senior from my university club.[p]
+Can you tell me more details?[p]
+Um, they were a really sleazy senior that I disliked, but when we were alone, they forcefully kissed me...[p]
+I wanted to escape, but their strength was too strong and I couldn't get away...[p]
+They tore off my clothes and took advantage of me.[p]
+#Kirishima
+Eh...[p]
+Isn't that...[p]
+rape...?![p]
 #
-怖かったですか？[p]
-『最初は泣いて喚いてたんですけど、その先輩すごく上手くて・・・２回、３回と犯されるうちにだんだん気持ちよくなってきて・・・結局一晩中みっちりとおチンチンで調教されちゃいました』[p]
-チンポの虜になっちゃった？[p]
-『はい、セックスってこんなに気持ちのいいものなんだ・・・って』[p]
-その後その先輩とは？[p]
-『その後も何度も犯されました。先輩には彼女がいたんですけどセフレにしてやるって言われて・・・大嫌いだったんですけど先輩のおチンポ無しではもう生きていけなくて・・・セフレになりました』[p]
-#桐嶋
-「え・・・レイプされた相手のセフレになるって・・・そんなのどうかしてるわ！」[p]
+Kirishima: Were you scared?[p]
+At first, I was crying and screaming, but that senior was really skilled...[p]
+As they violated me two or three times, I gradually started to feel pleasure...[p]
+In the end, I was thoroughly trained with their penis all night long.[p]
+Did you become addicted to their cock?[p]
+Yes, I realized that sex can feel this good...[p]
+What happened with that senior afterwards?[p]
+Even after that, I was violated by them many times.[p]
+They had a girlfriend, but they told me they would make me their fuck buddy...[p]
+I hated them so much, but I couldn't live without their penis anymore...[p]
+[p]
+#Kirishima
+Eh...[p]
+Becoming a fuck buddy with the person who raped you...[p]
+That's just messed up![p]
 #
-彼氏は作らなかったんですか？[p]
-『何人か好きだって言ってくれる人は居たんですけど・・・先輩に男を作ったら捨てるぞって言われてたので断りました』[p]
-大学時代はずっとその先輩の肉便器だったんですね？[p]
-『はい。先輩がヤりたい時に呼び出されて性処理に使われるって感じでしたね』[p]
-『真夜中に呼び出されて乱暴に犯されてすぐに放り出されたりすることもしょっちゅうでした。シャワーも浴びさせてもらえませんでした』[p]
-『学校のトイレでもよくフェラさせられました。授業中とかにも呼び出しがあって、遅れたりするとお仕置きされました』[p]
-#桐嶋
-「なんて酷い男なの・・・！そんな男の言いなりになるなんて」[p]
-「私だったら絶対に警察に突き出してやるのに・・・！」[p]
+Kirishima: Did you not have a boyfriend?[p]
+There were some people who said they liked me, but...[p]
+I refused because my senior told me that if I got a boyfriend, they would abandon me.[p]
+So during your university days, you were just a sex toy for that senior?[p]
+Yes.[p]
+I was called upon by my senior whenever they wanted to have sex, and I was used for their sexual needs.[p]
+I would often be called in the middle of the night, forcefully violated, and then immediately thrown away.[p]
+I wasn't even allowed to take a shower.[p]
+I was also frequently forced to give oral sex in the school restroom.[p]
+[p]
+#Kirishima
+What a terrible man...![p]
+If it were me, I would definitely turn him over to the police for being obedient to such a man...![p]
 #
-縁を切ろうと思わなかったんですか？[p]
-『何度も思いました。でもおチンポには逆らえなくて・・・女はおチンポの前では無力ですから』[p]
-#桐嶋
-「そ、そんなにすごいの・・・？チンポって・・・」[p]
-「私も肉山に犯されたらそうなっちゃうのかしら・・・・・・いや、そんなはずがないわ！誰があんな男に・・・」[p]
+Did you not think about cutting ties with them?[p]
+'I thought about it many times.[p]
+But I couldn't resist their penis...[p]
+'[p]
+#Kirishima
+I-Is it really that amazing...?[p]
+The penis...[p]
+If I were violated by Nikuyama, would I end up like that too...?[p]
+No, there's no way![p]
+Who would end up like that with such a man...[p]
 #
-その後その先輩とはどうなりましたか？[p]
-『先輩が卒業して関係は終りました。その後何人かお付き合いしてセックスもしたんですけど、先輩の時ほど良くなくって』[p]
-『それで今回スカウトされて・・・AV男優さんならセックスも上手かなと思って出演をOKしました』[p]
-今回お相手させていただくチョモランマ内藤です。よろしくお願いします[p]
-『あ、よろしくお願いします』[p]
-それではさっそく・・・[p]
-『あっ・・・』[p]
-・・・・・・[p]
-・・・[p]
+What happened with that senior afterwards?[p]
+After the senior graduated, our relationship ended.[p]
+After that, I dated and had sex with a few other people, but it wasn't as good as it was with the senior.[p]
+And then I was scouted for this...[p]
+I thought that if it was an AV actor, they would be good at sex, so I agreed to appear.[p]
+This time, I will be your partner, Chomolungma Naito.[p]
+Nice to meet you.[p]
+Ah, nice to meet you too.[p]
+Well then, let's get started...[p]
+Ah...[p]
+[p]
 
 [_tb_end_text]
 
@@ -1153,39 +1304,66 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
 #
-ズパン！ズパン！ズパンッ！[p]
-『アンッ♥アンッ♥アンッ♥アンッ♥』[p]
-バチン！バチン！バチンッ！[p]
-『アヒィッ♥アァッ・・イイィッ♥気持ちィイィィ－－ッ♥♥』[p]
-#桐嶋
-「ゴクリ・・・す、すごい・・・あんなに・・・」[p]
-「まるで獣だわ・・・あんな上品そうな人が・・・」[p]
-「あんな大きいのが出たり入ったり・・・肉山のと同じくらいかしら・・・？」[p]
+*Thrust![p]
+Thrust![p]
+Thrust![p]
+* Ahn♥ Ahn♥ Ahn♥ Ahn♥ *Slap![p]
+Slap![p]
+Slap![p]
+Iiittt♥ Feels so goooooddd♥♥[p]
+#Kirishima
+*Gulp*...[p]
+I-It's amazing...[p]
+like a beast...[p]
+That refined person...[p]
+with something so big going in and out...[p]
+Is it as big as Nikuyama's...?[p]
 #
-パンッ！パンッ！パンッ！[p]
-『アヒィィーー♥♥イクぅー－－－－♥イッちゃうーーーーーッ♥♥』[p]
-#桐嶋
-「あぁ・・・そんなに気持ちいいのかしら・・・本物のセックスって・・・」[p]
-「ハァ・・・興奮してきちゃった・・・アァ・・・」[p]
-「せ、せっかくだから今日の分のオナニーをしちゃいましょう・・・」[p]
-「ンッ・・・ハァッ♥」[p]
+*Smack![p]
+Smack![p]
+* Ahhhhhh♥♥ I'm cummingggggg♥♥[p]
+#Kirishima
+Ah...[p]
+I wonder if it feels that good...[p]
+Real sex...[p]
+Haah...[p]
+It's getting me excited...[p]
+Ah...[p]
+S-Since we're already here, let's masturbate for today...[p]
+Haa♥[p]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game250-2.jpg"  ]
 [tb_start_text mode=1 ]
-#桐嶋
-「ンッ・・・ハァッ・・・アンッ♥」[p]
-「わたしも・・・あんな風に・・・ンンッ・・・男のたくましい身体に組み敷かれて・・・」[p]
-「あぁ・・・ッ・・・汚らわしいチンポで・・・犯されて・・・ンンッ♥」[p]
-「アンッ♥・・・乱暴に突かれて・・・アヒッ・・・無茶苦茶に・・・イイッ♥」[p]
+#Kirishima
+Nn...[p]
+Haah...[p]
+Ahn♥ I also...[p]
+want to be...[p]
+like that...[p]
+Nnn...[p]
+Dominated by a strong man's body...[p]
+Ahh...[p]
+With a filthy cock...[p]
+violated...[p]
+Nnn♥ Ahn♥ ...[p]
+roughly thrusting...[p]
+Ahii...[p]
+Feels so goood♥[p]
 #
-ジュプッ・・・ジュポッ・・・[p]
-#桐嶋
-「アフぅんッ♥・・・アンッ・・・イ、イイ・・・ッ♥」[p]
-「イ、イクぅー－－－ッ・・・アァ・・・アーーーーッ♥♥」[p]
+*Suck...[p]
+*[p]
+#Kirishima
+Ahh...[p]
+ungh♥...[p]
+ahn...[p]
+it feels...[p]
+so good♥ I-I'm...[p]
+g-gonna...[p]
+cuuummmm...[p]
+aaahhhhh♥♥[p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 [_tb_end_text]
 
 [stopbgm  time="1000"  ]
@@ -1195,96 +1373,126 @@
 
 [tb_start_text mode=1 ]
 #
-ふう、やっと授業が終わったぜ[p]
-桐嶋の様子を見に行きたかったが今日に限って授業を抜け出せなかった・・・まぁそれが当たり前なんだが[p]
-まぁいい、本番はここからだ。桐嶋の奴２時間バイブ挿したままで授業してどうなってるかな？ククク[p]
-もうすぐここに来るはずだ・・・お、来たか？[p]
+Phew, I finally finished class.[p]
+I wanted to go see how Kirishima was doing, but of all days, I couldn't skip class today...[p]
+Well, that's to be expected, but oh well, the real show starts now.[p]
+I wonder what happened to Kirishima while teaching with a vibrator inserted for two hours?[p]
+Hehehe, they should be coming here soon...[p]
+[p]
 [_tb_end_text]
 
 [stopbgm  time="1000"  fadeout="true"  ]
 [chara_show  name="桐嶋"  time="1000"  wait="true"  storage="chara/1/game23.png"  width="361"  height="850"  left="453"  top="18"  reflect="false"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Grease_Slide_Trap.mp3"  ]
 [tb_start_text mode=1 ]
-#桐嶋
-「ハァッ・・・ハァッ・・・」[p]
-#肉山
-「おや、お疲れ様。どうでしたか矯正帯の具合は？」[p]
-#桐嶋
-「・・・は、はやく外させてください・・・っ」[p]
-#肉山
-「ククク、その様子だとだいぶキツかったようですね。授業はちゃんとできたんですか？途中で抜け出してトイレでオナニーなんかしなかったでしょうね」[p]
-#桐嶋
-「し、してません・・・っ・・・アフウッ・・・も、もう外していいですか・・・っ？」[p]
-#肉山
-「ムフフ、まぁいいでしょう」[p]
-#桐嶋
-「ハァッ・・・ンッ・・・」[p]
-カチャカチャ[p]
-ズズ・・・ヌポンッ[p]
-「アヒッ♥」[p]
+#Kirishima
+*Haa...[p]
+*[p]
+#Nikuyama
+Oh, welcome back.[p]
+How was the condition of the correction belt?[p]
+#Kirishima
+...[p]
+Please take it off quickly...[p]
+#Nikuyama
+Hehehe, it seems like it was quite tough for you.[p]
+Were you able to teach the class properly?[p]
+I hope you didn't sneak out in the middle and masturbate in the bathroom or anything like that.[p]
+#Kirishima
+I-I haven't...[p]
+ahh...[p]
+can you please take it off...?[p]
+#Nikuyama
+Mufufu, well, it's fine, isn't it?[p]
+#Kirishima
+*Haa...[p]
+ngh...[p]
+click clack...[p]
+ahh♥*[p]
 
 [_tb_end_text]
 
 [tb_image_show  time="1000"  storage="default/game132.jpg"  width="386"  height="328"  x="436"  y="244"  _clickable_img=""  name="img_264"  ]
 [tb_start_text mode=1 ]
-#肉山
-「おわっ！ビチョビチョだなっ！よっぽど気持ちよかったんですね。本気汁まで混じってますよ、ムヒヒヒ」[p]
-「クンクン・・・うわっ、すごい匂いだ。さすがドスケベ女が２時間も穿いてただけはある」[p]
-#桐嶋
-「く・・・パ、パンティを返してください・・・っ」[p]
-#肉山
-「あぁ、忘れてました。はい、どうぞ」[p]
-#桐嶋
-「・・・・・・」[p]
+#Nikuyama
+Oh![p]
+You're all wet![p]
+It must have felt really good.[p]
+Even your love juices are mixed in, mufufu...[p]
+Wow, it smells amazing.[p]
+As expected of a horny girl who wore it for two hours.[p]
+#Kirishima
+P-Please...[p]
+give me back my panties...[p]
+#Nikuyama
+Ah, I forgot.[p]
+Here, please take it.[p]
+#Kirishima
+・・・・・・[p]
 
 [_tb_end_text]
 
 [tb_image_hide  time="1000"  ]
 [tb_start_text mode=1 ]
-#肉山
-「この矯正治療は定期的にやっていきますので」[p]
-#桐嶋
-「えっ！？ま、またやるんですか・・・！？」[p]
-#肉山
-「もちろんです。これを着けても平気で振舞えるくらいにならないと危険ですからね」[p]
-#桐嶋
-「そ、そんな・・・」[p]
-#肉山
-「まぁ本物のチンポを使った性交治療の方が効果は高いんですがねぇ」[p]
-#桐嶋
-「せ、性交治療・・・本物のペニス・・・・」[p]
-「そ、それをすればこの矯正具による治療はしなくてもいいんですか・・・？」[p]
-#肉山
-「そうですね。淫乱症にはなにより本物のチンポによる矯正が一番ですからねぇ」[p]
-「私としてもそちらをお勧めしますよ、ムヒヒヒ」[p]
+#Nikuyama
+We will continue with this corrective treatment on a regular basis.[p]
+#Kirishima
+Eh!?[p]
+A-Are we doing it again...!?[p]
+#Nikuyama
+Of course.[p]
+It's dangerous if you can't behave properly even while wearing this.[p]
+#Kirishima
+S-So, that's...[p]
+#Nikuyama
+Well, using a real penis for sexual therapy is more effective, you know.[p]
+#Kirishima
+S-Sexual therapy...[p]
+with a real penis...[p]
+I-If we do that, would I not need this corrective device for treatment...?[p]
+#Nikuyama
+That's right.[p]
+For nymphomania, correction with a real penis is the best, so I would recommend that to you.[p]
+Muhihihi.[p]
 [_tb_end_text]
 
 [chara_mod  name="桐嶋"  time="600"  cross="true"  storage="chara/1/game13.png"  ]
 [tb_start_text mode=1 ]
-#桐嶋
-「く・・・あ、あなたが下心でそう勧めてるだけじゃないんですか？」[p]
-#肉山
-「まさか、あくまで治療としての行為ですよ。スケベな心なんて全くありません」[p]
-#桐嶋
-「・・・・・・」[p]
-#肉山
-「どうします？よかったら今からでも治療を始めますか？バイブで長時間責められて本物のチンポが欲しくなってるでしょう」[p]
-#桐嶋
-「え・・・それは・・・」[p]
-「・・・け、結構です！。あなたのペニスなんて・・・」[p]
-#肉山
-「そうですか？無理強いはしませんけどね」[p]
-（チッ、しぶといな。あと一押しだと思うんだが・・・）[p]
-#桐嶋
-「それでは私はこれで・・・」[p]
-#肉山
-「ああ、ちょっと待ってください。せっかくだから今の状態を一通り検査しておきましょう」[p]
-#桐嶋
-「検査・・・？」[p]
-#肉山
-「なに、いつもやってる通常の検査ですよ。矯正具による影響がどの程度出ているかチェックするだけです」[p]
-#桐嶋
-「はぁ・・・わかりました。早く済ませてください」[p]
+#Kirishima
+Are you...[p]
+suggesting this just because you have ulterior motives?[p]
+#Nikuyama
+No, it's purely an act for treatment.[p]
+I don't have any perverted intentions at all.[p]
+#Kirishima
+・・・・・・[p]
+#Nikuyama
+What will you do?[p]
+If you'd like, we can start the treatment right now.[p]
+After being teased for a long time with a vibrator, you must be craving a real cock, right?[p]
+#Kirishima
+Eh...[p]
+That's...[p]
+I-I'm fine![p]
+I don't need your penis...[p]
+#Nikuyama
+Is that so?[p]
+I won't force you (Tch, they're stubborn.[p]
+)[p]
+#Kirishima
+In that case, I will...[p]
+#Nikuyama
+Ah, please wait a moment.[p]
+Since we're here, let's thoroughly examine your current condition.[p]
+#Kirishima
+Examination...?[p]
+#Nikuyama
+What, it's just the usual examination that we always do.[p]
+We're just checking how much the correction device is affecting you.[p]
+#Kirishima
+Sigh...[p]
+I understand.[p]
+Please finish it quickly.[p]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -1294,119 +1502,183 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="マダムの口紅.mp3"  ]
 [tb_start_text mode=1 ]
-#桐嶋
-「ン・・・チュバッ・・・レロッ・・・ンムッ」[p]
-#肉山
-「ウヒヒヒ、ムチューーッ・・・ベロンベロン」[p]
-#桐嶋
-「アムッ・・・チュムッ・・・ンンッ♥」[p]
-#肉山
-（ククク、いつもより大胆に舌を絡ませてきやがるぜ）[p]
-#桐嶋
-「ンムッ・・・チュバッ・・・レロレロレロ・・・アフゥッ♥」[p]
-「ンチュゥ・・・ッ・・・ンハァッ♥・・・ま、まだ続けるんですか・・・アンッ」[p]
-#肉山
-「まだまだ・・・じっくりと時間をかけて調べないと・・・ムチュゥ」[p]
-#桐嶋
-「アァンッ・・・ンムゥ・・・レロレロッ・・・チュバッ♥」[p]
+#Kirishima
+N...[p]
+Chu...[p]
+Ba...[p]
+Lero...[p]
+Nmu...[p]
+#Nikuyama
+*lick*[p]
+#Kirishima
+Ahh...[p]
+*lick*♥[p]
+#Nikuyama
+(Hehehe, they're intertwining their tongue more boldly than usual)[p]
+#Kirishima
+Mmm...[p]
+Chu...[p]
+Lick, lick, lick...[p]
+Ahh♥ Nchu...[p]
+Hngh...[p]
+Nhaa♥ Are you...[p]
+Ahn[p]
+#Nikuyama
+Not yet...[p]
+*smooch*[p]
+#Kirishima
+Ahh...[p]
+Nngh...[p]
+Chu ba♥[p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
 [bg  time="1000"  method="crossfade"  storage="game135-2.jpg"  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
-#桐嶋
-「アンッ・・・ハァッ・・・ンフゥッ♥」[p]
+#Kirishima
+Ahh...[p]
+Hngh♥[p]
 #
-モミモミモミモミ・・・[p]
-#桐嶋
-「アッ・・・フゥ・・・ッゥン・・・ヤッ♥」[p]
+Squeeze, squeeze, squeeze, squeeze...[p]
+#Kirishima
+Ahh...[p]
+Fuu...[p]
+Yah♥[p]
 #
-モミモミモミモミ・・・[p]
-#桐嶋
-「アフゥッ・・・も、もういいでしょう・・・アアンッ♥」[p]
-#肉山
-「まだまだ。昼休憩と違って時間がありますからね。みっちりと揉みこんでやらないと、ムフフフ」[p]
+Squeeze, squeeze, squeeze, squeeze...[p]
+#Kirishima
+Ahh...[p]
+Aaah♥[p]
+#Nikuyama
+Not yet.[p]
+Unlike during lunch break, we have plenty of time.[p]
+I need to thoroughly knead and massage you, hehehe.[p]
 #
-モミュモミュモミュモミュ・・・[p]
-#桐嶋
-「アァッ・・・ンンッ・・・ハァンッ♥」[p]
-#肉山
-「ほら、乳首もこんなにコリコリに固くなって」[p]
+Squeeze, squeeze, squeeze, squeeze...[p]
+#Kirishima
+Ahh...[p]
+Haa♥[p]
+#Nikuyama
+Look, even your nipples have become so hard and stiff like this.[p]
 #
-クリクリクリクリッ[p]
-#桐嶋
-「アァンッ♥・・・だ、ダメェ・・・ッ・・・アンッ♥お、おかしくなっちゃう・・・んっ♥」[p]
+Squeeze, squeeze, squeeze, squeeze...[p]
+#Kirishima
+Ahh...[p]
+No...[p]
+Stop...[p]
+Ahh...[p]
+Ngh♥[p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
 [bg  time="1000"  method="crossfade"  storage="game150-2.jpg"  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
-#桐嶋
-「ン・・・チュ・・・ペロペロ・・・」[p]
-#肉山
-「どうです、ずっとバイブを入れてたんで本物のチンポが欲しかったところでしょう、ムフフフ」[p]
-#桐嶋
-「レロレロッ・・・そ、そんなわけ・・・チュムッ・・・ないでしょう・・・チュバッ♥」[p]
-#肉山
-「好きなだけ舐めていいですからね」[p]
-#桐嶋
-「く・・・レロレロッ・・・さっさと終わらせます・・・っ・・・ハムッ♥」[p]
+#Kirishima
+N...[p]
+Chu...[p]
+Lick, lick...[p]
+#Nikuyama
+How about it?[p]
+You've been wanting a real cock while I've been using a vibrator on you, haven't you?[p]
+Mufufu.[p]
+#Kirishima
+Lick, lick...[p]
+Th-there's no way...[p]
+Chu...[p]
+that would happen...[p]
+Chu...[p]
+Chu♥[p]
+#Nikuyama
+You can lick as much as you like, you know.[p]
+#Kirishima
+Kuh...[p]
+Lick, lick...[p]
+Let's finish this quickly...[p]
+♥[p]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game150-5.jpg"  ]
 [tb_start_text mode=1 ]
-#桐嶋
-「ジュポッ！ジュポッ！ジュポッ！」[p]
-#肉山
-「おぉぅ・・・そんなにむしゃぶりついて。よっぽどチンポに飢えていたんですねぇ」[p]
-#桐嶋
-「ジュプッ！ンムッ・・・ち、違います・・・っ！早く終わらせたいだけです・・・アムッ・・・チュバッ♥」[p]
-「ジュポッ！ジュプッ！ジュプッ！」[p]
-・・・・・・[p]
-・・・[p]
+#Kirishima
+Suck![p]
+Suck![p]
+Suck![p]
+#Nikuyama
+Oh...[p]
+you're sucking so eagerly.[p]
+You must have been really hungry for a cock.[p]
+#Kirishima
+Suck![p]
+Mmm...[p]
+N-no...[p]
+That's not it...[p]
+I just want to finish quickly...[p]
+Mmm...[p]
+Kiss...[p]
+Suck![p]
+Suck![p]
+Suck![p]
+...[p]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
-#桐嶋
-「ジュプッ！ジュプッ！ジュプッ！ジュプッ！」[p]
-#肉山
-「ンホォッ・・・そろそろ出ますよっ。ほらたっぷりと飲んで・・・！」[p]
+#Kirishima
+Suck![p]
+Suck![p]
+Suck![p]
+Suck![p]
+#Nikuyama
+Nhooh...[p]
+I'm about to cum.[p]
+Come on, drink it all...![p]
 #
-ドピュピュピュ！[p]
-#桐嶋
-「ンムッ！？・・・ンンー－ッ！」[p]
+Dopyupyupyu![p]
+#Kirishima
+Mmm!?...[p]
+Nnngghh![p]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game154-4.jpg"  ]
 [tb_start_text mode=1 ]
-#桐嶋
-「ン・・・ゴクッ・・・ゴクッ♥」[p]
-#肉山
-「オゥフ・・・出た出た」[p]
-「ほらしっかりと最後まで吸い出して。一滴残らず飲んでくださいね」[p]
-#桐嶋
-「ンッ・・・チュゥ・・・ゴクッ♥」[p]
-「ジュルッ・・・ゴクッ・・・チュゥ・・・ゴクンッ♥」[p]
-「ン・・・チュポンッ・・・ハァッ・・・アフゥッ♥」[p]
-#肉山
-「どうです、私の特濃ザーメンは。美味しかったですか？」[p]
-#桐嶋
-「ハァッ・・・お、おいしいわけ・・・ないでしょう・・・ンフゥ」[p]
-#肉山
-「そうですか？フフフ、それじゃ次の検査に移りましょうか」[p]
-#桐嶋
-「ま、まだやるんですか・・・」[p]
+#Kirishima
+N...[p]
+gulp♥[p]
+#Nikuyama
+Oh...[p]
+I'm cumming, I'm cumming.[p]
+Make sure to suck it all out until the end.[p]
+Drink every last drop, okay?[p]
+#Kirishima
+Nn...[p]
+Chu...[p]
+Gulp♥ Slurp...[p]
+Gulp...[p]
+Chu...[p]
+Gulp♥ N...[p]
+Chupon...[p]
+Afu♥[p]
+#Nikuyama
+How was my thick, creamy semen?[p]
+Did you find it delicious?[p]
+#Kirishima
+Haa...[p]
+It's not like...[p]
+it's delicious or anything...[p]
+Nfuh.[p]
+#Nikuyama
+Is that so?[p]
+Hehehe, then shall we move on to the next examination?[p]
+#Kirishima
+A-Are we still going to continue...?[p]
 
 [_tb_end_text]
 
@@ -1414,74 +1686,92 @@
 [bg  time="1000"  method="crossfade"  storage="game147-2.jpg"  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
-#肉山
-「そうそう・・・手コキももはや慣れたものですな」[p]
-#桐嶋
-「さっき出したばかりなのに・・・こんなに・・・」[p]
-#肉山
-「ムフフフ、カチカチでしょう？軟弱な男ならこうはいきませんよ」[p]
-「私ぐらい強いオスになると連続で4発5発は軽いもんです」[p]
-#桐嶋
-「そ、そんなこと自慢になりません・・・っ」[p]
-#肉山
-「なぜです？生殖能力は男の重要な機能でしょう。これを自慢しなくてどうするんですか」[p]
-#桐嶋
-「そ、それは・・・そうですが・・・」[p]
-#肉山
-「大きくてタフなチンポを持っているということはそれだけ女を悦ばせることができるということですからね」[p]
-#桐嶋
-「お、女を悦ばせる・・・ゴクリ」[p]
-#肉山
-「実際私のチンポを味わった女は病みつきになってなかなか私から離れられなくなるんですよ、ムフフフ」[p]
-#桐嶋
-「病みつきに・・・そ、そんなこと知りません・・・っ」[p]
-#肉山
-「桐嶋先生のようなドスケベな女は一発で虜になってしまうでしょうねぇ」[p]
-#桐嶋
-「だ、だれが・・・っ！私は肉欲に溺れたりはしません・・・！」[p]
-#肉山
-「ほほぉそれなら一度性交治療を試してみればいいじゃないですか、どうです？」[p]
-#桐嶋
-「そ、それは・・・」[p]
-#肉山
-「そもそもセックスを楽しむのは何も悪いことじゃないですからね」[p]
-#桐嶋
-「えっ・・・」[p]
-#肉山
-「逆に桐嶋先生のような人一倍性欲の強い体質の人間が無理に我慢するほうが危険です」[p]
-「どこかで欲求不満が爆発して未成年や既婚者と性交に及んでしまうかもしれませんからね」[p]
-#桐嶋
-「う・・・」[p]
-#肉山
-「適度な性交でガス抜きをして精神を安定させるのが一番大事なんです」[p]
-「快楽に溺れない自信があるならなおさら性交治療をするべきですよ」[p]
-（ここでもう一押し！）[p]
+#Nikuyama
+Yeah, handjobs are already something I'm used to.[p]
+#Kirishima
+Even though you just came earlier...[p]
+it's already like this...[p]
+#Nikuyama
+Mufufu, it's hard, isn't it?[p]
+If you're a weak man, you won't be able to handle it like this.[p]
+When you become as strong as me, 4 or 5 consecutive shots are nothing.[p]
+#Kirishima
+Th-That's nothing to brag about...[p]
+#Nikuyama
+Why?[p]
+Reproductive ability is an important function for men, isn't it?[p]
+What's the point if I can't brag about it?[p]
+#Kirishima
+W-Well...[p]
+that's true...[p]
+#Nikuyama
+Having a big and tough dick means that I can please women more.[p]
+#Kirishima
+Oh, to please a woman...[p]
+gulp.[p]
+#Nikuyama
+Actually, women who have tasted my dick become addicted and can't easily leave me, mufufu.[p]
+#Kirishima
+Addicted...[p]
+I-I don't know anything about that...[p]
+#Nikuyama
+A lewd woman like Kirishima-sensei would easily become captivated with just one shot, don't you think?[p]
+#Kirishima
+W-Who...![p]
+I won't indulge in carnal desires...![p]
+#Nikuyama
+Oh, if that's the case, why don't you try sexual therapy once?[p]
+How about it?[p]
+#Kirishima
+Th-That's...[p]
+#Nikuyama
+In the first place, there's nothing wrong with enjoying sex.[p]
+#Kirishima
+Huh...[p]
+#Nikuyama
+On the contrary, it's more dangerous for someone like Kirishima-sensei, who has an exceptionally strong sexual desire, to forcibly suppress it.[p]
+There's a possibility that their pent-up frustration might explode and lead them to engage in sexual intercourse with minors or married individuals.[p]
+#Kirishima
+Ugh...[p]
+#Nikuyama
+The most important thing is to release the tension and stabilize the mind through moderate sexual intercourse.[p]
+If you're confident that you won't drown in pleasure, then you should definitely consider sexual therapy.[p]
+)[p]
 [_tb_end_text]
 
 [tb_image_show  time="1000"  storage="default/game200.png"  width="355"  height="315"  x="491"  y="249"  _clickable_img=""  name="img_296"  ]
 [tb_image_hide  time="1000"  ]
 [tb_start_text mode=1 ]
-#桐嶋
-「た、たしかにそうかもしれません・・・が・・・」[p]
-#肉山
-（よし、いける！）[p]
-「とりあえず一回試してみましょう。いやならやめればいいんですから。ね」[p]
-#桐嶋
-「う・・・」[p]
-「も、もう一度確認しますけど、個人的な下心はないんですね？」[p]
-#肉山
-「もちろんですよ。単なる治療行為です」[p]
-「オナニーと同じですよ。私のチンポと思わずにバイブよりちょっと気持ちいい生バイブだと思えばいいんです」[p]
-#桐嶋
-「な、生バイブ・・・ゴクリ」[p]
-#肉山
-「さぁ、性交治療で淫乱症を克服しましょう」[p]
-#桐嶋
-「わ・・・わかりました」[p]
-#肉山
-（やった！ついにOKさせたぞ！）[p]
-（ついに・・・ついに桐嶋香織にチンポをぶちこめるんだ！）[p]
-「それじゃ早速始めましょうか。服を脱いでそこのソファの方に・・・」[p]
+#Kirishima
+Y-Yes, that might be true...[p]
+but...[p]
+#Nikuyama
+(Alright, I can do this![p]
+) Let's give it a try at least once.[p]
+If you don't like it, you can always stop.[p]
+Right?[p]
+#Kirishima
+Ugh...[p]
+Just to confirm once again, you don't have any personal ulterior motives, right?[p]
+#Nikuyama
+Of course.[p]
+It's just a therapeutic act, like masturbation.[p]
+You should think of it as a slightly more pleasurable live vibrator, rather than my penis.[p]
+#Kirishima
+A live vibrator...[p]
+gulp.[p]
+#Nikuyama
+Now, let's overcome nymphomania through sexual therapy.[p]
+#Kirishima
+Ugh...[p]
+I understand.[p]
+#Nikuyama
+(Yes![p]
+I finally got the OK![p]
+) (Finally...[p]
+finally, I can thrust my penis into Kaori Kirishima![p]
+) Well then, let's get started right away.[p]
+Take off your clothes and head over to that sofa over there...[p]
 
 [_tb_end_text]
 
@@ -1491,316 +1781,511 @@
 [mask_off  time="2000"  effect="fadeOut"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="music57.mp3"  ]
 [tb_start_text mode=1 ]
-#肉山
-「もっと股を開いて・・・そうそう」[p]
-#桐嶋
-「な、なんでこんな格好を・・・」[p]
-#肉山
-「あぁ、これが性交治療の正しい姿勢なんですよ」[p]
-「無理やりではなく、患者本人が自分の意志でチンポを受け入れます、ということを明確にするためのポーズです」[p]
-#桐嶋
-「く・・・」[p]
-#肉山
-「それじゃいよいよ私のチンポを挿入しますよ。覚悟はいいですか？」[p]
-#桐嶋
-「ちょ、ちょっと待ってください。ゴムを着けてないじゃないですか！」[p]
-#肉山
-「何を言ってるんです。ゴムなんか付けたら性交治療にならないじゃないですか」[p]
-#桐嶋
-「えっ・・・でも、それじゃ・・・妊娠の危険が・・・」[p]
-#肉山
-「もちろん外に射精しますよ。私だってこんなドスケベ女と子作りしたいわけじゃないですからね」[p]
-#桐嶋
-「く・・・ぜ、絶対に中に出さないでくださいよ・・・！」[p]
-#肉山
-「わかってますよ。それより気持ち良すぎて私のチンポの虜にならないように気を付けてくださいよ」[p]
+#Nikuyama
+Open your legs wider...[p]
+Yes, that's it.[p]
+#Kirishima
+W-Why do I have to dress like this...[p]
+#Nikuyama
+Ah, this is the correct posture for sexual therapy.[p]
+It's not forced, but rather a pose to clearly establish that the patient willingly accepts the penis.[p]
+#Kirishima
+Ugh...[p]
+#Nikuyama
+Well then, I'm finally going to insert my penis.[p]
+Are you ready?[p]
+#Kirishima
+W-Wait a minute.[p]
+You're not wearing a condom![p]
+#Nikuyama
+What are you saying?[p]
+If I were to wear a condom, it wouldn't be sexual therapy, right?[p]
+#Kirishima
+Eh...[p]
+But, if that's the case...[p]
+there's a risk of pregnancy...[p]
+#Nikuyama
+Of course, I'll ejaculate outside.[p]
+I don't have any intention of making a baby with such a perverted woman.[p]
+#Kirishima
+P-Please...[p]
+absolutely don't cum inside me...![p]
+#Nikuyama
+I understand.[p]
+But please be careful not to become captivated by my cock because it feels too good.[p]
 #
-ペチペチ[p]
-#桐嶋
-「わ、わかってます！ペニスで・・・叩かないでください・・・っ」[p]
-#肉山
-「ずっとバイブを入れてたからもうグチョグチョのホカホカに仕上がってますね。前戯の必要はなさそうだ。ムヒヒヒ」[p]
-「それじゃ挿入しますよ」[p]
-#桐嶋
-「アッ・・・ンッ！？」[p]
+Pat pat[p]
+#Kirishima
+I-I understand![p]
+Please...[p]
+don't hit me with your penis...[p]
+#Nikuyama
+Since I've been using a vibrator for a while, it's already warm and wet down there.[p]
+It seems like there's no need for foreplay.[p]
+Hehehe, then I'll insert it.[p]
+#Kirishima
+Ah...[p]
+ngh!?[p]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game253-3.jpg"  ]
 [tb_start_text mode=1 ]
 #
-ズプッ！！[p]
-#桐嶋
-「アヒィ・・・ッ！？」[p]
-#肉山
-「んむぅ・・・グヒッ！」[p]
-（やった・・・！ついに桐嶋にチンポを突っ込んでやったぜ！しかも強姦じゃなく合意の上でな！！）[p]
-#桐嶋
-「い・・・いきなり・・・奥まで・・・ンハァッ」[p]
-#肉山
-「オォゥ・・・たまらん・・・っ！」[p]
-（やべえ、気持ち良すぎる・・・！ついにあの桐嶋を犯してるという興奮でチンポがやべえ！）[p]
+*squelch*![p]
+#Kirishima
+Ahh...!?[p]
+#Nikuyama
+Mmm...[p]
+Guh![p]
+(I did it...![p]
+I finally stuck my dick into Kirishima![p]
+)[p]
+#Kirishima
+I...[p]
+all of a sudden...[p]
+nghh[p]
+#Nikuyama
+Ohh...[p]
+I can't take it...![p]
+(Damn, it feels too good...![p]
+)[p]
 #
-ズプッ・・・ニュプッ・・・[p]
-#桐嶋
-「ヒッ・・・！・・・も、もっとゆっくり・・・アヒッ！」[p]
-#肉山
-「オホッ・・・フッ・・・！」[p]
-（いや、違う・・・！こいつのマ●コが極上なんだ・・・！）[p]
-（新品同様なのにしっかりと熟していて・・・ちょうどいいきつさでチンポに吸い付いてきやがる・・・！）[p]
+*squelch*...[p]
+*slurp*...[p]
+#Kirishima
+Hii...!...[p]
+M-More slowly...[p]
+Ahh![p]
+#Nikuyama
+Ohh...[p]
+Huh...![p]
+(No, that's not it...![p]
+This pussy is top-notch...![p]
+) (Even though it's like brand new, it's matured perfectly...[p]
+)[p]
 #
-ズプッ・・・ヌプッ・・・ヌチッ・・・[p]
-#桐嶋
-「アフゥッ・・・！バ、バイブと全然違う・・・っ・・・アンンッ！」[p]
+*squelch*...[p]
+*slurp*...[p]
+*slurp*...[p]
+#Kirishima
+Ahh...![p]
+It's completely different from a vibrator...[p]
+Ahh...![p]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game253-4.jpg"  ]
 [tb_start_text mode=1 ]
-#肉山
-「ヌォ・・・フンッ・・・！」[p]
-（やべぇ、気持ち良すぎて腰が止まらん・・・！）[p]
+#Nikuyama
+Ngh...[p]
+Huh...![p]
+)[p]
 #
-ズプッ！ジュプッ！ヌチュッ！[p]
-#桐嶋
-「アッ・・・ダメッ・・・アンッ♥アンッ♥」[p]
-「そんな激しくされたら・・・アヒッ・・・ンハァッ♥」[p]
-#肉山
-「さすが桐嶋先生、マ●コもドスケベですねぇ、グヒヒッ」[p]
+*squelch*...[p]
+*slurp*...[p]
+*slurp*...[p]
+#Kirishima
+Ahh...[p]
+No...[p]
+Ahn♥ Ahn♥ If you do it so intensely...[p]
+Nhaa♥[p]
+#Nikuyama
+As expected, Kirishima-sensei, your pussy is also perverted, huh?[p]
+Guh-hehe.[p]
 #
-ジュプッ！ヌプッ！グチュッ！[p]
-#桐嶋
-「アヒッ！・・・ん・・・だ、だれが・・・アヒンッ♥」[p]
-#肉山
-「ククク、かわいい声で鳴きますね。そんなに気持ちいいですか本物のチンポは？」[p]
-#桐嶋
-「ク・・・ンフウッ・・・ハァッ・・・気持ちよくなんか・・・ンンッ♥」[p]
-#肉山
-「我慢しても無駄ですよ。ホレッ！ここがいいんですか？ホレッ！」[p]
+*squelch*...[p]
+*slurp*...[p]
+*slurp*...[p]
+#Kirishima
+Ahh...[p]
+Ahh♥[p]
+#Nikuyama
+Hehehe, you make such cute sounds.[p]
+Does a real cock feel that good?[p]
+#Kirishima
+K...[p]
+Nfuu...[p]
+Haa...[p]
+Nn♥[p]
+#Nikuyama
+It's useless to hold back.[p]
+Look![p]
+Is this place good?[p]
+Look![p]
 #
-ズヌッ！グリッ！[p]
-#桐嶋
-「アヒッ！？そ、そこは・・・ンハァッ！・・・アァンッ♥」[p]
-#肉山
-「ホレッ！ホレッ！俺のチンポでもっと鳴け！」[p]
+*squish* *grip*[p]
+#Kirishima
+Ahh!?[p]
+Th-That place...[p]
+Aaahh♥[p]
+#Nikuyama
+Look![p]
+Look![p]
+Let my cock make you scream even more![p]
 #
-ズリュッ！ヌチュッ！[p]
-#桐嶋
-「ンヒッ・・・ンンーーーッ♥・・・ッ・・・ンハァッ♥」[p]
-#肉山
-「お、軽くイきましたね？マ●コがザーメンを搾り取ろうとギューーッってなりましたよ」[p]
-「でもそうはいきませんよ、一回抜いてますからね。まだまだいっぱい可愛がってあげますからね、ムヒヒヒ」[p]
+*squish* *grip*[p]
+#Kirishima
+Nhi...[p]
+Nnnggg♥...[p]
+Nhaa♥[p]
+#Nikuyama
+Oh, did you cum a little?[p]
+Your pussy squeezed and tried to milk out the semen, but it won't be that easy.[p]
+I pulled out once, so I'll continue to take good care of you.[p]
+Muhihihi.[p]
 #
-ヌプッ！ズプッ！グチュッ！[p]
-#桐嶋
-「アヒィッ・・・そ、そんな・・・アンッ♥アンッ♥・・・ンンッ♥」[p]
+*squish* *grip* *slurp*[p]
+#Kirishima
+Ahh...[p]
+Th-that...[p]
+Nnn♥[p]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game263-1.jpg"  ]
 [tb_start_text mode=1 ]
 #
-ズチュッ・・・ヌプッ・・・！[p]
-#桐嶋
-「アァッ・・・ンンッ・・・アンッ♥」[p]
-#肉山
-「どうです、私のチンポは気持ちいいでしょう？何回イってもいいんですからね」[p]
+*Slurp*...[p]
+*Squish*...![p]
+#Kirishima
+Ahh...[p]
+Ahn♥[p]
+#Nikuyama
+How is it?[p]
+My cock feels good, doesn't it?[p]
+You can cum as many times as you want.[p]
 #
-ズプッ・・・グチュッ・・・！[p]
-#桐嶋
-「アヒッ・・・ダ、ダメェ・・・ッ・・・ンハァッ♥」[p]
-#肉山
-「私のセックスの虜になってきたでしょう。ドスケベな桐嶋先生が私のチンポに逆らえるわけがありませんからねぇ、ムヒヒヒ」[p]
+*Squish*...[p]
+*Slurp*...![p]
+#Kirishima
+Ahh...[p]
+Nhaa♥[p]
+#Nikuyama
+You've become captivated by my sex, haven't you?[p]
+There's no way the naughty Kirishima-sensei can resist my cock, muhihihi.[p]
 #
-ヌプッ・・・グチュッ・・・！[p]
-#桐嶋
-「クッ・・・だ、だれが・・・ンンッ・・・アヒッ♥」[p]
-#肉山
-「いけませんねぇ、まだ我慢しようとしてる。欲望を抑えることが淫乱症の原因なんです。心を解放して快楽に対して素直にならないと。」[p]
-「これはもっともっと気持ちよくしてあげないといけませんなぁ。ホレッ」[p]
+*Squish*...[p]
+*Slurp*...![p]
+#Kirishima
+Ahh...[p]
+Wh-who...[p]
+Ahh♥[p]
+#Nikuyama
+It's no good, you're still trying to hold back.[p]
+Suppressing your desires is the cause of nymphomania.[p]
+You need to free your mind and be honest with yourself about pleasure.[p]
+I have to make you feel even better.[p]
+Come on...[p]
 #
-ズムッ・・！[p]
-#桐嶋
-「アヒィッ！？・・・ンンーーッ♥」[p]
-#肉山
-「この奥を突かれるとどうしようもなくメスの気分になるでしょう？ホレッホレッ」[p]
+*Squish*...![p]
+#Kirishima
+Ahh...!?[p]
+Nnnggg♥[p]
+#Nikuyama
+When I thrust deep inside you like this, you can't help but feel like a helpless slut, right?[p]
+Horehore.[p]
 #
-チョンッ・・・チョンッ[p]
-#桐嶋
-「クゥッ・・・アンッ♥そ、そこは・・・アンンッ♥」[p]
-#肉山
-「わかりますか？ここが子宮口ですよ。子宮が下りてきてチンポをお出迎えしてるんですよ」[p]
-「早くザーメンをちょうだい！ってね。つまり桐嶋先生のドスケベな身体は私の子供を妊娠したいと思っているわけだ。グフフフ」[p]
-#桐嶋
-「だ、だれが・・・ンンッ・・・そんな・・・わけ・・・アヒッ♥」[p]
-#肉山
-「本能に逆らっちゃだめです。快楽を受け入れるんです」[p]
-「ほら、おチンポ気持ちいいって言ってごらんなさい、ホレッ」[p]
-#桐嶋
-「アンッ・・・イヤッ・・・そんなこと・・・ンンッ♥」[p]
-#肉山
-「強情ですねぇ。もっと突いてほしいんですか？ホレホレッ」[p]
+*Thrust*[p]
+#Kirishima
+*Moan*...[p]
+Ahh♥[p]
+#Nikuyama
+Do you understand?[p]
+This is your cervix.[p]
+Your uterus is coming down to welcome my cock.[p]
+Hurry up and give me your semen![p]
+In other words, Kirishima-sensei's lewd body wants to get pregnant with my child.[p]
+Gufufu.[p]
+#Kirishima
+W-who...[p]
+Nngh...[p]
+Ahh♥[p]
+#Nikuyama
+You mustn't go against your instincts.[p]
+Accept pleasure, come on, say that my cock feels good, horehore.[p]
+#Kirishima
+Ahh...[p]
+No...[p]
+Nnghh♥[p]
+#Nikuyama
+You're stubborn, aren't you?[p]
+Do you want me to thrust harder?[p]
+Horehore.[p]
 #
-ズムッ！ズムッ！ズムッ！[p]
-#桐嶋
-「アッ！・・・アヒィッ♥ダ、ダメェ・・・ッ・・・アァァッ♥」[p]
-#肉山
-「これでもまだ気持ちよくないですか？オラッ！オラッ！」[p]
+*Thrust*...[p]
+*Thrust*...[p]
+*Thrust*...[p]
+#Kirishima
+Ahh...[p]
+Aaaahh♥[p]
+#Nikuyama
+Even with this, aren't you feeling good?[p]
+Ora![p]
+Ora![p]
 #
-ズパンッ！ズパンッ！ズパンッ！[p]
-#桐嶋
-「アァッ！？ヤァッ・・・ンンー－－－ッ・・・ンヒィーッ♥」[p]
-#肉山
-「またイきましたか？でも許しませんよ。ホレホレホレッ！」[p]
+*Thrust*...[p]
+*Thrust*...[p]
+*Thrust*...[p]
+#Kirishima
+Ahh!?[p]
+Yaa...[p]
+Nhihhh♥[p]
+#Nikuyama
+Did you cum again?[p]
+But I won't forgive you.[p]
+Horehorehore![p]
 #
-ズチュッ！ズチュッ！グチュッ！[p]
-#桐嶋
-「アヒィーッ！ヤ、ヤメッ・・・アッ！・・・アヒッ♥か、身体が・・・おかしくなっちゃ・・・ァヒィーーッ♥」[p]
-#肉山
-「チンポが気持ちいいって認めますか？」[p]
-#桐嶋
-「ンハァッ・・・み、認めます・・・っ！み、認めますっ・・・アヒッ♥」[p]
-#肉山
-「ちゃんと自分の口で言うんです。おチンポ気持ちいいですって」[p]
-#桐嶋
-「アヒィーーッ♥・・・お、おチンポ・・・き、気持ちいいですーーーーッ♥」[p]
-#肉山
-「誰のチンポが気持ちいいんですか？」[p]
+*Squish![p]
+* *Squish![p]
+*[p]
+#Kirishima
+Ahh![p]
+S-Stop...[p]
+Ahh!...[p]
+Ahh♥ M-My body...[p]
+it's...[p]
+Ahhh♥[p]
+#Nikuyama
+Do you admit that my cock feels good?[p]
+#Kirishima
+Nhaa...[p]
+I-I admit it...![p]
+Ahh♥[p]
+#Nikuyama
+You need to say it with your own mouth.[p]
+Say, Your cock feels good.[p]
+#Kirishima
+Ahhhhh♥...[p]
+Y-Your...[p]
+feels so goooood♥[p]
+#Nikuyama
+Whose cock feels good?[p]
 #
-ズプッ！ズプッ！ズプッ！[p]
-#桐嶋
-「アヒィンッ♥・・・に、肉山先生の・・・おチンポが・・・ンンッ・・・気持ちいいですぅー－－ッ♥」[p]
-#肉山
-「ククク、よく言えました。ご褒美にキスしてあげますね」[p]
+*Squish![p]
+* *Squish![p]
+*[p]
+#Kirishima
+Ahhnn♥...[p]
+N-Nikuyama-sensei's...[p]
+feels so goooood♥[p]
+#Nikuyama
+Hehehe, you said it well.[p]
+As a reward, I'll give you a kiss.[p]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game263-2.jpg"  ]
 [tb_cg  id="263"  ]
 [tb_start_text mode=1 ]
-#桐嶋
-「ンムッ！？・・・ンンーーーッ・・・ン・・・♥」[p]
-#肉山
-「レロレロ・・・ムチュゥ・・・チュバッ」[p]
+#Kirishima
+Mmm!?...[p]
+Nnnnghhhh...[p]
+♥[p]
+#Nikuyama
+Lick...[p]
+*kiss*[p]
 #
-ツンッ！ツンッ！ツンッ！[p]
-#桐嶋
-「アムゥッ！・・・レロレロレロッ・・・ンンーーーッ♥」[p]
-#肉山
-「レロレロッ・・・こうやってキスされながら小刻みに奥を突かれるのたまらないでしょう？ンチューー」[p]
-#桐嶋
-「ンムーーーッ♥・・・ンンッ・・・ハムッ♥チュバッ♥」[p]
-#肉山
-「チュバッ・・・ほら、キスされながらおマ●コいじめられるの大好きですって言うんだ」[p]
-#桐嶋
-「ンプッ・・・ハァッ・・・な、なんで・・・そ、そんなこと―――ンムッ！」[p]
-#肉山
-「ムチューーーッ・・・チュバッ・・・ベロベロベロッ」[p]
-「プハァッ・・・治療の一環ですよ。淫乱な自分を認めて快楽を抵抗せずに受け入れるんです」[p]
-「ほら、もっとおチンポで気持ちよくしてくださいって言いなさい」[p]
+*Squish![p]
+* *Squish![p]
+*[p]
+#Kirishima
+Ahh...[p]
+L-Lick...[p]
+Mmmmm♥[p]
+#Nikuyama
+*Lick*...[p]
+*Mwah*[p]
+#Kirishima
+Mmmmm♥...[p]
+Hmmm♥ *kiss*[p]
+#Nikuyama
+*Chu-ba*...[p]
+You said you love being teased while being kissed, right?[p]
+#Kirishima
+Nnpuu...[p]
+Haa...[p]
+Why...[p]
+Why are you...[p]
+doing something like that―――Nmm![p]
+#Nikuyama
+*Mchu-*...[p]
+*Chu-ba*...[p]
+*Lick*...[p]
+*Plop-haa*...[p]
+It's part of the treatment.[p]
+Accept your own lewdness and pleasure without resistance.[p]
+Come on, say Please make me feel good with your cock even more.[p]
 #
-ツンッ！ツンッ！ツンッ！[p]
-#桐嶋
-「アンッ・・・ンハァッ・・・そ、そんな・・・言えな―――ンムゥッ♥」[p]
-#肉山
-「ブチュッ・・・チュバッ・・・レロレロレロッ」[p]
-「チュバッ・・・自分に素直になるまで終わりませんよ？もっと気持ちよくしてほしいてことですか？」[p]
+*Thrust![p]
+* *Thrust![p]
+*[p]
+#Kirishima
+Ahh...[p]
+Unhaa...[p]
+say something like that――― Nmuu♥[p]
+#Nikuyama
+*Squish*...[p]
+*Chu-ba*...[p]
+*Lick*...[p]
+*Plop-haa*...[p]
+I won't stop until you become honest with yourself.[p]
+Do you want me to make you feel even better?[p]
 #
-ズチュッ！ヌプッ！ギュポッ！[p]
-#桐嶋
-「アヒィッ♥アァッ・・・もうやめ・・・アムゥッ♥」[p]
-「チュバ・・・レロッ・・・アヒンッ♥・・・わ、わかりました・・・言う・・・言いますゥッ！」[p]
-「も、もっと・・・お、チンポで気持ちよくしてくださいぃー－っ♥」[p]
-#肉山
-「香織はおチンポ大好きなドスケベ女ですって言いなさい。ホレッ」[p]
-#桐嶋
-「アゥンッ♥そ、そんな・・・アヒッ♥」[p]
-#肉山
-「ほらっ、自分に素直にっ」[p]
+*Squish![p]
+* *Nup![p]
+*[p]
+#Kirishima
+Ahh♥ Ahh...[p]
+Please stop...[p]
+Mmm♥ *kiss*...[p]
+Lick...[p]
+Ahhnn♥...[p]
+I-I understand...[p]
+I'll say it...[p]
+I'll say it![p]
+P-Please...[p]
+♥[p]
+#Nikuyama
+Say that Kaori is a horny woman who loves cock.[p]
+Go on.[p]
+#Kirishima
+Ahn♥ S-Stop...[p]
+Ahh♥[p]
+#Nikuyama
+Come on, be honest with yourself.[p]
 #
-グチュッ！ズプッ！ヌプッ！[p]
-#桐嶋
-「アンッ♥アンッ♥ハゥッ・・・か、香織は・・・お、おチンポ大好きな・・・ドスケベ女ですぅ・・・っ・・・アフゥ♥」[p]
-#肉山
-「ククク、良く言えました。お望み通りたっぷりチンポで気持ちよくしてあげますよ」[p]
+*Squish![p]
+* *Nup![p]
+*[p]
+#Kirishima
+Ahn♥ Ahn♥ Hau...[p]
+K-Kaori is...[p]
+a-a horny woman who...[p]
+loves cock...[p]
+Ahfu♥[p]
+#Nikuyama
+Hehehe, you said it well.[p]
+As you wish, I'll make you feel good with plenty of cock.[p]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game253-4.jpg"  ]
 [tb_start_text mode=1 ]
 #
-バチュンッ！バチュンッ！バチュンッ！[p]
-#桐嶋
-「アンッ！？アンッ♥アンッ♥アァンッ♥」[p]
-#肉山
-「オラッ！ここか？フンッ！フンッ！」[p]
+*Squish![p]
+* *Squish![p]
+*[p]
+#Kirishima
+Ahh♥ Ahh♥ Aaahh♥[p]
+#Nikuyama
+Ora![p]
+Is this the place?[p]
+Hmph![p]
+Hmph![p]
 #
-ズリュッ！ヌチュッ！[p]
-#桐嶋
-「アッ！アヒィッ！？ンンーーーッ♥」[p]
-#肉山
-「ククク、ここが好きみたいですね。オラオラッ」[p]
+*Squish![p]
+*[p]
+#Kirishima
+Ah![p]
+Nnnn♥[p]
+#Nikuyama
+Hehehe, it seems you like this place.[p]
+Ora ora![p]
 #
-パチュン！パチュン！パチュンッ！[p]
-#桐嶋
-「アヒッ・・・ンンッ♥ィイー－－－－－ッ♥」[p]
-#肉山
-「ククク、またイきましたね。なんてちょろいマ●コだ」[p]
-「こんなドスケベのくせに今までチンポを拒否してたなんて・・・反省しなさい、オラッ！」[p]
+*Squish![p]
+* *Squish![p]
+*[p]
+#Kirishima
+Nnn♥ Eee----♥[p]
+#Nikuyama
+Hehehe, you came again.[p]
+What a loose pussy you have, even though you're such a horny slut.[p]
+You've been rejecting cocks until now...[p]
+Reflect on your actions, damn it![p]
 #
-ズパンッ！ズパンッ！ズパンッ！[p]
-#桐嶋
-「アヒィーーーーッ♥も、もう・・・ンンーッ・・・許して・・・ンヒィッ♥」[p]
-#肉山
-「そろそろこっちも限界だ・・・ラストスパートいきますよ・・・っ」[p]
+*Squish![p]
+* *Squish![p]
+*[p]
+#Kirishima
+Ahiiii♥ M-mou...[p]
+Nnnn...[p]
+Nhi♥[p]
+#Nikuyama
+It's about time I reach my limit too...[p]
+I'll give it one last push...[p]
 #
-パンッ！パンッ！パンッ！パンッ！[p]
-#桐嶋
-「ヒィッ♥アァ・・・アンッ♥アンッ♥ダメェッ！アァンーーッ♥」[p]
-#肉山
-「オラオラオラ・・・ッ！」[p]
+*Slap![p]
+* *Slap![p]
+* *Slap![p]
+*[p]
+#Kirishima
+Hii♥ Ahh...[p]
+Aaahhhh♥[p]
+#Nikuyama
+Ora ora ora...![p]
 #
-パン！パン！パン！パン！パンッ！[p]
-#桐嶋
-「アヒィッ♥ンーーーーーッ！・・・クゥッ・・・アァァッ♥」[p]
-#肉山
-「ウ・・・オォ・・・出すぞ・・・っ！」[p]
+*Slap![p]
+* *Slap![p]
+* *Slap![p]
+* *Slap![p]
+*[p]
+#Kirishima
+Ahiiii♥ Nnn----♥ Aaaahhh♥[p]
+#Nikuyama
+U...[p]
+Oo...[p]
+I'm gonna cum...![p]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game253-7.jpg"  ]
 [tb_start_text mode=1 ]
 #
-ヌポンッ！[p]
-#桐嶋
-「ンッ！・・・アヒィー－－－－ッ♥」[p]
-#肉山
-「ウ・・・ォオッ・・・っ」[p]
+*[p]
+#Kirishima
+Ahiiiiii♥[p]
+#Nikuyama
+U...[p]
+Oo...[p]
 #
-ドピュピュピュッ！！[p]
-#桐嶋
-「アァッ・・・ンッ・・・ハァッ♥」[p]
-#肉山
-「オフゥ・・・まだ・・・出る・・・っ」[p]
+Dopu pyu pyu pu!![p]
+#Kirishima
+Ahh...[p]
+Haa♥[p]
+#Nikuyama
+Ugh...[p]
+I'm still...[p]
+gonna cum...[p]
 #
-ビュビュッ・・・ビチャッ！[p]
-#桐嶋
-「アッ・・・ハァッ・・・ンフゥッ」[p]
-#肉山
-「フゥ・・・ウヒヒ」[p]
-「２発目なのにこんなに出たぜ。さすがドスケベ女のマ●コはモノが違うぜ」[p]
-#桐嶋
-「ハァッ・・・ハァッ・・・」[p]
-#肉山
-「桐嶋先生も私のチンポをずいぶん気に入ってくれたようですなぁ。かなり楽しんでくれたようで何よりです、ムフフフ」[p]
-#桐嶋
-「ハァッ・・・そ、そんなこと・・・ありません・・・っ」[p]
-#肉山
-「おや、まだそんなことを言うんですか？４～５回は絶頂に達してたようですがねぇ」[p]
-#桐嶋
-「く・・・っ」[p]
-#肉山
-「まぁいいでしょう。身体に尋ねれば正直に答えてくれるということがわかりましたからね、グフフフ」[p]
-#桐嶋
-「・・・・・・っ」[p]
+*Squirt*...[p]
+*[p]
+#Kirishima
+Ahh...[p]
+Haa...[p]
+Nfuhh...[p]
+#Nikuyama
+Fuu...[p]
+Uhihi, even though it's my second time, I came so much.[p]
+Truly, the pussy of a perverted woman is on a different level.[p]
+#Kirishima
+Haa...[p]
+Haa...[p]
+#Nikuyama
+It seems that Kirishima-sensei really liked my cock.[p]
+I'm glad they enjoyed it so much, hehehe.[p]
+#Kirishima
+Haa...[p]
+Th-there's no way...[p]
+that happened...[p]
+#Nikuyama
+Oh, are you still saying things like that?[p]
+It seems like you reached climax about 4-5 times, huh?[p]
+#Kirishima
+Ku...[p]
+#Nikuyama
+Well, it's fine.[p]
+I've come to understand that if I ask your body, it will honestly answer me, hehehe.[p]
+#Kirishima
+....[p]
 
 
 
@@ -1813,38 +2298,48 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Grease_Slide_Trap.mp3"  ]
 [tb_start_text mode=1 ]
-#肉山
-「これからは毎日わたしのチンポで可愛がってあげますからね、ムフフフフ」[p]
-#桐嶋
-「なっ・・・毎日・・・！？そんなの・・・絶対にイヤです！」[p]
-#肉山
-「またまた、本当はうれしいくせに。チンポ大好きのドスケベちゃん」[p]
+#Nikuyama
+From now on, I'll take care of you every day with my cock, hehehe.[p]
+#Kirishima
+Ngh...[p]
+Every day...!?[p]
+I absolutely don't want that![p]
+#Nikuyama
+Once again, you're actually happy, aren't you?[p]
+You perverted girl who loves cock.[p]
 [_tb_end_text]
 
 [chara_mod  name="桐嶋"  time="600"  cross="true"  storage="chara/1/game61.png"  ]
 [tb_start_text mode=1 ]
-#桐嶋
-「ふ、ふざけないでください！」[p]
-#肉山
-「なぜ嫌がって見せる必要があるんです？気持ちいいことをして症状を抑えることができるんだから、拒否する理由はないでしょうに」[p]
-#桐嶋
-「あなたはさっき下心は無いと言っていたのに・・・明らかに欲望むき出しだったじゃないですか！」[p]
-「治療のためとか言って・・・本当は私を慰み物にするのが目的だったんじゃないんですか！？」[p]
-#肉山
-「フハハ、バレましたか。そりゃそうでしょう。こんなエロい身体をした女、欲情しない男がいるわけないでしょうが」[p]
-「実はあなたが赴任してきた時から、その生意気ボディにいつかチンポをぶち込んでヒィヒィ言わせてやりたいと思ってたんですよ」[p]
-#桐嶋
-「なっ・・・！？」[p]
-#肉山
-「それが治療という形で私の手の中に転がり込んできてくれたんだから、こんなラッキーは無いですよ、ムヒヒヒヒ」[p]
-#桐嶋
-「く・・・なんてこと・・・っ」[p]
-「あなたって人は・・・く・・・」[p]
-#肉山
-「どのみち拒否権は無いですよ。あなたのことは私に一任されているんですから」[p]
-「あなたのドスケベな身体はこれからも私がきっちりとチンポで管理してあげますから。私の性処理も兼ねてね、グハハハハ！」[p]
-#桐嶋
-「馬鹿にしないで！！」[p]
+#Kirishima
+P-Please don't joke around![p]
+#Nikuyama
+Why do you need to show that you dislike it?[p]
+If it feels good and can suppress your symptoms, there's no reason to refuse.[p]
+#Kirishima
+You said earlier that you didn't have any ulterior motives...[p]
+but it was clearly a blatant display of desire, wasn't it?[p]
+You said it was for treatment...[p]
+but was your real intention to use me as an object of pleasure!?[p]
+#Nikuyama
+Fufufu, you caught me, huh?[p]
+Well, of course.[p]
+There's no way a man wouldn't be aroused by a body as erotic as yours.[p]
+But the truth is, ever since you arrived here, I've been wanting to thrust my cock into that arrogant body of yours and make you moan in pleasure.[p]
+#Kirishima
+Ngh...!?[p]
+#Nikuyama
+Since you've rolled into my hands in the form of treatment, there couldn't be a luckier situation, muhihihihi.[p]
+#Kirishima
+Ugh...[p]
+What kind of person are you...[p]
+ugh...[p]
+#Nikuyama
+Anyway, you have no right to refuse.[p]
+Since you have entrusted yourself to me, I will continue to thoroughly manage your perverted body with my cock.[p]
+It will also serve as my sexual release, guhahahaha![p]
+#Kirishima
+Don't make fun of me!![p]
 
 [_tb_end_text]
 
@@ -1853,13 +2348,14 @@
 [tb_image_show  time="1000"  storage="default/game177.jpg"  width="800"  height="446"  x="220"  y="168"  _clickable_img=""  name="img_329"  ]
 [tb_start_text mode=1 ]
 #
-パンッ！！[p]
-#肉山
-「・・・っ！?」[p]
-#桐嶋
-「あなたは最低の下衆男だわ！」[p]
-「私は淫乱症かもしれないけど心までは落ちぶれてません！あなたよりはましよ！」[p]
-「あなたみたいな卑劣な男に私は絶対に屈したりしません！！」[p]
+*[p]
+#Nikuyama
+*[p]
+#Kirishima
+You are the lowest scum of a man![p]
+I may have a nymphomaniac condition, but my heart has not fallen as low as yours![p]
+I'm better than you![p]
+I will never submit to a despicable man like you!![p]
 #
 [_tb_end_text]
 
@@ -1868,18 +2364,19 @@
 [chara_hide_all  time="1000"  wait="true"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Grease_Slide_Trap.mp3"  fadein="true"  ]
 [tb_start_text mode=1 ]
-#肉山
-「お、おい！ちょっと待て・・・！」[p]
+#Nikuyama
+H-Hey![p]
+Wait a minute...![p]
 #
-・・・行っちまいやがった[p]
-調子に乗って本心を打ち明けちまったのは失敗だったかな・・・？[p]
-・・・いや、これでいい[p]
-あいつを宥め賺（なだめすか）して少しずつ受け入れさせるのはもう終わりだ[p]
-ようやくチンポをぶち込んでやったんだ。これからはもう遠慮はしないぜ[p]
-俺は別にあいつとラブラブになりたいわけじゃねぇ。あいつに嫌われたままで肉奴隷にしてやるんだ[p]
-そのためには・・・[p]
-・・・・・・[p]
-・・・[p]
+Did I make a mistake by confessing my true feelings and getting carried away...?[p]
+...[p]
+No, this is fine.[p]
+I've finally thrust my cock into them.[p]
+It's over now, no need to coax and gradually make them accept it anymore.[p]
+I won't hold back anymore.[p]
+It's not like I want to be lovey-dovey with them.[p]
+I'll keep them as my flesh slave, even if they hate me.[p]
+For that purpose...[p]
 [_tb_end_text]
 
 [stopbgm  time="1000"  fadeout="true"  ]

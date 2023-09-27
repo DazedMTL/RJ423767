@@ -63,44 +63,57 @@ It would be amazing to have them lined up in a row and violate them one by one..
 
 [tb_start_text mode=1 ]
 
-But still, why are shorts so tasteless? I guess it's because girls' gym uniforms used to be bloomers. When I was a kid, it was still the era of bloomers, and girls would wear them for class. At that time, I didn't realize how lucky I was to be in that environment. It was just something normal, so I didn't appreciate its value. It's strange how I only noticed the eroticism of bloomers after becoming an adult. Nowadays, you can only see bloomers in AV videos... If only I had seen more of them during my student days. Sigh, I wonder if bloomers will ever be reevaluated. If there was a political party called the Bloomer Revival Party, I would vote for them...[p]
+But still, why are shorts so tasteless?[p]
+I guess it's because girls' gym uniforms used to be bloomers.[p]
+When I was a kid, it was still the era of bloomers, and girls would wear them for class.[p]
+At that time, I didn't realize how lucky I was to be in that environment.[p]
+It was just something normal, so I didn't appreciate its value.[p]
+It's strange how I only noticed the eroticism of bloomers after becoming an adult.[p]
+Nowadays, you can only see bloomers in AV videos...[p]
+If only I had seen more of them during my student days.[p]
+Sigh, I wonder if bloomers will ever be reevaluated.[p]
+If there was a political party called the Bloomer Revival Party, I would vote for them...[p]
 #male student
 Student: Teacher, warm-up exercises are finished.[p]
 #
 However, in AV and such, there are times when colorful bloomers appear, but those who don't understand that true bloomers are dark blue, well, red is barely acceptable, but yellow or green bloomers have no charm at all.[p]
 #Male student
-Um, Mr. Nikuyama![p]
+Um, Mr.[p]
+Nikuyama![p]
 #Nikuyama
-Huh? What's with the noise?[p]
+Huh?[p]
+What's with the noise?[p]
 #Male student
-Um, well... the warm-up exercises are finished.[p]
+Um, well...[p]
+the warm-up exercises are finished.[p]
 #Nikuyama
-Oh, I see. In that case, divide into teams however you like and start the game.[p]
+Oh, I see.[p]
+In that case, divide into teams however you like and start the game.[p]
 #male student
 Male student: Yes, understood.[p]
 #
-まったく・・・男子生徒なんぞに興味は無いんだ[p]
-くそっ、俺も女子を受け持ちたかったぜ[p]
-そしたら手取り足取りあんなことやこんなことを・・・[p]
-グヒヒヒ[p]
-#女子生徒Ａ
-「また肉山がこっち見てるよ・・・ヒソヒソ」[p]
-#女子生徒Ｂ
-「うわーキモっ！」[p]
-「顔が犯罪者なんだよねアイツ」[p]
-#女子生徒Ａ
-「存在がセクハラだよね」[p]
-「死んでくれればいいのに」[p]
+I can't believe it...[p]
+I have no interest in male students.[p]
+Damn it, I wanted to be in charge of the female students too.[p]
+Guhuhu[p]
+#Female Student A
+Nikuyama is looking over here again...[p]
+Whisper, whisper.[p]
+#Female Student B
+Eww, they're so creepy![p]
+Their face looks like a criminal.[p]
+#Female Student A
+Their existence is sexual harassment.[p]
+I wish they would just die.[p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
 #
-さてと授業も終ったし帰るか[p]
+Well, the class is over, so I should go home.[p]
 [_tb_end_text]
 
 [stopbgm  time="1000"  fadeout="true"  ]
@@ -108,20 +121,19 @@ Male student: Yes, understood.[p]
 [playbgm  volume="100"  time="1000"  loop="true"  fadein="true"  storage="Night_Cruising.mp3"  ]
 [tb_start_text mode=1 ]
 #
-ふう・・・ここは落ち着くな[p]
-この体育教官室は学校における俺の城みたいなもんだ[p]
-体育教師はもう一人いるがあのバアさんはここには滅多に来ない[p]
-それをいいことに私物なんかも置いて俺が自分の部屋のように使ってるからな[p]
-場所も校舎から離れて静かなのが良い[p]
-ここに女子生徒を連れ込んでセックス三昧・・・[p]
-というのは夢だが残念ながら実現したことは一度も無い[p]
-一人くらい俺に惚れたかわい子ちゃんがこっそり遊びに来ても良さそうなもんだが[p]
-現実はそんなエロ漫画のように甘くは無い[p]
-・・・はぁ[p]
-次の授業に行くか・・・[p]
+Ahh...[p]
+This PE instructor's office is calming.[p]
+It's like my own castle within the school.[p]
+There is another PE teacher, but that old lady rarely comes here.[p]
+Taking advantage of that, I even have my personal belongings here and use it like my own room.[p]
+The location is away from the main building and quiet, which is nice.[p]
+It's just a dream to bring in female students here and have wild sex...[p]
+Unfortunately, it has never happened in reality.[p]
+It would be nice if a cute girl secretly came to play with me, even just once.[p]
+But reality is not as sweet as those erotic manga...[p]
+Sigh, should I go to the next class...[p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 
 [_tb_end_text]
 
@@ -133,8 +145,8 @@ Male student: Yes, understood.[p]
 
 [tb_start_text mode=1 ]
 #
-さてと、放課後だ[p]
-業務は終ったが、これからどうするかな[p]
+Well, it's after school and my work is done.[p]
+I wonder what I should do now.[p]
 [_tb_end_text]
 
 [glink  color="black"  storage="scene3.ks"  size="20"  text="自分のことを考える"  x="527"  y="300"  width="185"  height="20"  _clickable_img=""  target="*ch2b"  ]
@@ -146,38 +158,40 @@ Male student: Yes, understood.[p]
 [jump  storage="scene3.ks"  target="*st8"  cond="f.pp3==1"  ]
 [jump  storage="scene3.ks"  target="*st10"  cond="f.pp3==2"  ]
 [tb_start_text mode=1 ]
-家に帰ってもすることねえし、ちょっと校舎でも見回るか[p]
+There's nothing to do even if I go home, so maybe I'll take a walk around the school building.[p]
 [_tb_end_text]
 
 [stopbgm  time="1000"  fadeout="true"  ]
 [bg  time="1000"  method="crossfade"  storage="rouka.jpg"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  fadein="true"  storage="いつもの放課後.mp3"  ]
 [tb_start_text mode=1 ]
-放課後の校舎を見回りする[p]
-まだ生徒がちらほらと残っているな[p]
-みんな俺の顔を見ると嫌そうな顔をする[p]
-誰一人挨拶しやしねえ[p]
-慣れているとはいえ良い気分はしないぜ[p]
-・・・[p]
-・・・ん、あれは[p]
+After school, I walk around the school building and there are still a few students lingering.[p]
+When everyone sees my face, they make unpleasant expressions.[p]
+Not a single person greets me.[p]
+Even though I'm used to it, it doesn't feel good...[p]
+Hm, what's that over there?[p]
 
 [_tb_end_text]
 
 [chara_show  name="桐嶋"  time="1000"  wait="true"  storage="chara/1/game10.png"  width="336"  height="790"  left="469"  top="31"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #
-英語の桐嶋がいるな[p]
-#女子生徒
-「桐嶋先生さようなら」[p]
-#桐嶋
-「さようなら。気をつけて帰るのよ」[p]
+Kaori Kirishima who speaks English is here.[p]
+#Female student
+Goodbye, Ms.[p]
+Kirishima.[p]
+#Kirishima
+Goodbye.[p]
+Be careful on your way home.[p]
 #
-チッ、あいつには挨拶するのかよ[p]
-ちょっと話しかけてみるか[p]
-#肉山
-「やあ桐嶋先生」[p]
-#桐嶋
-「・・・どうも」[p]
+Tch, they're greeting that person?[p]
+I guess I'll try talking to them for a bit.[p]
+#Nikuyama
+Hey, Ms.[p]
+Kirishima.[p]
+#Kirishima
+...[p]
+Hello.[p]
 
 
 [_tb_end_text]
@@ -186,7 +200,7 @@ Male student: Yes, understood.[p]
 
 [tb_start_text mode=1 ]
 #
-どうする？[p]
+What should I do?[p]
 [_tb_end_text]
 
 [glink  color="black"  storage="scene3.ks"  size="20"  text="見る"  target="*ch3a"  x="478"  y="300"  width="147"  height="20"  _clickable_img=""  ]
@@ -198,24 +212,23 @@ Male student: Yes, understood.[p]
 [jump  storage="scene3.ks"  target="*ch3aa"  cond="f.pp3==1"  ]
 [tb_start_text mode=1 ]
 #
-英語教師の桐嶋香織だ[p]
-歳はたしか２６か２７だったかな[p]
-見ての通りの美人で男好きのする抜群のスタイルをしている[p]
-学園の男子生徒の憧れの的だ[p]
-しかも巨乳の癖に優秀で、教育に熱心なので女子生徒にも人気がある[p]
-たしか超一流大学を出てるんだが「教育の現場で経験を積みたい」と英語教師になったんだったか[p]
-エリート面した鼻持ちならないやつだぜ[p]
-向こうもなぜか俺のことを初対面の時から毛嫌いしている[p]
-俺を見る目に軽蔑や敵意、警戒といったあらゆる負の要素が篭っているのだ[p]
-きっと三流大卒の風采の上がらない体育教師と見下しているのだろう[p]
-こっちだってクソ真面目でお堅いインテリ女など願いさげだぜ[p]
-しかしこの身体はそそられる[p]
-この生意気なムチムチボディを好きに出来たらたまらんだろうな[p]
-めちゃめちゃに犯してチンポで屈服させてやりたいぜ[p]
-#桐嶋
-「あまりジロジロ見ないでもらえますか」[p]
-#肉山
-「べ、別に見ちゃいねえよ」[p]
+Kaori Kirishima is an English teacher.[p]
+I think she's around 26 or 27 years old.[p]
+As you can see, she's a beautiful woman with an outstanding figure that attracts men.[p]
+Despite having big breasts, she's also excellent and dedicated to education, so she's popular among female students as well.[p]
+I believe she graduated from a top-tier university and became an English teacher because she wanted to gain experience in the field of education.[p]
+She may seem like an elite, but she's an insufferable person with a stuck-up attitude.[p]
+For some reason, she has disliked me since our first meeting.[p]
+Her eyes towards me are filled with contempt, hostility, and caution, carrying all sorts of negative elements.[p]
+She probably looks down on me, a third-rate physical education teacher with no impressive appearance.[p]
+Even though I'm serious and strict, I'm nothing compared to her intellectual demeanor.[p]
+However, this body of hers is tempting.[p]
+If I could have my way with this cheeky and curvaceous body, it would be irresistible.[p]
+I want to violate her thoroughly and make her submit to my cock.[p]
+#Kirishima
+Could you please stop staring at me so much?[p]
+#Nikuyama
+W-Well, it's not like I'm staring at you or anything.[p]
 #
 
 [_tb_end_text]
@@ -226,16 +239,16 @@ Male student: Yes, understood.[p]
 
 [tb_start_text mode=1 ]
 #
-それにしてもでかい乳だな[p]
-身長もあるしな・・・おそらく１００ｃｍは超えてると見た[p]
-こんなデカパイを見せ付けながら授業されたら男子生徒はたまらんだろうな[p]
-きっと全ての男子がこの乳を夜のおかずにしたことがあるだろう[p]
-畜生、揉んでみてえ[p]
-後ろから鷲掴みにしてたっぷりと時間をかけて揉みこんで・・・[p]
-#桐嶋
-「いやらしい目で見ないでください」[p]
+Those breasts are huge, and she's tall too...[p]
+She's probably over 100cm.[p]
+If she teaches while showing off those big tits, the male students would go crazy.[p]
+I'm sure every guy has used those breasts as their late-night snack.[p]
+Damn it, I want to squeeze them, grab them from behind, and spend plenty of time kneading them...[p]
+#Kirishima
+Please don't look at me with such lewd eyes.[p]
 #
-・・・チッ[p]
+...[p]
+Tch.[p]
 [_tb_end_text]
 
 [jump  storage="scene3.ks"  target="*st4"  ]
@@ -243,16 +256,18 @@ Male student: Yes, understood.[p]
 
 [jump  storage="scene3.ks"  target="*ch3ba"  cond="f.pp4==1"  ]
 [tb_start_text mode=1 ]
-#肉山
-「どうです、たまには飯でもいきませんか？」[p]
-「二人で教育論について語り合いましょう」[p]
-#桐嶋
-「冗談はやめてください」[p]
-「あなたと二人で食事なんて行くわけがないでしょう」[p]
-#肉山
-「・・・チッ」[p]
+#Nikuyama
+How about we grab a meal together sometime?[p]
+Let's discuss educational theories between the two of us.[p]
+#Kirishima
+Please stop joking.[p]
+There's no way I would go out for a meal with you alone.[p]
+#Nikuyama
+...[p]
+Tch.[p]
 #
-・・・まぁOKするなんて全く思ってないがな[p]
+...[p]
+Well, I never thought I would agree to that.[p]
 [_tb_end_text]
 
 [tb_eval  exp="f.pp4=1"  name="pp4"  cmd="="  op="t"  val="1"  val_2="undefined"  ]
@@ -260,12 +275,12 @@ Male student: Yes, understood.[p]
 *ch3ba
 
 [tb_start_text mode=1 ]
-#肉山
-「たまにはいいでしょう」[p]
-#桐嶋
-「お断りします」[p]
+#Nikuyama
+It's good once in a while.[p]
+#Kirishima
+I decline.[p]
 #
-チッ、お高くとまりやがって[p]
+Tch, acting all high and mighty.[p]
 [_tb_end_text]
 
 [jump  storage="scene3.ks"  target="*st4"  ]
@@ -273,8 +288,7 @@ Male student: Yes, understood.[p]
 
 [tb_start_text mode=1 ]
 #
-こいつと話してても仕方が無い[p]
-家に帰ろう[p]
+Let's go home to a place where there's no point in talking to this person.[p]
 [_tb_end_text]
 
 [chara_hide  name="桐嶋"  time="1000"  wait="true"  pos_mode="false"  ]
@@ -284,43 +298,43 @@ Male student: Yes, understood.[p]
 [jump  storage="scene3.ks"  target="*ch2ba"  cond="f.pp2==1"  ]
 [tb_start_text mode=1 ]
 #
-ちょっと自分について考えてみるか[p]
+Maybe I should think about myself for a bit.[p]
 [_tb_end_text]
 
 [chara_show  name="肉山"  time="1000"  wait="true"  storage="chara/9/game82-1.png"  width="538"  height="782"  left="364"  top="36"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #
-肉山猛（にくやまたけし）４０歳、独身[p]
-この学園の体育教師だ[p]
-若い頃は柔道をやっていて、結構本気でオリンピック目指したもんだ[p]
-だが結局挫折して体育教師に。まぁそんなやつは世の中に捨てるほど居るだろうがな[p]
-今じゃ腹もだいぶ出てきたが力はまだまだガキどもには負けない自信があるぜ[p]
-真面目に柔道やってた頃はこのブサイクな面でもそれなりに女に不自由はしなかった[p]
-でもただの中年になった今では女は俺なんかには見向きもしねえ[p]
-最後にまともに女と付き合ったのはもう何年前か忘れちまった[p]
-それでも性欲だけは若い頃からちっとも衰えやしねえから困ったもんだ[p]
-教師の安月給では場末の商売女を買うのもそう頻繁にはできない贅沢だ[p]
-というわけで最近はエロ動画でシコシコ抜くのが日課となっている[p]
-昔のAVよりも手軽でいい。便利な世の中になったもんだ[p]
-この教官室のＰＣで昼間っからエロ動画を見て一発抜いたりすることもちょくちょくあるぜ[p]
-学校ってのは若い女がわんさか居るからかなわねえ[p]
-しかも最近のガキはやたら短いスカート穿いて平気でうろうろしやがるからたちが悪い[p]
-ムラムラして性欲を抑えるのにかなりの精神力が必要だ[p]
-だから仕事中に抜くくらいのことは大目に見て欲しい[p]
-実は前の学校で生徒をレイプしかけてクビになっているんだ[p]
-幸い生徒側の希望で事を公にしなかったからこの学校に再就職できたわけだが[p]
-もう一回同じようなことがあったら確実に職を失うだろう[p]
-こっちに来てからは大人しいもんだよ[p]
-しかし・・・俺はこのまま歳を取っていくのかな[p]
-一回でいいからAVのように女を好き放題犯してみたいぜ[p]
-弱みを握って性奴隷にしたりして・・・[p]
-毎日飽きるまでズッコンバッコンと[p]
-#肉山
-「・・・チッ、勃ってきちまったぜ」[p]
+Nikuyama Takeshi, 40 years old and single, is the physical education teacher at this school.[p]
+In his younger days, he practiced judo and even aimed for the Olympics with great determination, but ultimately gave up and became a physical education teacher.[p]
+Well, there are probably plenty of people like him in the world.[p]
+Nowadays, he has gained some weight around his belly, but he still has confidence that he can't be beaten by those brats.[p]
+When he was seriously doing judo, even with this ugly face, he didn't have any trouble with women to some extent.[p]
+But now that he's just a middle-aged man, women don't even give him a second glance.[p]
+It's been so many years since he last had a proper relationship with a woman that he can't even remember.[p]
+But his sexual desire hasn't diminished at all since his younger days, which is quite troublesome.[p]
+With the low salary of a teacher, he can't afford to frequently hire prostitutes from shady places.[p]
+So recently, watching erotic videos and masturbating has become his daily routine.[p]
+It's more convenient than the AVs from the past.[p]
+The world has become quite convenient.[p]
+He sometimes watches erotic videos and masturbates during the day on the PC in this teacher's office.[p]
+It's unbearable because there are so many young girls in school.[p]
+Moreover, these recent kids wear ridiculously short skirts and wander around without a care, which is really tempting.[p]
+It takes a considerable amount of mental strength to suppress his sexual desire.[p]
+So he hopes they can overlook it if he occasionally masturbates during work.[p]
+Actually, he was fired from his previous school for attempting to rape a student.[p]
+Fortunately, the matter was not made public due to the student's request, so he was able to find employment at this school again.[p]
+But if something similar were to happen again, he would definitely lose his job.[p]
+Since coming here, he has been well-behaved.[p]
+However...[p]
+he wonders if he will continue to grow older like this.[p]
+Just once, he wants to have his way with women like in AVs.[p]
+He wants to hold their weaknesses and turn them into sex slaves...[p]
+[p]
+#Nikuyama
+...[p]
+Tch, I'm getting hard.[p]
 #
-サクっと一発抜いて帰るか[p]
-・・・・・・[p]
-・・・[p]
+I'll quickly jerk off and go home...[p]
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
@@ -329,7 +343,7 @@ Male student: Yes, understood.[p]
 *ch2ba
 
 [tb_start_text mode=1 ]
-おいおい、もういいだろう俺のことは[p]
+Hey, hey, that's enough about me.[p]
 [_tb_end_text]
 
 [jump  storage="scene3.ks"  target="*st3"  ]
@@ -337,7 +351,7 @@ Male student: Yes, understood.[p]
 
 [tb_start_text mode=1 ]
 #
-さっさと家に帰るか[p]
+I'll quickly go home.[p]
 [_tb_end_text]
 
 *st5
@@ -347,10 +361,11 @@ Male student: Yes, understood.[p]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Radio.mp3"  ]
 [tb_start_text mode=1 ]
 #
-ふー食った食った[p]
-コンビニ弁当を二つ平らげて腹もいっぱいになったし、後は一発こいて寝るとするか[p]
-ＰＣを立ち上げて・・・と[p]
-今日はどんな動画で抜くかな[p]
+I ate, I ate.[p]
+I devoured two convenience store bento boxes and my stomach is full.[p]
+Now, I just need to jerk off once and go to sleep.[p]
+I'll start up my PC...[p]
+and think about what kind of video I'll use to get off today.[p]
 [_tb_end_text]
 
 [glink  color="black"  storage="scene3.ks"  size="20"  text="セクハラ身体検査"  target="*ch4a"  x="463"  y="290"  width="180"  height="20"  _clickable_img=""  ]
@@ -361,62 +376,72 @@ Male student: Yes, understood.[p]
 *ch4a
 
 [tb_start_text mode=1 ]
-身体検査モノでも見るか[p]
-身体測定を欠席した女子５人が男子と一緒に検診を受けさせられるって話だ[p]
-常識的にはありえない状況だが、「お医者様の都合もあるんだぞ」とかいって強引に納得させられるんだ[p]
-裸になるのをためらう女子を嗜めたり叱ったりする看護婦がいい味を出してるな[p]
-男子がジロジロ見てくるのを「ほら、こっちを見ない」とか言ってたまに申し訳程度に叱るんだけど、本当に叱る気はまったく無いんだよなｗ[p]
-そんで渋々従う女子生徒の中に一人必ず気が強くて正論で抵抗する女がいるんだよ[p]
-でも結局強引な理論で逆らえなくなって・・・ここが抜きどころだな[p]
-・・・・・・[p]
-・・・[p]
-ふう、スッキリした[p]
-しかしなんで決まって最後は医者と本番するんだろうな[p]
-別に要らねえよそんなシーン[p]
-こっちはセクハラ検診が観たくて買ってるんだ。本番が観たけりゃ他にいくらでもあるんだから[p]
-AVには絶対本番シーンが必要って決まりでもあるんか？[p]
-ギョウチュウ検査がピークで後は蛇足だっつーの[p]
+In this story, there's a situation that is normally unthinkable where five girls who skipped the physical measurements for the health examination are forced to undergo the examination with the boys.[p]
+They are convinced by saying that it's due to the doctor's convenience, even though it goes against common sense.[p]
+The nurses scold or reprimand the girls who hesitate to undress, adding a nice touch to the scene.[p]
+They occasionally scold the boys for staring and tell them not to look, but they don't really have any intention of scolding them, haha.[p]
+Reluctantly, the girls comply.[p]
+Among the female students, there is always one strong-willed girl who resists with logical arguments, but in the end, she can't go against their forceful reasoning...[p]
+This is the climax...[p]
+Phew, that was refreshing.[p]
+But why is it always that in the end, they have sex with the doctor?[p]
+I don't really need that scene.[p]
+I bought this for the sexual harassment examination scenes.[p]
+If I wanted to see sex scenes, there are plenty of other options besides AVs, right?[p]
+The actual examination is the highlight; everything else is unnecessary.[p]
 [_tb_end_text]
 
 [jump  storage="scene3.ks"  target="*st6"  ]
 *ch4b
 
 [tb_start_text mode=1 ]
-女教師モノでも観るか[p]
-女教師が弱みを握られて色々させられ、最終的にクラスの奴隷になる・・・まぁなんのひねりも無い王道パターンだな[p]
-一応放尿というメインテーマがあるようだが[p]
-まぁ女優は悪くないな[p]
-たまにどう見ても女教師とは思えない女優がやってるやつがあるがあれは冷めるよな。茶髪とか[p]
-女教師なんだからやっぱり知性的で真面目な感じでないとな[p]
-例えばうちの桐嶋のような・・・[p]
-くそっ、一度で良いからあいつをこのAVみたいに無茶苦茶に犯してやりたいぜ[p]
-・・・・・・[p]
-・・・[p]
-ふう、スッキリした[p]
-しかし輪姦シーンってあんまり興奮しないんだよな俺[p]
-男が複数だと感情移入できないというか・・・女が複数なのは全然いいけどな[p]
-それとお漏らしと銘打ってる割に、なんでもないシーンでただ小便を漏らしてるだけなのもちょっとなぁ・・・[p]
-小便するにもシチュエーションが大事だって事を解ってないなこの監督は[p]
-結局、序盤のリモコンローター授業がピークだったぜ。リピートは無いなこれは[p]
+Female teacher-themed works, huh?[p]
+Watching female teachers being blackmailed and made to do various things, ultimately becoming slaves to the class...[p]
+Well, it's a typical and straightforward pattern with no twists.[p]
+There seems to be a main theme of urination, but the actresses are not bad.[p]
+Sometimes there are actresses who don't really look like female teachers, and that's a turn-off.[p]
+They should have an intelligent and serious demeanor, like our Kaori...[p]
+Damn it, I want to violate that person like in this AV, just once...[p]
+*sigh* That was refreshing.[p]
+However, gangbang scenes don't really excite me that much.[p]
+I mean, I can't empathize when there are multiple men involved...[p]
+But when there are multiple women, that's totally fine.[p]
+Also, even though they advertise it as peeing, sometimes it's just a scene where they're casually urinating, which is a bit disappointing...[p]
+Even peeing requires the right situation, but this director doesn't seem to understand that.[p]
+In the end, the peak was the remote-controlled vibrator lesson in the beginning.[p]
+There's no replay value for this one.[p]
 [_tb_end_text]
 
 [jump  storage="scene3.ks"  target="*st6"  ]
 *ch4c
 
 [tb_start_text mode=1 ]
-屈辱！全裸土下座・・・これでも観るか[p]
-クレーマーに謝りに行って全裸で土下座させられてそのまま犯されるってヤツだな[p]
-今はSNSがあるからな[p]
-「欠陥商品を買わされた」とネットにばら撒くぞ・・・みたいな脅しは結構リアリティがあるぜ[p]
-まぁ実際には家に謝りに来るなんてことは無いだろうし、仮に来たとしてもおっさんだろうがな[p]
-こんな美人が謝罪に来て「なんでもしますから！」なんて状況は・・・やっぱりファンタジーだよなぁ[p]
-でも、女に全裸土下座させるなんて・・・[p]
-一度はやって見たい夢だよな[p]
-・・・・・・[p]
-・・・[p]
-ふう、スッキリした[p]
-しかしこういうのは男優の演技力も問われるな[p]
-チンポ入れながらしつこく謝罪のセリフ言わせるシーンはネチっこくてなかなか良かったぞ[p]
+Humiliation![p]
+Naked prostration...[p]
+Even if it means going to apologize to a complainer and being forced to prostrate naked and then violated, this is the kind of thing I would watch.[p]
+Nowadays, with social media, there's a real possibility of spreading the word online about being sold a defective product...[p]
+It's like a threat with some realism.[p]
+Well, in reality, no one would actually come to apologize at my house, and even if they did, it would probably be some old guy.[p]
+The situation of a beautiful woman coming to apologize and saying she'll do anything...[p]
+that's definitely fantasy.[p]
+But still, making a woman prostrate naked...[p]
+it's a dream I'd like to experience at least once...[p]
+*sigh* That was refreshing.[p]
+However, scenes like this also require good acting skills from the male actors.[p]
+Making them apologize persistently while inserting their penis was quite slimy and well done.[p]
+Past Translated Text: 'Humiliation![p]
+Naked prostration...[p]
+Even if it means going to apologize to a complainer and being forced to prostrate naked and then violated, this is the kind of thing I would watch.[p]
+Nowadays, with social media, there's a real possibility of spreading the word online about being sold a defective product...[p]
+It's like a threat with some realism.[p]
+Well, in reality, no one would actually come to apologize at my house, and even if they did, it would probably be some old guy.[p]
+The situation of a beautiful woman coming to apologize and saying she'll do anything...[p]
+that's definitely fantasy.[p]
+But still, making a woman prostrate naked...[p]
+it's a dream I'd like to experience at least once...[p]
+*sigh* That was refreshing.[p]
+However, scenes like this also require good acting skills from the male actors.[p]
+'[p]
 
 [_tb_end_text]
 
@@ -425,21 +450,22 @@ AVには絶対本番シーンが必要って決まりでもあるんか？[p]
 
 [jump  storage="scene3.ks"  target="*ch4da"  cond="f.pp5==1"  ]
 [tb_start_text mode=1 ]
-ん・・・？[p]
-「サイコＳＸ」？なんだこれは[p]
-エロ動画を漁っていると変な広告バナーが目に止まった[p]
-なになに、最新脳科学に基づいた洗脳補助装置・・・？[p]
-この装置を使えば誰でも簡単に他人を洗脳し、自由にコントロールすることができます、だと？[p]
-AVでよくあるやつじゃねえか[p]
-玩具の銃みたいな形で相手に向かって撃つといきなり放心状態になってなんでも信じ込ませることができるアレだろ[p]
-ブハハハハ、アレが本当に売ってやがるｗ[p]
-２９８００円か[p]
-・・・アホらしい。誰が買うんだこんなもん[p]
-そんなもんが実在したら１０００万でも安いもんだろ[p]
-こんなインチキ商品に騙される奴はよっぽどの馬鹿だけだぜ[p]
-・・・そうだ、せっかくだし催眠モノでも観るかな[p]
-・・・・・・[p]
-・・・[p]
+Hmm...?[p]
+Psycho SX?[p]
+What's this?[p]
+While searching for erotic videos, I came across a strange advertisement banner.[p]
+Let's see...[p]
+it's a brainwashing device based on the latest neuroscience...?[p]
+With this device, anyone can easily brainwash others and control them freely, huh?[p]
+Isn't this something you often see in AVs?[p]
+It looks like a toy gun, you shoot it at someone and they suddenly go into a trance state, believing anything you tell them.[p]
+Hahaha, they're actually selling that thing![p]
+For 29,800 yen...[p]
+how ridiculous.[p]
+Who would buy something like this?[p]
+If something like this actually existed, it would be worth millions.[p]
+Only complete idiots would be fooled by such a scam product...[p]
+[p]
 
 
 [_tb_end_text]
@@ -448,8 +474,7 @@ AVでよくあるやつじゃねえか[p]
 *st6
 
 [tb_start_text mode=1 ]
-さてと、寝るかな[p]
-・・・[p]
+Well then, should I go to sleep...[p]
 [_tb_end_text]
 
 [stopbgm  time="1000"  fadeout="true"  ]
@@ -465,12 +490,10 @@ AVでよくあるやつじゃねえか[p]
 
 [jump  storage="scene3.ks"  target="*st9"  cond="f.pp3==2"  ]
 [tb_start_text mode=1 ]
-洗脳装置か・・・[p]
-これが本物だったら女を犯し放題なんだけどなぁ[p]
-まあそんなわけないわな[p]
-今日も催眠モノで一発抜いて寝るか[p]
-・・・・・・[p]
-・・・[p]
+A brainwashing device...[p]
+If this was the real deal, I could have my way with women.[p]
+Well, that's not possible, of course.[p]
+Today, I'll just jerk off to some hypnosis-themed videos and go to sleep...[p]
 [_tb_end_text]
 
 [jump  storage="scene3.ks"  target="*st6"  ]
@@ -478,7 +501,7 @@ AVでよくあるやつじゃねえか[p]
 
 [tb_start_text mode=1 ]
 #
-さてと、今日も校舎の見回りでもするかな[p]
+Well then, should I do the rounds of the school building today too?[p]
 [_tb_end_text]
 
 [stopbgm  time="1000"  ]
@@ -486,11 +509,10 @@ AVでよくあるやつじゃねえか[p]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="いつもの放課後.mp3"  ]
 [tb_start_text mode=1 ]
 #
-今日はあまり生徒が残っていないな[p]
-・・・[p]
-お、あそこにスカートの短い女子がいるな[p]
-放課後になるとスカートを折り込んで短くして街に繰り出す生徒が居るのだ[p]
-注意しておくか？[p]
+There aren't many students left today...[p]
+Oh, there's a girl over there with a short skirt.[p]
+After school, there are students who fold their skirts to make them shorter and go out into town.[p]
+Should I keep an eye on them?[p]
 [_tb_end_text]
 
 [glink  color="black"  storage="scene3.ks"  size="20"  text="注意する"  target="*ch5a"  x="497"  y="360"  width="130"  height="20"  _clickable_img=""  ]
@@ -500,23 +522,31 @@ AVでよくあるやつじゃねえか[p]
 
 [tb_start_text mode=1 ]
 #
-よし、注意してやろう[p]
-#肉山
-「おい、お前、なんだそのスカートは」[p]
-#女子生徒
-「うげ、ゴリ・・・肉山先生！」[p]
-「別に・・・普通の長さですよ」[p]
-#肉山
-「うそつけ！こんなに短いじゃないか。ほれっ」[p]
-#女子生徒
-「ちょ・・・！スカート引っ張らないでください」[p]
-#肉山
-「ほれ、ちょっとこうすれば・・・パンツが見えて」[p]
-「ほれっほれっ」[p]
-#女子生徒
-「キャッ！い。イヤっ・・・！」[p]
-#桐嶋
-「何をしてるんですか肉山先生！」[p]
+Alright, I'll keep an eye on them.[p]
+#Nikuyama
+Hey, what's with that skirt?[p]
+#Female student
+Ugh, Mr.[p]
+Nikuyama...[p]
+It's just...[p]
+a normal length, you know.[p]
+#Nikuyama
+Don't lie![p]
+It's so short.[p]
+Look![p]
+#Female student
+Hey...![p]
+Please don't pull my skirt.[p]
+#Nikuyama
+Look, if I do this...[p]
+you can see your panties, look, look.[p]
+#Female student
+Kyaa![p]
+No...[p]
+Stop...![p]
+#Kirishima
+What are you doing, Mr.[p]
+Nikuyama?[p]
 #
 [_tb_end_text]
 
@@ -524,83 +554,91 @@ AVでよくあるやつじゃねえか[p]
 [chara_show  name="桐嶋"  time="1000"  wait="true"  storage="chara/1/game80-1.png"  width="444"  height="807"  left="446"  top="7"  reflect="false"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Grease_Slide_Trap.mp3"  ]
 [tb_start_text mode=1 ]
-#女子生徒
-「桐嶋先生！」[p]
-#肉山
-「なんだ、俺はただ生徒の服装を指導していただけだっ」[p]
-#桐嶋
-「そうは見えませんでしたが」[p]
-「どうせ服装指導にかこつけて生徒にわいせつ行為をしようとしていたのでしょう」[p]
-#肉山
-「わ、わいせつ行為などしていない！」[p]
-「そりゃ少しは脚くらい触ったかもしれんが、それは不可抗力というもので・・・」[p]
-#桐嶋
-「あなたはもう帰っていいわよ」[p]
-#女性生徒
-「はい、ありがとうございます桐嶋先生」[p]
-#桐嶋
-「全く・・・あなたのような人がいるから教師という職に対する信頼が落ちるんです」[p]
-#肉山
-「なんだと！俺が何年教師をやってると・・・」[p]
-#桐嶋
-「あなたのように体罰やセクハラが容認されていた時代から頭を切り替えられない古い時代の教師はさっさと排除されるべきなんです」[p]
-「本当に体育教師というのは・・・」[p]
-#肉山
-「この・・・言わせておけば！」[p]
-#桐嶋
-「暴力ですか？」[p]
-「私に指一本でも触れたら教育委員会に訴えてあなたをクビにしてもらいますよ」[p]
-#肉山
-「く・・・」[p]
-#桐嶋
-「生徒に手を出したりしても同じです」[p]
-「わたしにはあなたのような教師から生徒を守る義務がありますからね」[p]
-#肉山
-「てめえ、俺をなんだと思って・・・!｣[p]
-#教頭
-「どうかしましたか？」[p]
+#Female student
+Kirishima-sensei![p]
+#Nikuyama
+What, I was just giving guidance on the students' attire.[p]
+#Kirishima
+I didn't see it that way, but it seems like you were using the excuse of giving guidance on attire to engage in indecent acts with the students.[p]
+#Nikuyama
+I-I didn't engage in any indecent acts![p]
+Well, maybe I touched her legs a little, but that was unavoidable...[p]
+#Kirishima
+You can go home now.[p]
+#Female student
+Thank you very much, Kirishima-sensei.[p]
+#Kirishima
+Geez...[p]
+It's because of people like you that the trust in the teaching profession is declining.[p]
+#Nikuyama
+What did you say![p]
+How many years have I been a teacher...[p]
+#Kirishima
+Teachers from the old era who can't switch their mindset from the time when corporal punishment and sexual harassment were tolerated should be promptly eliminated.[p]
+Seriously, what does it mean to be a physical education teacher...[p]
+#Nikuyama
+If you let me speak...[p]
+#Kirishima
+Violence?[p]
+If you lay a finger on me, I will report you to the board of education and get you fired.[p]
+#Nikuyama
+Ugh...[p]
+#Kirishima
+It's the same even if you didn't engage in any indecent acts with the students.[p]
+As a teacher, I have a duty to protect the students from teachers like you.[p]
+#Nikuyama
+What do you think of me...![p]
+#Vice Principal
+What's the matter?[p]
 #
 [_tb_end_text]
 
 [chara_move  name="桐嶋"  anim="true"  time="300"  effect="linear"  wait="true"  left="81"  top="7"  width="444"  height="807"  ]
 [chara_show  name="教頭"  time="1000"  wait="true"  storage="chara/6/game49-1.png"  width="379"  height="891"  left="699"  top="0"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#肉山
-「あ、教頭・・・」[p]
-#教頭
-「何事ですか、大きな声を出して」[p]
-「またなにかいざこざでも・・・」[p]
-#肉山
-「いや、別に・・・」[p]
-#桐嶋
-「なんでもありません」[p]
-#教頭
-「また口論でもしていたんじゃないんですか。あなたたちはどうも相性がよくないようですからね」[p]
-#肉山
-「いえ、そんなことは・・・」[p]
-#桐嶋
-「大丈夫です」[p]
-#教頭
-「仲良くしろとは言いませんが生徒たちの前で揉めるのはやめてもらいたいですな。教育上よくありませんからな」[p]
-#肉山
-「はい、わかってます」[p]
-#桐嶋
-「気をつけます」[p]
-#教頭
-「全く・・・なにか問題が起きたらわたしの管理能力が問われるんですからね」[p]
-「気をつけてくださいよ」[p]
+#Nikuyama
+Oh, Vice Principal...[p]
+#Vice Principal
+What's the matter?[p]
+Why are you raising your voice again and causing trouble...[p]
+#Nikuyama
+No, it's nothing...[p]
+#Kirishima
+It's nothing.[p]
+#Vice Principal
+Were you two arguing again?[p]
+It seems like the two of you don't get along well.[p]
+#Nikuyama
+No, it's nothing...[p]
+#Kirishima
+It's okay.[p]
+#Vice Principal
+I'm not telling you to get along, but I would like you to stop arguing in front of the students.[p]
+It's not good for their education.[p]
+#Nikuyama
+Yes, I understand.[p]
+#Kirishima
+I'll be careful.[p]
+#Vice Principal
+Geez...[p]
+If any problems arise, it will question my management skills.[p]
+So please be careful.[p]
 #
 [_tb_end_text]
 
 [chara_hide  name="教頭"  time="1000"  wait="true"  pos_mode="true"  ]
 [tb_start_text mode=1 ]
-#肉山
-「けっ・・・結局自分の心配かよ」[p]
-「おい、お前のせいで怒られたじゃねえか」[p]
-#桐嶋
-「それはあなたの方が―――」[p]
-「ハァ・・・もういいです。とにかく女生徒に近づかないで下さい」[p]
-「できれば教師を辞めてもらうのが一番良いんですけどね。それでは」[p]
+#Nikuyama
+Ugh...[p]
+In the end, it's just your own concern.[p]
+Because of you, I got scolded.[p]
+#Kirishima
+It's actually you who...[p]
+*sigh*...[p]
+never mind.[p]
+Anyway, please don't get close to the female students.[p]
+If possible, it would be best if you quit being a teacher.[p]
+Well then...[p]
 #
 
 
@@ -608,16 +646,22 @@ AVでよくあるやつじゃねえか[p]
 
 [chara_hide  name="桐嶋"  time="1000"  wait="true"  pos_mode="false"  ]
 [tb_start_text mode=1 ]
-#肉山
-「くそっ！なんだあのアマ・・・言うだけ言って行っちまいやがった・・・！」[p]
-「エリ―トだと思って人を見下しやがって・・・なんて生意気なやつだ」[p]
-「一度でいいからあいつを犯して俺のチンポでヒィヒィ言わせてやりてえぜ」[p]
-「いっそ本当にレイプしてやるか・・・？」[p]
-「・・・無理に決まってるよな。そんなことをしたら本当にクビになっちまう・・・ていうか刑務所いきか」[p]
-「はぁ・・・もう帰ろう」[p]
+#Nikuyama
+Damn it![p]
+What the hell was that amateur...[p]
+Just talking and then leaving...![p]
+Acting all high and mighty, looking down on people...[p]
+What an arrogant person.[p]
+I want to make them moan with my cock, just once.[p]
+Maybe I should really rape them...?[p]
+...[p]
+It's definitely impossible.[p]
+If I were to do something like that, I would definitely get fired...[p]
+Or even go to jail...[p]
+Ugh...[p]
+Let's just go home already.[p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 
 [_tb_end_text]
 
@@ -629,18 +673,17 @@ AVでよくあるやつじゃねえか[p]
 [bg  time="1000"  method="crossfade"  storage="rouka.jpg"  ]
 [tb_start_text mode=1 ]
 #
-今日は残ってる生徒もほとんど居ないな[p]
-・・・[p]
-つまらねえな、もう帰ろう[p]
+Today, there are hardly any students left...[p]
+It's boring, let's just go home.[p]
 [_tb_end_text]
 
 [jump  storage="scene3.ks"  target="*st5"  ]
 *ch5b
 
 [tb_start_text mode=1 ]
-まぁ放っておこう[p]
-校則違反だが、スカートが短いのは悪いことじゃない[p]
-さてと、そろそろ家に帰るか[p]
+Let's just leave it be.[p]
+It's a violation of the school rules, but having a short skirt isn't a bad thing.[p]
+Well then, it's about time to go home.[p]
 [_tb_end_text]
 
 [jump  storage="scene3.ks"  target="*st5"  ]
@@ -649,21 +692,17 @@ AVでよくあるやつじゃねえか[p]
 [stopbgm  time="1000"  fadeout="true"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="music58.mp3"  ]
 [tb_start_text mode=1 ]
-催眠補助器・・・[p]
-なんかこれが気になって仕方ねえ[p]
-他人の精神を自由にコントロール・・・か[p]
-もし・・・もしこれが本物だったら？[p]
-女子生徒を思いのままに操って毎日ハメ放題のセックスライフを送れるかもしれない[p]
-・・・[p]
-ちょっと「サイコＳＸ」で検索してみるか[p]
-買った馬鹿のレビューがあるかもしれない[p]
-・・・・・・[p]
-・・・[p]
-・・・無い[p]
-「サイコＳＸ」で検索しても全く関係の無い海外のサイトしかヒットしないぞ[p]
-これは一体どういうことだ・・・？[p]
-・・・うーん、逆に気になってきたな[p]
-・・・[p]
+Hypnosis assistant...[p]
+I can't help but be curious about this.[p]
+Being able to freely control someone else's mind...[p]
+What if this is the real deal?[p]
+I might be able to manipulate the female students and have a daily sex life.[p]
+Maybe I should search for Psycho SX and see if there are any reviews from idiots who bought it...[p]
+Hmm...[p]
+There doesn't seem to be any.[p]
+Even when I search for Psycho SX, all I get are unrelated foreign websites.[p]
+What does this mean...?[p]
+Hmm, strangely enough, now I'm even more curious.[p]
 
 [_tb_end_text]
 
@@ -676,11 +715,10 @@ AVでよくあるやつじゃねえか[p]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Radio.mp3"  ]
 [tb_start_text mode=1 ]
 #
-アホらしい。催眠マシンなんて実在するわけが無い[p]
-こんなモンに騙されるほど俺は馬鹿じゃないぜ[p]
-さて、今日もシコって寝るかな[p]
-・・・・・・[p]
-・・・[p]
+This is ridiculous.[p]
+There's no way a hypnosis machine actually exists.[p]
+I'm not stupid enough to be fooled by something like this.[p]
+Well then, should I jerk off and go to sleep today...?[p]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -688,11 +726,12 @@ AVでよくあるやつじゃねえか[p]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
 #
-俺はその後もくだらない毎日を送っている[p]
-あれからサイコ‐ＳＸの広告は一度も見ていない[p]
-もしあの時アレを買っていたら俺の人生は何か変わっていたのだろうか？[p]
-・・・そんなことを考えても無駄だな。時間は戻らないのだから[p]
-エンディングNO.０　【　BAD END　】[p]
+After that, I continued to live my boring everyday life.[p]
+I haven't seen a single advertisement for Psycho SX since then.[p]
+I wonder if my life would have changed if I had bought it back then?...[p]
+But thinking about such things is pointless.[p]
+Time doesn't go back, so there's no use.[p]
+Ending No[v0] 0 - [BAD END].[p]
 
 [_tb_end_text]
 

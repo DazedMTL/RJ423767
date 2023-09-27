@@ -2,7 +2,7 @@
 
 [tb_start_text mode=1 ]
 #
-さて、どうやって攻めるか・・・？[p]
+Well, how should we attack...?[p]
 [_tb_end_text]
 
 [glink  color="black"  storage="play1.ks"  size="20"  text="教頭に仲良くするよう言われた"  x="480"  y="290"  width="300"  height="20"  _clickable_img=""  target="*st1"  ]
@@ -12,55 +12,56 @@
 *st1
 
 [tb_start_text mode=1 ]
-#肉山
-「先日、教頭に私たちの仲が悪いことを注意されたじゃないですか」[p]
-#桐嶋
-「・・・？」[p]
-「まぁたしかに言われましたが・・・」[p]
-「それがなにか？」[p]
+#Nikuyama
+The other day, the vice principal warned us about our bad relationship, didn't they?[p]
+#Kirishima
+...?[p]
+Well, they did say that, but...[p]
+what's your point?[p]
 #
-ここでスイッチオン・・・と[p]
+Turn on the switch here...[p]
 [_tb_end_text]
 
 [tb_image_show  time="1000"  storage="default/game200.png"  width="272"  height="242"  x="521"  y="235"  _clickable_img=""  name="img_7"  ]
 [tb_image_hide  time="1000"  ]
 [tb_start_text mode=1 ]
-#肉山
-「教師同士がいがみ合っているのを生徒に見せるのは教育上よくなかったと私も反省しましてね」[p]
-#桐嶋
-「・・・・・・」[p]
-「それは確かに・・・そうですね」[p]
+#Nikuyama
+I also reflected on the fact that it is not good for students to see teachers quarreling with each other from an educational standpoint.[p]
+#Kirishima
+...[p]
+That's certainly...[p]
+true.[p]
 #
-よし、納得させたぞ！[p]
-#肉山
-「それでこうして時間をとって親睦を深めようと思いましてね」[p]
-#桐嶋
-「はぁ・・・」[p]
-#肉山
-「お互いこれまでは誤解もあったと思いますが、これからは仲良くしていこうじゃありませんか」[p]
-#桐嶋
-「話はわかりました」[p]
-#肉山
-「それでは・・・」[p]
-#桐嶋
-「でもあなたと仲良くするつもりはありません」[p]
-#肉山
-「えっ、な、なんでです？」[p]
-#桐嶋
-「あなたのような女性を性の対象としか見ていないような男とまともな人間関係を結べるはずがありません」[p]
-#肉山
-「なっ・・・そんなことは・・・！」[p]
-#桐嶋
-「判るんですあなたのような男は」[p]
-「女は男に従属して当然と考えている古い頭の人間」[p]
-「わたしはあなたみたいな男に絶対に気を許したりはしません」[p]
-#肉山
-「おい、勝手な決め付けはやめろ！」[p]
-「せっかくこっちが下手に出ているのに・・・」[p]
-#桐嶋
-「とにかく、生徒の前で険悪なところを見せなければ良いのでしょう」[p]
-「お互いに話しかけなければいいことです」[p]
-「それじゃ」[p]
+Alright, I convinced them![p]
+#Nikuyama
+So, I thought we should take some time to deepen our friendship.[p]
+#Kirishima
+*sigh*...[p]
+#Nikuyama
+I think there have been misunderstandings between us until now, but from now on, let's get along well, shall we?[p]
+#Kirishima
+I understand what you're saying.[p]
+#Nikuyama
+Well then...[p]
+#Kirishima
+But I have no intention of getting along with you.[p]
+#Nikuyama
+Huh, w-why?[p]
+#Kirishima
+I can't have a normal relationship with a man who only sees women like you as sexual objects.[p]
+#Nikuyama
+Wha...[p]
+That's not...![p]
+#Kirishima
+I understand.[p]
+I will never let my guard down around men like you who believe that women should naturally be subservient to men and have outdated views.[p]
+#Nikuyama
+Hey, stop making assumptions![p]
+I'm trying to be considerate here...[p]
+#Kirishima
+Anyway, we just need to avoid showing any hostility in front of the students.[p]
+It would be best if we just don't talk to each other.[p]
+That's all.[p]
 #
 [_tb_end_text]
 
@@ -69,15 +70,13 @@
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Night_Cruising.mp3"  ]
 [tb_start_text mode=1 ]
 #
-くそっ行っちまいやがった！[p]
-なんだあの態度は[p]
-女の癖に生意気な！！[p]
-・・・[p]
-しかしあの様子だと洗脳装置を使っても俺を好きにさせるのは無理かもしれないな[p]
-・・・第一目的はあいつとラブラブになることじゃねえ[p]
-あのクソ生意気な性格のままチンポをぶち込んで奴隷にしてやることだ[p]
-それにはこのやり方じゃない[p]
-明日は別の方向を試してみよう[p]
+Damn it, they went too far![p]
+What's with that attitude, acting all high and mighty just because they're a woman!![p]
+...[p]
+But judging from their behavior, it might be impossible to make them fall for me even if I use the brainwashing device...[p]
+Besides, my main goal isn't to become lovey-dovey with them, it's to shove my dick into that arrogant personality of theirs and make them my slave.[p]
+This method won't work for that.[p]
+Tomorrow, let's try a different approach.[p]
 [_tb_end_text]
 
 [tb_eval  exp="f.tt=31"  name="tt"  cmd="="  op="t"  val="31"  val_2="undefined"  ]
@@ -85,128 +84,134 @@
 *st2
 
 [tb_start_text mode=1 ]
-#肉山
-「実は県の教育委員会が教師の健康に関する調査を行ってるようで」[p]
-「わたしが担当を任されて今、個別にアンケートをしてるんですよ」[p]
-#桐嶋
-「健康に関するアンケート？」[p]
-「そんな話は聞いてませんが・・・」[p]
+#Nikuyama
+Actually, it seems that the prefectural board of education is conducting a survey on teachers' health, and I have been assigned to handle it.[p]
+Right now, I am conducting individual questionnaires.[p]
+#Kirishima
+A questionnaire about health?[p]
+I haven't heard anything about that...[p]
 #
-よし、ここで洗脳補助器を・・・！[p]
+Alright, here's the brainwashing device...![p]
 
 [_tb_end_text]
 
 [tb_image_show  time="1000"  storage="default/game200.png"  width="311"  height="276"  x="510"  y="218"  _clickable_img=""  name="img_18"  ]
 [tb_image_hide  time="1000"  ]
 [tb_start_text mode=1 ]
-#桐嶋
-「・・・」[p]
-「・・・わかりました。手短に済ませてください」[p]
+#Kirishima
+...[p]
+I understand.[p]
+Please make it brief.[p]
 #
-よしっ、成功だ！[p]
-#肉山
-「じゃあとりあえずそこに座っていただいて・・・」[p]
+Success![p]
+#Nikuyama
+Well, for now, please have a seat over there...[p]
 
 [_tb_end_text]
 
 [chara_hide  name="桐嶋"  time="1000"  wait="true"  pos_mode="false"  ]
 [bg  time="1000"  method="crossfade"  storage="game121-0.jpg"  ]
 [tb_start_text mode=1 ]
-#肉山
-「それではまず名前と年齢から教えてください」[p]
-#桐嶋
-「桐嶋香織、２６歳です」[p]
-#肉山
-「身長と体重は？」[p]
-#桐嶋
-「・・・１７０ｃｍ、５６ｋｇです」[p]
-#肉山
-「１７０ｃｍ、５６ｋｇ・・・と」[p]
+#Nikuyama
+First, please tell me your name and age.[p]
+#Kirishima
+My name is Kaori Kirishima, and I'm 26 years old.[p]
+#Nikuyama
+What is your height and weight?[p]
+#Kirishima
+...[p]
+I'm 170cm tall and weigh 56kg.[p]
+#Nikuyama
+and[p]
 #
-何も用意していなかったので適当な紙に書き込むふりをする[p]
-#肉山
-（信じて答えてるぞ）[p]
-（しばらく適当にそれらしい質問をしてみるか）[p]
-「えーっと、過去に大きな病気をしたことはありますか？」[p]
-#桐嶋
-「いえ、ありません」[p]
-#肉山
-「現在体の不調はありますか？」[p]
-#桐嶋
-「ありません」[p]
-#肉山
-「ちょとしたことでも無いですか？」[p]
-「肩こりとか不眠症、便秘、倦怠感など何もありませんか？」[p]
-#桐嶋
-「そうですね・・・」[p]
-「いえ、特に無いです」[p]
-#肉山
-「健康に問題は無いということですね」[p]
-「えーーっと・・・運動は週にどの程度していますか？」[p]
-#桐嶋
-「運動ですか？そうですね・・・」[p]
-「最近は時間がなくてほとんどできていません」[p]
-「時々筋力トレーニングやストレッチの体操をするくらいです」[p]
-#肉山
-「学生時代に部活動などで何かスポーツをしていましたか？」[p]
-#桐嶋
-「・・・高校までは新体操をしていました」[p]
-#肉山
-「ほお新体操ですか」[p]
-「ということは身体はかなり柔らかいんですね？」[p]
-#桐嶋
-「ええ・・・まぁ」[p]
-#肉山
-「なるほどなるほど」[p]
-（これはいずれ肉奴隷にした暁には色んな体位で楽しめそうだぜ・・・ぐひひ）[p]
-（よし、どの程度の質問まで答えるか、もうちょっと踏み込んでみようぜ）[p]
-「えー・・・生理は重い方ですか？」[p]
+I didn't prepare anything, so I pretended to write on a random piece of paper.[p]
+#Nikuyama
+(Believing and answering) (Let's ask some random questions for a while) Um, have you ever had a serious illness in the past?[p]
+#Kirishima
+No, I haven't.[p]
+#Nikuyama
+Do you currently have any physical discomfort?[p]
+#Kirishima
+No, I don't.[p]
+#Nikuyama
+Is there anything even minor?[p]
+Do you have any shoulder stiffness, insomnia, constipation, or fatigue?[p]
+#Kirishima
+Well...[p]
+No, there's nothing in particular.[p]
+#Nikuyama
+So, you're saying you have no health problems...[p]
+umm...[p]
+how often do you exercise in a week?[p]
+#Kirishima
+Exercise?[p]
+Well...[p]
+recently I haven't had much time, so I can hardly do it.[p]
+Sometimes I do some strength training and stretching exercises.[p]
+#Nikuyama
+Did you participate in any sports or club activities during your school days?[p]
+#Kirishima
+...[p]
+I did rhythmic gymnastics until high school.[p]
+#Nikuyama
+So, you did rhythmic gymnastics, which means your body is quite flexible, right?[p]
+#Kirishima
+Well...[p]
+#Nikuyama
+I see, I see.[p]
+(When I turn them into my meat slave, I'll be able to enjoy various positions...[p]
+hehehe) (Alright, let's dig a little deeper and see how far they'll answer my questions.[p]
+) Um...[p]
+do you have heavy periods?[p]
 
 [_tb_end_text]
 
 [bg  time="100"  method="crossfade"  storage="game121.jpg"  ]
 [tb_start_text mode=1 ]
-#桐嶋
-「・・・！そ、そんなことも聞くんですか？」[p]
-#肉山
-「ええ、調査票の項目にあるので答えていただかないと・・・」[p]
-#桐嶋
-「・・・普通です。どちらかというと軽い方だと思います」[p]
-#肉山
-「周期も安定していますか？」[p]
-#桐嶋
-「・・・安定してます」[p]
-#肉山
-「生理も順調・・・と」[p]
-（この程度の質問は洗脳補助器を使わなくても答えるのか）[p]
-（それじゃこれはどうかな？）[p]
-「現在交際している相手はいますか？」[p]
-#桐嶋
-「・・・！」[p]
-「そ、そんなこと答える必要があるんですか？[p]
-#肉山
-「アンケート項目にあるのでね・・・」[p]
-#桐嶋
-「・・・いません」[p]
-#肉山
-「ほぉ、居ないんですね」[p]
-「ということは性行為はしばらくしていないんですか？」[p]
-#桐嶋
-「そ、そんなこと答えられません！」[p]
-「本当に項目にあるんですか！？」[p]
-「ちょっと用紙を見せてください！」[p]
-#肉山
-「あ、いや、用紙は・・・[p]
-（しまった用紙を用意していないぞ）[p]
+#Kirishima
+...![p]
+A-Are you really asking me that?[p]
+#Nikuyama
+Yes, it's on the survey form, so I need you to answer...[p]
+#Kirishima
+...[p]
+It's normal.[p]
+I think it's more on the lighter side.[p]
+#Nikuyama
+Are your menstrual cycles stable?[p]
+#Kirishima
+...[p]
+They are stable.[p]
+#Nikuyama
+My menstrual cycles are also going smoothly...[p]
+(I wonder if they can answer this kind of question without using the brainwashing device) (Well then, how about this?[p]
+) Do you currently have a partner?[p]
+#Kirishima
+...![p]
+D-Do I really need to answer that?[p]
+#Nikuyama
+It's because it's on the survey form...[p]
+#Kirishima
+...[p]
+I don't have one.[p]
+#Nikuyama
+Oh, so you don't have one.[p]
+Does that mean you haven't had sexual intercourse for a while?[p]
+#Kirishima
+I-I can't answer that![p]
+Is it really on the form!?[p]
+Please show me the questionnaire![p]
+#Nikuyama
+(I forgot to prepare the form)[p]
 #
-キーンコーンカーンコーン[p]
-#肉山
-「あ、昼休憩が終わってしまいましたね」[p]
-「この続きはまた明日にしましょう」[p]
-#桐嶋
-「・・・わかりました」[p]
-「次で終らせてくださいよ」[p]
-「それでは」[p]
+Keen corn, corn.[p]
+#Nikuyama
+Ah, lunch break is over.[p]
+Let's continue this tomorrow.[p]
+#Kirishima
+...[p]
+Alright, let's finish this next time then.[p]
+Goodbye.[p]
 #
 [_tb_end_text]
 
@@ -215,12 +220,10 @@
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Night_Cruising.mp3"  fadein="true"  ]
 [tb_start_text mode=1 ]
 #
-やれやれ危なかった[p]
-明日までにＰＣで偽のアンケート用紙を作っておこう[p]
-・・・それにしても上手くいったぜ[p]
-この調子で徐々に洗脳を深めていって、最終的には性処理用の奴隷にしてやるぜ[p]
-・・・・・・[p]
-・・・[p]
+Phew, that was close.[p]
+I should make a fake survey form on my computer by tomorrow...[p]
+But still, it went well.[p]
+I'll gradually deepen the brainwashing and eventually turn them into a sex slave...[p]
 [_tb_end_text]
 
 [tb_eval  exp="f.tt=31"  name="tt"  cmd="="  op="t"  val="31"  val_2="undefined"  ]
@@ -229,30 +232,32 @@
 *st3
 
 [tb_start_text mode=1 ]
-#肉山
-「実は桐嶋先生のクラスでイジメがあるという報告がありまして」[p]
-#桐嶋
-「えっイジメ・・・！？」[p]
-「わたしのクラスで・・・？」[p]
-#肉山
-「ええ、それで相談を・・・」[p]
-#桐嶋
-「誰です？その生徒は」[p]
-#肉山
-「えーと、柴田！柴田です」[p]
-「柴田とその仲間が一部の生徒をいじめていると報告が・・・」[p]
-#桐嶋
-「柴田君・・・？」[p]
-#肉山
-「ええ、あの不良の柴田です。それで協力して調査を・・・」[p]
-#桐嶋
-「その話は誰に聞いたんですか？」[p]
-#肉山
-「それは・・・言わない約束をしたので」[p]
-#桐嶋
-「柴田君は見た目は不良っぽいですがそんなことをする生徒では・・・」[p]
+#Nikuyama
+Actually, there have been reports of bullying in Kirishima-sensei's class.[p]
+#Kirishima
+Eh, bullying...!?[p]
+In my class...?[p]
+#Nikuyama
+Yes, so about that...[p]
+#Kirishima
+Who is it?[p]
+Which student are you referring to?[p]
+#Nikuyama
+Um, Shibata![p]
+Shibata and their group have been reported for bullying some students...[p]
+#Kirishima
+Shibata-kun...?[p]
+#Nikuyama
+Yes, it's that delinquent Shibata.[p]
+So, let's cooperate and investigate...[p]
+#Kirishima
+Who did you hear that story from?[p]
+#Nikuyama
+I made a promise not to say that...[p]
+#Kirishima
+Shibata-kun may look like a delinquent, but I don't think they would do something like that...[p]
 #
-今だ・・・！[p]
+Now...![p]
 
 
 
@@ -262,29 +267,28 @@
 [tb_image_hide  time="1000"  ]
 [tb_start_text mode=1 ]
 #
-どうだ・・・？[p]
-#桐嶋
-「・・・柴田君は」[p]
-「そんなことをする生徒じゃありません」[p]
-「きっと何かの間違いでしょう」[p]
-#肉山
-「えっ！？」[p]
-「しかし現場を見たという生徒が・・・」[p]
-#桐嶋
-「いじめられていたのは誰です？」[p]
-#肉山
-「そ、それは分らないので調査を・・・」[p]
-#桐嶋
-「柴田君本人に聞いてみます」[p]
-#肉山
-「本人が認めるはずがないでしょう」[p]
-「ですから二人で隠密調査を・・・」[p]
-#桐嶋
-「いえ、話せば分ることです」[p]
-「そもそも柴田君がイジメをするはずがありませんから」[p]
-「この件は私に任せてください。それでは」[p]
-#肉山
-「おい、ちょっ・・・」[p]
+How about it...?[p]
+#Kirishima
+...[p]
+Shibata-kun is not the kind of student who would do something like that.[p]
+There must be some mistake.[p]
+#Nikuyama
+Eh!?[p]
+But there's a student who claims to have seen the scene...[p]
+#Kirishima
+Who was being bullied?[p]
+#Nikuyama
+W-Well, I don't know about that, so let's investigate...[p]
+#Kirishima
+I'll ask Shibata-kun directly.[p]
+#Nikuyama
+Since they wouldn't admit it themselves, let's conduct a secret investigation together...[p]
+#Kirishima
+No, if we talk, we'll understand.[p]
+First of all, Shibata-kun would never bully someone, so please leave this matter to me.[p]
+Well then...[p]
+#Nikuyama
+Hey, wait...[p]
 #
 [_tb_end_text]
 
@@ -293,16 +297,15 @@
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Night_Cruising.mp3"  ]
 [tb_start_text mode=1 ]
 #
-くそっ行っちまった！[p]
-なんでだ・・・？洗脳が全く効いていなかったぞ[p]
-あんな不良生徒のことをそんなに信用するなんておかしいだろ！[p]
-洗脳装置を使っても揺るがないってことは、タテマエじゃなく本気で生徒を信頼してるということだ[p]
-そんな教師が本当にいるとはな・・・[p]
-・・・とにかくこの攻め方じゃダメだ[p]
-だいたいイジメは話の取っ掛かりとしてはいいが、そこからどうエロい展開に持っていくんだよ[p]
-あいつを肉奴隷にするには他の方法を試すしかない[p]
-・・・・・・[p]
-・・・[p]
+Damn it, I messed up![p]
+Why...?[p]
+The brainwashing didn't work at all.[p]
+It's strange to trust a delinquent student like that.[p]
+If the brainwashing device didn't affect them, it means that they genuinely trust the students, not just putting on a facade.[p]
+I can't believe there are teachers like that...[p]
+Anyway, this approach won't work.[p]
+Bullying might be a good starting point for the story, but how do we lead it to a sexy development?[p]
+To turn them into a sex slave, we'll have to try other methods...[p]
 [_tb_end_text]
 
 [stopbgm  time="1000"  ]

@@ -2,7 +2,7 @@
 
 [tb_start_text mode=1 ]
 #
-さてと、今日はもう家に帰るか[p]
+Well then, I guess it's time to go home for today.[p]
 [_tb_end_text]
 
 [jump  storage="kitaku.ks"  target="*k1"  ]
@@ -15,7 +15,7 @@
 
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Radio.mp3"  ]
 [tb_start_text mode=1 ]
-もう寝よう[p]
+Let's go to sleep.[p]
 [_tb_end_text]
 
 [call  storage="mein.ks"  target="*ibt160"  cond="f.ss==160"  ]

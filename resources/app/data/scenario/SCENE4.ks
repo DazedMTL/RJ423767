@@ -4,11 +4,12 @@
 [bg  time="0"  method="crossfade"  storage="game101.jpg"  ]
 [tb_start_text mode=1 ]
 #
-買ってみるか[p]
-３万ならドブに捨てたとしてもそこまで惜しくはねえ[p]
-もしかしたら本物じゃないか、とずっと気にし続けるのはイラつくしな[p]
-まぁ宝くじと同じだ[p]
-ダメで元々、夢を買うつもりで買っちまおう！[p]
+Let's try buying it.[p]
+Even if we throw away 30,000 yen, it's not that big of a deal.[p]
+Maybe it's not even real, but I'll keep worrying about it.[p]
+It's annoying.[p]
+Well, it's just like buying a lottery ticket.[p]
+It's a waste, but let's buy it with the intention of buying a dream![p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -22,35 +23,33 @@
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
 #
-ぐふふふ[p]
-買っちまったぜ「サイコＳＸ」[p]
+I went ahead and bought it, psycho SX.[p]
 [_tb_end_text]
 
 [tb_image_show  time="1000"  storage="default/game200.png"  width="297"  height="264"  x="508"  y="242"  _clickable_img=""  name="img_13"  ]
 [tb_start_text mode=1 ]
-昨日家に届いて早速持ってきてしまったぜ[p]
-AVによくあるような銃型ではなくてカード型だ[p]
-販売サイトで画像は見ていたが実際に手にしてみるとかなり小さい[p]
-名刺より小さくて片手ですっぽり隠し持てる程度だ[p]
-昨日の夜に説明書を読んだんだが延々と専門用語が並んでいて理解するのにかなり時間がかかった（というかぶっちゃけ理解はできていない）[p]
-とりあえず使い方は簡単だ[p]
-ボタンを押すと人の耳には聞こえない音波のようなものが出る[p]
-それが届く範囲にいる人間はウソを信じやすい状態になる、ということらしい[p]
-ただし洗脳行為を意識している人間には効き目は無い[p]
-つまり洗脳しようとしていることがバレたら全てがパアだということだな[p]
-もちろん使用者本人は催眠にはかからない[p]
-重要なのはこれは「洗脳装置ではなくあくまで洗脳補助装置」だということだ[p]
-催眠術のように他人を思い通りに操ることはできないらしい[p]
-例えばAVのようにいきなり服を脱がさせたり、自分を好きになるように心を操作したりすることはできないということだ[p]
-・・・まぁたかが３万円でそんな美味しい話は無いわな[p]
-これを使って人を操るには少しずつ小さなウソから信じ込ませていって、思い通りになるように誘導していかないといけない[p]
-ちっとばかり面倒くさいが逆にリアリティがあって期待が持てるとも言える[p]
-「催眠術」って言うとうさんくさいが「洗脳」ってのは結構実例も聞く話だしな[p]
-ただ、説明書の中に一つ気になる文章があるんだよな・・・[p]
-「ただし効果には個人差があります」[p]
-・・・この一文で一気に胡散臭くなるよな[p]
-まあいい、とにかく試してみるしかない[p]
-女子生徒を一人この部屋に呼び出して装置を使ってみよう[p]
+Yesterday, it arrived at my house and I brought it over right away.[p]
+It's not like those gun-shaped ones you often see in AV, it's card-shaped.[p]
+I saw the image on the sales site, but when I actually held it in my hand, it was quite small.[p]
+Smaller than a business card, you can easily hide it in one hand.[p]
+I read the instruction manual last night, but it was filled with specialized terms and it took quite a long time to understand (or to be honest, I didn't really understand).[p]
+Anyway, the usage is simple.[p]
+When you press the button, it emits a sound wave that is inaudible to human ears.[p]
+People within its range will become more susceptible to believing lies, or so it seems.[p]
+However, it doesn't work on people who are aware of brainwashing.[p]
+In other words, if someone realizes that you're trying to brainwash them, everything will fall apart.[p]
+Of course, the user themselves is not affected by hypnosis.[p]
+The important thing is that this is not a brainwashing device, but rather a brainwashing aid.[p]
+It seems that you can't control others like in hypnosis, such as suddenly making them take off their clothes or manipulating their feelings to make them like you...[p]
+Well, there's no such good deal for just 30,000 yen.[p]
+To manipulate people using this, you have to gradually make them believe small lies and guide them to do what you want.[p]
+It's a bit troublesome, but on the other hand, it has a sense of reality and can give you hope.[p]
+Hypnosis sounds suspicious and brainwashing is quite a real example that we hear about.[p]
+However, there's one sentence in the instruction manual that bothers me...[p]
+Individual results may vary...[p]
+This one sentence makes it instantly suspicious.[p]
+Well, whatever, I have no choice but to try it out.[p]
+Let's call one female student to this room and try using the device.[p]
 
 [_tb_end_text]
 
@@ -60,7 +59,7 @@ AVによくあるような銃型ではなくてカード型だ[p]
 
 [tb_start_text mode=1 ]
 #
-さて、誰を呼び出そうか[p]
+Now, who should I call?[p]
 [_tb_end_text]
 
 [glink  color="black"  storage="SCENE4.ks"  size="20"  text="早瀬みちる（陸上部）"  target="*ch11aa"  x="500"  y="290"  width="235"  height="20"  _clickable_img=""  ]
@@ -71,14 +70,15 @@ AVによくあるような銃型ではなくてカード型だ[p]
 
 [jump  storage="SCENE4.ks"  target="*ch11ab"  cond="f.qq1==1"  ]
 [tb_start_text mode=1 ]
-早瀬みちる、２年生。陸上部で跳躍競技をやっている[p]
-ショートカットがよく似合っていて性格はさっぱりしており、性別関係なく気軽に話ができるタイプだ[p]
-胸は小さいが鍛えられた尻と脚が美味そうで、前から目をつけていた生徒の一人だ[p]
-単純そうな性格だし洗脳にかかりやすいんじゃないか？[p]
-・・・[p]
-コンコン[p]
-#早瀬
-「失礼します」[p]
+Michiru Hayase, a second-year student.[p]
+They are in the track and field club and excel in jumping events.[p]
+They have a short haircut that suits them well and have a refreshing personality.[p]
+They are the type of person with whom you can easily have a casual conversation regardless of gender.[p]
+Their breasts are small, but their trained butt and legs look delicious.[p]
+They have been on my radar for a while now.[p]
+*Knock knock*[p]
+#Hayase
+Excuse me.[p]
 #
 [_tb_end_text]
 
@@ -86,50 +86,50 @@ AVによくあるような銃型ではなくてカード型だ[p]
 [chara_show  name="早瀬"  time="1000"  wait="true"  storage="chara/2/game47.png"  width="356"  height="837"  left="443"  top="30"  reflect="false"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="捜査会議.mp3"  ]
 [tb_start_text mode=1 ]
-#肉山
-「おう、来たか」[p]
-#早瀬
-「あのー、話ってなんですか？」[p]
-#肉山
-「陸上の大会が近いそうだな」[p]
-「毎日練習で疲れがたまっているだろう」[p]
-#早瀬
-「はあ、まあ」[p]
-#肉山
-「実は俺は整体の資格を持っていてな」[p]
-「陸上部の田神コーチにお前のマッサージをしてやるように頼まれてな」[p]
+#Nikuyama
+Oh, you're here.[p]
+#Hayase
+Um, what is this about?[p]
+#Nikuyama
+I heard that the track and field competition is coming up.[p]
+You must be tired from practicing every day.[p]
+#Hayase
+Well, um...[p]
+#Nikuyama
+Actually, I have a qualification in chiropractic and Coach Tagami from the track and field club asked me to give you a massage.[p]
 #
-ここでスイッチオン！[p]
+Switch on here![p]
 [_tb_end_text]
 
 [tb_image_show  time="1000"  storage="default/game200.png"  width="256"  height="227"  x="503"  y="267"  _clickable_img=""  name="img_30"  ]
 [tb_image_hide  time="1000"  ]
 [tb_start_text mode=1 ]
 #
-どうだ・・・！？[p]
-#早瀬
-「マッサージなら田神コーチに紹介してもらった先生にいつもやってもらってますけど」[p]
-「本当にコーチがそんなこと言ったんですか？」[p]
-#肉山
-「そ、それはだな、プロはお金がかかるし学校でできれば便利だから・・・」[p]
-「とにかく一回受けてみろ。ほらこっちに来い」[p]
-#早瀬
-「いやっ！結構です！」[p]
-「失礼します！」[p]
+How is it...!?[p]
+#Hayase
+When it comes to massages, I always have them done by the teacher that Coach Tagami introduced me to.[p]
+Did Coach really say something like that?[p]
+#Nikuyama
+W-Well, you see, professionals cost money and it would be convenient to have it done at school...[p]
+Anyway, just try it once.[p]
+Come over here.[p]
+#Hayase
+No![p]
+I'm fine![p]
+Excuse me![p]
 #
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
 [tb_start_text mode=1 ]
-#肉山
-「お、おい待て！」[p]
+#Nikuyama
+Oh, wait![p]
 #
-・・・・・・[p]
-くそっダメだ、全然信用されてねえ！[p]
-話の持って行き方が急すぎたか？[p]
-それともそもそも洗脳の効きにくい性格だったのか・・・[p]
-とにかく早瀬はダメらしいな[p]
-くそっ・・・[p]
+....[p]
+Damn it, I'm not trusted at all![p]
+Did I rush the conversation too much?[p]
+Or maybe Hayase was just naturally resistant to brainwashing...[p]
+Anyway, it seems like Hayase is a lost cause, damn it...[p]
 
 [_tb_end_text]
 
@@ -139,8 +139,7 @@ AVによくあるような銃型ではなくてカード型だ[p]
 
 [tb_start_text mode=1 ]
 #
-早瀬はすでに試した[p]
-他のやつを選ぼう[p]
+Hayase has already chosen someone else to try.[p]
 [_tb_end_text]
 
 [jump  storage="SCENE4.ks"  target="*st20"  ]
@@ -149,16 +148,15 @@ AVによくあるような銃型ではなくてカード型だ[p]
 [jump  storage="SCENE4.ks"  target="*ch11bb"  cond="f.qq2==1"  ]
 [tb_start_text mode=1 ]
 #
-よし、藤野あやめを試してみよう[p]
-こいつは良いとこのお嬢様で美形だし、なにより乳がでかい[p]
-男子生徒からの人気はおそらく学内トップだろう[p]
-性格もおっとりしてるから洗脳にはかかりやすいんじゃないか？[p]
-・・・[p]
-コンコン[p]
-#藤野
-「あの・・・失礼します」[p]
-#肉山
-「おう、入れ」[p]
+Alright, let's try Ayame Fujino.[p]
+She's a good-looking girl from a good family, and most importantly, she has big breasts.[p]
+She's probably the most popular among male students in the school.[p]
+*knock knock*[p]
+#Fujino
+Um...[p]
+Excuse me.[p]
+#Nikuyama
+Oh, come in.[p]
 #
 [_tb_end_text]
 
@@ -166,13 +164,14 @@ AVによくあるような銃型ではなくてカード型だ[p]
 [chara_show  name="藤野"  time="1000"  wait="true"  storage="chara/3/game45.png"  width="384"  height="904"  left="432"  top="30"  reflect="false"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="捜査会議.mp3"  ]
 [tb_start_text mode=1 ]
-#藤野
-「あの・・・わたしなんで呼び出されたのでしょうか」[p]
-#肉山
-「なに、体育の成績の良くない生徒を個別で指導していてな」[p]
-「今回はお前の番なんだ」[p]
+#Fujino
+Um...[p]
+Why was I called here?[p]
+#Nikuyama
+What?[p]
+I've been giving individual guidance to students with poor physical education grades, and this time it's your turn.[p]
 #
-スイッチオン！[p]
+Switch on![p]
 
 
 [_tb_end_text]
@@ -181,33 +180,40 @@ AVによくあるような銃型ではなくてカード型だ[p]
 [tb_image_hide  time="1000"  ]
 [tb_start_text mode=1 ]
 #
-どうだ・・・？[p]
-#藤野
-「個別指導・・・ですか？」[p]
-#肉山
-「そうだ。みんなにやってることだぞ」[p]
-#藤野
-「そんな話は聞いたことが無いのですが・・・」[p]
-「それになぜ女子担当の木崎先生ではなくて肉山先生が・・・？」[p]
-#肉山
-「そ、それは木崎先生は部活の顧問もあって忙しいので俺がやることになったんだ」[p]
-「とにかく、体操着に着替えて来なさい」[p]
-#藤野
-「ちょ、ちょっと木崎先生に本当かどうか聞いてきます！」[p]
-「し、失礼します！」[p]
+How about it...?[p]
+#Fujino
+Individual guidance...?[p]
+#Nikuyama
+That's right.[p]
+It's something I'm doing for everyone.[p]
+#Fujino
+I've never heard of such a thing...[p]
+And why is it not Ms.[p]
+Kizaki, who is in charge of the girls, but Mr.[p]
+Nikuyama...?[p]
+#Nikuyama
+W-well, it's because Ms.[p]
+Kizaki is also busy as the club advisor, so I ended up doing it.[p]
+Anyway, please change into your gym clothes and come.[p]
+#Fujino
+U-um, I'll go ask Ms.[p]
+Kizaki if this is true![p]
+S-sorry for the intrusion![p]
 #
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
 [tb_start_text mode=1 ]
-#肉山
-「こ、こら待て！」[p]
+#Nikuyama
+H-Hey, wait![p]
 #
-・・・くそっ！行っちまった！[p]
-なにがいけなかったんだ？[p]
-話に信憑性がなさ過ぎたか・・・？[p]
-それとも藤野が洗脳の効きにくい性質だったのか[p]
-くそ・・・とにかく藤野はもうあきらめよう[p]
+Damn it![p]
+They left![p]
+What did I do wrong?[p]
+Was my story not believable enough...?[p]
+Or maybe Fujino is just resistant to brainwashing...[p]
+Damn it...[p]
+Anyway, I'll give up on Fujino.[p]
 [_tb_end_text]
 
 [tb_eval  exp="f.qq2=1"  name="qq2"  cmd="="  op="t"  val="1"  val_2="undefined"  ]
@@ -216,8 +222,7 @@ AVによくあるような銃型ではなくてカード型だ[p]
 
 [tb_start_text mode=1 ]
 #
-藤野はもう試したぜ[p]
-他のやつを試そう[p]
+Fujino has already tried it, so let's try someone else.[p]
 [_tb_end_text]
 
 [jump  storage="SCENE4.ks"  target="*st20"  ]
@@ -226,56 +231,59 @@ AVによくあるような銃型ではなくてカード型だ[p]
 [jump  storage="SCENE4.ks"  target="*ch11cb"  cond="f.qq3==1"  ]
 [tb_start_text mode=1 ]
 #
-赤井のあ、３年。ギャル系のパッパラ女子だ[p]
-成績や生活態度は悪いがなかなかエロい身体をしている[p]
-頭が悪く普段からなにも考えてないこいつなら洗脳もたやすいんじゃないか？[p]
-・・・・・・[p]
-ガチャ[p]
+Redai Noa, a third-year student.[p]
+She's a gal-type girl with poor grades and attitude, but she has a pretty sexy body.[p]
+She's not very smart and doesn't usually think about anything.[p]
+I wonder if it would be easy to brainwash her?[p]
+...[p]
+Gacha.[p]
 [_tb_end_text]
 
 [stopbgm  time="1000"  ]
 [chara_show  name="赤井"  time="1000"  wait="true"  storage="chara/4/game46.png"  width="375"  height="882"  left="417"  top="33"  reflect="false"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="捜査会議.mp3"  ]
 [tb_start_text mode=1 ]
-#赤井
-「ちぃーーす」[p]
-「なんの用ですかぁ？」[p]
-#肉山
-「おう来たか」[p]
-「実は市に提出した身体測定の記録がお前の分だけ紛失してしまったらしくてな」[p]
-「再計測するように言われているんだ」[p]
+#Akai
+Hey, what do you want?[p]
+#Nikuyama
+Oh, you're here.[p]
+Actually, it seems that the body measurement records that were submitted to the city have been lost, and they told me to re-measure yours.[p]
 #
-よし、スイッチオン！[p]
+Alright, switch on![p]
 [_tb_end_text]
 
 [tb_image_show  time="1000"  storage="default/game200.png"  width="268"  height="238"  x="482"  y="233"  _clickable_img=""  name="img_64"  ]
 [tb_image_hide  time="1000"  ]
 [tb_start_text mode=1 ]
 #
-これでどうだ・・・？[p]
-#赤井
-「えーなんであたしのだけ？」[p]
-「てゆーかなんで肉山先生が？普通保健の先生とかじゃないの？」[p]
-「計測するなら保健室でするはずだし・・・怪しくね？」[p]
-#肉山
-「ま、まあそれは色々事情があってだな」[p]
-「とにかくまず胸囲から測るから上を脱げ」[p]
-#赤井
-「ちょっと！セクハラなんですけど！」[p]
-「誰か助けて！」[p]
+How about this...?[p]
+#Akai
+Why is it only mine?[p]
+And why is it Mr.[p]
+Nikuyama?[p]
+Isn't he the regular health teacher?[p]
+If we're going to measure, shouldn't it be done in the health room...[p]
+Doesn't it seem suspicious?[p]
+#Nikuyama
+W-Well, there are various circumstances, but anyway, let's start by measuring your bust size, so please take off your top.[p]
+#Akai
+Hey![p]
+This is sexual harassment![p]
+Someone help me![p]
 #
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
 [tb_start_text mode=1 ]
-#肉山
-「お、おい、ちょっと待て！」[p]
+#Nikuyama
+O-Oh, wait a minute![p]
 #
-くそっ！逃げやがった！[p]
-全然効いてねえじゃねえかこの機械[p]
-ウソが適当すぎたか？[p]
-それとも赤井は洗脳が効きにくい性質なのか・・・？[p]
-とにかく赤井はもうあきらめよう[p]
+Damn it![p]
+They escaped![p]
+This machine doesn't seem to be working at all.[p]
+Was it too sloppy with the lies?[p]
+Or maybe Akai is just resistant to brainwashing...[p]
+Anyway, let's give up on Akai for now.[p]
 [_tb_end_text]
 
 [tb_eval  exp="f.qq3=1"  name="qq3"  cmd="="  op="t"  val="1"  val_2="undefined"  ]
@@ -284,8 +292,7 @@ AVによくあるような銃型ではなくてカード型だ[p]
 
 [tb_start_text mode=1 ]
 #
-赤井は試してダメだった[p]
-他の生徒で試そう[p]
+Let's try other students who didn't work when we tried with Akai.[p]
 [_tb_end_text]
 
 [jump  storage="SCENE4.ks"  target="*st20"  ]
@@ -303,8 +310,7 @@ AVによくあるような銃型ではなくてカード型だ[p]
 [jump  storage="SCENE4.ks"  target="*st22"  cond="f.qq4==3"  ]
 [tb_start_text mode=1 ]
 #
-今日も引き続き洗脳を試すぞ[p]
-今日こそ成功させてやる[p]
+Today, I will continue to try brainwashing and finally make it a success.[p]
 
 [_tb_end_text]
 
@@ -313,45 +319,51 @@ AVによくあるような銃型ではなくてカード型だ[p]
 
 [tb_start_text mode=1 ]
 #
-くそっ全然上手くいかねえ！[p]
-俺のやり方が間違ってるのか？[p]
-それともやっぱり洗脳補助器なんて嘘っぱちなのか・・・！？[p]
-女を洗脳して自由に操るなんて現実には無理なのか・・・[p]
-コンコン[p]
-#桐嶋
-「肉山先生居ますか」[p]
+Damn it, it's not going well at all![p]
+Is my approach wrong?[p]
+Or maybe this brainwashing device is just a complete lie...!?[p]
+Is it impossible in reality to brainwash and control women freely...?[p]
+Knock, knock.[p]
+#Kirishima
+Is Mr.[p]
+Nikuyama here?[p]
 #
-ガチャッ[p]
+*Sound effect: Click*[p]
 [_tb_end_text]
 
 [stopbgm  time="1000"  fadeout="false"  ]
 [chara_show  name="桐嶋"  time="1000"  wait="true"  storage="chara/1/game80-1.png"  width="434"  height="789"  left="420"  top="16"  reflect="false"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Grease_Slide_Trap.mp3"  ]
 [tb_start_text mode=1 ]
-#肉山
-「なんだなんだ？いきなり入ってきて・・・」[p]
-「もしかしてデートのお誘いですか？」[p]
-#桐嶋
-「ふざけるのは止めてください」[p]
-「肉山先生にセクハラされたという相談を複数の生徒から受けました」[p]
-#肉山
-「なっ・・・！？」[p]
-#桐嶋
-「すぐに校長に報告しようと思いましたが、一方の証言だけで讒言するのは不公平と思って一応話を聞きに来ました」[p]
-「なにか釈明はありますか？」[p]
+#Nikuyama
+What's this?[p]
+You suddenly came in...[p]
+Could it be that you're asking me out on a date?[p]
+#Kirishima
+Please stop joking around.[p]
+I have received multiple students' consultations about being sexually harassed by Mr.[p]
+Nikuyama.[p]
+#Nikuyama
+Ngh...!?[p]
+#Kirishima
+I was thinking of reporting this to the principal right away, but I came here to hear your side of the story because I believe it would be unfair to accuse you based on one person's testimony.[p]
+Do you have any explanation?[p]
 #
-くそっ・・・洗脳を試した３人が告げ口しやがったのか[p]
-校長に報告されるのはまずいぞ・・・[p]
-#肉山
-「いや、あれは普通に指導をしていただけで・・・」[p]
-「セクハラなんてでっちあげですよ！子供のいうことを信じるんですか？」[p]
-#桐嶋
-「もちろんわたしは生徒たちの言ってることを信用します」[p]
-「あなたの普段の言動を考えればこういう報告が出るのも遅かったくらいです」[p]
+Damn it...[p]
+If those three who were brainwashed snitched, it would be bad if it gets reported to the principal...[p]
+#Nikuyama
+No, I was just giving regular guidance...[p]
+Accusing me of sexual harassment is just a fabrication![p]
+Are you going to believe what a child says?[p]
+#Kirishima
+Of course, I believe what the students are saying.[p]
+Considering your usual behavior, it's not surprising that such reports have come out.[p]
 #
-まずい、このままじゃクビになっちまう・・・！[p]
-くっ・・・！どうすれば・・・[p]
-そうだ・・・一か八かコイツを！[p]
+This is bad, if things continue like this, I'll get fired...![p]
+Damn it...![p]
+What should I do...[p]
+I know...[p]
+I'll take a gamble on this![p]
 
 
 [_tb_end_text]
@@ -360,7 +372,7 @@ AVによくあるような銃型ではなくてカード型だ[p]
 [tb_image_hide  time="1000"  ]
 [tb_start_text mode=1 ]
 #
-どういう嘘をつく？[p]
+What kind of lie are you going to tell?[p]
 [_tb_end_text]
 
 [glink  color="black"  storage="SCENE4.ks"  size="20"  text="体育教師の特権"  target="*ch12a"  x="510"  y="360"  width="225"  height="20"  _clickable_img=""  ]
@@ -369,38 +381,44 @@ AVによくあるような銃型ではなくてカード型だ[p]
 *ch12a
 
 [tb_start_text mode=1 ]
-#肉山
-「た、体育教師には多少のセクハラが許されるんです！」[p]
-#桐嶋
-「は・・・？」[p]
-「何を言って・・・」[p]
-#肉山
-「体育教師はその性質上生徒との接触がかかせませんから、法令で生徒との接触は一部認められているんです」[p]
-「まさかご存じないんですか？」[p]
+#Nikuyama
+W-Well, it's acceptable for a physical education teacher to engage in some sexual harassment![p]
+#Kirishima
+Huh...?[p]
+What are you saying...?[p]
+#Nikuyama
+Well, you see, due to the nature of being a physical education teacher, it is necessary to have contact with students.[p]
+Did you not know that there are certain regulations that allow for contact with students?[p]
 #
-しまった、こんなウソは無理がありすぎる！[p]
-通用するわけが・・・[p]
-#桐嶋
-「・・・そんなこと」[p]
-「・・・し、知ってます！」[p]
-#肉山
-「！？」[p]
-#桐嶋
-「体育教師に特権があることくらいは知ってます。常識です」[p]
+Damn it, this kind of lie is too unrealistic![p]
+There's no way it would work...[p]
+#Kirishima
+...[p]
+I-I know about that![p]
+#Nikuyama
+！？[p]
+#Kirishima
+I know that physical education teachers have privileges.[p]
+It's common sense.[p]
 #
-ど、どういうことだ・・・？まさか・・・洗脳が成功したのか？[p]
-#肉山
-「そ、そうでしょう。今回のこともその範囲内の行為であって、あなたにとやかく言われる筋合いはありませんな」[p]
-#桐嶋
-「そ、そうですか・・・」[p]
-「でも生徒から苦情が来るということはそれ以上の行為があったのではないんですか？」[p]
-#肉山
-「認識の違いってやつですよ。最近の子供はなんにでも過剰反応しますから」[p]
-「いちいち真に受けるなんて桐嶋先生らしくもない」[p]
-#桐嶋
-「そ・・・そうですね。少々軽率だったかもしれません」[p]
-「しかし生徒を守るのが私の役目ですから」[p]
-「もしまた苦情があったら話を聞きに来ますからね」[p]
+What...[p]
+What does this mean...?[p]
+Could it be...[p]
+Has the brainwashing been successful?[p]
+#Nikuyama
+Y-Yes, that's right.[p]
+The actions this time are within that range, so you have no right to criticize me.[p]
+#Kirishima
+I-I see...[p]
+But if there are complaints from the students, doesn't that mean there were more than just those actions?[p]
+#Nikuyama
+It's just a difference in perception.[p]
+Nowadays, kids overreact to everything, so it's not like you, Kirishima-sensei, to take everything so seriously.[p]
+#Kirishima
+Y-Yes...[p]
+That's right.[p]
+I may have been a bit careless, but it's my duty to protect the students.[p]
+So if there are any more complaints, I will come and listen to them.[p]
 #
 [_tb_end_text]
 
@@ -409,43 +427,49 @@ AVによくあるような銃型ではなくてカード型だ[p]
 *ch12b
 
 [tb_start_text mode=1 ]
-#肉山
-「しょ、証拠もなく校長に報告するのは違法ですよ！」[p]
-#桐嶋
-「は・・・？」[p]
-「何を言ってるん・・・」[p]
-#肉山
-「生徒からの一方的な証言で証拠も無いのに上司に報告するのは良くないことですからね」[p]
-「生徒たちが私を嫌ってるから狂言で私を陥れようとしているかもしれないじゃないですか」[p]
-「それをそのまま上司に報告するなんて、侮辱罪に当たりますよ！」[p]
+#Nikuyama
+R-Re-Re-Re-Re-Re-Re-Reporting to the principal without any evidence is illegal, you know![p]
+#Kirishima
+Huh...?[p]
+What are you talking about...?[p]
+#Nikuyama
+Reporting to the boss based on one-sided testimony from students without any evidence is not a good thing.[p]
+The students might be trying to falsely accuse me because they dislike me.[p]
+Reporting that directly to the boss would be considered defamation, you know![p]
 #
-しまった、無理がありすぎる！侮辱罪ってなんだよ[p]
-こんなの通じるわけが・・・[p]
+Damn it, this is too much![p]
+What the hell is an insult crime?[p]
+There's no way something like this would work...[p]
 
 [_tb_end_text]
 
 [chara_mod  name="桐嶋"  time="600"  cross="false"  storage="chara/1/game80-3.png"  ]
 [tb_start_text mode=1 ]
-#桐嶋
-「そ、それは・・・確かに」[p]
+#Kirishima
+Th-That is...[p]
+certainly...[p]
 #
-えっ！？[p]
-#桐嶋
-「でもセクハラしたのは事実でしょう？」[p]
-#肉山
-「してませんよ」[p]
-「証拠はあるんですか証拠は」[p]
-#桐嶋
-「く・・・！」[p]
-「証拠さえあれば報告できるのに・・・」[p]
+Huh!?[p]
+#Kirishima
+But it's true that you sexually harassed, right?[p]
+#Nikuyama
+I didn't do it, you know.[p]
+Do you have any evidence?[p]
+Do you have any evidence?[p]
+#Kirishima
+Ugh...![p]
+If only there was evidence, I could report it...[p]
 #
-こいつ・・・俺のデタラメな嘘を信用してる！[p]
-これはもしかして・・・洗脳が成功してるのか・・・！？[p]
-#肉山
-「しょ、証拠が無い以上私は無罪です。どうぞお引取りを」[p]
-#桐嶋
-「く・・・今回は命拾いしたようですけど」[p]
-「いつか絶対にセクハラの証拠をつかんでみせます！」[p]
+This person...[p]
+They're believing my nonsense lies![p]
+Could it be...[p]
+have they been successfully brainwashed...!?[p]
+#Nikuyama
+W-Without evidence, I am innocent.[p]
+Please take your leave.[p]
+#Kirishima
+Ugh...[p]
+I may have narrowly escaped this time, but someday I will definitely gather evidence of sexual harassment and show it to everyone![p]
 #
 [_tb_end_text]
 
@@ -454,20 +478,20 @@ AVによくあるような銃型ではなくてカード型だ[p]
 
 [tb_start_text mode=1 ]
 #
-助かった・・・[p]
-まさかあんなその場しのぎの嘘が通じるとはな[p]
-これはまさしく洗脳が成功したってことだよな？[p]
-しかし女子生徒には全く効かなかったのに、なんで桐嶋にはこんなにもはっきりと効果が出たんだろうか[p]
-もしかして桐嶋香織は洗脳がすごく効きやすい性質なのか？[p]
-・・・・・・[p]
-だとしたら・・・これは面白いことになってきたぞ[p]
-女子生徒とエロいことをするために買ったサイコ‐SXだったが・・・ターゲットを女教師・桐嶋香織に変更だ！[p]
-あの生意気なインテリ女を少しずつ少しずつ洗脳して・・・[p]
-俺の忠実な性処理奴隷にしてやる！[p]
-ぐひひひひひ、あのムチムチのボディを好き放題に・・・想像しただけでギンギンになっちまったぜ[p]
-覚悟しておけよぉ桐嶋ぁ・・・クククク[p]
-・・・・・・[p]
-・・・[p]
+Past Translated Text: I'm saved...[p]
+I never thought such a makeshift lie would work.[p]
+This is truly a successful brainwashing, isn't it?[p]
+But why did it have such a clear effect on Kirishima, while it didn't work at all on the female students?[p]
+Could it be that Kaori Kirishima is naturally susceptible to brainwashing?[p]
+...[p]
+If that's the case...[p]
+this is getting interesting.[p]
+I bought the Psycho-SX to do erotic things with the female students, but now I'll change the target to the female teacher, Kaori Kirishima![p]
+I'll slowly but surely brainwash that arrogant intellectual woman...[p]
+and make her my obedient sexual slave![p]
+Guhahaha, I can't help but get excited just imagining her plump body...[p]
+Be prepared, Kirishima...[p]
+[p]
 [_tb_end_text]
 
 [tb_eval  exp="f.qq1=0"  name="qq1"  cmd="="  op="t"  val="0"  val_2="undefined"  ]

@@ -5,70 +5,67 @@
 [chara_show  name="桐嶋"  time="1000"  wait="true"  storage="chara/1/game11-c.png"  width="275"  height="626"  left="335"  top="26"  reflect="false"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#ガイド
-こんにちは[p]
-これは新しいプロジェクトです[p]
-ドラッグ＆ドロップして要素を追加してください[p]
+#Guide
+Hello, this is a new project.[p]
+Please drag and drop to add elements.[p]
 [_tb_end_text]
 
 [chara_mod  name="桐嶋"  time="10"  cross="true"  storage="chara/1/game12-c.png"  ]
 [tb_start_text mode=1 ]
-#桐嶋
-それじゃ移動します[p]
-いきますよ[p]
+#Kirishima
+Well then, I'll start moving.[p]
 [_tb_end_text]
 
 [chara_hide  name="桐嶋"  time="1000"  wait="true"  pos_mode="true"  ]
 [bg  time="1000"  method="crossfade"  storage="game100.jpg"  ]
 [chara_show  name="桐嶋"  time="1000"  wait="true"  storage="chara/1/game11-c.png"  width="278"  height="633"  left="352"  top="12"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#桐嶋
-移動しました[p]
-どうですか？[p]
-次はあいつの家に行くわ[p]
+#Kirishima
+I have moved.[p]
+How does it look?[p]
+Next, we will go to their house.[p]
 [_tb_end_text]
 
 [chara_hide  name="桐嶋"  time="1000"  wait="true"  pos_mode="true"  ]
 [bg  time="1000"  method="crossfade"  storage="game101.jpg"  ]
 [chara_show  name="桐嶋"  time="1000"  wait="true"  storage="chara/1/game12.png"  width="328"  height="771"  left="438"  top="33"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#桐嶋
-ここがやつの家ね[p]
-汚らしいわ・・・[p]
-掃除しましょう[p]
+#Kirishima
+This is their house, it's so dirty...[p]
+Let's clean it up.[p]
 [_tb_end_text]
 
 [chara_hide  name="桐嶋"  time="50"  wait="false"  pos_mode="false"  ]
 [chara_show  name="桐嶋"  time="50"  wait="false"  storage="chara/1/game81-2.png"  width="397"  height="794"  left="397"  top="10"  reflect="false"  ]
 [bg  time="1000"  method="crossfade"  storage="game102.jpg"  ]
 [tb_start_text mode=1 ]
-#桐嶋
-ふう・・・[p]
-これで綺麗になったわ[p]
+#Kirishima
+Phew...[p]
+It's become clean now.[p]
 [_tb_end_text]
 
 [chara_mod  name="桐嶋"  time="600"  cross="true"  storage="chara/1/game22-c.png"  ]
 [tb_start_text mode=1 ]
-#桐嶋
-な、なんでわたしがこんなことしなくちゃいけないのよ！？[p]
+#Kirishima
+W-Why do I have to do something like this!?[p]
 [_tb_end_text]
 
 [chara_mod  name="桐嶋"  time="600"  cross="true"  storage="chara/1/game23-c.png"  ]
 [tb_start_text mode=1 ]
-#桐嶋
-もう家に帰りましょう[p]
+#Kirishima
+Let's go home now.[p]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game103.jpg"  ]
 [tb_start_text mode=1 ]
-#桐嶋
-家は落ち着くわね[p]
+#Kirishima
+Home is so calming.[p]
 [_tb_end_text]
 
 [chara_hide  name="桐嶋"  time="1000"  wait="true"  pos_mode="true"  ]
 [chara_show  name="桐嶋"  time="1000"  wait="true"  storage="chara/1/game121.jpg"  width="1876"  height="1197"  left="-433"  top="-66"  reflect="false"  ]
 [tb_start_text mode=1 ]
-テスト[p]
+Test[p]
 [_tb_end_text]
 
 [chara_hide  name="桐嶋"  time="0"  wait="true"  pos_mode="true"  ]
@@ -81,13 +78,12 @@ test[p]
 [bg  time="1000"  method="crossfade"  storage="rouka.jpg"  ]
 [chara_show  name="桐嶋"  time="1000"  wait="true"  storage="chara/1/game31-c.png"  width="263"  height="599"  left="610"  top="44"  reflect="false"  ]
 [tb_start_text mode=1 ]
-これが旧[p]
+This is the old...[p]
 [_tb_end_text]
 
 [chara_mod  name="桐嶋"  time="600"  cross="true"  storage="chara/1/game11-c.png"  ]
 [tb_start_text mode=1 ]
-これが新[p]
-どっちがいい？[p]
+Which one do you prefer, the new one or the old one?[p]
 [_tb_end_text]
 
 [s  ]

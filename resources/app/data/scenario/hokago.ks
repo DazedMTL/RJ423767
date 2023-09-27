@@ -43,41 +43,53 @@
 [bg  time="1000"  method="rotateInDownLeft"  storage="rouka.jpg"  ]
 [tb_start_text mode=1 ]
 #
-まだ残ってる生徒がちらほら居るな[p]
-・・・お。あれは赤井だ[p]
-一緒に居るのは不良の三好だな[p]
-もしかしてあいつら付き合ってんのか？[p]
-ちょっと会話を聞いてやるか・・・[p]
+There are still a few students left...[p]
+Oh, that's Akai.[p]
+And they're with the delinquent Miyoshi.[p]
+Could it be that they're dating?[p]
+Maybe I should listen in on their conversation...[p]
 [_tb_end_text]
 
 [chara_show  name="赤井"  time="1000"  wait="true"  storage="chara/4/game46.png"  width="362"  height="852"  left="372"  top="23"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#三好
-「のあ、おめえゴリ山の野郎にセクハラされたってマジかよ」[p]
-#赤井
-「マジのマジ。なんか身体測定がどうとか言ってさぁ、服脱がそうとすんだよ？超キモチワルかったんだけど」[p]
-#三好
-「おいマジかよ！そ、それでどうしたんだよ？」[p]
-#赤井
-「ソッコー逃げて桐嶋センセに相談したら任せといてって言ってたけど」[p]
-#三好
-「マジでシャレんなんねーなあの筋肉バカ。今度俺がボッコボコにしてやんよ！」[p]
-#赤井
-「やめときなって。桐嶋センセ超オコだったからたぶんもうすぐゴリ山クビになるっしょ」[p]
-「それより早く帰ろうよ。今日ウチ親いないからさ」[p]
-#三好
-「マジかよ、激アツじゃねえか！よし、いくべいくべ！」[p]
+#Miyoshi
+Hey, you![p]
+I heard you got sexually harassed by that brute Nikuyama.[p]
+Is that true?[p]
+#Akai
+Seriously, seriously.[p]
+He said something about a body measurement and tried to take off my clothes.[p]
+It was super creepy.[p]
+#Miyoshi
+Hey, seriously?![p]
+S-So, what did you do about it?[p]
+#Akai
+I immediately ran away and told Kirishima-sensei about it.[p]
+They told me to leave it to them.[p]
+#Miyoshi
+That muscle idiot is seriously not joking around.[p]
+Next time, I'll beat him to a pulp![p]
+#Akai
+Stop it.[p]
+Kirishima-sensei was really angry, so Nikuyama will probably get fired soon.[p]
+Let's go home before that.[p]
+My parents aren't home today, so...[p]
+#Miyoshi
+Seriously?![p]
+That's so intense![p]
+Alright, let's go, let's go![p]
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
 [tb_start_text mode=1 ]
 #
-ケッ、あいつらこれから家に帰ってヤリまくりかよ[p]
-なにがボコボコにしてやるだ。お前みたいなクソガキに負けるわけがねえだろ[p]
-・・・しかしやっぱり赤井のやつ桐嶋にチクってやがったか[p]
-俺がクビになるのを期待してるようだが、残念ながら頼みの桐嶋はこれから俺が性奴隷にしてやるぜ、ククク[p]
-・・・・・・[p]
-・・・[p]
+They're going home to have sex like crazy, huh?[p]
+What's with this talk of beating me up?[p]
+There's no way I'll lose to a brat like you...[p]
+But it seems like that Akai bastard went and snitched to Kirishima.[p]
+They're probably hoping I'll get fired.[p]
+Unfortunately for them, Kirishima, who they were counting on, is about to become my sex slave.[p]
+Hehehe...[p]
 
 [_tb_end_text]
 
@@ -87,42 +99,52 @@
 [bg  time="1000"  method="rotateInDownLeft"  storage="rouka.jpg"  ]
 [tb_start_text mode=1 ]
 #
-さてと、なんか面白いことでもないかな[p]
-・・・ん、あれは藤野だな[p]
+Well, I wonder if there's anything interesting going on...[p]
+Huh, that's Fujino over there.[p]
 [_tb_end_text]
 
 [chara_show  name="藤野"  time="1000"  wait="true"  storage="chara/3/game45.png"  width="381"  height="896"  left="416"  top="17"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#肉山
-「おう藤野」[p]
-#藤野
-「あ、肉山先生」[p]
-#肉山
-「珍しいな、お前が校内に残ってるなんて。いつもの出迎えは来てないのか？」[p]
-#藤野
-「あ、はい、最近は送り迎えをやめてもらうようにしてるんです」[p]
-#肉山
-「ん、そうなのか。そりゃまたどうしてだ？」[p]
-#藤野
-「特別他の方と比べて家が遠いわけでもありませんし・・・私も皆様と同じように普通に登下校をしたいと思いまして」[p]
-#肉山
-「ふーん・・・まぁ車で送り迎えじゃ寄り道の一つもできねえだろうしな」[p]
-「でも親御さんは心配なんじゃねえか？誘拐の心配とか」[p]
-#藤野
-「はい、父には反対されましたが母は色々経験するのも大切なことだからと許してくれました」[p]
-「今日もこの後クラスメイトの方に初めてコンビニに連れて行ってもらう予定なんです」[p]
-#肉山
-「コンビニ・・・？初めて・・・？」[p]
-#藤野
-「はい、前々から一度行ってみたいと思っていたのですが・・・あっ」[p]
-「下校中に寄り道をしてお買い物をするのは校則違反でしたっけ・・・」[p]
-#肉山
-「いや、別にそのくらいでうるさくは言わねえよ俺は」[p]
-#藤野
-「ほっ・・・よかった、ありがとうございます」[p]
-「あっ、クラスメイトの方が来られたようです。それでは失礼いたします」[p]
-#肉山
-「おう、気をつけて帰れよ」[p]
+#Nikuyama
+Hey, Fujino.[p]
+#Fujino
+Ah, Mr.[p]
+Nikuyama.[p]
+#Nikuyama
+It's rare to see you still here on campus.[p]
+Isn't your usual welcoming committee here?[p]
+#Fujino
+Ah, yes.[p]
+Lately, I've been asking them to stop picking me up and dropping me off.[p]
+#Nikuyama
+Oh, is that so?[p]
+Why is that?[p]
+#Fujino
+It's not like my house is particularly far compared to others...[p]
+I also just want to commute to school like everyone else.[p]
+#Nikuyama
+Hmmm...[p]
+Well, if they're always being picked up and dropped off by car, they probably can't make any detours.[p]
+But I wonder if their parents are worried?[p]
+Like, worried about the possibility of kidnapping or something.[p]
+#Fujino
+Yes, my father opposed it, but my mother allowed me because she thinks it's important to experience various things.[p]
+Today, I'm also planning to be taken to the convenience store by a classmate for the first time after this.[p]
+#Nikuyama
+Convenience store...?[p]
+For the first time...?[p]
+#Fujino
+Yes, I've actually been wanting to go there for a while...[p]
+Oh, but isn't it against the school rules to make detours and go shopping on the way home...?[p]
+#Nikuyama
+Nah, I don't really care about that kind of stuff.[p]
+#Fujino
+Ah...[p]
+I'm glad, thank you.[p]
+Oh, it seems a classmate has arrived.[p]
+Well then, excuse me.[p]
+#Nikuyama
+Hey, be careful on your way home.[p]
 
 
 [_tb_end_text]
@@ -130,13 +152,12 @@
 [chara_hide_all  time="1000"  wait="true"  ]
 [tb_start_text mode=1 ]
 #
-藤野は性格もおっとりしてるし、躾がしっかりしてるから俺と話しても嫌な顔を見せないぜ[p]
-まぁ心の中ではどう思ってるか知らねえがな[p]
-・・・しかしコンビニが初めてとは思ってる以上のお嬢様だな[p]
-もし藤野に手を出してそれがバレたら、うやむやに済ませるようなことはできないだろうな[p]
-下手すると社会から抹殺されかねん・・・気をつけよう[p]
-・・・・・・[p]
-・・・[p]
+Fujino has a calm personality and is well-behaved, so they don't show a displeased face when talking to me.[p]
+Well, I don't know what they really think deep down...[p]
+But it seems like they're more of a princess than I thought if going to the convenience store is their first time.[p]
+If I were to make a move on Fujino and it got exposed, there's no way I could just brush it off.[p]
+I might even be completely erased from society...[p]
+I need to be careful...[p]
 [_tb_end_text]
 
 [jump  storage="kitaku.ks"  target=""  ]
@@ -145,52 +166,57 @@
 [bg  time="1000"  method="rotateInDownLeft"  storage="game105.jpg"  ]
 [tb_start_text mode=1 ]
 #
-運動部の生徒たちが元気よく駆け回っている[p]
-よくやるぜ・・・まぁ俺も若いころは必死に柔道をやってたもんだが、今思うとなんであんなに頑張れたんだろうな[p]
-それが若さってもんかね[p]
-・・・お、早瀬がいるぞ[p]
+The students in the sports club are energetically running around.[p]
+They're doing great...[p]
+Well, I used to do judo desperately when I was young too.[p]
+Looking back now, I wonder why I was able to work so hard like that.[p]
+I guess that's what youth is all about...[p]
+Oh, there's Hayase.[p]
 
 
 [_tb_end_text]
 
 [chara_show  name="早瀬"  time="1000"  wait="true"  storage="chara/2/game47.png"  width="360"  height="848"  left="429"  top="17"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#肉山
-「おう早瀬」[p]
-#早瀬
-「あっ、肉山先生・・・」[p]
-#肉山
-（チッ、洗脳を試した件で警戒してやがるな）[p]
-（今はターゲットは桐嶋だ。こいつはどうでもいい。一応誤解を解いておくか）[p]
-「前に話したマッサージの件だがな。あれはちょっとした連絡の行き違いでな」[p]
-「無かったことになったから、忘れてくれ」[p]
-#早瀬
-「え、そうなんですか」[p]
-「桐嶋先生に話したら私が何とかするって言ってましたけど・・・」[p]
-#肉山
-「ああ、桐嶋先生とはちゃんと話して誤解が解けたから大丈夫だ」[p]
-#早瀬
-「そうだったんですね。てっきり肉山先生がイヤらしいことをしようとしてるのかと思ってビックリしました」[p]
-「そんなわけないですよね、わたしなんかに。ハハハハ」[p]
-#肉山
-「あ、ああ、そんなわけないだろう」[p]
-（なんて単純なやつなんだ・・・まぁ助かったがな）[p]
-「ところで今日は部活はどうしたんだ？」[p]
-#早瀬
-「これからです。日直の仕事で遅れて」[p]
-「それじゃ行って来ます」[p]
+#Nikuyama
+Hey, Hayase.[p]
+#Hayase
+Ah, Mr.[p]
+Nikuyama...[p]
+#Nikuyama
+(Tch, they're being cautious because of the brainwashing attempt) (Right now, my target is Kirishima.[p]
+This person doesn't matter.[p]
+I should clear up any misunderstandings) About the massage we talked about before.[p]
+It was just a miscommunication, so forget about it.[p]
+#Hayase
+Eh, is that so?[p]
+When I talked to Kirishima-sensei, they said they would take care of it somehow...[p]
+#Nikuyama
+Ah, I talked to Kirishima-sensei and cleared up the misunderstanding, so it's okay.[p]
+#Hayase
+Oh, I see.[p]
+I was surprised because I thought Mr.[p]
+Nikuyama was trying to do something lewd.[p]
+There's no way that would happen to someone like me.[p]
+Hahaha.[p]
+#Nikuyama
+Ah, ah, there's no way that would happen (what a simple-minded person...[p]
+well, I'm glad).[p]
+By the way, what happened with the club activities today?[p]
+#Hayase
+I'm about to go.[p]
+I'm running late for my duty as the class representative, so I'll be off now.[p]
 
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
 [tb_start_text mode=1 ]
 #
-走って行っちまいやがった。カモシカのような脚とはああいうのを言うんだろうな[p]
-それにあのキュっとしまった小さな尻、さぞかしアソコの方も締りがいいんだろう[p]
-十分すぎるほど女としての魅力があると思うが、本人はあまり自信がないようだな[p]
-・・・まぁ早瀬のことはとりあえず放っておこう[p]
-・・・・・・[p]
-・・・[p]
+They ran off like a mountain goat.[p]
+I guess that's what they mean by having legs like that.[p]
+And that tight little butt, I bet their crotch is also tight.[p]
+They have more than enough charm as a woman, but they don't seem to have much confidence...[p]
+Well, let's just leave Hayase alone for now...[p]
 
 
 [_tb_end_text]
@@ -201,84 +227,105 @@
 [bg  time="1000"  method="rotateInDownLeft"  storage="game106.jpg"  ]
 [tb_start_text mode=1 ]
 #
-今日も校内の見回りと行くか[p]
-・・・ん、あいつ何やってるんだ？[p]
+Should I do my rounds around the school today...[p]
+Hm, what is that person doing?[p]
 [_tb_end_text]
 
 [chara_show  name="田端"  time="1000"  wait="true"  storage="chara/7/game43-3.png"  width="326"  height="621"  left="1121"  top="206"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#男子生徒
-「ムヒョヒョヒョ・・・気付かれないように・・・」[p]
-#肉山
-「おい、お前なにやってるんだ？」[p]
-#男子生徒
-「ヒィッ！？」[p]
+#male student
+Male student: Muhohoho...[p]
+I must not be noticed...[p]
+#Nikuyama
+Hey, what are you doing?[p]
+#male student
+Male student: Eek!?[p]
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
 [chara_show  name="田端"  time="1000"  wait="true"  storage="chara/7/game43-1.png"  width="331"  height="779"  left="446"  top="19"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#男子生徒
-「ゲッ、肉山先生・・・！」[p]
-「い、いやなにもしてませんよ」[p]
-#肉山
-「ウソつけ。今カメラで何かを・・・」[p]
-「ははーん・・・ここから女子のパンチラを撮ってたんだな」[p]
-#男子生徒
-「ち、違います！ぼ、僕はただ階段を・・・」[p]
-#肉山
-「なるほどなぁ、この角度ならバレずにスカートの中が覗けるって訳か。よく見つけたなこんな場所」[p]
-#男子生徒
-「い、いや・・・その・・・」[p]
-#肉山
-「どれ、どんなのが撮れたかちょっと見せてみろ」[p]
-#男子生徒
-「あっ、カメラ・・・！」[p]
-#肉山
-「どれどれ・・・」[p]
-「なんだ、全然撮れてないじゃねえか。太ももしか写ってないぞ」[p]
-「ほれ、カメラは返す。ちゃんと撮れたら俺に見せるんだぞ」[p]
-#男子生徒
-「えっ・・・お、お咎めは無し・・・？」[p]
-#肉山
-「はぁ？当たり前だろ。俺はいちいちそんなことは問題にせん」[p]
-「お前らくらいの歳の男子がスケベなことを考えるのは当たり前だからな」[p]
-#男子生徒
-「はぁっ・・・助かった・・・」[p]
-「あ、ありがとうございます肉山先生！」[p]
-#肉山
-「ただしバレないようにやれよ。バレたら俺はかばってやるつもりはない」[p]
-#男子生徒
-「は、はいっ」[p]
-#肉山
-「しかしお前学校にカメラなんか持ち込んでるのか。しかも結構高そうだなそのカメラ」[p]
-#男子生徒
-「そりゃまぁ写真部なんで・・・」[p]
-「・・・っていうか肉山先生、顧問じゃないですか」[p]
-#肉山
-「なに？・・・そういえば俺は写真部の顧問だったな」[p]
-「全く顔を出さないから忘れてたぜ」[p]
-（柔道部の顧問をやらされるのが面倒だったから引き受けたんだったな）[p]
-「しかしお前みたいな部員いたかな・・・？」[p]
-#男子生徒
-「２年の田端です。一応副部長なんですけど・・・」[p]
-#肉山
-「副部長？でもたしか部員は５人くらいしかいなかっただろ」[p]
-#田端
-「一応在籍は７人ほどいますけど・・・ほとんど顔を出さない人が多くて今はまともに活動してるのは２人だけですね」[p]
-#肉山
-「なるほどな。活動ってどんな活動してるんだ？」[p]
-#田端
-「風景とかの写真を撮ってコンクールに応募したりって感じです」[p]
-#肉山
-「なんだつまらねえな。女子生徒の水着撮影とか無いのかよ」[p]
-#田端
-「そんなのあるわけないじゃないですか。やれるものならやりたいですけど・・・モデルになってくれる女子なんかいるはずないし」[p]
-#肉山
-「そりゃそうか」[p]
-「まぁ、廃部にならない程度に頑張れよ。廃部になったら俺が困るからな」[p]
-#田端
-「はぁ、それじゃ僕はこれで・・・」[p]
+#male student
+Male student: G-Gah, Sensei Nikuyama...![p]
+I-I wasn't doing anything, I swear![p]
+#Nikuyama
+Don't lie.[p]
+You were doing something with the camera...[p]
+Haha...[p]
+You were taking upskirt photos of the girls from here, weren't you?[p]
+#male student
+Male student: N-No, that's not true![p]
+I-I was just going up the stairs...[p]
+#Nikuyama
+I see, so this angle allows you to peek inside skirts without being noticed.[p]
+You found quite a spot.[p]
+#male student
+Male student: N-No...[p]
+um...[p]
+#Nikuyama
+Alright, show me what you managed to capture.[p]
+#male student
+Male student: Ah, a camera...![p]
+#Nikuyama
+Let's see...[p]
+What the hell, you didn't capture anything at all.[p]
+It's only thighs, look.[p]
+I'm giving the camera back.[p]
+Show me if you manage to capture something properly.[p]
+#male student
+Male student: Huh...[p]
+N-No punishment...?[p]
+#Nikuyama
+Huh?[p]
+Of course.[p]
+I don't make a big deal out of stuff like that.[p]
+It's only natural for boys your age to think perverted thoughts.[p]
+#Male student
+Haa...[p]
+I'm saved...[p]
+Ah, thank you, Sensei Nikuyama![p]
+#Nikuyama
+But make sure you don't get caught.[p]
+If you do, I won't cover for you.[p]
+#Male student
+Y-Yes.[p]
+#Nikuyama
+But are you bringing a camera to school?[p]
+And it looks quite expensive.[p]
+#Male student
+Well, I mean, you're the advisor of the photography club, right, Sensei Nikuyama?[p]
+#Nikuyama
+What?...[p]
+Come to think of it, I was the advisor of the photography club.[p]
+I completely forgot since I never showed up (I took on the role because I didn't want to be bothered with being the advisor of the judo club).[p]
+But I wonder if we had any members like you...?[p]
+#male student
+Male student: I'm Tabata from the second year.[p]
+I'm technically the vice president...[p]
+#Nikuyama
+Vice president?[p]
+But if I remember correctly, there were only about five club members, right?[p]
+#Tabata
+Well, technically there are about seven members on the roster...[p]
+but most of them rarely show up, so there are only two of us who are actively participating in club activities.[p]
+#Nikuyama
+I see.[p]
+What kind of activities are you doing?[p]
+#Tabata
+We take photos of landscapes and submit them to competitions.[p]
+#Nikuyama
+How boring.[p]
+Don't you have any swimsuit photos of female students?[p]
+#Tabata
+There's no way we have that kind of thing.[p]
+Even if we could, I would want to do it...[p]
+but there's no way there would be any girls who would be willing to become models.[p]
+#Nikuyama
+Well, I guess that's true.[p]
+Just do your best so that the club doesn't get disbanded.[p]
+It would be troublesome for me if it did.[p]
+#Tabata
+Well then, I guess I'll be going now...[p]
 
 
 
@@ -287,9 +334,8 @@
 [chara_hide_all  time="1000"  wait="true"  ]
 [tb_start_text mode=1 ]
 #
-写真部ねぇ・・・まぁ気が向いたらたまには顔を出してみるかな[p]
-・・・・・・[p]
-・・・[p]
+The photography club, huh...[p]
+Well, maybe I'll show up occasionally if I feel like it...[p]
 [_tb_end_text]
 
 [jump  storage="kitaku.ks"  target=""  ]
@@ -298,34 +344,45 @@
 [bg  time="1000"  method="rotateInDownLeft"  storage="rouka.jpg"  ]
 [tb_start_text mode=1 ]
 #
-どっかでカップルが乳繰り合ってたりしないかな[p]
-・・・[p]
-#教頭
-「肉山先生」[p]
+I wonder if there are any couples fooling around somewhere...[p]
+#Vice Principal
+Nikuyama[p]
 [_tb_end_text]
 
 [chara_show  name="教頭"  time="1000"  wait="true"  storage="chara/6/game49-1.png"  width="380"  height="894"  left="437"  top="15"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#肉山
-「あ、教頭」[p]
-#教頭
-「生徒指導の見回りですか。ご苦労様です」[p]
-「生徒達も浮ついてくる時期ですからね。引き締めていかないといけません。お願いしますよ」[p]
-#肉山
-「あ、はい。任せてください」（俺は何か面白いことがないかとうろついてるだけだがな）[p]
-#教頭
-「ところで、最近桐嶋先生がよく体育教官室に行っているようですが、二人で何を話してるんです？」[p]
-#肉山
-（まずいな・・・たしかに桐嶋が毎日のように俺に会いに来るのは不自然だよな。なんとか理由をつけて納得させておかないと今後やりにくいぞ）[p]
-「え、それは・・・ええと、健康上の相談を受けているんですよ」[p]
-#教頭
-「健康上の相談・・・？しかしあなたたちは仲が悪かったと思いましたが・・・」[p]
-#肉山
-「いや、そんなことはないですよ。最近は結構仲も良くて・・・」[p]
-#教頭
-「そうですか？しかし健康上の相談っていったい・・・」[p]
-#肉山
-（ええい面倒だな。・・・そうだ、もしかしたら・・・）[p]
+#Nikuyama
+Ah, Vice Principal.[p]
+#Vice Principal
+Is this a patrol for student guidance?[p]
+Thank you for your hard work.[p]
+It's the time when students start to become restless, so we need to keep them in line.[p]
+Please take care of it.[p]
+#Nikuyama
+Ah, yes.[p]
+Leave it to me.[p]
+)[p]
+#Vice Principal
+By the way, I've noticed that Kirishima-sensei has been going to the gym instructor's office quite often lately.[p]
+What are the two of them talking about?[p]
+#Nikuyama
+(This is bad...[p]
+It's definitely unnatural for Kirishima to come see me every day.[p]
+I need to come up with a reason and convince her so that it won't be difficult in the future.[p]
+) Uh, well, um, I'm actually receiving health-related consultations.[p]
+#Vice Principal
+Health-related consultations...?[p]
+But I thought you two didn't get along...[p]
+#Nikuyama
+No, that's not true.[p]
+Lately, we've been getting along quite well...[p]
+#Vice Principal
+Is that so?[p]
+But what exactly do you mean by health-related consultations...[p]
+#Nikuyama
+(Ugh, this is such a hassle...[p]
+Maybe...[p]
+)[p]
 
 
 [_tb_end_text]
@@ -333,29 +390,38 @@
 [tb_image_show  time="1000"  storage="default/game200.png"  width="288"  height="256"  x="486"  y="278"  _clickable_img=""  name="img_78"  ]
 [tb_image_hide  time="1000"  ]
 [tb_start_text mode=1 ]
-#肉山
-「実はセラピーのようなことを行っているんですよ。内容はプライバシー保護のために言えませんが」[p]
-#教頭
-「セラピー？あの桐嶋先生がなにか精神的な不安でも抱えてるんですか？」[p]
-「ていうか肉山先生はそんな精神科医のような知識があったんですか？」[p]
-#肉山
-「ええ、実は心理療法の資格を」[p]
-（どうなんだ？洗脳効いてるのか？）[p]
-#教頭
-「・・・なるほど。そういうことだったんですね」[p]
-「わかりました。セラピーの内容は気になりますが、詮索するのはやめておきましょう」[p]
-#肉山
-（おっ、効いた！教頭も洗脳の効きやすい体質なんだ！）[p]
-「まぁ、そんなに深刻なものではないので心配は要りませんよ。しばらく体育教官室に通ってもらうことになるとは思いますが」[p]
-#教頭
-「わかりました。このことは他の先生方には秘密にしておいたほうが良さそうですね。私のほうから適当に誤魔化しておきます」[p]
-#肉山
-「あ、お願いします」[p]
-#教頭
-「しかし肉山先生にそんな技能があったとは。わたしも何か悩みがあったら相談に伺いますかな、ハハハ」[p]
-「それでは見回りよろしくお願いします」[p]
-#肉山
-「はい、お疲れ様です」[p]
+#Nikuyama
+Actually, I'm doing something like therapy.[p]
+I can't disclose the details to protect privacy.[p]
+#Vice Principal
+Therapy?[p]
+Is Kirishima-sensei dealing with some kind of mental anxiety?[p]
+[p]
+#Nikuyama
+Yes, actually I have qualifications in psychotherapy.[p]
+(What's the matter?[p]
+)[p]
+#Vice Principal
+I see.[p]
+I understand now.[p]
+I'm curious about the details of the therapy, but let's not pry into it.[p]
+#Nikuyama
+(Oh, it worked![p]
+The Vice Principal is easily susceptible to brainwashing too![p]
+) Well, it's not something that serious, so there's no need to worry.[p]
+I think Kirishima-sensei will continue to visit the gym instructor's office for a while though.[p]
+#Vice Principal
+Understood.[p]
+It seems best to keep this a secret from the other teachers.[p]
+I'll come up with a suitable excuse on my own.[p]
+#Nikuyama
+Ah, please.[p]
+#Vice Principal
+However, I didn't expect Nikuyama-sensei to have such skills.[p]
+If I ever have any troubles, I might come to you for advice, hahaha.[p]
+Well then, please continue with your rounds.[p]
+#Nikuyama
+Yes, thank you for your hard work.[p]
 
 [_tb_end_text]
 
@@ -363,11 +429,11 @@
 [bg  time="1000"  method="rotateInDownLeft"  storage="game100.jpg"  ]
 [tb_start_text mode=1 ]
 #
-ハハハ、やったぜ。これで心置きなく桐嶋の調教に専念できるぞ[p]
-まさか教頭も洗脳が効きやすい体質だったとはな。これは今後何かに利用できるかもしれない[p]
-どうやらツキが回ってきてる気がするぜ、クックック[p]
-・・・・・・[p]
-・・・[p]
+Hahaha, I did it.[p]
+Now I can focus on training Kirishima without any worries.[p]
+I never expected the Vice Principal to be so easily susceptible to brainwashing.[p]
+This might be useful for something in the future.[p]
+It seems like luck is finally turning my way, kukuku...[p]
 [_tb_end_text]
 
 [jump  storage="kitaku.ks"  target=""  ]
@@ -376,113 +442,146 @@
 [bg  time="1000"  method="rotateInDownLeft"  storage="rouka.jpg"  ]
 [tb_start_text mode=1 ]
 #
-さてと今日も校舎の見回りといくか[p]
-・・・ん？あそこにいるのは不良グループだな[p]
-誰かに絡んでるようだが・・・イジメか？[p]
+Well, let's go on another round of patrolling the school building today...[p]
+Hm?[p]
+Over there, it looks like a group of delinquents.[p]
+It seems like they're bothering someone...[p]
+Is it bullying?[p]
 
 [_tb_end_text]
 
 [chara_show  name="木本"  time="1000"  wait="true"  storage="chara/8/game44-1.png"  width="407"  height="839"  left="392"  top="12"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#不良Ａ
-「おいキモ男、なに持ってんだ？ちょっと貸してみろ」[p]
-#キモ男
-「あっ、ちょ、ちょっと・・・か、返して・・・！」[p]
-#不良Ａ
-「うるせえ、ちょっとくらいいいだろ」[p]
-「なになに・・・『マジカル聖少女ミルミル外伝～ラブリーおパンチュ奪還作戦～』・・・？なんだこりゃ？」[p]
-「キメェーーーー！こいつヤベェって！」[p]
-#キモ男
-「か、返してってば・・・！」[p]
-#不良Ｂ
-「こいつキモいアニメオタクかと思ったらロリコンの変態野郎だったのかよ！」[p]
-#キモ男
-「ぼ、僕はロリコンじゃないですよ！ミルミルちゃんこと美空瑠璃香は設定上１８歳だし、聖少女にはお姉さんキャラの月浜夜影さんというメンバーも・・・」[p]
-#不良Ａ
-「うわっ、こいつ早口で語りだしたぞ！キモッ！」[p]
-#不良Ｃ
-「キメェんだよこのアニオタ野郎！」[p]
-#不良Ｂ
-「SNSで晒してやろうぜ！」[p]
-#キモ男
-「や、やめて！」[p]
+#Delinquent A
+Hey, creepy guy, what do you have there?[p]
+Let me borrow it for a bit.[p]
+#Creepy guy
+Ah, w-wait...[p]
+G-give it back...![p]
+#Delinquent A
+Shut up![p]
+What's this...[p]
+Magical Holy Girl Mil-Mil Side Story ~Lovely Panties Retrieval Operation~...?[p]
+What the hell is this?[p]
+It's so weird![p]
+This guy is messed up![p]
+#Creepy guy
+P-Please give it back...![p]
+#Delinquent B
+I thought this guy was just a creepy anime nerd, but turns out they're a perverted lolicon freak![p]
+#Creepy guy
+I-I'm not a lolicon![p]
+Mil-Mil-chan, also known as Misora Rurika, is 18 years old in the setting, and there's also a member named Tsukishima Yoru-kage who is an older sister character in the Magical Holy Girl group...[p]
+#Delinquent A
+Ugh, this guy started talking fast![p]
+Gross![p]
+#Delinquent C
+What a cringey anime nerd![p]
+#Delinquent B
+Let's expose them on social media![p]
+#Creepy guy
+S-Stop it![p]
 #
-うーむ、アニオタか[p]
-別にいいと思うがな。俺はアニメは観ないが２次元も別に嫌いじゃねえぜ[p]
-あの見た目じゃ現実でモテるのは無理そうだしな。そっちに走るのも仕方がない[p]
-まぁ、とりあえず助けてやるか[p]
-#肉山
-「おい、何やってるんだおまえら」[p]
-#不良Ａ
-「ゲッ、ゴリ・・・肉山先生」[p]
-#不良Ｂ
-「あ、いや・・・ただ遊んでただけですよ。なぁ」[p]
-#キモ男
-「え、あ・・・」[p]
-#不良Ｃ
-「おい、もう帰ろうぜ」[p]
-#肉山
-「おっと待て。こいつから取ったものをよこせ」[p]
-#不良Ａ
-「え、あ、はい・・・」[p]
-「それじゃっ」[p]
-#肉山
-「ふん、だらしねえな最近の不良は」[p]
-#キモ男
-「あ、ありがとうございます」[p]
-#肉山
-「なに教師の仕事だ」[p]
-「なになに・・・マジカル聖少女ミルミル・・・これはエロいシーンはあるのか？」[p]
-#キモ男
-「えっ、いや、ないですよ。ミルミルは健全な大きい子供向けアニメなので」[p]
-#肉山
-「・・・？よくわからんが、まぁいい。返してやる。ほれ。あんまりこういう物を学校に持ってくるなよ」[p]
-#キモ男
-「す、すいません・・・あぁ良かった」[p]
-#肉山
-「不良どもにキモ男と呼ばれてたようだが、まさか本名じゃないだろうな？」[p]
-#キモ男
-「そ、そんなわけないじゃないですか。子供にキモ男なんてつける親が居るわけないでしょう」[p]
-「木本典男というちゃんとした名前があります」[p]
-#肉山
-「きもとのりお？・・・なるほどキモトノリオ略してキモオか」[p]
-#木本
-「ていうか、写真部の部員なんですけど。自分が顧問をしている部活の部員くらい覚えておいてくださいよ」[p]
-#肉山
-「なに？お前も写真部だったのか。全く記憶に無いな」[p]
-「しかし写真部もろくな部員がいないな。お前はちゃんと活動してるのか？」[p]
-#木本
-「はい、一応・・・」[p]
-「でも僕はコスプレ写真が専門なので学校ではほとんどすることがないですね」[p]
-「コミケとかコスプレのあるイベントにでかけて写真を撮ってます」[p]
-#肉山
-「ほお、コスプレ写真か」[p]
-「パンチラとかを狙ったりするカメラ小僧的なあれか？」[p]
-#木本
-「い、いや、僕は純粋にコスプレを一つの芸術として・・・」[p]
-#肉山
-「ケッ、コスプレなんてエロい目で見てなんぼだろうが。本人たちもそういう目で見られたくてやってるんだから」[p]
-#木本
-「ま、まぁ・・・そういう面も否定はできませんが・・・」[p]
-#肉山
-「いいじゃねえかコスプレ撮影。部活動でもやろうぜ。女子生徒にコスプレさせてよ」[p]
-#木本
-「そんなのできたらいいですけどね・・・モデルになってくれる生徒が居ませんよ」[p]
-#肉山
-「・・・まぁそうか。お前らが声をかけてもな」[p]
-「これだけ生徒が居りゃ隠れてコスプレをしてる女子とか一人二人はいてもおかしくはないけどな」[p]
-「まぁもし撮影会が決まったら教えてくれや。それじゃな」[p]
-#木本
-「は、はい・・・さようなら」[p]
+Well, I don't really mind if they're an anime nerd.[p]
+I don't watch anime myself, but I don't particularly dislike 2D either.[p]
+With that appearance, it seems impossible for them to be popular in real life.[p]
+It's understandable that they would turn to that.[p]
+Well, for now, I guess I'll help them out.[p]
+#Nikuyama
+Hey, what are you guys doing?[p]
+#Delinquent A
+Ugh, Gor...[p]
+Nikuyama-sensei.[p]
+#Delinquent B
+Ah, no...[p]
+We were just playing around, you know.[p]
+Hey.[p]
+#Creepy guy
+Eh, ah...[p]
+#Delinquent C
+Hey, let's go home already.[p]
+#Nikuyama
+Hold on.[p]
+Hand over what you took from this guy.[p]
+#Delinquent A
+Uh, um, okay...[p]
+in that case...[p]
+#Nikuyama
+Hmph, today's delinquents are so sloppy.[p]
+#Creepy guy
+Th-Thank you very much.[p]
+#Nikuyama
+What kind of teacher's job is this...[p]
+Magical Holy Girl Mil-Mil...[p]
+Does it have any erotic scenes?[p]
+#Creepy guy
+Eh, no, there aren't any.[p]
+Mil-Mil is a wholesome anime for big kids.[p]
+#Nikuyama
+...?[p]
+I don't really understand, but whatever.[p]
+I'll give it back.[p]
+Here.[p]
+Don't bring stuff like this to school too often.[p]
+#Creepy guy
+S-Sorry...[p]
+Ah, I'm relieved.[p]
+#Nikuyama
+It seems like the delinquents were calling you Creepy guy, but I hope that's not your real name, right?[p]
+#Creepy guy
+Th-That's not true![p]
+There's no way parents would give their child a name like Creepy guy.[p]
+I have a proper name, which is Kimoto Norio.[p]
+#Nikuyama
+Kimoto Norio?[p]
+...[p]
+I see, so it's abbreviated as Kimoo from Kimoto Norio.[p]
+#Kimoto
+By the way, I'm a member of the photography club.[p]
+Please remember at least the members of the club that I am advising.[p]
+#Nikuyama
+What?[p]
+You're also in the photography club?[p]
+I have no recollection of that at all, but the photography club doesn't have any decent members.[p]
+Are you actually participating in any activities?[p]
+#Kimoto
+Yes, well...[p]
+But I specialize in cosplay photography, so I don't really do much at school.[p]
+I go to events like Comiket and cosplay events to take pictures.[p]
+#Nikuyama
+Oh, so you're one of those camera boys who aim for cosplay photos or panty shots?[p]
+#Kimoto
+N-No, I purely see cosplay as a form of art...[p]
+#Nikuyama
+Hmph, when it comes to cosplay, it's all about seeing it with a perverted gaze.[p]
+The people themselves are doing it because they want to be seen that way.[p]
+#Kimoto
+W-Well...[p]
+I can't deny that aspect either...[p]
+#Nikuyama
+Cosplay photography isn't bad.[p]
+Let's do it as a club activity.[p]
+Let's make the female students cosplay.[p]
+#Kimoto
+It would be nice if that were possible...[p]
+but there are no students who would be willing to become models.[p]
+#Nikuyama
+...[p]
+Well, I guess so.[p]
+With this many students, it wouldn't be strange to have a few girls hiding and doing cosplay even if you approach them.[p]
+If a photoshoot is decided, let me know.[p]
+Well then...[p]
+#Kimoto
+Y-Yes...[p]
+Goodbye.[p]
 #
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
 [tb_start_text mode=1 ]
 #
-写真部か・・・たまには顔を出してみるかな[p]
-・・・・・・[p]
-・・・[p]
+The photography club, huh...[p]
+Maybe I should show my face there once in a while...[p]
 [_tb_end_text]
 
 [jump  storage="kitaku.ks"  target=""  ]
@@ -491,73 +590,85 @@
 [bg  time="1000"  method="rotateInDownLeft"  storage="game106.jpg"  ]
 [tb_start_text mode=1 ]
 #
-うーむ、誰もいないな[p]
-・・・お？なんだあれは・・・子供・・・？[p]
+Hmm, no one is here...[p]
+Oh?[p]
+What's that...[p]
+a child...?[p]
 [_tb_end_text]
 
 [chara_show  name="津山"  time="1000"  wait="true"  storage="chara/5/game48.png"  width="334"  height="786"  left="457"  top="60"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#肉山
-「おい、そこの少女」[p]
-#少女
-「え、はい？」[p]
-#肉山
-「小学生か？なんでこんなところに居るんだ？お兄さんかお姉さんに会いに来たのか？」[p]
-#少女
-「いえ、違います。ここの生徒です」[p]
-#肉山
-「なに・・・生徒だと？嘘だろう？」[p]
-#少女
-「本当です。１年Ｂ組の津山さなえです」[p]
-#肉山
-「本当にここの生徒なのか？どう見ても小学生にしか見えないが・・・」[p]
-「あ、もしかして飛び級の天才児か？」[p]
-#津山
-「いえ、普通に入学しました」[p]
-「確かに見た目が幼いのでよく子供と間違われますけど・・・れっきとしたこの学園の生徒です」[p]
-#肉山
-「うーむ・・・信じられんな。身長はいくつだ？」[p]
-#津山
-「１３９ｃｍです」[p]
-#肉山
-「体重は？」[p]
-#津山
-「３２ｋｇくらいです」[p]
-#肉山
-「３サイズは？」[p]
-#津山
-「そんなの答えられないです」[p]
-#肉山
-「うーむ・・・好きな食べ物は？」[p]
-#津山
-「プリンです」[p]
-#肉山
-「好きな遊びは？」[p]
-#津山
-「縄跳びです」[p]
-#肉山
-「やっぱり小学生じゃねえか」[p]
-#津山
-「違います」[p]
-#肉山
-「好きな映画は？」[p]
-#津山
-「となりのとと郎です」[p]
-#肉山
-「将来なりたい職業は？」[p]
-#津山
-「ケーキ屋さんです」[p]
-#肉山
-「小学校低学年じゃねえか」[p]
-#津山
-「違います」[p]
-「生徒手帳もちゃんと持ってます」[p]
-#肉山
-「うーむ、本物だ」[p]
-「信じるしかなさそうだな」[p]
-#津山
-「信じてもらえてよかったです」[p]
-「くもんがあるのでもう帰ります。先生さようーならー」ペコリ[p]
+#Nikuyama
+Hey, you there, child.[p]
+#Girl
+Huh, yes?[p]
+#Nikuyama
+Are you an elementary school student?[p]
+Why are you here?[p]
+Did you come to meet your older brother or sister?[p]
+#Girl
+No, that's not it.[p]
+I'm a student here.[p]
+#Nikuyama
+What...[p]
+a student?[p]
+Are you kidding me?[p]
+#Girl
+It's true.[p]
+I'm Tsuyama Sanae from 1-B.[p]
+#Nikuyama
+Are you really a student here?[p]
+You definitely look like an elementary school student...[p]
+Oh, could it be that you're a child prodigy who skipped grades?[p]
+#Tsuyama
+No, I enrolled here just like everyone else.[p]
+It's true that I often get mistaken for a child because of my appearance, but...[p]
+I am a legitimate student of this school.[p]
+#Nikuyama
+Hmm...[p]
+I can't believe it.[p]
+How tall are you?[p]
+#Tsuyama
+I am 139cm tall.[p]
+#Nikuyama
+What about your weight?[p]
+#Tsuyama
+I weigh about 32kg.[p]
+#Nikuyama
+What are your measurements?[p]
+#Tsuyama
+I can't answer that.[p]
+#Nikuyama
+Hmm...[p]
+What is your favorite food?[p]
+#Tsuyama
+It's pudding.[p]
+#Nikuyama
+What is your favorite hobby?[p]
+#Tsuyama
+It's jump rope.[p]
+#Nikuyama
+You really are an elementary school student, huh?[p]
+#Tsuyama
+No, that's not correct.[p]
+#Nikuyama
+What is your favorite movie?[p]
+#Tsuyama
+It's Tonari no Totoro.[p]
+#Nikuyama
+What is your dream job for the future?[p]
+#Tsuyama
+I want to be a cake shop owner.[p]
+#Nikuyama
+Aren't you in the lower grades of elementary school?[p]
+#Tsuyama
+No, I have my student handbook properly.[p]
+#Nikuyama
+Hmm, it seems I have no choice but to believe it's genuine.[p]
+#Tsuyama
+I'm glad you believe me.[p]
+Since there's nothing else, I'll go home now.[p]
+*bows*[p]
 
 
 
@@ -568,13 +679,13 @@
 
 [chara_hide_all  time="1000"  wait="true"  ]
 [tb_start_text mode=1 ]
-#肉山
-「小学生じゃねえか！」[p]
-「・・・いや、幼く見えるだけだ。小学生がこの学園にいるわけがないんだからな」[p]
-「ハハハハ」[p]
+#Nikuyama
+You're not an elementary school student![p]
+...[p]
+No, you just look young.[p]
+There's no way an elementary school student would be in this school, hahaha.[p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 
 
 [_tb_end_text]
@@ -585,161 +696,218 @@
 [bg  time="1000"  method="rotateInDownLeft"  storage="rouka.jpg"  ]
 [tb_start_text mode=1 ]
 #
-今日も見回りといくか[p]
-・・・ん？なんか生徒が騒いでるな[p]
-#肉山
-「おい、どうした？」[p]
-#女子生徒Ａ
-「あ、肉山先生、窓ガラスが・・・」[p]
+Today, I'll do my rounds again...[p]
+Hm?[p]
+It seems like the students are making a commotion.[p]
+#Nikuyama
+Hey, what's going on?[p]
+#Female Student A
+Oh, Mr.[p]
+Nikuyama, the window glass...[p]
 [_tb_end_text]
 
 [stopbgm  time="1000"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Grease_Slide_Trap.mp3"  ]
 [tb_start_text mode=1 ]
-#肉山
-「あっ、ガラスが割れてるじゃねえか。誰がやったんだ？誰か犯人を見たか？」[p]
-#女子生徒Ａ
-「いえ、見てません。来たらもう割れてました」[p]
-#肉山
-「本当か？犯人をかばってるんじゃないだろうな？正直に言えよ」[p]
-#女子生徒Ａ
-「ほ、本当です」[p]
-#肉山
-「他のやつはどうだ？誰も見てないのか？」[p]
-#男子生徒Ａ
-「見てません」[p]
-#肉山
-「うーむ誰も見てないのかよ。どうせ不良どもの仕業だろうがな」[p]
-#女子生徒Ｂ
-「あっ、そういえば・・・」[p]
-#肉山
-「ん、なんだ？」[p]
-#女子生徒Ｂ
-「あ、いえ・・・」[p]
-#肉山
-「なんだ、言ってみろ。犯人の心当たりでもあるのか？」[p]
-#女子生徒Ｂ
-「心当たりというか・・・ちょっと前にこの辺で遊んでた人がいましたけど・・・。」[p]
-#肉山
-「お、そいつは有力情報だ。誰だ？」[p]
-#女子生徒Ｂ
-「Ｂ組の柴田君たちです」[p]
-#肉山
-「なに柴田たち？ああ、いつも問題起こしてる連中だな。ここで何してた？」[p]
-#女子生徒Ｂ
-「よくは見てませんけど、なにか投げ合ってたような・・・」[p]
-#肉山
-「そのときは窓は割れてなかったんだな？」[p]
-#女子生徒Ｂ
-「はい」[p]
-#肉山
-「なるほどな、柴田たちがここで遊んでて、いなくなって窓が割れていた。決まりだな」[p]
-「大方キャッチボールでもしてて窓が割れたんであわてて逃げたんだろう。クズどものやりそうなことだ」[p]
-#女子生徒Ａ
-「でもまだ犯人が柴田君って決まったわけじゃないと思いますけど。不良だけどそんなに悪い人じゃないし・・・」[p]
-#肉山
-「いや、状況証拠から見ても普段の行いから見ても間違いない。あいつらで決まりだ」[p]
-#男子生徒Ａ
-「確かにあいつらいつも騒いで暴れてるし、やりそうではあるよ」[p]
-#女子生徒Ｂ
-「そうだよね」[p]
-#肉山
-「あいつらの処分は考えておく。とりあえずガラスを片付けるから掃除道具もってこい」[p]
-#女子生徒Ａ
-「はい」[p]
-「あっ・・・柴田君！」[p]
-#柴田
-「おう、どうしたんだみんな深刻な顔して？」[p]
-「あれ？ガラス割れてんじゃん！誰がやったんだ？」[p]
-#肉山
-「お前がやったんだろうが。自分でやっておいて白々しい小芝居はやめろ」[p]
-#柴田
-「え・・・？俺が・・・！？」[p]
-「俺はやってねえよ！なんで俺のせいになるんだよ！？」[p]
-#肉山
-「ちゃんと目撃者がいるんだ。お前らがここでキャッチボールしてたのはわかってるんだぞ」[p]
-#柴田
-「キャッチボール・・・？・・・ち、違う！キャッチボールなんかしてない！」[p]
-#肉山
-「嘘をつけ。お前らアホグループがここで何か投げ合って遊んでいたのを見たものがいるんだ」[p]
-#柴田
-「確かにここで遊んではいたけど・・・俺達は紙飛行機を飛ばしてただけだ！」[p]
-#女子生徒Ｂ
-「え・・・紙飛行機・・・？」[p]
-#柴田
-「そうさ！いくら俺たちでも窓のある廊下で硬いボールでキャッチボールするほどバカじゃないぜ」[p]
-#肉山
-「いやお前たちならやってもおかしくない。前にも消火器を暴発させたり色々と前科があるからな」[p]
-#柴田
-「あ、あれは確かに俺がやったけど・・・俺は逃げも隠れもしなかったぜ！やったことはちゃんと認める。今回は俺じゃねえ！」[p]
-#肉山
-「ふん、クズのくせに格好つけるんじゃねえ。口ではなんとでも言えるんだ」[p]
-#柴田
-「な・・・証拠も無いのに俺たちに押し付ける気かよ！やってないのに・・・！」[p]
-#肉山
-「証拠などいらん。お前らがクズだからというだけで十分だ。恨むなら馬鹿な自分たちを恨め」[p]
-「さぁ職員室に来いっ」[p]
-#柴田
-「く、くそっ・・・！」[p]
-#桐嶋
-「何事ですか？」[p]
+#Nikuyama
+Ah, the glass is broken.[p]
+Who did it?[p]
+Did anyone see the culprit?[p]
+#Female Student A
+No, I didn't see.[p]
+When I came, it was already broken.[p]
+#Nikuyama
+Is that true?[p]
+You're not trying to protect the culprit, are you?[p]
+Just be honest and tell me.[p]
+#Female Student A
+Y-Yes, it's true.[p]
+#Nikuyama
+What about the others?[p]
+Did no one see anything?[p]
+#Male Student A
+I didn't see anything.[p]
+#Nikuyama
+Hmm, no one saw anything, huh?[p]
+It's probably the work of those delinquents.[p]
+#Female Student B
+Oh, come to think of it...[p]
+#Nikuyama
+Huh, what is it?[p]
+#Female Student B
+Oh, um...[p]
+#Nikuyama
+What is it?[p]
+Do you have any idea who the culprit might be?[p]
+#Female Student B
+Well, there was someone playing around here a little while ago...[p]
+#Nikuyama
+Oh, that's valuable information.[p]
+Who was it?[p]
+#Female Student B
+It was the Shiba-kun and his friends from Class B.[p]
+#Nikuyama
+What about Shibata and his friends?[p]
+Ah, those troublemakers.[p]
+What were they doing here?[p]
+#Female Student B
+I didn't see it clearly, but they seemed to be throwing something at each other...[p]
+#Nikuyama
+The window wasn't broken at that time, right?[p]
+#Female Student B
+Yes.[p]
+#Nikuyama
+I see, so Shibata and his friends were playing here, and then the window was broken.[p]
+Most likely, they were playing catch or something and accidentally broke the window, so they hurriedly ran away.[p]
+It's just like those scumbags to do something like that.[p]
+#Female Student A
+But I don't think it's been determined that Shibata-kun is the culprit yet.[p]
+He may be a delinquent, but he's not that bad of a person...[p]
+#Nikuyama
+No, based on the evidence and their usual behavior, there's no doubt.[p]
+It's definitely them.[p]
+#Male Student A
+They certainly always make a lot of noise and cause trouble, so it's possible they did it.[p]
+#Female Student B
+That's right.[p]
+#Nikuyama
+I'll think about what to do with them.[p]
+For now, bring cleaning tools because I'll clean up the glass.[p]
+#Female Student A
+Yes, Shibata-kun![p]
+#Shibata
+Hey, what's wrong everyone?[p]
+Why the serious faces?[p]
+Huh?[p]
+The glass is broken![p]
+Who did it?[p]
+#Nikuyama
+You're the one who did it, right?[p]
+Stop putting on a pathetic act after doing it yourself.[p]
+#Shibata
+Eh...?[p]
+Me...!?[p]
+I didn't do it![p]
+Why are you blaming me for it!?[p]
+#Nikuyama
+There are witnesses who saw it.[p]
+I know that you guys were playing catch here.[p]
+#Shibata
+Catch ball...?[p]
+...[p]
+N-No![p]
+I wasn't playing catch ball![p]
+#Nikuyama
+Don't lie.[p]
+There are people who saw you idiots throwing something back and forth here.[p]
+#Shibata
+We were certainly playing here...[p]
+but we were just flying paper airplanes![p]
+#Female Student B
+Eh...[p]
+paper airplanes...?[p]
+#Shibata
+That's right![p]
+Even we wouldn't be stupid enough to play catch with a hard ball in a hallway with windows.[p]
+#Nikuyama
+Well, it wouldn't be surprising if you guys did it.[p]
+You have a history of causing various incidents, like when you set off a fire extinguisher before.[p]
+#Shibata
+Ah, I did do that...[p]
+but I didn't run or hide![p]
+I admit what I did.[p]
+But this time, it wasn't me![p]
+#Nikuyama
+Hmph, don't act all high and mighty, you piece of trash.[p]
+You can say whatever you want with your mouth.[p]
+#Shibata
+W-...[p]
+Why are you trying to pin this on us without any evidence![p]
+We didn't do it...![p]
+#Nikuyama
+I don't need any evidence.[p]
+Just the fact that you guys are trash is enough.[p]
+If you want to hold a grudge, then come to the staff room and blame your own stupidity.[p]
+#Shibata
+Damn it...![p]
+#Kirishima
+What's going on?[p]
 [_tb_end_text]
 
 [chara_show  name="桐嶋"  time="1000"  wait="true"  storage="chara/1/game10.png"  width="339"  height="797"  left="453"  top="24"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#女子生徒Ａ
-「あっ、桐嶋先生！」[p]
-#桐嶋
-「なんの騒ぎですかこれは？説明してください」[p]
-#肉山
-「ご覧の通りですよ。この柴田が窓ガラスを割ったので職員室に連れて行くところです」[p]
-#柴田
-「俺はやってねぇ！」[p]
-#桐嶋
-「彼は否認しているようですが？」[p]
-#肉山
-「なに、苦し紛れに嘘をついているだけです。往生際の悪いやつだ」[p]
-#柴田
-「本当にやってないんだ！信じてくれよ桐嶋先生！」[p]
-#桐嶋
-「柴田君が犯人だという根拠は？」[p]
-#肉山
-「柴田たちがこの廊下でキャッチボールをしていたのを目撃した生徒が居る」[p]
-#柴田
-「紙飛行機を飛ばしてただけだ！キャッチボールなんかしてない！」[p]
-#桐嶋
-「その目撃した生徒というのは？」[p]
-#女子生徒Ｂ
-「わ、わたしです。でも私はチラっと見ただけで・・・柴田君たちが何かを投げて遊んでいたと言っただけです」[p]
-#肉山
-「十分だ。何かを投げて遊んでいた。その直後にガラスが割れていた。犯人は誰か明らかだ」[p]
-#柴田
-「俺はやってない！」[p]
-#桐嶋
-「・・・わたしは柴田君を信じます」[p]
-#柴田
-「桐嶋先生・・・！」[p]
-#肉山
-「こんなクズを信用するのか？ははーん、またお得意の「生徒を信じる良い先生」を演じる気だな？」[p]
-「そんな甘っちょろい理想だけじゃ教育ってのは成り立たないんだよ！時には厳しさも必要なんだ」[p]
-#桐嶋
-「私は柴田君は嘘をつくような生徒では無いと信じています」[p]
-「ですがそれだけではありません。ガラスを見てください」[p]
-#肉山
-「あぁん？」[p]
-#桐嶋
-「廊下でキャッチボールをしていてガラスを割ったのなら破片は外に向かって散らばるはずです」[p]
-「ですが見ての通り廊下の内側に破片が散らばっています。つまり窓ガラスは外側から割られたのに違いありません」[p]
-#男子生徒Ａ
-「た、確かに・・・！」[p]
-#肉山
-「外側からだとぉ・・・？馬鹿な、ここは３階だぞ。一体誰がやったって言うんだよ」[p]
-#桐嶋
-「それは・・・」[p]
+#Female Student A
+Ah, Kirishima-sensei![p]
+#Kirishima
+What's all this commotion?[p]
+Please explain.[p]
+#Nikuyama
+As you can see, we're taking this Shibata to the staff room because they broke the window glass.[p]
+#Shibata
+I didn't do it![p]
+#Kirishima
+It seems like they are denying it?[p]
+#Nikuyama
+What?[p]
+They're just desperately lying.[p]
+They're a person with no sense of dignity.[p]
+#Shibata
+I really didn't do it![p]
+Please believe me, Kirishima-sensei![p]
+#Kirishima
+What evidence is there that Shibata is the culprit?[p]
+#Nikuyama
+There is a student who witnessed Shibata and others playing catch in this hallway.[p]
+#Shibata
+I was just flying a paper airplane![p]
+I wasn't playing catch or anything![p]
+#Kirishima
+Who is this student who witnessed it?[p]
+#Female Student B
+Student B: U-um, it was me.[p]
+But I only glanced and...[p]
+I just said that Shibata and the others were throwing something and playing.[p]
+#Nikuyama
+That's enough.[p]
+They were playing and throwing something.[p]
+Right after that, the glass broke.[p]
+It's clear who the culprit is.[p]
+#Shibata
+I didn't do it![p]
+#Kirishima
+...[p]
+I believe in Shibata-kun.[p]
+#Shibata
+Kirishima-sensei...![p]
+#Nikuyama
+Are you really going to trust this scumbag?[p]
+Haha, playing the role of a good teacher who believes in their favorite students again, huh?[p]
+Education doesn't work with just sweet and naive ideals like that![p]
+Sometimes, strictness is necessary too.[p]
+#Kirishima
+I believe that Shibata-kun is not the kind of student who would lie, but that's not all.[p]
+Please look at the glass.[p]
+#Nikuyama
+Huh?[p]
+#Kirishima
+If they were playing catch in the hallway and broke the glass, the shards should have scattered outward.[p]
+But as you can see, the shards are scattered on the inside of the hallway.[p]
+In other words, the window glass was definitely broken from the outside.[p]
+#Male Student A
+Y-Yes, indeed...![p]
+#Nikuyama
+From the outside...?[p]
+That's stupid, we're on the third floor.[p]
+Who the hell do you think did it?[p]
+#Kirishima
+That is...[p]
 #？？
-「いやぁすまんすまん。ガラスを割ったのは私だ」[p]
-#肉山
-「ん・・・あっ、理事長！」[p]
+???[p]
+: Ah, I'm sorry, I'm sorry.[p]
+I'm the one who broke the glass.[p]
+#Nikuyama
+Hm...[p]
+Ah, Chairman![p]
 
 [_tb_end_text]
 
@@ -748,41 +916,59 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="いつもの放課後.mp3"  ]
 [tb_start_text mode=1 ]
-#桐嶋
-「・・・なるほど。つまり学園のＰＲ動画を撮ろうとしてドローンを飛ばしていたら操作を誤って窓を割ってしまった、ということでしたか」[p]
-#理事長
-「うむ、騒がせて申し訳なかった。年寄りが調子に乗るもんじゃないな、ワハハハハ」[p]
-「それでは後片付けと修理の手配の方は頼んでおくよ。本当にすまなかったな」[p]
-#肉山
-「あ、はい。後のことはお任せを」[p]
-「・・・ケッ、人騒がせな爺さんだぜ」[p]
-#女子生徒Ａ
-「疑いが晴れてよかったね柴田君」[p]
-#柴田
-「へん、だから言っただろ。俺やったなら堂々と自分でやったと言うんだ」[p]
-「・・・でも、ありがとうな桐嶋先生。俺のこと信じてくれて」[p]
-#桐嶋
-「生徒のことを信じるのは教師として当然のことです。私はあなたが性根から腐った人間ではないことをわかっていますから」[p]
-#柴田
-「・・・へっ、そんなこと言うのは桐嶋先生だけだよ・・・なんか調子が狂っちまうんだよなぁ」[p]
-#男子生徒Ａ
-「僕も心では柴田君を疑ってたよ。ごめん」[p]
-#柴田
-「いいってことよ」[p]
-#女子生徒Ｂ
-「でも桐嶋先生すごいわ。一目見ただけで外側から割られたって推理したのもすごいし、最初から柴田君を疑ってなかったわ」[p]
-#女子生徒Ａ
-「そうよね。他の先生ならあのまま柴田君を犯人にして終らせてたものね・・・」[p]
-#桐嶋
-「そんなたいしたことじゃないわ。・・・もっとも生徒をクズ呼ばわりして真実を見ようともしない教師も中にはいるようですけどね」[p]
-#肉山
-「う・・・ふ、フンッ、普段からの行いが悪いからこういう時に疑われるんだ。自業自得だ！」[p]
-#男子生徒A
-（うわぁ・・・）[p]
-#女子生徒A
-（サイテーね・・・こんな人が良く教師やってるわ）[p]
-#肉山
-「それじゃお前らガラスを掃除しておけよっ」[p]
+#Kirishima
+I see.[p]
+So, in other words, you were trying to film a promotional video for the school and accidentally broke the window while flying a drone.[p]
+Is that correct?[p]
+#President
+Hmm, I apologize for causing a disturbance.[p]
+Old folks shouldn't get carried away, hahaha.[p]
+Well then, I'll take care of the cleanup and repair arrangements.[p]
+I'm really sorry about this.[p]
+#Nikuyama
+Ah, yes.[p]
+I'll leave the rest to you...[p]
+Geez, what a troublesome old man.[p]
+#Female Student A
+I'm glad the suspicion has been cleared, Shibata-kun.[p]
+#Shibata
+H-Hey, I told you so.[p]
+If it was me, I would have confidently admitted to doing it myself...[p]
+But, thank you, Kirishima-sensei.[p]
+Thank you for believing in me.[p]
+#Kirishima
+It is only natural for a teacher to believe in their students.[p]
+I know that you are not a fundamentally rotten person.[p]
+#Shibata
+...[p]
+Heh, only Kirishima-sensei would say something like that...[p]
+It's messing with my head somehow.[p]
+#Male Student A
+I also had doubts about Shibata-kun in my heart.[p]
+I'm sorry.[p]
+#Shibata
+It's fine.[p]
+#Female Student B
+But Kirishima-sensei is amazing.[p]
+It's impressive that they deduced that the window was broken from the outside just by taking one look, and they never doubted Shibata-kun from the beginning.[p]
+#Female Student A
+That's right.[p]
+If it were any other teacher, they would have just pinned the blame on Shibata-kun and called it a day...[p]
+#Kirishima
+It's not that big of a deal.[p]
+...[p]
+Although there are some teachers who don't even bother to see the truth and just label their students as trash.[p]
+#Nikuyama
+Ugh...[p]
+Hmph, it's because of my bad behavior that I'm being suspected in times like this.[p]
+It's my own fault![p]
+#Male Student A
+)[p]
+#Female Student A
+(This is the worst...[p]
+)[p]
+#Nikuyama
+Then you guys should clean up the glass.[p]
 
 [_tb_end_text]
 
@@ -790,11 +976,13 @@
 [bg  time="1000"  method="fadeIn"  storage="game100.jpg"  ]
 [tb_start_text mode=1 ]
 #
-くそっ！桐嶋のやつ俺に恥をかかせやがって！[p]
-・・・まぁいい。こっちには洗脳補助器があるんだ。すぐにあの生意気な態度を俺のチンポで調教してやる[p]
-それまでせいぜい生徒達と仲良しごっこをやってるんだな[p]
-・・・・・・[p]
-・・・[p]
+Damn it![p]
+That Kirishima bastard made me look bad![p]
+...[p]
+Well, whatever.[p]
+I have a brainwashing device here.[p]
+I'll soon train that arrogant attitude of theirs with my cock.[p]
+Until then, just keep playing nice with the students...[p]
 [_tb_end_text]
 
 [jump  storage="kitaku.ks"  target=""  ]
@@ -802,75 +990,87 @@
 
 [bg  time="1000"  method="rotateInDownLeft"  storage="rouka.jpg"  ]
 [tb_start_text mode=1 ]
-#男子生徒Ａ
-「おい、見たか桐嶋先生！」[p]
-#男子生徒Ｂ
-「見た見た！すごかったよな！ピチピチのミニスカートで・・・」[p]
-#男子生徒Ｃ
-「胸元もパカっと開いてオッパイ見えそうだしよ！授業に全く集中できなかったぜ！」[p]
+#Male Student A
+Hey, did you see that, Kirishima-sensei?[p]
+#Male Student B
+I saw it, I saw it![p]
+It was amazing, right?[p]
+In a tight mini skirt...[p]
+#Male Student C
+Their neckline was wide open and it looked like their boobs were about to be visible![p]
+I couldn't concentrate on the class at all![p]
 #
-・・・[p]
-ククク、やはり生徒達は桐嶋の服装の話しで持ちきりだな[p]
-真面目なあいつの評判が下がるのはいい気味だぜ[p]
-#教頭
-「肉山先生」[p]
+Hehehe, as expected, the students can't stop talking about Kirishima's outfit.[p]
+It's quite amusing to see their serious reputation take a hit.[p]
+#Vice Principal
+Nikuyama[p]
 
 
 [_tb_end_text]
 
 [chara_show  name="教頭"  time="1000"  wait="true"  storage="chara/6/game49-1.png"  width="365"  height="859"  left="439"  top="24"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#肉山
-「あ、教頭」[p]
-#教頭
-「いったいどうしたというんですか、アレは！」[p]
-#肉山
-「は？アレと言いますと・・・？」[p]
-#教頭
-「桐嶋先生の服装のことですよ！あれはセラピーしているという精神的な問題と関係してるんですか？」[p]
-#肉山
-「あ、ああ・・・」（そういえばそんな話だったな）[p]
-「ええ、そうなんですよ。まぁ心的ストレスの表れといいますか・・・」[p]
-#教頭
-「そうかやっぱり・・・しかし困るなぁ、あんな服装で学園をウロウロされては・・・」[p]
-「校内の風紀に影響するし・・・かといって注意するのもなにかと問題が・・・」[p]
-#肉山
-「それなんですが、しばらく放っておいてあげてくださると助かります」[p]
+#Nikuyama
+Ah, Vice Principal.[p]
+#Vice Principal
+What on earth is going on with that?![p]
+#Nikuyama
+Huh?[p]
+What are you referring to...?[p]
+#Vice Principal
+I'm talking about Kirishima-sensei's attire![p]
+Is that related to some sort of psychological issue they're undergoing therapy for?[p]
+#Nikuyama
+Ah, ah...[p]
+(Come to think of it, that was the case) Yes, that's right.[p]
+Well, you could say it's a manifestation of psychological stress...[p]
+#Vice Principal
+I see, as I thought...[p]
+But this is troublesome.[p]
+Having someone wandering around the school in such attire...[p]
+It will affect the discipline within the school...[p]
+However, it's also problematic to give them a warning...[p]
+#Nikuyama
+Well, you see, it would be helpful if you could leave it alone for a while.[p]
 [_tb_end_text]
 
 [tb_image_show  time="1000"  storage="default/game200.png"  width="288"  height="256"  x="497"  y="342"  _clickable_img=""  name="img_123"  ]
 [tb_image_hide  time="1000"  ]
 [tb_start_text mode=1 ]
-#教頭
-「そ、それはどういう・・・？」[p]
-#肉山
-「今の桐嶋先生には抑圧が一番良くないんですよ」[p]
-「ああいう服装をして仕事することがストレスの発散になっているわけですね」[p]
-「ですからしばらくは何もなかったように放っておいてあげて欲しいんです」[p]
-#教頭
-「はぁ、なるほどストレスが・・・」[p]
-「それではやはり注意しない方がいいのですか。うーんしかし・・・」[p]
-#肉山
-「お願いします。それにちょっと基準からは外れていますが、そこまで卑猥というほどではないですよ」[p]
-「教師としてみるとあれですが、最近はあのくらいはまぁ普通ですから」[p]
-#教頭
-「そ、そうかね？だいぶ猥褻に見えたが・・・最近はそういうものかね？」[p]
-#肉山
-「ええ、そこまで気にするほどではないかと」[p]
-#教頭
-「そ、そうか。それならば当面は問題にせずにおこうかね。何事も波風を立てないのが一番だからね、うん」[p]
+#Vice Principal
+W-What is that...?[p]
+#Nikuyama
+What Kirishima-sensei needs right now is not repression.[p]
+Wearing that kind of outfit while working is a way for them to relieve stress.[p]
+So, I would like you to leave them alone for a while as if nothing happened.[p]
+#Vice Principal
+Ah, I see.[p]
+So, should we really not give them a warning?[p]
+Hmm, however...[p]
+#Nikuyama
+Please.[p]
+And while it may deviate from the norm a bit, it's not really that obscene.[p]
+From a teacher's perspective, it's just...[p]
+well, somewhat normal these days.[p]
+#Vice Principal
+I-Is that so?[p]
+It looked quite obscene...[p]
+Is that the norm these days?[p]
+#Nikuyama
+Well, I don't think it's something to be so concerned about.[p]
+#Vice Principal
+I-I see.[p]
+In that case, let's not make it a problem for now.[p]
+It's best to avoid causing any disturbances, yes.[p]
 #
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
 [tb_start_text mode=1 ]
 #
-ククク、ちょろいもんだぜ[p]
-教頭さえ抑えておけばまぁ問題にはなるまい[p]
-時間がたてば他の教師や生徒達もある程度は慣れてくるはずだしな[p]
-あいつには今後もAVに出てくる女教師のような服装で過ごしてもらうとしよう[p]
-・・・・・・[p]
-・・・[p]
+Kukuku, it's an easy task as long as we keep the Vice Principal in check.[p]
+It shouldn't become a problem if enough time passes and other teachers and students get used to it to some extent.[p]
+Let's have them continue to dress like a female teacher who appears in AVs in the future...[p]
 
 
 
@@ -882,65 +1082,86 @@
 [bg  time="1000"  method="rotateInDownLeft"  storage="rouka.jpg"  ]
 [tb_start_text mode=1 ]
 #
-お、あそこに居るのは藤野と早瀬だな[p]
+Oh, over there is Fujino and Hayase.[p]
 [_tb_end_text]
 
 [chara_show  name="早瀬"  time="1000"  wait="false"  left="226"  top="23"  width="381"  height="896"  reflect="false"  storage="chara/2/game47.png"  ]
 [chara_show  name="藤野"  time="1000"  wait="true"  left="685"  top="14"  width="391"  height="921"  reflect="false"  storage="chara/3/game45.png"  ]
 [tb_start_text mode=1 ]
-#早瀬
-「英語の小テストさんざんだったよ・・・あやめはどうだった？」[p]
-#藤野
-「わたくしは１００点でした」[p]
-#早瀬
-「グハッ！あやめに聞いたのが間違いだったよ。なんでそんなに毎回１００点取れるの？」[p]
-#藤野
-「桐嶋先生の素晴らしい授業のおかげです。桐嶋先生の授業をちゃんと受けていれば誰でも英語が上達するはずです」[p]
-#早瀬
-「私も桐嶋先生の授業受けてるんだけどね・・・。相変わらずあやめは桐嶋先生愛がすごいなぁ」[p]
-#藤野
-「あ、愛だなんてそんな・・・！ただ桐嶋先生は素晴らしい先生だということで・・・」[p]
-#早瀬
-「はいはい。まぁ私も好きだけどさ桐嶋先生」[p]
-「・・・でも桐嶋先生といえば、どうしたんだろうね最近のあの服装」[p]
-「スカートすごく短いし、なんかエッチっていうか・・・変じゃない？」[p]
-#藤野
-「そんなことはありませんわ。よくお似合いでとっても素敵じゃないですか」[p]
-#早瀬
-「でも桐嶋先生らしくないっていうか・・・。なにかあったのかなって」[p]
-#藤野
-「なにかってなんですか？」[p]
-#早瀬
-「例えば・・・男ができたとか」[p]
-#藤野
-「えっ、男・・・！？」[p]
-「そ、そんな・・・桐嶋先生に限ってそんな・・・」[p]
-#早瀬
-「なんでよ。あんなに美人なんだし彼氏くらい居てもおかしくないでしょ」[p]
-#藤野
-「でも・・・桐嶋先生に恋人だなんて・・・そんな・・・わたくし・・・」[p]
-#早瀬
-「ま、まぁ、そうと決まったわけじゃないし！服装が変わっただけで中身はいつも通りだからそんなことは無い・・・かもね！」[p]
-#藤野
-「そ、そうですよね・・・？」[p]
-#早瀬
-「そ、そうそう。桐嶋先生は男嫌いっぽいし。ただの気分転換だよ、きっと！」[p]
-#藤野
-「そうですわ。わたくしの桐嶋先生に限ってそんなはずありませんもの・・・」[p]
+#Hayase
+The English quiz was tough...[p]
+How did Ayame do?[p]
+#Fujino
+I got a perfect score of 100.[p]
+#Hayase
+Guha![p]
+It was a mistake to ask Ayame.[p]
+Why does they always get a perfect score of 100 every time?[p]
+#Fujino
+It's thanks to Kirishima-sensei's wonderful lessons.[p]
+If you properly take Kirishima-sensei's classes, anyone should be able to improve their English.[p]
+#Hayase
+I'm also taking Kirishima-sensei's classes, you know...[p]
+Ayame's love for Kirishima-sensei is still amazing, as always.[p]
+#Fujino
+Ah, love and all that...![p]
+But it's just that Kirishima-sensei is an amazing teacher...[p]
+#Hayase
+Yeah, yeah.[p]
+Well, I like Kirishima-sensei too, but speaking of Kirishima-sensei, I wonder what's up with their recent outfit.[p]
+The skirt is really short and it's kind of...[p]
+sexy, or rather...[p]
+unusual, isn't it?[p]
+#Fujino
+That's not true at all.[p]
+They look really good in it and it's very lovely, isn't it?[p]
+#Hayase
+But it's not like Kirishima-sensei...[p]
+Did something happen?[p]
+#Fujino
+What do you mean by something?[p]
+#Hayase
+For example...[p]
+did they get a boyfriend or something?[p]
+#Fujino
+Huh, a boyfriend...!?[p]
+Th-that's...[p]
+unexpected, especially for Kirishima-sensei...[p]
+#Hayase
+Why not?[p]
+They're so beautiful, it wouldn't be strange for them to have a boyfriend.[p]
+#Fujino
+But...[p]
+to think that Kirishima-sensei has a boyfriend...[p]
+That's...[p]
+me...[p]
+#Hayase
+W-Well, it's not like it's been confirmed or anything![p]
+They just changed their outfit, but I think their personality is still the same as always...[p]
+maybe![p]
+#Fujino
+R-Right...?[p]
+#Hayase
+Y-Yeah, yeah.[p]
+Kirishima-sensei seems to dislike men.[p]
+It's probably just a change of pace, I'm sure![p]
+#Fujino
+That's right.[p]
+There's no way my Kirishima-sensei would be like that...[p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
 [tb_start_text mode=1 ]
 #
-・・・ククク、安心しな。桐嶋先生に彼氏なんてできてないぜ。そして、これからもな・・・[p]
-それにしてもあの二人、仲が良かったんだな[p]
-お嬢様の藤野とボーイッシュな早瀬の取り合わせは意外だぜ[p]
-藤野はかなり桐嶋に心酔しているようだが・・・悪いが俺様がいただいちまうぜ、クククク[p]
-・・・・・・[p]
-・・・[p]
+Hehehe, don't worry.[p]
+Kirishima-sensei doesn't have a boyfriend.[p]
+And it will stay that way...[p]
+By the way, those two seemed to get along well, huh?[p]
+The refined Fujino and the tomboyish Hayase, it's an unexpected combination.[p]
+Fujino seems to admire Kirishima quite a bit...[p]
+but sorry, I'll be the one to have them, hehehe...[p]
 [_tb_end_text]
 
 [jump  storage="kitaku.ks"  target=""  ]
@@ -949,35 +1170,38 @@
 [bg  time="1000"  method="rotateInDownLeft"  storage="game106.jpg"  ]
 [tb_start_text mode=1 ]
 #
-ん・・・？女子生徒がなにか話してるな[p]
-こっそり聞いてやろう[p]
+Hmm...?[p]
+The female students are talking about something.[p]
+Let's secretly listen in.[p]
 [_tb_end_text]
 
 [chara_show  name="木本"  time="1000"  wait="false"  storage="chara/8/game83-1.png"  width="363"  height="854"  left="247"  top="16"  reflect="false"  ]
 [chara_show  name="肉山"  time="1000"  wait="true"  storage="chara/9/game83-2.png"  width="363"  height="854"  left="678"  top="16"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#ピン子（右）
-「ねえ、トン子」[p]
-#トン子（左）
-「なによピン子」[p]
-#ピン子
-「このゲームには特定の順番で行動しないと先に進めない難関があるらしいわよ」[p]
-#トン子
-「へーそうなの？ていうことは今までのように手当たり次第に全部試せばいいわけじゃないってこと？」[p]
-#ピン子
-「そうなの。しかも同じ日にやらないとダメなのよ」[p]
-#トン子
-「えー結構大変ね。そこで行き詰まるプレイヤーとか出ちゃうんじゃない？」[p]
-#ピン子
-「まぁ、そんなに難しくないから大丈夫よ」[p]
-「でもどうしてもわからない人は、放課後にいつもはとらない行動をとってみるといいらしいわ」[p]
-#トン子
-「へー、よくわからないけどヒントがもらえるってことね」[p]
+#Pinko (Right)
+Hey, Tonko[p]
+#Tonko (Left)
+What is it, Pinko?[p]
+#Pinko
+It seems that there are difficult challenges in this game that you can't progress through unless you take specific actions in a certain order.[p]
+#Tonko
+Oh, really?[p]
+So that means we can't just try everything randomly like before, right?[p]
+#Pinko
+That's right.[p]
+And you have to do it on the same day too.[p]
+#Tonko
+Oh, it's quite difficult.[p]
+I'm afraid some players might get stuck there, you know?[p]
+#Pinko
+Well, it's not that difficult, so it should be fine.[p]
+But for those who really can't figure it out, it seems like trying actions that they don't usually take after school might be a good idea.[p]
+#Tonko
+Oh, I see.[p]
+So we can get hints if we don't understand, huh?[p]
 #
-・・・・・・[p]
-・・・ふーむ、決まった順番で行動・・・か。覚えておこう[p]
-・・・・・・[p]
-・・・[p]
+Hmmm, specific actions in a certain order, huh?[p]
+I'll make sure to remember that...[p]
 
 [_tb_end_text]
 
@@ -987,57 +1211,58 @@
 [bg  time="1000"  method="rotateInDownLeft"  storage="game105.jpg"  ]
 [tb_start_text mode=1 ]
 #
-ん、あれは・・・[p]
+Hmm, what is that...[p]
 [_tb_end_text]
 
 [chara_show  name="津山"  time="1000"  wait="true"  left="483"  top="60"  width="325"  height="764"  reflect="false"  storage="chara/5/game48.png"  ]
 [tb_start_text mode=1 ]
-#肉山
-「おいちびっこ」[p]
-#津山
-「あ、肉山先生」[p]
-#肉山
-「こんなところで何してるんだ？」[p]
-#津山
-「水たまりがあったので傘で溝を掘って川を作って遊んでたです」[p]
-#肉山
-「小学生かよ！」[p]
-#津山
-「違います」[p]
-#肉山
-「好きなテレビ番組は？」[p]
-#津山
-「プニキュアです」[p]
-#肉山
-「愛読書は？」[p]
-#津山
-「エルマーと３匹の竜です」[p]
-#肉山
-「小学生じゃねえか！」[p]
-#津山
-「違います」[p]
-#肉山
-「好きな男のタイプは？」[p]
-#津山
-「足が速い男子です」[p]
-#肉山
-「下着はどこで買ってる？」[p]
-#津山
-「お母さんが買ってきてくれるです」[p]
-#肉山
-「小学生じゃねえか！」[p]
-#津山
-「違います」[p]
-「お風呂掃除の当番なのでそろそろ帰ります」ペコリ[p]
+#Nikuyama
+Hey, little one.[p]
+#Tsuyama
+Oh, Mr.[p]
+Nikuyama.[p]
+#Nikuyama
+What are you doing here?[p]
+#Tsuyama
+There was a puddle, so I dug a ditch with an umbrella and played by making a river.[p]
+#Nikuyama
+Are you an elementary school student?![p]
+#Tsuyama
+No, I'm not.[p]
+#Nikuyama
+What's your favorite TV show?[p]
+#Tsuyama
+It's Pretty Cure.[p]
+#Nikuyama
+What's your favorite book?[p]
+#Tsuyama
+It's Elmer and the Three Dragons.[p]
+#Nikuyama
+Aren't you an elementary school student?![p]
+#Tsuyama
+No, I'm not.[p]
+#Nikuyama
+What's your favorite type of guy?[p]
+#Tsuyama
+I like guys who are fast runners.[p]
+#Nikuyama
+Where do you buy your underwear?[p]
+#Tsuyama
+My mom buys them for me.[p]
+#Nikuyama
+Aren't you an elementary school student?![p]
+#Tsuyama
+No, I'm sorry.[p]
+*bows*[p]
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
 [tb_start_text mode=1 ]
 #
-うーん・・・どう見ても小学生にしか見えないが・・・[p]
-いや、彼女は立派な大人だ。現実を受け入れよう[p]
-・・・・・・[p]
-・・・[p]
+Well...[p]
+they definitely look like an elementary school student...[p]
+but no, they are a respectable adult.[p]
+Let's accept reality...[p]
 [_tb_end_text]
 
 [jump  storage="kitaku.ks"  target=""  ]
@@ -1046,8 +1271,10 @@
 [bg  time="1000"  method="rotateInDownLeft"  storage="game105.jpg"  ]
 [tb_start_text mode=1 ]
 #
-だいぶ暑くなってきたな。運動部のやつらはきつい季節だぜ[p]
-・・・ん？あれは・・・[p]
+It's getting pretty hot.[p]
+It's a tough season for the sports club members...[p]
+Huh?[p]
+Is that...[p]
 [_tb_end_text]
 
 [stopbgm  time="1000"  fadeout="true"  ]
@@ -1055,97 +1282,120 @@
 [chara_show  name="田端"  time="1000"  wait="true"  storage="chara/7/game43-1.png"  width="336"  height="790"  left="170"  top="59"  reflect="false"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Grease_Slide_Trap.mp3"  ]
 [tb_start_text mode=1 ]
-#桐嶋
-「とにかく撮ったものを見せなさい」[p]
-#田畑
-「いや、これは・・・」[p]
-#肉山
-「どうしたんですか？」[p]
-#田畑
-「あっ、肉山先生！」[p]
-#桐嶋
-「・・・彼が水泳部の女子生徒を盗撮していたようなんです」[p]
-#肉山
-「盗撮？着替えでも盗撮したのか？」[p]
-#田畑
-「い、いやっ、違います！水着の写真を撮っただけで・・・」[p]
-#肉山
-「部活動の様子を撮っただけなら問題はないじゃないですか」[p]
-#桐嶋
-「水着姿といえども盗撮は犯罪です」[p]
-#肉山
-「犯罪だなんて大げさな。彼らも部活動としてやっていることですから」[p]
-「学園生活の様子を記録するのは写真部の大事な活動ですからね」[p]
-#桐嶋
-「写真部・・・そういえば肉山先生は写真部の顧問でしたね」[p]
-「しかし性的な目的でないといっても繊細な年齢の女子生徒が肌を露出した写真を撮られるのは嫌なことです」[p]
-「しかも事前に伝えずに盗み撮りするようなことは・・・」[p]
-#肉山
-（相変わらず面倒くさい女だな・・・そうだ）[p]
+#Kirishima
+Anyway, show me what you took.[p]
+#Tanahata
+No, this is...[p]
+#Nikuyama
+What's wrong?[p]
+#Tanahata
+Ah, Mr.[p]
+Nikuyama![p]
+#Kirishima
+...[p]
+It seems like he was secretly filming female students from the swimming club.[p]
+#Nikuyama
+Peeping?[p]
+Did you peep on them while they were changing?[p]
+#Tanahata
+N-No, that's not it![p]
+I just took pictures of them in their swimsuits...[p]
+#Nikuyama
+If I only took pictures of the club activities, there shouldn't be any problem, right?[p]
+#Kirishima
+Even if it's in swimsuits, taking unauthorized photos is a crime.[p]
+#Nikuyama
+Calling it a crime is an exaggeration.[p]
+They are just documenting the school life as part of their club activities, so it's an important activity for the photography club.[p]
+#Kirishima
+Speaking of which, Mr.[p]
+Nikuyama was the advisor of the photography club.[p]
+However, even if it's not for sexual purposes, it's unpleasant for delicate underage female students to have their exposed skin photographed.[p]
+Moreover, doing something like secretly taking pictures without prior notice...[p]
+#Nikuyama
+That's right)[p]
 
 [_tb_end_text]
 
 [tb_image_show  time="1000"  storage="default/game200.png"  width="286"  height="254"  x="474"  y="298"  _clickable_img=""  name="img_161"  ]
 [tb_image_hide  time="1000"  ]
 [tb_start_text mode=1 ]
-#肉山
-「肌を露出といいますが、大会となればこの格好で大勢の前で競技をしなければいけないわけで、それを恥ずかしがっているようではダメでしょう」[p]
-#桐嶋
-「それは・・・そうですが、しかし女性アスリートの盗撮は世界でも問題になっていて―――」[p]
-#肉山
-「議論になっているだけでルールはまだできていないでしょう。しかもあれはSNSなどで公開するやり方の問題であって写真を撮ること自体の問題ではないはず」[p]
-#桐嶋
-「それは・・・」[p]
-#肉山
-「こいつの写真も無断で公開しなければ問題ないでしょう。お前もこそこそ盗撮のようにするからいけないんだ。撮るなら堂々と撮れ」[p]
-#田畑
-「えっ・・・ど、堂々と撮っていいんですか？」[p]
-#肉山
-「盗撮のようにするよりその方がいいですよね、桐嶋先生？」[p]
-#桐嶋
-「そ、そうですね。その方が・・・」[p]
-#肉山
-「その辺は私がしっかり指導しておきますんで」[p]
-#桐嶋
-「わかりました・・・。それではわたしはこれで・・・」[p]
+#Nikuyama
+It's called exposing skin, but when it comes to competitions, we have to compete in front of a large crowd in this attire.[p]
+If you're embarrassed about it, then it's no good.[p]
+#Kirishima
+That is...[p]
+true, but secretly filming female athletes has become a problem worldwide...[p]
+#Nikuyama
+It's just a matter of debate, and the rules haven't been established yet.[p]
+Moreover, that is a problem with the way it is shared on social media, not a problem with taking photos itself.[p]
+#Kirishima
+That is...[p]
+#Nikuyama
+There wouldn't be a problem if you didn't publicly share these photos without permission.[p]
+It's also not good for you to secretly take pictures like a peeping tom.[p]
+If you're going to take pictures, do it openly.[p]
+#Tanahata
+Huh...[p]
+Is it okay to openly take pictures?[p]
+#Nikuyama
+It's better to do it openly rather than secretly filming, right, Kirishima-sensei?[p]
+#Kirishima
+Y-Yes, that's true.[p]
+That way...[p]
+#Nikuyama
+I will make sure to give proper guidance in that regard.[p]
+#Kirishima
+I understand...[p]
+In that case, I will...[p]
 [_tb_end_text]
 
 [chara_hide  name="桐嶋"  time="1000"  wait="true"  pos_mode="true"  ]
 [stopbgm  time="1000"  fadeout="true"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="いつもの放課後.mp3"  ]
 [tb_start_text mode=1 ]
-#肉山
-（ククク、桐嶋を言い負かしてやったぜ。洗脳を使えばちょろいもんだぜ）[p]
-#田畑
-「あ、ありがとうございます肉山先生！盗撮がバレて完全にアウトかと思いました・・・！」[p]
-#肉山
-「どんなの撮ってたんだ、見せてみろ」[p]
-「・・・・・・おいおい、尻とか股間のアップばっかりじゃねか！これとかハミ毛してるし・・・」[p]
-「これを見られてたら言い訳できなかったな」[p]
-#田畑
-「す、すいません・・・」[p]
-#肉山
-「こんな画像絶対にどこにもアップするなよ。自分だけで楽しめ。あと、こういう画像データはすぐ別のところに移して痕跡は消しておけ」[p]
-#田畑
-「は、はいっ」[p]
-#肉山
-「それと一応男子とか他の部活とかも撮っておけ。カモフラージュにな」[p]
-#田畑
-「はいっ！あ、ありがとうございます！」[p]
-「いやぁ、肉山先生がこんなに理解のある先生だったなんて・・・。先生が顧問で本当によかったです」[p]
-#肉山
-「フッ、まぁ今日はたまたま相手が桐嶋だったから助けられたが、いつもこうはいかんぞ」[p]
-「何か問題を起こしたら俺は迷わずにお前らを見捨てるからな」[p]
-#田畑
-「は、はい！」[p]
-「・・・でも桐嶋先生だったから助けられたってどういうことですか・・・？」[p]
-#肉山
-「それはお前には関係のないことだ。余計な詮索をするな」[p]
-#田畑
-「は、はいっ」[p]
+#Nikuyama
+(Hehehe, I've defeated Kirishima.[p]
+)[p]
+#Tanahata
+Th-Thank you very much, Nikuyama-sensei![p]
+I thought I was completely busted for the secret filming...![p]
+#Nikuyama
+What kind of pictures were you taking?[p]
+Show me...[p]
+Hey hey, it's all close-ups of butts and crotches![p]
+And this one has pubic hair showing...[p]
+If someone saw these, you wouldn't be able to make any excuses.[p]
+#Tanahata
+S-Sorry...[p]
+#Nikuyama
+Don't upload these images anywhere.[p]
+Enjoy them for yourself only.[p]
+Also, immediately move these image files to a different location and erase any traces.[p]
+#Tanahata
+Y-Yes.[p]
+#Nikuyama
+Also, make sure to take pictures of the boys and other club activities as well.[p]
+It will serve as camouflage.[p]
+#Tanahata
+Yes![p]
+Th-Thank you very much![p]
+I-I never expected Nikuyama-sensei to be such an understanding teacher...[p]
+I'm really glad that you're our advisor, sensei.[p]
+#Nikuyama
+Hmph, well, I was lucky that Kirishima was the one I dealt with today and she helped me out.[p]
+But if you ever cause any trouble, I won't hesitate to abandon all of you.[p]
+#Tanahata
+Y-Yes![p]
+...[p]
+But what do you mean by saying that I was saved because it was Kirishima-sensei...?[p]
+#Nikuyama
+That's none of your business.[p]
+Don't pry into unnecessary details.[p]
+#Tanahata
+Y-Yes.[p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
@@ -1155,49 +1405,62 @@
 [bg  time="1000"  method="rotateInDownLeft"  storage="game106.jpg"  ]
 [tb_start_text mode=1 ]
 #
-ん・・・？女子生徒がなにか話してるな[p]
-ちょっと聞いてやろう[p]
+Hmm...?[p]
+The female student seems to be talking about something.[p]
+I'll listen in for a bit.[p]
 [_tb_end_text]
 
 [chara_show  name="木本"  time="1000"  wait="false"  storage="chara/8/game83-1.png"  width="363"  height="854"  left="247"  top="16"  reflect="false"  ]
 [chara_show  name="肉山"  time="1000"  wait="true"  storage="chara/9/game83-2.png"  width="363"  height="854"  left="678"  top="16"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#トン子
-「ねえピン子」[p]
-#ピン子
-「なにトン子？」[p]
-#トン子
-「放課後に『校内をうろつく』ってコマンドあるじゃない」[p]
-#ピン子
-「あるわね。いまやってるこれね」[p]
-#トン子
-「そうそう。これってゲームの進行には全く影響がないらしいわよ」[p]
-#ピン子
-「えっ、そうなの？ここでフラグが立ったりとかそういうのは無いの？」[p]
-#トン子
-「一切無いらしいわ。ぶっちゃけ一回も校内をうろうろしないでもクリアできるみたい」[p]
-#ピン子
-「へー。じゃあなんのためのコマンドなの？」[p]
-#トン子
-「ゲームの雰囲気を盛り上げるためにあるんだって。つまりここでキャラを紹介したりストーリーを補完したりすることによって本編により感情移入できるようになるってわけ」[p]
-#ピン子
-「なるほどねー。じゃあ初回プレイでは毎日ちゃんと放課後に徘徊はした方がいいかもね」[p]
-#トン子
-「そうね。２回目以降は面倒だったらすぐに家に帰っても大丈夫」[p]
-#ピン子
-「あと注意しておきたいのは放課後に強制イベントがあった次の日の昼休憩に一発で正解コマンドを選択しちゃうと放課後のイベントが一回飛んじゃうのよ」[p]
-#トン子
-「えっ、それじゃ確実に放課後イベントを全部見たい人はどうすればいいの？」[p]
-#ピン子
-「そうね、放課後に確実に放課後イベントを全部見たいなら、放課後に強制イベントがあった次の日は昼休憩にストーリーが進まないように注意して放課後に『校内をうろつく』をすれば大丈夫よ」[p]
-#トン子
-「なるほどね、『なにもしない』コマンドを選択すれば確実ね。・・・でも放課後イベントを全部逃さずに見たい人なんているのかな？」[p]
-#ピン子
-「さぁ・・・？」[p]
+#Tonko
+Hey, Pinko.[p]
+#Pinko
+What is it, Tonko?[p]
+#Tonko
+There's a command called Roaming the School after school, right?[p]
+#Pinko
+Yes, there is.[p]
+It's called Roaming the School and it's happening right now.[p]
+#Tonko
+Yeah, that's right.[p]
+It seems like this doesn't have any impact on the game's progress at all.[p]
+#Pinko
+Huh, really?[p]
+So there's no flag triggered or anything like that here?[p]
+#Tonko
+It seems like there's nothing at all.[p]
+Honestly, you can clear the game without roaming the school even once.[p]
+#Pinko
+Oh, I see.[p]
+Then what is the purpose of the command?[p]
+#Tonko
+It's meant to enhance the atmosphere of the game.[p]
+In other words, by introducing characters and complementing the story here, it allows for a deeper emotional connection to the main storyline.[p]
+#Pinko
+I see.[p]
+Well, maybe it's better to roam the school after school every day during the first playthrough.[p]
+#Tonko
+Yeah, that's right.[p]
+If it's too much trouble on the second playthrough, it's okay to go straight home.[p]
+#Pinko
+One more thing to note is that if you choose the correct command in one shot during lunch break the day after a mandatory event after school, you'll skip the event after school.[p]
+#Tonko
+Huh, then how can someone who definitely wants to see all the after-school events do it?[p]
+#Pinko
+I see.[p]
+Well, if you definitely want to see all the after-school events, then be careful not to progress the story during lunch break on the day after a mandatory event after school.[p]
+Just make sure to roam the school during after school by choosing Roaming the School, and you'll be fine.[p]
+#Tonko
+I see.[p]
+If you choose the Do Nothing command, it's guaranteed.[p]
+...[p]
+But I wonder if there are people who want to see all the after-school events without missing any?[p]
+#Pinko
+Well...?[p]
 #
-・・・・・・[p]
-・・・[p]
-なるほど・・・参考になったな[p]
+I see...[p]
+It was helpful.[p]
 [_tb_end_text]
 
 [jump  storage="kitaku.ks"  target=""  ]
@@ -1206,40 +1469,51 @@
 [bg  time="1000"  method="rotateInDownLeft"  storage="rouka.jpg"  ]
 [tb_start_text mode=1 ]
 #
-・・・ん？空き教室から何か話声が聞こえてくるな[p]
-覗いてみるか[p]
+Hmm?[p]
+I can hear voices coming from an empty classroom.[p]
+Should I take a peek?[p]
 [_tb_end_text]
 
 [bg  time="1000"  method="fadeIn"  storage="game107.jpg"  ]
 [chara_show  name="藤野"  time="1000"  wait="true"  storage="chara/3/game45.png"  width="330"  height="776"  left="429"  top="52"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#藤野
-「あのー・・・お話って何でしょうか？」[p]
-#男子生徒
-「え、えと・・・ま、前から好きでした！付き合ってください！」[p]
-#藤野
-「あ、あの・・・ごめんなさい・・・」[p]
-#男子生徒
-「あ、あぁ・・・ハハハ、そ、そりゃそうだよね。僕なんかが・・・」[p]
-#藤野
-「ご、ごめんなさい・・・」[p]
-#男子生徒
-「いや、いんだよ。気持ちが伝えられてスッキリしたから」[p]
-「時間とらせちゃってゴメンね。それじゃ・・・！」[p]
-#藤野
-「あ・・・」[p]
+#Fujino
+Um...[p]
+What is this talk about?[p]
+#male student
+Male student: Um...[p]
+W-Well...[p]
+I've liked you for a while![p]
+Please go out with me![p]
+#Fujino
+U-Um...[p]
+I'm sorry...[p]
+#male student
+Male student: Ah, ah...[p]
+Hahaha, y-yeah, I guess so.[p]
+Someone like me...[p]
+#Fujino
+I-I'm sorry...[p]
+#male student
+Male student: No, it's fine.[p]
+I feel relieved that I was able to convey my feelings, so sorry for taking up your time.[p]
+Well then...![p]
+#Fujino
+Ah...[p]
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
 [bg  time="1000"  method="fadeIn"  storage="rouka.jpg"  ]
 [tb_start_text mode=1 ]
 #
-・・・やっぱりモテるんだな藤野。そりゃそうか、美人で巨乳でお嬢様、性格もおっとりしてて優しいし人気は出て当然か[p]
-男の方もダメ元の玉砕だったようだが・・・藤野は他に好きな男でもいるのかね？[p]
-それとも単に恋愛に奥手なだけか[p]
-・・・まぁ生徒同士の恋愛なんてどうでもいいか[p]
-・・・・・・[p]
-・・・[p]
+Fujino, you're really popular, huh?[p]
+Well, it's no wonder.[p]
+You're beautiful, busty, and come from a wealthy family.[p]
+Your personality is also gentle and kind, so it's only natural that you're popular with guys.[p]
+It seems like that male student confessed his feelings as a last-ditch effort...[p]
+I wonder if Fujino has any other guys she likes?[p]
+Or maybe she's just shy when it comes to romance...[p]
+Well, I guess student relationships don't really matter in the end...[p]
 [_tb_end_text]
 
 [jump  storage="kitaku.ks"  target=""  ]
@@ -1248,19 +1522,21 @@
 [bg  time="1000"  method="rotateInDownLeft"  storage="game105.jpg"  ]
 [tb_start_text mode=1 ]
 #
-お、野球部が練習しているな[p]
-もうすぐ夏の地区予選が始まるから今は追い込みの時期だな[p]
-うちの野球部は強豪ってほどではないがそれなりのレベルではある[p]
-甲子園に出たことはないがここ数年はいいところまで行ってるし、今年も宝くじレベルではあるが可能性はゼロではない[p]
-エースの東川は技巧派左腕で球速はないがまとまったピッチングをする好投手だ[p]
-打線もそこそこ良い選手がそろっていて特に３番の熊田は広角に打てるバッターだし４番の笹倉は長打力があって勝負強い[p]
-ただエースが打たせて取るタイプなのに守備でミスが多いところと、二番手以降の投手が格落ちするところが問題だな[p]
-勝ち進めば連投が多くなるだけにどこでエースを休ませられるかがカギになってきそうだ[p]
-とにかく悔いのないように一試合でも多く勝ち進んでほしいものだな[p]
-・・・・・・なんだよ、俺だって野球部の応援くらいはするぜ[p]
-くーもーはーわーきー♪ひかりあふーれーてー♪[p]
-・・・・・・[p]
-・・・[p]
+The baseball team is practicing.[p]
+The district qualifiers for summer are starting soon, so it's the final push now.[p]
+Our baseball team isn't a powerhouse, but we have a decent level.[p]
+We haven't made it to Koshien, but we've been doing well in recent years, and this year, there's still a chance, although it's like winning the lottery.[p]
+Our ace, Higashikawa, is a skilled left-handed pitcher.[p]
+He doesn't have a fast ball speed, but he has solid pitching.[p]
+The batting lineup also has some good players.[p]
+Especially our third batter, Kumada, is a batter who can hit to all fields, and our cleanup batter, Sasakura, has power and is strong in crucial moments.[p]
+However, it's a problem that our ace relies on defense to get outs and makes many mistakes in the field.[p]
+Also, our second and subsequent pitchers are not as strong, which is a downgrade.[p]
+If we advance and have many consecutive games, the key will be how we can rest our ace.[p]
+Anyway, I hope we can win as many games as possible without any regrets...[p]
+What?[p]
+Even I will support the baseball team![p]
+Ku-mo-ha-wa-ki~♪ Overflowing with light~♪...[p]
 
 
 [_tb_end_text]
@@ -1271,88 +1547,117 @@
 [bg  time="1000"  method="rotateInDownLeft"  storage="game106.jpg"  ]
 [tb_start_text mode=1 ]
 #
-ん？あそこに居るのは・・・[p]
+Hm?[p]
+Who's over there...[p]
 [_tb_end_text]
 
 [chara_show  name="田端"  time="1000"  wait="false"  storage="chara/7/game43-1.png"  width="307"  height="722"  left="393"  top="85"  reflect="false"  ]
 [chara_show  name="藤野"  time="1000"  wait="false"  storage="chara/3/game45.png"  width="386"  height="909"  left="786"  top="41"  reflect="false"  ]
 [chara_show  name="木本"  time="1000"  wait="false"  storage="chara/8/game44-1.png"  width="397"  height="818"  left="-12"  top="15"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#藤野
-「あの・・・お話ってなんでしょうか？」[p]
-#田畑
-「えーと・・・その・・・ちょっと相談があるんだけど・・・」[p]
-#藤野
-「なんでしょうか。私でお力になれることでしたらご協力いたしますけど・・・」[p]
-#田畑
-「え、えっと、その・・・よかったら写真のモデルになってほしいんだけど」[p]
-#藤野
-「えっ、写真のモデル・・・ですか？」[p]
-#木本
-「え、えーと、ぼ、僕ら写真部で・・・その・・・ぶ、部活動として人物写真を撮りたくてですね・・・」[p]
-#田畑
-「そうそう。藤野さんなら被写体として最高だしきっといい写真が撮れそうなんだ」[p]
-#藤野
-「あの・・・写真はちょっと・・・恥ずかしいので・・・」[p]
-#田畑
-「別にそんな恥ずかしい写真じゃないよ！時間もそんなには取らせないし・・・」[p]
-#藤野
-「でも・・・私がモデルなんて・・・」[p]
-#木本
-「だ、大丈夫ですよ！ちょこと用意した衣装に着替えてもらってササっと・・・」[p]
-#藤野
-「えっ、着替えるんですか・・・それはちょっと・・・無理かも・・・」[p]
-#木本
-「えっ、き、着替えるといっても４～５パターンで・・・肌の露出もそこまでは・・・！」[p]
-#藤野
-「む、無理です・・・！ご、ごめんなさい・・・！」[p]
+#Fujino
+Um...[p]
+What is this talk about?[p]
+#Tanahata
+Um...[p]
+Well...[p]
+I have a little something I want to discuss...[p]
+#Fujino
+What is it?[p]
+If there's anything I can do to help, I'll gladly assist...[p]
+#Tanahata
+Um, well...[p]
+I was wondering if you could be a model for some photos...[p]
+#Fujino
+Huh, a model for photos...?[p]
+#Kimoto
+Um, well, uh, we, the photography club...[p]
+um...[p]
+we wanted to take portrait photos as a club activity...[p]
+#Tanahata
+That's right.[p]
+Fujino-san would be the perfect subject, and I'm sure we can take some great photos.[p]
+#Fujino
+Um...[p]
+I'm a little embarrassed about the photos...[p]
+#Tanahata
+It's not like they're embarrassing photos or anything![p]
+It won't take up much of your time either...[p]
+#Fujino
+But...[p]
+me being a model...[p]
+#Kimoto
+I-It's okay![p]
+Just quickly change into the outfit we prepared and...[p]
+#Fujino
+Huh, changing clothes...[p]
+That might be a little...[p]
+impossible...[p]
+#Kimoto
+Eh, e-even if you say change clothes, it's like 4-5 different outfits...[p]
+and the amount of skin exposure is also...![p]
+#Fujino
+I-I can't...[p]
+I'm sorry...![p]
 [_tb_end_text]
 
 [chara_hide  name="藤野"  time="1000"  wait="true"  pos_mode="true"  ]
 [tb_start_text mode=1 ]
-#木本
-「あぁ・・・行っちゃった・・・」[p]
-#田畑
-「やっぱり藤野さんは無謀だったか・・・」[p]
-#肉山
-「おい」[p]
-#木本＆田畑
-「あ、肉山先生・・・」[p]
-#肉山
-「お前らなぁ・・・誘い方が下手すぎるんだよ」[p]
-#田畑
-「えっ・・・？」[p]
-#肉山
-「見てたぞ。コスプレ撮影のモデルに学園一の美少女を選ぶのがそもそも無謀ではあるが・・・」[p]
-#木本
-「は、はい・・・やっぱり無理でした」[p]
-#肉山
-「いや、巧く誘えばいけたぜ。藤野は世間知らずでお人好しだからな。目の付け所は間違ってなかったんだ」[p]
-#田畑
-「ほ、本当に？」[p]
-#肉山
-「強く押してたらいけただろうよ。衣装のことなんか持ち出さなければな」[p]
-#木本
-「あ・・・」[p]
-#肉山
-「まずは制服のままちょっとした写真を何枚か撮るだけと思わせておけば、OKしただろうな」[p]
-「そしていざ撮影が始まっちまえばこっちのもんだ」[p]
-「制服のまま何枚か撮ってリラックスさせたところで『じゃあ次はこれに着替えて』って感じでナチュラルに切り出せば、流れでコスプレ写真までいけた可能性は高い」[p]
-#田畑
-「そ、そうか・・・しまった・・・」[p]
-#木本
-「そ、そんなやり方が・・・僕らは焦りすぎたのか・・・」[p]
-#肉山
-「まぁ学園カースト底辺のお前らが藤野に声をかけるなんてな。その勇気だけは褒めてやる」[p]
-「次はもっと上手くやれよ。撮影が決まったら教えてくれ」[p]
-#田畑＆木本
-「は、はい」[p]
-#肉山
-（まったく童貞のエロパワーってのはすごいよな。ただコスプレ写真を撮りたいってだけで普段の何倍もの行動力が湧いて出るんだから）[p]
-（生徒のことなどどうでもいい俺でも、ちょっと応援してやりたくなるぜ）[p]
+#Kimoto
+Ah...[p]
+they went...[p]
+#Tanahata
+I guess Fujino-san was reckless after all...[p]
+#Nikuyama
+Hey[p]
+#Kimoto & Tabata
+Ah, Professor Nikuyama...[p]
+#Nikuyama
+You guys...[p]
+your way of inviting is just too clumsy.[p]
+#Tanahata
+Huh...?[p]
+#Nikuyama
+I saw it.[p]
+Choosing the school's top beauty as the model for a cosplay photoshoot is already reckless in the first place...[p]
+#Kimoto
+Y-Yes...[p]
+It was impossible after all.[p]
+#Nikuyama
+No, if we had invited her properly, it would have worked.[p]
+Fujino is naive and kind-hearted, after all.[p]
+We didn't make a mistake in choosing her as the target.[p]
+#Tanahata
+R-Really?[p]
+#Nikuyama
+If we had pushed harder, it would have worked.[p]
+We shouldn't have brought up the costume.[p]
+#Kimoto
+Ah...[p]
+#Nikuyama
+If we had made her think that we were just going to take a few pictures while still in her school uniform, she probably would have agreed.[p]
+And once the shoot started, it would have been in our hands.[p]
+After taking a few pictures in her uniform to help her relax, we could have smoothly transitioned to saying something like, Now let's change into this, and naturally moved on to cosplay photos.[p]
+There was a high possibility that it could have happened.[p]
+#Tanahata
+I-I see...[p]
+Damn it...[p]
+#Kimoto
+W-Was that kind of approach...[p]
+Did we rush too much...[p]
+#Nikuyama
+Well, for you guys at the bottom of the school caste to approach Fujino like that...[p]
+I'll give you credit for your courage.[p]
+Next time, do it more skillfully.[p]
+Let me know when the photoshoot is confirmed.[p]
+#Tanahata & Kimoto
+Y-Yes.[p]
+#Nikuyama
+(Virgin ero power is really something else.[p]
+Just wanting to take cosplay photos gives them so much more energy and motivation than usual.[p]
+)[p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 [_tb_end_text]
 
 [jump  storage="kitaku.ks"  target=""  ]
@@ -1361,60 +1666,84 @@
 [bg  time="1000"  method="rotateInDownLeft"  storage="game105.jpg"  ]
 [tb_start_text mode=1 ]
 #
-・・・お、あそこに居るのは早瀬だな[p]
-一緒に居るのは野球部の緒方か・・・？[p]
+Oh, isn't that Hayase over there?[p]
+And they're with Ogata from the baseball club...?[p]
 [_tb_end_text]
 
 [chara_show  name="早瀬"  time="1000"  wait="true"  storage="chara/2/game47.png"  width="373"  height="878"  left="427"  top="47"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#緒方
-「最近調子よさそうだな、みちる。立て続けに自己新出てるんだって？」[p]
-#早瀬
-「まぁね。次の大会は絶対に表彰台に立つんだから」[p]
-#緒方
-「表彰台？お前に謙虚なんて似合わないぜ。優勝だろ優勝！」[p]
-#早瀬
-「う、うるさいわね、そう簡単にはいかないでしょ」[p]
-「そういう耕平はどうなのよ。レギュラー獲れそうなの？」[p]
-#緒方
-「当たり前だろ。絶対にレギュラー獲って甲子園に行ってプロに入るぜ！」[p]
-#早瀬
-「また大きく出たわね・・・あんたこそ謙虚って言葉を知った方がいいんじゃない」[p]
-#緒方
-「俺がお前を甲子園に連れて行ってやるぜ！」[p]
-#早瀬
-「えっ、ま、まぁ期待しないで待ってるわ」[p]
-#緒方
-「ハハハ・・・あ、そうだ。お前に聞きたいことがあったんだ」[p]
-#早瀬
-「え、な、なによ？今更改まって」[p]
-#緒方
-「藤野さんって今何か欲しがってるものとかあるかな？」[p]
-#早瀬
-「えっ、あやめ・・・？」[p]
-#緒方
-「ほら、もうすぐ藤野さんの誕生日だろ。何プレゼントしたらいいか悩んでるんだよ」[p]
-#早瀬
-「な、なんでわたしがそんなこと教えないといけないのよ！」[p]
-#緒方
-「なんでってお前藤野さんと仲いいだろ。なにか藤野さんが喜びそうなものとかわからないのかよ？」[p]
-#早瀬
-「そ、そんなの知らないわよ。あやめの家はお金持ちなんだから欲しいものはたいてい持ってるんじゃないの」[p]
-#緒方
-「そっか・・・やっぱりそうだよな。この機会に他のやつらと差をつけてやろうと思ったんだけど甘かったか」[p]
-#早瀬
-「あ、あんたあやめのこと好きなんだ。ライバル多いから無理だと思うけどね・・・」[p]
-#緒方
-「でも可能性はゼロではないだろ？無謀だって最初からあきらめてたら絶対にむりだからな」[p]
-#早瀬
-「そ、そうね」[p]
-「・・・だったら、漫画とかいいんじゃない？」[p]
-「親が厳しくて全然読ませてもらえなかったんだって。私が時々貸してあげたらすごく喜んでたし・・・」[p]
-#緒方
-「おお、漫画か！なるほどな・・・サンキュー！」[p]
-「おっと、そろそろ練習行かないと。それじゃ、みちるも頑張れよ！」[p]
-#早瀬
-「・・・・・・」[p]
+#Ogata
+Michiru, you seem to be doing well lately.[p]
+I heard you've been setting personal records one after another, is that true?[p]
+#Hayase
+Well, yeah.[p]
+I'll definitely stand on the podium in the next tournament.[p]
+#Ogata
+Podium?[p]
+Humility doesn't suit you.[p]
+It's all about winning, right?[p]
+First place![p]
+#Hayase
+Ugh, you're so annoying.[p]
+It's not that easy, you know.[p]
+What about you, Kouhei?[p]
+Do you think you can become a regular player?[p]
+#Ogata
+Of course.[p]
+I'll definitely become a regular player, go to Koshien, and enter the pros![p]
+#Hayase
+You're talking big again...[p]
+Maybe you should learn the word humility yourself.[p]
+#Ogata
+I'll take you to Koshien![p]
+#Hayase
+Uh, w-well, don't expect too much and just wait.[p]
+#Ogata
+Hahaha...[p]
+Oh, right.[p]
+There's something I wanted to ask you.[p]
+#Hayase
+W-What?[p]
+What do you want now?[p]
+#Ogata
+I wonder if Fujino-san wants something right now?[p]
+#Hayase
+Huh, Ayame...?[p]
+#Ogata
+Hey, Fujino-san's birthday is coming up soon.[p]
+I'm wondering what kind of present I should give them.[p]
+#Hayase
+W-Why do I have to tell you something like that![p]
+#Ogata
+Why?[p]
+You're close with Fujino-san, right?[p]
+Don't you know something that Fujino-san would be happy with?[p]
+#Hayase
+I-I don't know about that.[p]
+Ayame's family is rich, so they probably already have whatever they want, right?[p]
+#Ogata
+I see...[p]
+I guess that's how it is.[p]
+I thought I could stand out from the others on this occasion, but I was being naive.[p]
+#Hayase
+Ah, so you like Ayame.[p]
+There are a lot of rivals, so I think it's impossible...[p]
+#Ogata
+But it's not impossible, right?[p]
+If you give up from the start thinking it's reckless, it'll definitely be impossible.[p]
+#Hayase
+W-Well then...[p]
+how about manga?[p]
+I heard their parents are strict and don't let them read at all.[p]
+They were really happy when I lent them some occasionally...[p]
+#Ogata
+Oh, manga![p]
+I see...[p]
+Thank you![p]
+Oops, I have to go practice soon.[p]
+Well then, Michiru, do your best too![p]
+#Hayase
+・・・・・・[p]
 
 
 [_tb_end_text]
@@ -1422,12 +1751,14 @@
 [chara_hide_all  time="1000"  wait="true"  ]
 [tb_start_text mode=1 ]
 #
-バカ！わたしの気持ちも知らないで・・・ってところか？[p]
-緒方と早瀬は幼馴染かなにかかな。早瀬はどう見ても緒方のことを好きなようだが・・・[p]
-その緒方は親友の藤野を狙っている、と。・・・くだらない少女漫画みたいな話だな[p]
-まぁ生徒の青春ストーリーなんかどうでもいいか[p]
-・・・・・・[p]
-・・・[p]
+You idiot![p]
+You don't even know how I feel...[p]
+Is that it?[p]
+Ogata and Hayase must be childhood friends or something.[p]
+Hayase definitely seems to like Ogata...[p]
+and Ogata is aiming for their best friend, Fujino.[p]
+It's such a silly story, like something out of a girls' manga.[p]
+Well, I guess I don't really care about the students' youth stories...[p]
 [_tb_end_text]
 
 [jump  storage="kitaku.ks"  target=""  ]
@@ -1436,47 +1767,68 @@
 [bg  time="1000"  method="rotateInDownLeft"  storage="game106.jpg"  ]
 [tb_start_text mode=1 ]
 #
-・・・お、あれは桐嶋と・・・ギャルの赤井だな[p]
-なに話してるんだ・・・？[p]
+Oh, that's Kirishima and...[p]
+the gal, Akai.[p]
+What are they talking about...?[p]
 [_tb_end_text]
 
 [chara_show  name="桐嶋"  time="1000"  wait="false"  storage="chara/1/game22.png"  width="406"  height="956"  left="627"  top="20"  reflect="false"  ]
 [chara_show  name="赤井"  time="1000"  wait="true"  storage="chara/4/game46.png"  width="389"  height="916"  left="166"  top="78"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#桐嶋
-「赤井さん、あなた数学の補修をさぼったんだって？松永先生が怒ってたわよ」[p]
-#赤井
-「ゲッ・・・松永のやつ、香織先生にチクるとかチョーウザイんですけど・・・」[p]
-#桐嶋
-「松永先生でしょ。教師を呼び捨てにしない」[p]
-#赤井
-「はいはい・・・」[p]
-#桐嶋
-「補修をちゃんと受けないと卒業できないわよ」[p]
-「そもそもあなたは勉強ができないわけじゃないでしょう。英語はちゃんと平均点取ってるじゃない」[p]
-#赤井
-「英語は嫌いじゃないし・・・先生の教え方もいいしね」[p]
-「それに将来役に立ちそうじゃん。数学なんてどうせ使わないし」[p]
-#桐嶋
-「そんなことないわ、数学だって大事よ。将来ってあなた将来なにになるつもりなの？」[p]
-#赤井
-「えー・・・笑わない？」[p]
-#桐嶋
-「笑うわけないでしょう。まぁ嫌なら無理に言う必要はないけど」[p]
-#赤井
-「・・・ファッション系のデザイナーとかなりたいんだよね。わたしオシャレとか好きだし・・・」[p]
-#桐嶋
-「いいじゃないの。向いてると思うわ」[p]
-#赤井
-「そ、そうかな？なれるかな・・・わたしなんかが」[p]
-#桐嶋
-「それはわからないわ。でもやりたい事がはっきりしてるってのはいいことよ。迷わずに頑張ればいいだけなんだから」[p]
-#赤井
-「アハハ、絶対なれるよとか言ってくれないんだ。・・・でも逆に言えば無責任なこと言わずに真面目に答えてくれてるってことだよね」[p]
-#桐嶋
-「そうね。でも絶対になれるわ」[p]
-#赤井
-「エーーなにそれウケるｗ」[p]
+#Kirishima
+Akai-san, I heard you skipped math remedial class.[p]
+Matsunaga-sensei was angry.[p]
+#Akai
+Ugh...[p]
+That Matsunaga guy, trying to snitch on Kirishima-sensei is so annoying...[p]
+#Kirishima
+It's Matsunaga-sensei, right?[p]
+Don't refer to teachers so casually.[p]
+#Akai
+Yeah, yeah...[p]
+#Kirishima
+You can't graduate if you don't properly take the remedial classes.[p]
+Besides, it's not like you're incapable of studying.[p]
+You're getting average scores in English, aren't you?[p]
+#Akai
+I don't dislike English...[p]
+and the way the teacher teaches is good too.[p]
+Besides, it seems like it will be useful in the future.[p]
+I won't use math anyway.[p]
+#Kirishima
+That's not true, math is important too.[p]
+What do you plan to become in the future?[p]
+#Akai
+Eh...[p]
+Aren't you gonna laugh?[p]
+#Kirishima
+There's no need to laugh.[p]
+Well, if you don't like it, you don't have to force yourself to say it.[p]
+#Akai
+...[p]
+I want to become a fashion designer.[p]
+I really like fashion and stuff...[p]
+#Kirishima
+It's fine, you know.[p]
+I think you're suited for it.[p]
+#Akai
+I-Is that so?[p]
+Can I really...[p]
+someone like me...[p]
+#Kirishima
+I don't know about that.[p]
+But it's a good thing to have a clear idea of what you want to do.[p]
+Just work hard without hesitation, that's all you need to do.[p]
+#Akai
+Ahaha, you're not saying things like You'll definitely become one.[p]
+...[p]
+But on the other hand, you're giving me a serious answer without saying irresponsible things, right?[p]
+#Kirishima
+That's right.[p]
+But you can definitely become one.[p]
+#Akai
+Hahaha, what's that?[p]
+It's funny.[p]
 #
 ・・・[p]
 
@@ -1485,12 +1837,13 @@
 [chara_hide_all  time="1000"  wait="true"  ]
 [tb_start_text mode=1 ]
 #
-・・・フン、相変わらず生徒と仲良しごっこかよ[p]
-気に食わない女だ。・・・まぁもうすぐ俺の性奴隷になると思えばかわいいもんだがな、ククク[p]
-・・・しかし赤井ってもっとパッパラパーでなにも考えてないと思ってたが・・・[p]
-結構色々考えてるんだな・・・まぁどうでもいいが[p]
-・・・・・・[p]
-・・・[p]
+...[p]
+Hmph, as usual, playing nice with the students.[p]
+I don't like that woman...[p]
+Well, if I think she'll soon become my sex slave, she's cute, hehehe...[p]
+But I thought Akai was more carefree and didn't think about anything...[p]
+Turns out they actually think about a lot of things...[p]
+Well, it doesn't matter anyway...[p]
 
 [_tb_end_text]
 
@@ -1500,63 +1853,77 @@
 [bg  time="1000"  method="rotateInDownLeft"  storage="rouka.jpg"  ]
 [tb_start_text mode=1 ]
 #
-お、あそこにいるのは藤野と早瀬だな[p]
+Oh, over there are Fujino and Hayase.[p]
 [_tb_end_text]
 
 [chara_show  name="藤野"  time="1000"  wait="true"  storage="chara/3/game45.png"  width="366"  height="861"  left="687"  top="33"  reflect="false"  ]
 [chara_show  name="早瀬"  time="1000"  wait="true"  storage="chara/2/game47.png"  width="356"  height="838"  left="204"  top="47"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#早瀬
-「あのさ・・・あやめこの前の誕生日だったじゃん」[p]
-#藤野
-「ええ、みちるからもらった漫画、とても面白かったですわ！」[p]
-「面白すぎて一気に読んでしまいました。漫画っていいものですね。感謝ですわ」[p]
-#早瀬
-「ああ・・・それはいいんだけど」[p]
-「あのさ・・・私以外に漫画をプレゼントした人って居た？」[p]
-#藤野
-「みちる以外に漫画をくださった人・・・？」[p]
-「ええ・・・一人だけ居ましたけど。それがなにか・・・？」[p]
-#早瀬
-「あ、ああ、へー、居たんだ。・・・男子？」[p]
-#藤野
-「ええ、Ａ組の緒方さんという方が・・・あ、たしかみちるのお友達でしたっけ？」[p]
-#早瀬
-「えっ、あ、ああ、まぁ・・・」[p]
-「で、どうだった？」[p]
-#藤野
-「え、どうって・・・緒方さんのくれた漫画は野球の漫画だったんですけれど、私野球のルールがよくわからなくて・・・」[p]
-#早瀬
-「あのバカ・・・」[p]
-#藤野
-「えっ？」[p]
-#早瀬
-「あ、ああいやなんでも」[p]
-「・・・で、こうへ・・・お、緒方のことどう思う？」[p]
-#藤野
-「え、どうって・・・」[p]
-#早瀬
-「いや、他にも男子からいっぱいプレゼントもらったんでしょ？その中でランク的にはどうなのかなって」[p]
-#藤野
-「ランクだなんて・・・皆さん祝っていただく気持ちがうれしかったですわ」[p]
-#早瀬
-「そっか・・・特別印象に残ったとかは無いんだ？」[p]
-#藤野
-「皆さん印象に残りました」[p]
-#早瀬
-「あ、そう。そうだよね、アハハハハ」[p]
+#Hayase
+Hey...[p]
+Ayame, your birthday was the other day, right?[p]
+#Fujino
+Yes, the manga I received from Michiru was very interesting![p]
+It was so interesting that I read it all at once.[p]
+Manga is such a wonderful thing.[p]
+I'm grateful.[p]
+#Hayase
+Ah...[p]
+that's fine, but um...[p]
+besides me, was there anyone else who gave you manga as a gift?[p]
+#Fujino
+Besides Michiru, someone gave me manga...?[p]
+Um...[p]
+there was only one person.[p]
+Is there something wrong with that...?[p]
+#Hayase
+Ah, ah, oh, there you are...[p]
+a boy?[p]
+#Fujino
+Yes, there was someone named Ogata from Class A...[p]
+Ah, if I remember correctly, they were Michiru's friend, right?[p]
+#Hayase
+Eh, ah, um...[p]
+so, how was it?[p]
+#Fujino
+Eh, how should I put it...[p]
+The manga Ogata gave me was a baseball manga, but I don't really understand the rules of baseball...[p]
+#Hayase
+That idiot...[p]
+#Fujino
+Eh?[p]
+#Hayase
+Ah, um...[p]
+never mind...[p]
+so, um...[p]
+what do you think of Ogata?[p]
+#Fujino
+Eh, what do you mean...[p]
+#Hayase
+No, besides that, did you receive a lot of presents from boys?[p]
+I'm curious about how they rank among them.[p]
+#Fujino
+Ranking...[p]
+I was happy that everyone celebrated with me.[p]
+#Hayase
+I see...[p]
+So, there wasn't anything that left a special impression on you?[p]
+#Fujino
+Everyone left an impression.[p]
+#Hayase
+Ah, I see.[p]
+Yeah, that's right, ahahaha.[p]
 
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
 [tb_start_text mode=1 ]
 #
-・・・ふむ、早瀬は緒方と藤野がくっつかないか心配してるようだが・・・その必要はなさそうだな[p]
-藤野にとって緒方は数多居る男子のうちの一人にすぎないようだ[p]
-早瀬にとっては一安心ってところかな[p]
-・・・俺にとってはどうでもいいよそんなこと[p]
-・・・・・・[p]
-・・・[p]
+Hmm, it seems that Hayase is worried about Ogata and Fujino getting together...[p]
+but it doesn't seem necessary.[p]
+For Fujino, Ogata is just one of many boys.[p]
+It's probably a relief for Hayase...[p]
+As for me, I don't really care about that kind of thing...[p]
 [_tb_end_text]
 
 [jump  storage="kitaku.ks"  target=""  ]
@@ -1565,81 +1932,120 @@
 [bg  time="1000"  method="rotateInDownLeft"  storage="rouka.jpg"  ]
 [tb_start_text mode=1 ]
 #
-ん、女子生徒２人がくっちゃべってるな[p]
-いかにも頭の悪そうなギャル風の２人組だ[p]
-どんな会話してるか聞いてみるか[p]
-#女子生徒Ａ
-「ねえニューった？うちらのＳカコテーのハチナナだって。ショシコーヤバくね？」[p]
-#女子生徒Ｂ
-「マジヤバ。ｚ減ったら回んないし下がるよねー」[p]
-#女子生徒Ａ
-「下がったらみんなゴムるじゃん？悪いんだけど」[p]
-#女子生徒Ｂ
-「ラブマシどうなんの？ダウン系？」[p]
-#女子生徒Ａ
-「でもイミイミだよね。アイデ無いのにフコキョーとかイミフだし」[p]
-#女子生徒Ｂ
-「だね。てかテラ的にはキャパってっし」[p]
-#女子生徒Ａ
-「そうそう、今７Ｇ？８Ｇ？テラキャパゴンギレじゃん」[p]
-#女子生徒Ｂ
-「ジーズとか言ってっけどヤケミズだよね。逃げだし。」[p]
-#女子生徒Ａ
-「神ってっから。ワンオペは無理げ」[p]
-#女性生徒Ｂ
-「たしかし！中華アゲアゲみたいな？」[p]
-#女子生徒Ａ
-「それな。スーパーフリー最強みたいな？」[p]
-#女性生徒Ｂ
-「でも赤は無いっしょｗｗ」[p]
-#女子生徒Ａ
-「ウケるｗｗ」[p]
+Hmm, there are two female students chatting over there.[p]
+They look like typical airheaded gal types.[p]
+Should I listen in on their conversation and see what they're talking about?[p]
+#Female Student A
+Hey, have you heard the news?[p]
+Our S-class cutie is 87.[p]
+Isn't that super amazing?[p]
+#Female Student B
+Seriously, if it decreases, it won't come back and it'll go down, right?[p]
+#Female Student A
+If it goes down, everyone will be disappointed, right?[p]
+Sorry, but...[p]
+#Female Student B
+How about Love Machine?[p]
+Is it a downer?[p]
+#Female Student A
+But it's kind of ambiguous, right?[p]
+It's weird to have expectations without any ideas or plans.[p]
+#Female Student B
+Yeah.[p]
+And speaking of Terra, the capacity is...[p]
+#Female Student A
+Yeah, yeah, is it 7G?[p]
+8G?[p]
+Terra's capacity is huge, right?[p]
+#Female Student B
+They say G's, but it's just hot air.[p]
+They're just running away.[p]
+#Female Student A
+They're amazing.[p]
+One person operation is impossible.[p]
+#Female Student B
+But seriously![p]
+Like, super energetic like Chinese food?[p]
+#Female Student A
+Yeah, like super free and powerful, right?[p]
+#Female Student B
+But there's no red, lol.[p]
+#Female Student A
+LOL, that's hilarious![p]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
 #
-・・・頭が痛くなってきたぜ[p]
-ギャル語っていうのか？わけわかんねぇ言葉ばっかり使いやがって。内容が全く解らなかったぞ[p]
-まさか危ないクスリでもやってるんじゃないだろうな・・・[p]
-まぁいい、どうせくだらない話だろう。放っておいて帰ろう[p]
-・・・・・・[p]
-・・・[p]
+My head is starting to hurt.[p]
+Is this what they call gyaru language?[p]
+They're using words that I don't understand at all.[p]
+I couldn't grasp the meaning at all.[p]
+I hope they're not doing any dangerous drugs or something...[p]
+Well, whatever.[p]
+It's probably just a stupid conversation.[p]
+I'll leave them alone and go home...[p]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
-#女子生徒Ａ
-「ねえニューった？うちらのＳカコテーのハチナナだって。ショシコーヤバくね？（ねえニュース見た？日本の出生数が過去最低の８７万だって。少子高齢化やばくない？）」[p]
-#女性生徒Ｂ
-「マジヤバ。ｚ減ったら回んないし下がるよねー（マジで少子化やばいね。若者が減ったら消費も減ってお金が回らなくて経済も悪化するし）」[p]
-#女子生徒Ａ
-「下がったらみんなゴムるじゃん？悪いんだけど（経済が悪化したらますます子供産めなくなるからね。悪循環だよ）」[p]
-#女性生徒Ｂ
-「ラブマシどうなんの？ダウン系？（日本の未来どうなるんだろう。このまま衰退していくのかな）」[p]
-#女子生徒Ａ
-「でもイミイミだよね。アイデ無いのにフコキョーとかイミフだし（かといって移民受け入れろって理論は意味わからないよね。日本人としてのアイデンティティが保てないで国力だけ維持しても意味ないもんね）」[p]
-#女性生徒Ｂ
-「だね。てかテラ的にはキャパってっし（そうだね。てか地球規模でみると人口増加の方が問題だからね）」[p]
-#女子生徒Ａ
-「そうそう、今７Ｇ？８Ｇ？テラキャパゴンギレじゃん（そうそう、今地球の人口７０億人だっけ？８０億？地球が抱えられるキャパシティ明らかに超えてるよね）」[p]
-#女性生徒Ｂ
-「ジーズとか言ってっけどヤケミズだよね。逃げだし。（SDGsとか言ってるけどあれって焼け石に水だよね。根本的な問題である人口の問題から目を背けてる。人口の抑制は人類が今後地球で持続的に繁栄していくためには避けては通れない問題なのにね）」[p]
-#女子生徒Ａ
-「神ってっから。ワンオペは無理げ（宗教が壁になってるんだよ。キリスト教やイスラム教のような一神教文化圏からは決して人口抑制の議論は生まれてこないだろうね）」[p]
-#女性生徒Ｂ
-「たしかし！中華アゲアゲみたいな？（確かにかつて一人っ子政策が行われた中国は宗教の力が弱いもんね。でも中国の場合共産主義だからってこともあるんじゃない？政府が国民を強力に支配している政治体制だからこそ成しえた例じゃないのかな）」[p]
-#女子生徒Ａ
-「それな。スーパーフリー最強みたいな？（それもあるかもね。人口抑制って人権問題にもつながりそうだし。ある種民主主義の限界を意味しているのかもね）」[p]
-#女性生徒Ｂ
-「でも赤は無いっしょｗｗ（かといって共産主義を肯定する気はないけどね）」[p]
-#女子生徒Ａ
-「ウケるｗｗ（それはそうだね）」[p]
+#Female Student A
+Hey, have you heard the news?[p]
+Our birth rate is at its lowest, 870,000.[p]
+Isn't the declining birth rate a serious issue?[p]
+#Female Student B
+Seriously, it's bad.[p]
+If the number of young people decreases, consumption will decrease, money won't circulate, and the economy will worsen.[p]
+#Female Student A
+If the birth rate decreases, everyone will start using condoms, right?[p]
+Sorry, but if the economy worsens, it will become even more difficult to have children.[p]
+It's a vicious cycle.[p]
+#Female Student B
+What about Love Machines?[p]
+Are they downers?[p]
+(I wonder what will happen to Japan's future.[p]
+)[p]
+#Female Student A
+But it's ambiguous, right?[p]
+It's weird to have confidence without any ideas (but I don't understand the logic of accepting immigrants either.[p]
+It's meaningless to maintain national power without being able to preserve our Japanese identity).[p]
+#Female Student B
+Yeah, that's right.[p]
+But on a global scale, population growth is actually the problem.[p]
+#Female Student A
+Yeah, like 7 billion?[p]
+8 billion?[p]
+The population of the Earth is clearly exceeding its carrying capacity, right?[p]
+#Female Student B
+They're saying things like SDGs, but it's just a drop in the bucket.[p]
+They're running away.[p]
+(They're talking about SDGs, but it's like putting a band-aid on a gunshot wound.[p]
+They're avoiding the fundamental issue of population.[p]
+)[p]
+#Female Student A
+Seriously, it's divine.[p]
+One-child policy is impossible (Religion is the barrier.[p]
+)[p]
+#Female Student B
+But![p]
+It's like China's super energetic, right?[p]
+(Indeed, in China, where the one-child policy was once implemented, the power of religion is weak.[p]
+But in China's case, it might also be because of communism, right?[p]
+)[p]
+#Female Student A
+Yeah, that's right.[p]
+Like Super Free, the strongest?[p]
+(That might be true too.[p]
+Population control seems to be connected to human rights issues.[p]
+)[p]
+#Female Student B
+(Not that I'm affirming communism though)[p]
+#Female Student A
+LOL, that's true.[p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 [_tb_end_text]
 
 [jump  storage="kitaku.ks"  target=""  ]
@@ -1648,43 +2054,60 @@
 [bg  time="1000"  method="rotateInDownLeft"  storage="game106.jpg"  ]
 [tb_start_text mode=1 ]
 #
-まだ結構生徒が残ってるな[p]
-ん、男子生徒がなんかしゃべってるぞ[p]
-#男子生徒A
-「おい、知ってるか？桐嶋先生の噂」[p]
-#男子生徒Ｂ
-「なんだよ噂って」[p]
-#男子生徒Ａ
-「桐嶋先生最近やたらエロい格好してるだろ。あれ、どうも男ができたんじゃないかって」[p]
-#男子生徒Ｂ
-「桐嶋先生に男？マジかよ！俺たちの憧れの桐嶋先生に・・・」[p]
-「・・・まぁでもあれだけ美人なんだから男がいてもおかしくはないか。で、どこの誰かってのは判ってるのか？」[p]
-#男子生徒Ａ
-「それがな・・・肉山なんじゃなないかって言われてるんだ」[p]
-#男子生徒Ｂ
-「はぁ！？肉山！？体育の？ゴリラ？」[p]
-「いや、そんなわけねえだろ！あのゴリ山と桐嶋先生なんか釣り合うわけないじゃん！」[p]
-「しかもあの二人って結構いがみあってて仲悪かったはずじゃねえの？」[p]
-#男子生徒Ａ
-「そうなんだけどな。どうも最近桐嶋先生が毎日のように昼休みに体育教官室に出入りしてるらしいんだ」[p]
-「それで二人が付き合ってるんじゃないかって噂が流れてるんだよ」[p]
-#男子生徒Ｂ
-「いや・・・無いだろ。なんか仕事の話とかじゃねえのか。あの二人が付き合うとか・・・ありえねえ」[p]
-#男子生徒Ａ
-「まぁ俺も無いとは思うけどな・・・。もしそうだったら最悪だよな」[p]
-#男子生徒Ｂ
-「最悪ってもんじゃねえだろ。あんなクソゴリラに俺たちの桐嶋先生を・・・想像しただけで気が狂いそうになるぜ」[p]
-#男子生徒A
-「まったくだぜ。セクハラゴリラは大人しくメスゴリラとでも付き合ってりゃいいんだ」[p]
-#男子生徒Ｂ
-「そうそう」[p]
+There are still quite a few students left, and the male students are talking about something.[p]
+#Male Student A
+Hey, do you know about the rumors about Kirishima-sensei?[p]
+#Male Student B
+What rumors?[p]
+#Male Student A
+Kirishima-sensei has been dressing really sexy lately.[p]
+I heard rumors that they might have gotten a boyfriend.[p]
+#Male Student B
+A man for Kirishima-sensei?[p]
+Seriously?![p]
+Our admired Kirishima-sensei...[p]
+Well, they're so beautiful, so it wouldn't be strange if they had a boyfriend.[p]
+So, do you know who it is?[p]
+#Male Student A
+Well...[p]
+I heard that it might be Nikuyama.[p]
+#Male Student B
+Huh?![p]
+Nikuyama?![p]
+The PE teacher?[p]
+A gorilla?[p]
+No way, that can't be true![p]
+There's no way that gorilla and Kirishima-sensei would be a good match![p]
+Besides, those two used to have a lot of animosity towards each other, right?[p]
+#Male Student A
+Yeah, that's right.[p]
+Apparently, Kirishima-sensei has been going in and out of the PE teacher's office during lunch break almost every day recently.[p]
+So there's a rumor going around that they might be dating.[p]
+#Male Student B
+No...[p]
+that can't be true.[p]
+Maybe they're just talking about work or something.[p]
+The idea of those two dating...[p]
+it's impossible.[p]
+#Male Student A
+Well, I don't think it's true either...[p]
+But if it were, that would be the worst.[p]
+#Male Student B
+It's not just the worst, it's beyond that.[p]
+Just imagining our beloved Kirishima-sensei with that damn gorilla...[p]
+It makes me feel like I'm going insane.[p]
+#Male Student A
+Seriously.[p]
+That sexual harassment gorilla should just date a female gorilla and be quiet.[p]
+#Male Student B
+Yeah, yeah.[p]
 #
-・・・[p]
-あいつら好き放題言いやがって・・・出て行ってぶん殴ってやろうか[p]
-・・・まぁいい、あんなやつらどうでもいいさ。どうせガキどもにはなにもできないんだからな[p]
-俺をゴリラ呼ばわりした仕返しは桐嶋の身体にきっちりと仕返ししてやるぜ、ククク[p]
-・・・・・[p]
-・・・[p]
+...[p]
+Those bastards are saying whatever they want...[p]
+Should I just go out and punch them...[p]
+Well, whatever, I don't care about those guys.[p]
+They can't do anything anyway, those kids.[p]
+I'll make sure to give Kirishima a proper payback for calling me a gorilla, hehehe...[p]
 [_tb_end_text]
 
 [jump  storage="kitaku.ks"  target=""  ]
@@ -1693,60 +2116,71 @@
 [bg  time="1000"  method="rotateInDownLeft"  storage="rouka.jpg"  ]
 [tb_start_text mode=1 ]
 #
-今日はほとんど生徒が残ってないな[p]
-#教頭
-「肉山先生」[p]
+There aren't many students left today.[p]
+#Vice Principal
+Nikuyama[p]
 [_tb_end_text]
 
 [chara_show  name="教頭"  time="1000"  wait="true"  storage="chara/6/game49-1.png"  width="369"  height="868"  left="456"  top="20"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#肉山
-「あ、教頭」[p]
-#教頭
-「見回りご苦労さまです」[p]
-#肉山
-「あ、いえ。夏に向けて問題が起きやすい時期ですからね。しっかり見回りをしないと。ハハハ」[p]
-#教頭
-「そうですな。よろしくお願いしますよ」[p]
-#肉山
-「任せてください」[p]
-#教頭
-「ところで・・・肉山先生、あなたが授業中に生徒たちを放ってしばしばどこかに居なくなるという話を耳にしてるんですが」[p]
-#肉山
-「えっ！？あ、そ、それは・・・」[p]
-（しまった！授業を抜けて女子のブルマを見に行ったり桐嶋のローター授業を覗きに行ってるのがバレるとマズいぞ・・・！）[p]
-（そうだ・・・！）[p]
+#Nikuyama
+Ah, Vice Principal.[p]
+#Vice Principal
+Thank you for your hard work patrolling.[p]
+#Nikuyama
+Ah, no.[p]
+It's a time when problems are likely to occur as we approach summer.[p]
+I need to patrol thoroughly.[p]
+Hahaha.[p]
+#Vice Principal
+I see.[p]
+Thank you for your cooperation.[p]
+#Nikuyama
+Leave it to me.[p]
+#Vice Principal
+By the way...[p]
+Mr.[p]
+Nikuyama, I've heard rumors that you often disappear somewhere during class and leave the students unattended.[p]
+#Nikuyama
+Eh!?[p]
+Ah, w-well...[p]
+(Oh no![p]
+If they find out that I skip class to look at girls' bloomers or peek into Kirishima's vibrator lessons, it'll be bad...![p]
+)[p]
 [_tb_end_text]
 
 [tb_image_show  time="1000"  storage="default/game200.png"  width="306"  height="272"  x="489"  y="254"  _clickable_img=""  name="img_246"  ]
 [tb_image_hide  time="1000"  ]
 [tb_start_text mode=1 ]
-#肉山
-「じ、実は席を外した振りをして陰から生徒たちのことを観察しているんですよ」[p]
-#教頭
-「はぁ、陰から観察・・・？それはいったい・・・？」[p]
-#肉山
-「教師がいなくてもマジメにやっているか、サボっている奴はいないかなどを観察して評価に反映しているんですよ」[p]
-#教頭
-「なるほど・・・そういうことでしたか。生徒たちの能力だけでなく本質を見極めようとしているのですね」[p]
-#肉山
-「はい、そうなんですよ」[p]
-#教頭
-「いやさすがはべテラン教師ですな。わたしはてっきり授業を放置してどこかでサボっているのではないかと思っていましたよ」[p]
-#肉山
-「ハハハ、そんなことするわけないじゃないですか」[p]
-#教頭
-「これは失敬。それでは見回りの方お願いします」[p]
+#Nikuyama
+A-Actually, I pretend to leave my seat and observe the students from the shadows.[p]
+#Vice Principal
+Huh, observing from the shadows...?[p]
+What exactly...?[p]
+#Nikuyama
+I observe whether the students are working diligently even when there is no teacher present, and I reflect that in my evaluations.[p]
+#Vice Principal
+I see...[p]
+So that's what you're doing.[p]
+You're trying to discern not only the students' abilities but also their true nature.[p]
+#Nikuyama
+Yes, that's right.[p]
+#Vice Principal
+Well, you truly are an experienced teacher.[p]
+I had thought that you were neglecting your classes and slacking off somewhere.[p]
+#Nikuyama
+Hahaha, there's no way I would do something like that.[p]
+#Vice Principal
+My apologies.[p]
+In that case, I'll leave the rounds to you.[p]
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
 [tb_start_text mode=1 ]
 #
-・・・やれやれ、うまく誤魔化せたな[p]
-俺はこれまであまり教師として評価されていなかったが、巧く洗脳機を使えば教頭の評価を上げることができるかもしれないな[p]
-桐嶋の洗脳が終わったらそういうことも試してみるか[p]
-・・・・・・[p]
-・・・[p]
+Phew, I managed to deceive them well.[p]
+I haven't been highly evaluated as a teacher until now, but if I can use the brainwashing machine effectively, I might be able to improve the Vice Principal's evaluation.[p]
+Once Kirishima's brainwashing is complete, maybe I'll try something like that too...[p]
 [_tb_end_text]
 
 [jump  storage="kitaku.ks"  target=""  ]
@@ -1755,87 +2189,110 @@
 [bg  time="1000"  method="rotateInDownLeft"  storage="rouka.jpg"  ]
 [tb_start_text mode=1 ]
 #
-お・・・？あれは写真部の二人と・・・早瀬か[p]
-コスプレ撮影のモデルに今度は早瀬を勧誘する気か？[p]
+Oh...?[p]
+Those two are from the Photography Club...[p]
+Are they trying to invite Haya to be a model for cosplay photoshoots this time?[p]
 [_tb_end_text]
 
 [chara_show  name="早瀬"  time="1000"  wait="false"  storage="chara/2/game47.png"  width="376"  height="885"  left="805"  top="40"  reflect="false"  ]
 [chara_show  name="田端"  time="1000"  wait="false"  storage="chara/7/game43-1.png"  width="300"  height="705"  left="358"  top="98"  reflect="false"  ]
 [chara_show  name="木本"  time="1000"  wait="true"  storage="chara/8/game44-1.png"  width="380"  height="784"  left="-24"  top="53"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#早瀬
-「えっ！？わ、私に写真のモデル・・・！？」[p]
-#田端
-「そうなんだ。頼むよ」[p]
-#木本
-「お、お願いします」[p]
-#早瀬
-「な、なんで私なんか・・・モデルだったらもっとかわいい子の方が・・・あやめとかさ」[p]
-#田端
-「藤野さんは頼んだけど断られたんだよ」[p]
-#早瀬
-「あ、先にあやめに断られてたのね・・・。まぁそりゃそうか」[p]
-「何人も断られて私に声かけたんだよね。わたしなんて男の子みたいで魅力もないし胸も小さいし・・・」[p]
-#木本
-「あ、いや、そんなことは・・・」[p]
-#田端
-「髪はカツラを着ければ大丈夫だし、胸はパッドを入れればなんとかなるよ」[p]
-#早瀬
-「・・・」[p]
-#田端
-「だから頼むよ！お願い！」[p]
-#早瀬
-「他を当たってくれる・・・」[p]
+#Hayase
+Eh!?[p]
+M-Me as a model for photos...!?[p]
+#Tabata
+Is that so?[p]
+I'm counting on you.[p]
+#Kimoto
+P-Please, I'm begging you.[p]
+#Hayase
+W-Why me...[p]
+If it's a model, there are cuter girls like Ayame and...[p]
+#Tabata
+I asked Fujino-san, but they turned me down.[p]
+#Hayase
+Ah, so Ayame turned you down first...[p]
+Well, I guess that makes sense.[p]
+I've been rejected by many people before, so it's no surprise you approached me.[p]
+I'm not attractive like a girl and I have a small chest like a boy...[p]
+#Kimoto
+Ah, no, it's not like that...[p]
+#Tabata
+If you wear a wig, your hair will be fine, and if you put in some padding, your chest will be okay.[p]
+#Hayase
+・・・[p]
+#Tabata
+So please, I'm begging you![p]
+#Hayase
+Please ask someone else...[p]
 [_tb_end_text]
 
 [chara_hide  name="早瀬"  time="1000"  wait="true"  pos_mode="true"  ]
 [tb_start_text mode=1 ]
-#木本
-「あぁ・・・行っちゃった」[p]
-#田端
-「くそっ！ダメか・・・」[p]
-#肉山
-「おい」[p]
-#田端
-「あっ、肉山先生」[p]
-#木本
-「み、見てたんですか」[p]
-#肉山
-「お前らなぁ・・・バカか？」[p]
-#田端
-「えっ・・・？」[p]
-#肉山
-「勧誘の仕方が下手すぎるんだよ。あんなんじゃノリ気なやつでもやる気をなくすぜ」[p]
-#田端
-「え・・・ちゃんと勧誘したつもりだったけどなぁ。どこが悪かったですか・・・？」[p]
-#肉山
-「まず先に藤野を誘ったことをなぜ言ったんだ？」[p]
-#田端
-「え・・・藤野さんを誘えばって言われたから・・・もう誘ったよと」[p]
-#肉山
-「そんなの黙ってればいいんだよ。自分に真っ先に声をかけてくれたって思う方が嬉しいだろうが」[p]
-#木本
-「そ、そうか・・・」[p]
-#肉山
-「とにかくスカウトしてるんだから相手を褒めろよ。褒められて悪い気する女はいないんだからよ」[p]
-「特に早瀬は親友の藤野と比べて自分に女としての魅力が無いとコンプレックスを感じてるんだから、そんなことはないと言って自信をつけさせてやらないと」[p]
-#田端
-「あ・・・」[p]
-#肉山
-「それをかつらをかぶれとかパッドを入れれば大丈夫だからとか・・・自分が否定されてる気がして落ち込むに決まってるだろうが」[p]
-#田端
-「しまった・・・そうか・・・」[p]
-#肉山
-「スカウトってのは女心を理解することが成功の秘訣なんだよ。まぁ女子と口をきくだけで緊張してるお前らにそんなもん解るわけないが」[p]
-#木本
-「う・・・」[p]
-#田端
-「痛いところを・・・でも先生はなんでそんなにスカウトのことに詳しいんですか？」[p]
-#肉山
-「それはナンパ物AVの伝説のナンパ師フィッシング遠山の自伝で・・・バカそんなことはどうでもいい！」[p]
-「まぁまだまだ学園には女子がいる。とにかくお前らは女子と話す練習のつもりで頑張れ」[p]
-#田端＆木本
-「はい」[p]
+#Kimoto
+Ah...[p]
+they left.[p]
+#Tabata
+Damn it![p]
+Is it no good...[p]
+#Nikuyama
+Hey[p]
+#Tabata
+Nikuyama[p]
+#Kimoto
+W-were you watching?[p]
+#Nikuyama
+You guys...[p]
+are you idiots?[p]
+#Tabata
+Huh...?[p]
+#Nikuyama
+Your way of recruiting is too bad.[p]
+With that kind of approach, even someone who was interested would lose motivation.[p]
+#Tabata
+Huh...[p]
+I thought I properly tried to recruit them.[p]
+What did I do wrong...?[p]
+#Nikuyama
+Why did you mention that you invited Fujino first?[p]
+#Tabata
+Eh...[p]
+Because I was told to invite Fujino...[p]
+I already invited them.[p]
+#Nikuyama
+You should have just kept quiet about that.[p]
+The person who was approached first would be happier thinking that they were the first one to be called.[p]
+#Kimoto
+I-I see...[p]
+#Nikuyama
+Anyway, since you're recruiting, you should praise the other person.[p]
+There's no woman who feels bad when they're praised, especially Haya-se.[p]
+Compared to their best friend Fujino, they feel insecure about their own attractiveness as a woman.[p]
+So you need to tell them that it's not true and give them confidence.[p]
+#Tabata
+Ah...[p]
+#Nikuyama
+Saying things like Just wear a wig or put in some padding, and you'll be fine...[p]
+They'll definitely feel like they're being denied and get depressed.[p]
+#Tabata
+Damn...[p]
+I see...[p]
+#Nikuyama
+The secret to success in recruiting is understanding women's hearts.[p]
+Well, I guess you guys who get nervous just talking to girls wouldn't understand that.[p]
+#Kimoto
+Uh...[p]
+#Tabata
+It hurts...[p]
+But why is the teacher so knowledgeable about scouting?[p]
+#Nikuyama
+That's the autobiography of Enzan, the legendary pick-up artist from the Nanpa-themed AV...[p]
+But never mind, that's not important![p]
+Well, there are still girls in the school.[p]
+Anyway, you guys should do your best as if you're practicing talking to girls.[p]
+#Tabata & Kimoto
+Yes[p]
 #
 
 [_tb_end_text]
@@ -1844,10 +2301,8 @@
 [bg  time="1000"  method="rotateInDownLeft"  storage="game106.jpg"  ]
 [tb_start_text mode=1 ]
 #
-写真部のコスプレ撮影会か・・・[p]
-応援してはやりたいが、実現は遠そうだな[p]
-・・・・・・[p]
-・・・[p]
+The cosplay photoshoot for the Photography Club...[p]
+I want to support it, but it seems like it will be difficult to make it happen...[p]
 [_tb_end_text]
 
 [jump  storage="kitaku.ks"  target=""  ]
@@ -1856,103 +2311,127 @@
 [bg  time="1000"  method="rotateInDownLeft"  storage="rouka.jpg"  ]
 [tb_start_text mode=1 ]
 #
-ん、あれは・・・教頭と・・・チビっ子じゃねえか[p]
-何を話してるんだ？[p]
+Hmm, that's...[p]
+the vice principal and...[p]
+a little kid.[p]
+What are they talking about?[p]
 [_tb_end_text]
 
 [chara_show  name="教頭"  time="1000"  wait="true"  storage="chara/6/game49-1.png"  width="358"  height="842"  left="232"  top="36"  reflect="false"  ]
 [chara_show  name="津山"  time="1000"  wait="true"  storage="chara/5/game48.png"  width="305"  height="718"  left="726"  top="214"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#教頭
-「どこから入ったのかね？うちの制服まで着て・・・」[p]
-#津山
-「ここの生徒です」[p]
-#教頭
-「お姉さんかお兄さんにでも会いに来たのかね？名前は？」[p]
-#津山
-「津山さなえです。一年生です」[p]
-#教頭
-「津山・・・どんな生徒だったかな。その一年生のお姉さんに会いに来たんだね？」[p]
-#津山
-「私が津山さなえです。一年生です」[p]
-#教頭
-「うーん、ちょっと待ってなさい。呼んできてあげるから・・・」[p]
+#Vice Principal
+Where did they come from?[p]
+They're even wearing our school uniform...[p]
+#Tsuyama
+They are students here.[p]
+#Vice Principal
+Did you come to meet your older sister or older brother?[p]
+What's your name?[p]
+#Tsuyama
+I'm Sanae Tsuyama.[p]
+I'm a first-year student.[p]
+#Vice Principal
+Tsuyama...[p]
+I wonder what kind of student they were.[p]
+They came to meet their older sister, the first-year student, right?[p]
+#Tsuyama
+I'm Sanae Tsuyama.[p]
+I'm a first-year student.[p]
+#Vice Principal
+Hmm, wait a moment.[p]
+I'll go call them for you...[p]
 #
-うーん、まったく会話が通じてないな。教頭は頭から小学生だと決めつけてるぞ。まぁ気持ちはわかるが・・・[p]
-仕方ない、俺が間に入ろう[p]
-#肉山
-「教頭先生」[p]
-#教頭
-「おお、肉山先生。ちょうどよかった。小学生の女の子が校内に入り込んでいてね。どうもお姉さんに会いに来たみたいなんだが・・・」[p]
-#肉山
-「いえ、教頭。その子は小学生ではなくれっきとした我が学園の生徒なんです」[p]
-#教頭
-「だからその子のお姉さんが学園にいるんだろう？」[p]
-#肉山
-「違います。その子が学園生なんです」[p]
-#教頭
-「は・・・？」[p]
-「・・・なにを言っておるのかね。そんなはずがないでしょう。どこをどうみても小学生ではないですか」[p]
-#肉山
-「そう見えますが小学生ではないんです。信じられない気持ちはわかりますが」[p]
-#津山
-「学園の生徒です」[p]
-#教頭
-「そんなバカな・・・」[p]
-#肉山
-「いいですか。見ててください」[p]
-「20世紀初頭にドイツで制定された民主主義憲法の草分けとされる憲法は？」[p]
-#津山
-「ワイマール憲法です」[p]
-#肉山
-「『厳選された』を英語にすると？」[p]
-#津山
-「carefully selected」[p]
-#肉山
-「ランゲルハンス島はどこにある？」[p]
-#津山
-「膵臓です」[p]
-#肉山
-「ほら、小学生じゃないでしょう？」[p]
-#教頭
-「な・・・なんと・・・」[p]
-「ほ、本当にうちの生徒・・・？」[p]
-#津山
-「ずっとそう言ってるです」[p]
-#教頭
-「・・・失礼、ちょっと眩暈がするので失礼させていただくよ・・・」[p]
+Hmm, they're not understanding each other at all.[p]
+The vice principal is assuming they're a grade schooler from their appearance.[p]
+Well, I understand their feelings but...[p]
+there's no helping it, I'll intervene.[p]
+#Nikuyama
+Vice Principal[p]
+#Vice Principal
+Oh, Mr.[p]
+Nikuyama.[p]
+It's good timing.[p]
+There's a little girl who has snuck into the school grounds.[p]
+It seems like she came to meet her older sister...[p]
+#Nikuyama
+No, Vice Principal.[p]
+That child is not an elementary school student, but a bona fide student of our school.[p]
+#Vice Principal
+So, that child's older sister is here at the school, right?[p]
+#Nikuyama
+No, that child is a student of this school.[p]
+#Vice Principal
+Huh...?[p]
+What are you saying?[p]
+There's no way that's true.[p]
+They don't look like an elementary school student at all, do they?[p]
+#Nikuyama
+It may seem that way, but they are not an elementary school student.[p]
+I understand that it's hard to believe, but...[p]
+#Tsuyama
+I am a student of this school.[p]
+#Vice Principal
+That's so stupid...[p]
+#Nikuyama
+Excuse me.[p]
+Please take a look.[p]
+What is the constitution that is considered to be the precursor of the democratic constitution established in Germany in the early 20th century?[p]
+#Tsuyama
+It's the Weimar Constitution.[p]
+#Nikuyama
+How do you translate selected carefully into English?[p]
+#Tsuyama
+carefully selected[p]
+#Nikuyama
+Where is Langerhans Island?[p]
+#Tsuyama
+It's the pancreas.[p]
+#Nikuyama
+Look, they're not an elementary school student, right?[p]
+#Vice Principal
+W-What...[p]
+I-Is it true...[p]
+They're really our student...?[p]
+#Tsuyama
+They've been saying that all along.[p]
+#Vice Principal
+...[p]
+Excuse me, I'm feeling a bit dizzy, so please excuse me...[p]
 #
 [_tb_end_text]
 
 [chara_hide  name="教頭"  time="1000"  wait="true"  pos_mode="true"  ]
 [tb_start_text mode=1 ]
-#肉山
-「頭の固い教頭には現実を受け入れられなかったか・・・」[p]
-#津山
-「助けてくれてありがとうです」[p]
-#肉山
-「しかしお前結構勉強できるんだな。一年生には結構難しい問題だったと思うが・・・特にランゲルハンス島なんてまだ習ってないんじゃないのか？」[p]
-#津山
-「ぐわっ研の「じんたいのひみつ」で勉強したです」[p]
-#肉山
-「ああ、あのまんがで学ぶシリーズの・・・俺も子供のころ読んでたが、今もあるんだな」[p]
-#津山
-「おばあちゃんに買ってもらったです。「恐竜のひみつ」も面白いです」[p]
-#肉山
-「やっぱりお前小学生だろ」[p]
-#津山
-「違うです」[p]
-「そろばんがあるから帰るです。先生さようなら」[p]
+#Nikuyama
+I wonder if the stubborn vice principal couldn't accept reality...[p]
+#Tsuyama
+Thank you for helping me.[p]
+#Nikuyama
+But you're quite good at studying, aren't you?[p]
+I think it was a pretty difficult problem for a first-year student...[p]
+Especially something like Langerhans Island, you haven't learned about it yet, right?[p]
+#Tsuyama
+I studied the secrets of the Gwalt Research Club.[p]
+#Nikuyama
+Ah, that manga learning series...[p]
+I read it when I was a kid too, but it's still around now.[p]
+#Tsuyama
+I got it from my grandma.[p]
+The secrets of dinosaurs are also interesting.[p]
+#Nikuyama
+You're still an elementary school student, aren't you?[p]
+#Tsuyama
+No, I have abacus club, so I'm going home.[p]
+Goodbye, teacher.[p]
 #
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
 [tb_start_text mode=1 ]
 #
-うーむ、どう見て小学生だが・・・[p]
-深く追及するのはやめておこう[p]
-・・・・・・[p]
-・・・[p]
+Hmm, they do look like an elementary school student...[p]
+Let's not delve too deeply into it...[p]
 [_tb_end_text]
 
 [jump  storage="kitaku.ks"  target=""  ]
@@ -1961,11 +2440,13 @@
 [bg  time="1000"  method="rotateInDownLeft"  storage="rouka.jpg"  ]
 [tb_start_text mode=1 ]
 #
-今日は生徒も少ないな[p]
-ん？・・・あれは桐嶋と・・・数学教師の北村だな[p]
-北村はヒョロっとした優男で鼻持ちならない嫌な野郎だが、若い男教師が少ない我が学園では女子生徒にそこそこ人気はあるようだ[p]
-歳は確か桐嶋より５つくらい上だったかな。・・・なにを話してるんだ？[p]
-・・・[p]
+Today, there are fewer students, huh?...[p]
+Oh, there's Kirishima and...[p]
+the math teacher, Kitamura.[p]
+Kitamura is a skinny and gentle-looking guy, but he's an annoying bastard who can't hold his own.[p]
+However, in our school where there are few young male teachers, he seems to be somewhat popular among the female students.[p]
+I think he's about five years older than Kirishima...[p]
+What am I talking about?...[p]
 
 
 [_tb_end_text]
@@ -1974,43 +2455,55 @@
 [chara_show  name="桐嶋"  time="1000"  wait="true"  storage="chara/1/game12.png"  width="335"  height="789"  left="457"  top="15"  reflect="false"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="捜査会議.mp3"  ]
 [tb_start_text mode=1 ]
-#北村
-「いやぁ今日も一段と美しいですね」[p]
-#桐嶋
-「はぁ、どうも」[p]
-#北村
-「前から美しかったですが最近は一段とその美しさに磨きがかかったように思えますが、何か心境の変化でも？」[p]
-#桐嶋
-「いえ、特にありません」[p]
-#北村
-「そうですか、意識しなくても自然と内の美しさがにじみ出てるんでしょうかねぇ、アハハ」[p]
-#桐嶋
-「・・・・・・」[p]
-#北村
-「え、えーと、休日はどう過ごしてるんですか？」[p]
-#桐嶋
-「休日ですか？・・・たまった家事をこなしたり授業の準備をしたりですかね」[p]
-#北村
-「おー、それはいけませんね。たまには息抜きをしないといけませんよ」[p]
-「どうですか今度どこかに遊びに行きませんか？映画なんかどうです？ちょうど今面白そうなのが・・・」[p]
-#桐嶋
-「映画は一人で見たいタイプなので」[p]
-#北村
-「そ、そうですか、ハハハ。そ、それじゃコンサートなんかはどうですか！音楽はいい気分転換に・・・」[p]
-#桐嶋
-「結構です。まだ仕事があるので失礼します」[p]
+#Kitamura
+Oh, today is even more beautiful, isn't it?[p]
+#Kirishima
+Ah, hello.[p]
+#Kitamura
+You've always been beautiful, but recently it seems like your beauty has become even more radiant.[p]
+Has something changed in your feelings?[p]
+#Kirishima
+No, nothing in particular.[p]
+#Kitamura
+Is that so?[p]
+I wonder if your inner beauty naturally radiates without you even being aware of it, ahaha.[p]
+#Kirishima
+・・・・・・[p]
+#Kitamura
+Um, um, how do you spend your days off?[p]
+#Kirishima
+Is it a day off?[p]
+...[p]
+I guess I'll be catching up on housework and preparing for classes.[p]
+#Kitamura
+Oh, that's not good.[p]
+You need to take a break once in a while.[p]
+How about going somewhere to have some fun next time?[p]
+What do you think about watching a movie?[p]
+There happens to be something interesting playing right now...[p]
+#Kirishima
+I'm the type who likes to watch movies alone, so...[p]
+#Kitamura
+I-I see, hahaha.[p]
+Th-then, how about a concert![p]
+Music is a good way to change your mood...[p]
+#Kirishima
+That's fine.[p]
+I still have work to do, so excuse me.[p]
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
 [tb_start_text mode=1 ]
-#北村
-「あっ、ちょっと桐嶋先生・・・！」[p]
-「・・・・・・」[p]
-「くそっ！なんだよ、お高くとまりやがって！」[p]
-「あんな格好をして男を誘ってやがるくせして・・・なんでこの僕の誘いを・・・くそっ！」[p]
+#Kitamura
+Ah, wait, Kirishima-sensei...![p]
+...[p]
+Damn it![p]
+What's with the high and mighty attitude![p]
+Dressing like that and seducing men...[p]
+Why won't you accept my invitation...[p]
+Damn it![p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -2019,12 +2512,11 @@
 [playbgm  volume="100"  time="1000"  loop="true"  storage="いつもの放課後.mp3"  ]
 [tb_start_text mode=1 ]
 #
-ケケケ、北村のやつザマァねえぜ[p]
-桐嶋がお前みたいなチャラ付いた男を相手にするわけがないだろう[p]
-桐嶋があんなエロい服装をするようになって、これは男に飢えてるんだろうと勘違いして声かけたんだろうが・・・残念だったな。中身はまったく変わってないんだよ[p]
-まぁ身体の方は俺様が美味しくいただくつもりだがな、クククク[p]
-・・・・・・[p]
-・・・[p]
+Kirishima would never be interested in a sleazy guy like you, Kitamura.[p]
+You mistook her wearing such erotic clothing as a sign that she's hungry for men...[p]
+How disappointing.[p]
+Her personality hasn't changed at all.[p]
+Well, as for her body, I plan to enjoy it myself, hehehe...[p]
 [_tb_end_text]
 
 [jump  storage="kitaku.ks"  target=""  ]
@@ -2032,35 +2524,47 @@
 
 [bg  time="1000"  method="rotateInDownLeft"  storage="game104.jpg"  ]
 [tb_start_text mode=1 ]
-#バレー部員
-「もう一丁！お願いします！！」[p]
-#バスケ部員
-「走れ走れ！戻りが遅いぞ！」[p]
-#卓球部員
-「サーーーー！サーーーーッ！！」[p]
+#Volleyball club member
+One more time![p]
+Please![p]
+#Basketball Club Member
+Run, run![p]
+You're coming back too slow![p]
+#Table tennis club member
+Serve![p]
+Ser-![p]
 #
-・・・うーんうるさい[p]
-体育館に来てみたが・・・放課後の体育館というのは暑苦しいほど活気にあふれているな[p]
-あっちではバスケ部こっちではバレー部、あそこには体操部、あっちの隅には卓球部・・・[p]
-しかもそれぞれ男女があるんだから場所の取り合いだわな[p]
-うちの学園はスポーツも弱くは無いんだが、特にこれが強いといった目玉が無いんだよな[p]
-どこも初戦敗退レベルではないがかといって全国大会に出るほどの実力は無し[p]
-何か一つ強い部活があれば学園の宣伝にもなると思うんだが・・・[p]
-まぁそんなことより俺が気になるのは女子部員のピチピチの身体だ[p]
-やはり女子バレー部はボリュームがあっていい身体をした女子が多いな・・・飛び跳ねるときにオッパイがゆさゆさ揺れるのがたまらん[p]
-女子バスケ部はスリムな女子が多いな。あのすらっとした美脚も捨てがたい[p]
-女子体操部は小柄だけどしなやかでスタイルのいい娘が多いな。体が軟らかいからセックスのときも色々な体位が楽しめそうだ・・・ムヒヒヒ[p]
-#女子バレー部員
-「体を見るな！ボールを見ろ！」[p]
-#女子バスケ部員
-「帰れ！早く帰れ！ハリーバック！」[p]
-#女子体操部員
-「そんなところに居ない自分の仕事しろ！」[p]
+...[p]
+Hmm, I decided to come to the noisy gymnasium...[p]
+After-school gymnasium is filled with so much energy, it's suffocating.[p]
+Over there is the basketball club, and over here is the volleyball club.[p]
+In that corner is the gymnastics club, and in that corner is the table tennis club...[p]
+And each of them has both male and female members, so there's competition for space.[p]
+Our school isn't weak in sports, but we don't have any standout teams that are particularly strong.[p]
+It's not like we get eliminated in the first round everywhere, but we don't have the skills to compete in national tournaments either.[p]
+I think it would be great if we had one strong club that could help promote our school...[p]
+Well, more than that, what catches my attention are the tight bodies of the female club members.[p]
+The girls in the volleyball club have great volume and attractive bodies...[p]
+It's irresistible when their breasts bounce and sway while they jump.[p]
+The girls in the basketball club are slim and have beautiful legs.[p]
+It's hard to resist those slender legs.[p]
+The girls in the gymnastics club may be small, but they are flexible and have great figures.[p]
+Their soft bodies would be enjoyable in various positions during sex...[p]
+[p]
+#Female volleyball club member
+Don't look at our bodies![p]
+Look at the ball![p]
+#Female basketball club member
+Go home![p]
+Go home quickly![p]
+Alley-oop![p]
+#Female gymnastics club member
+Do your own work instead of being here![p]
 #
-・・・部活の掛け声だよな？俺に言ってるように聞こえなくもないが・・・[p]
-・・・そろそろ行くか[p]
-・・・・・・[p]
-・・・[p]
+...[p]
+Is that the club's cheer?[p]
+It kind of sounds like they're saying it to me...[p]
+Well, I guess it's about time to go...[p]
 
 [_tb_end_text]
 
@@ -2071,99 +2575,109 @@
 [chara_show  name="田端"  time="1000"  wait="false"  storage="chara/7/game43-1.png"  width="360"  height="847"  left="679"  top="4"  reflect="false"  ]
 [chara_show  name="木本"  time="1000"  wait="true"  storage="chara/8/game44-1.png"  width="446"  height="919"  left="127"  top="-17"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#田端
-「あのー、ちょっといいかな」[p]
-#一年女子
-「え・・・なんですか？」[p]
-#木本
-「ぼ、僕ら写真部の者なんだけど・・・」[p]
-#一年女子
-「え、写真部・・・！」[p]
-#田端
-「実は写真のモデルになってくれる人を探してて・・・」[p]
-#一年女子
-「わ、わたしは無理です！ごめんなさい！」[p]
-#木本
-「あ、ちょっと待って・・・！」[p]
-「あぁ・・・行っちゃった・・・」[p]
-#田端
-「くそっ、全然ダメだな。これで何連敗だよ・・・」[p]
-#木本
-「この頃は写真部って言うだけで嫌な顔されるようになってきたね・・・」[p]
-#田端
-「女子の間で噂になてるんだよ。写真部のキモい二人組が女子に声かけまくってる、って」[p]
-「OKしたらエロい写真撮られるとか、そんなデマまで流れてるらしいぜ」[p]
-#木本
-「そんな・・・ただコスプレ写真を撮りたいだけなのに・・・」[p]
-#田端
-「手当たり次第に声をかけすぎたのが失敗だな・・・。こうなるとなかなかOKしてくれる子はいないだろうよ」[p]
-#木本
-「校内のかわいい子はだいたい声かけたもんね・・・」[p]
-「おかげで女子に話しかける度胸だけは付いたけど」[p]
-#田端
-「もう学園にはスカウト対象は残ってないよなぁ」[p]
-「・・・ん？あれは・・・」[p]
+#Tabata
+Um, can I ask you something?[p]
+#First Year Girl
+Um...[p]
+What is it?[p]
+#Kimoto
+W-We're members of the photography club...[p]
+#First-year girl
+Eh, the photography club...![p]
+#Tabata
+Actually, we're looking for someone to be a model for our photos...[p]
+#First Year Girl
+I-I can't do it![p]
+I'm sorry![p]
+#Kimoto
+Ah, wait a moment...[p]
+Ah...[p]
+They went away...[p]
+#Tabata
+Damn, this is no good at all.[p]
+How many consecutive losses is this...[p]
+#Kimoto
+Lately, just mentioning the photography club has been met with unpleasant looks...[p]
+#Tabata
+It's become a rumor among the girls.[p]
+They say that the creepy duo from the photography club keeps approaching girls and if they agree, they'll be taken erotic photos.[p]
+Apparently, even such rumors are spreading.[p]
+#Kimoto
+That...[p]
+We just want to take cosplay photos...[p]
+#Tabata
+It was a mistake to approach anyone and everyone without discrimination...[p]
+It's unlikely that any girl will agree now.[p]
+#Kimoto
+I've approached almost all the cute girls on campus...[p]
+Thanks to that, I've gained the courage to talk to girls, but that's about it.[p]
+#Tabata
+There are no more potential recruits left in the school...[p]
+Huh?[p]
+Is that...[p]
 
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
 [chara_show  name="赤井"  time="1000"  wait="true"  storage="chara/4/game46.png"  width="435"  height="1023"  left="415"  top="12"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#赤井
-「・・・？」[p]
-「何見てんだよ」[p]
-#田端
-「いや、別に・・・」[p]
-#木本
-「見てないです」[p]
-#赤井
-「・・・チッ」[p]
+#Akai
+...?[p]
+What are you looking at?[p]
+#Tabata
+No, it's nothing...[p]
+#Kimoto
+I didn't see anything.[p]
+#Akai
+...[p]
+Tch.[p]
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
 [chara_show  name="田端"  time="1000"  wait="false"  storage="chara/7/game43-1.png"  width="360"  height="847"  left="679"  top="4"  reflect="false"  ]
 [chara_show  name="木本"  time="1000"  wait="true"  storage="chara/8/game44-1.png"  width="446"  height="919"  left="127"  top="-17"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#田端
-「・・・アレは無いな」[p]
-#木本
-「うん、僕らのイメージとは違うね」[p]
-#田端
-「顔はいいけど中身がな」[p]
-#木本
-「そもそも声かけても無駄だろうし」[p]
-#田端
-「あーあ、どこかに偏見を持ってない純真なかわいい女子は居ないもんかねぇ」[p]
-#木本
-「いたらいいけどね・・・」[p]
+#Tabata
+...[p]
+That's not it.[p]
+#Kimoto
+Yeah, it's different from our image.[p]
+#Tabata
+They have a good face, but they lack substance.[p]
+#Kimoto
+In the first place, it would be pointless to approach them.[p]
+#Tabata
+Ahh, I wonder if there's any innocent and cute girls out there without any prejudice.[p]
+#Kimoto
+It would be nice if there were...[p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
 [bg  time="1000"  method="fadeIn"  storage="rouka.jpg"  ]
 [chara_show  name="赤井"  time="1000"  wait="true"  storage="chara/4/game46.png"  width="438"  height="1031"  left="428"  top="16"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#赤井
-（・・・なんだあいつら・・・かわいい女子に手当たり次第に声かけてるっつってたのに）[p]
-（なんでアタシには声かけねーんだよ！）[p]
-（別に声かけて欲しいわけじゃないけど・・・なんかムカつく）[p]
-（・・・アタシってそこそこイケてるよね・・・？）[p]
-（・・・クソッ）[p]
+#Akai
+(...[p]
+What's up with those guys...[p]
+They were saying they would approach any cute girls, but why aren't they talking to me![p]
+) (It's not like I want them to talk to me or anything...[p]
+but it's annoying.[p]
+) (...[p]
+I'm pretty attractive, right...?[p]
+) (...[p]
+)[p]
 #
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
 [tb_start_text mode=1 ]
 #
-なんだ写真部の二人はギャル嫌いか？[p]
-まぁあんまりイケイケの女には腰が引けるという気持ちは解らんでもないが[p]
-しかしギャルってのも好みが分かれるジャンルだよな[p]
-俺も昔のヤマンバみたいなキツいギャルは好きじゃないが、赤井くらいなら全然OKだぜ[p]
-・・・今日はギャルものAVでも観るかな[p]
-・・・・・・[p]
-・・・[p]
+The two members of the photography club don't like gyaru girls, huh?[p]
+Well, I can understand feeling a bit intimidated by overly flashy girls, but gyaru is also a genre with divided preferences.[p]
+Personally, I don't like extreme gyaru girls like the ones from the past, but someone like Akai is totally fine...[p]
+Maybe I'll watch some gyaru-themed AV today...[p]
 [_tb_end_text]
 
 [jump  storage="kitaku.ks"  target=""  ]
@@ -2172,33 +2686,34 @@
 [bg  time="1000"  method="rotateInDownLeft"  storage="game106.jpg"  ]
 [tb_start_text mode=1 ]
 #
-ん、不良生徒どもがたむろしてるな[p]
-どんな会話をしてるか聞いてやろう[p]
-・・・・・[p]
-#不良Ａ
-「昨日西高と砂工が駅前で揉めたんだってよ」[p]
-#不良Ｂ
-「あぁ、聞いた聞いた。『破壊系Youtuber』宮本が大暴れしたんだって？」[p]
-#不良Ｃ
-「マジかよ！じゃあ近々その動画上がるな。楽しみだぜ」[p]
-#不良Ａ
-「砂工の方は『ノンカフェイン』井口が出てきたらしいぜ」[p]
-#不良Ｃ
-「あいつはヤベエぞ。とにかく健康に気を使ってるから体のキレ半端ねーよ」[p]
-#不良Ｂ
-「でもこうなったら宮本と仲のいい東高の『リベンジポルノ』横山も黙ってねーだろうな」[p]
-#不良Ａ
-「ああ、砂工にはまだ『ヒートテック』浜口と『アシンメトリー』島田兄弟もいるからな」[p]
-#不良Ｃ
-「こりゃあ一波乱ありそうだぜ・・・！」[p]
+Hmm, I'll listen in on what kind of conversation those delinquent students are having...[p]
+#Delinquent A
+I heard that there was a fight between Nishi High and Suna Construction in front of the station yesterday.[p]
+#Delinquent B
+Ah, I heard about it.[p]
+They said that the Destruction-type Youtuber Miyamoto went on a rampage, right?[p]
+#Delinquent C
+Seriously?![p]
+Then that video will be uploaded soon.[p]
+I'm looking forward to it.[p]
+#Delinquent A
+It seems like Non-Caffeine Iguchi from Suna Construction has shown up.[p]
+#Delinquent C
+That guy is amazing.[p]
+He's so conscious about his health, his body is in incredible shape.[p]
+#Delinquent B
+But if it comes to this, I bet Yoko Yamashita, who is close to Miyamoto from Higashi High, won't stay quiet about the Revenge Porn either.[p]
+#Delinquent A
+Ah, in Suna Construction, there's still Heattech Hamaguchi and the Asymmetry Shimada brothers.[p]
+#Delinquent C
+Looks like there's gonna be some excitement...![p]
 #
-・・・・・・[p]
-・・・[p]
-最近は不良のあだ名も変わったなぁ・・・昔は『狂犬』とか『かみそり』とかだったが[p]
-ヒートテックってなんだよ。ただの寒がりじゃねえか[p]
-まぁガキのケンカの話なんかどうでもいい。放っておこう[p]
-・・・・・・[p]
-・・・[p]
+......[p]
+Recently, even the nicknames for delinquents have changed...[p]
+In the past, they were called 'Mad Dog' or 'Razor', but what's with this 'Heattech'?[p]
+Just a bunch of cold-sensitive wimps.[p]
+Well, I don't really care about kids fighting.[p]
+Let's just leave them alone......[p]
 [_tb_end_text]
 
 [jump  storage="kitaku.ks"  target=""  ]
@@ -2207,66 +2722,88 @@
 [bg  time="1000"  method="rotateInDownLeft"  storage="game105.jpg"  ]
 [tb_start_text mode=1 ]
 #
-下校時の喧騒が一段落ついてこれから部活が始まる時間だな[p]
-・・・お？あれは・・・早瀬と緒方じゃないか[p]
-なにを話してるんだ？[p]
-・・・・・・[p]
+The hustle and bustle of after-school is settling down, and it's almost time for club activities to begin...[p]
+Oh?[p]
+Isn't that Hayase and Ogata over there?[p]
+I wonder what they're talking about...[p]
 
 [_tb_end_text]
 
 [chara_show  name="早瀬"  time="1000"  wait="true"  storage="chara/2/game47.png"  width="419"  height="986"  left="401"  top="28"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#早瀬
-「なによ話って？練習始まっちゃうじゃない」[p]
-#緒方
-「あ、ああ。今度の日曜日、グラウンドが使えないとかで野球部も陸上部も休みだろ」[p]
-#早瀬
-「そうみたいね。陸上部（うち）はそうでもないけど野球部は滅多に無い休みなんじゃない？」[p]
-#緒方
-「ああ、そうなんだよ。そ、それでさ・・・日曜日に・・・その・・・映画でも観に行かないか？」[p]
-#早瀬
-「えっ・・・？それって・・・」[p]
-#緒方
-「ま、まあ、いわゆるデ、デートというやつ・・・かな」[p]
-#早瀬
-「えっ、で、でもあんたは・・・あやめのことが好きなんでしょ・・・？」[p]
-#緒方
-「ま、まぁそう・・・というかそうだった・・・んだけど・・・ほら、そのことで相談とかも乗ってもらってるうちに・・・自分の気持ちに気が付いたんだ」[p]
-#早瀬
-「え・・・」[p]
-#緒方
-「藤野さんに対する気持ちは憧れで、本当に好きなのは誰かってことが分かったんだ！」[p]
-#早瀬
-「こ、航平・・・そ、そんな恥ずかしいこと大きな声で言わないでよっ！」[p]
-#緒方
-「ご、ごめん・・・」[p]
-#早瀬
-「・・・・・・」[p]
-#緒方
-「・・・や、やっぱりこんなこと虫が良すぎるよな・・・ハハハ」[p]
-#早瀬
-「・・・そうよ、虫が良すぎるわよ」[p]
-#緒方
-「ごめん・・・」[p]
-#早瀬
-「でも・・・航平にはあやめみたいな高嶺の花より、わたしくらいがちょうどお似合いだわ」[p]
-#緒方
-「・・・えっ！じゃあ・・・付き合ってくれるのか！？」[p]
-#早瀬
-「つ、付き合ってあげるわ」[p]
-#緒方
-「や、やったー！！」[p]
-#早瀬
-「バカ・・・私の方はずっと好きだったんだから・・・」[p]
-#緒方
-「えっ、今何か言った？」[p]
-#早瀬
-「ううん、なんにも」[p]
-「それより、早く部活いかないと怒られるわよ」[p]
-#緒方
-「いっけね！それじゃ・・・日曜日にな！」[p]
-#早瀬
-「練習頑張れ！」[p]
+#Hayase
+What are you talking about?[p]
+Practice is about to start, you know.[p]
+#Ogata
+Ah, yeah.[p]
+I heard that the baseball club and the track and field club won't have practice this Sunday because the field is unavailable.[p]
+#Hayase
+Yeah, it seems so.[p]
+The track and field club doesn't have many days off, but the baseball club rarely gets a break, right?[p]
+#Ogata
+Ah, yeah.[p]
+S-so, um...[p]
+on Sunday...[p]
+how about going to see a movie or something?[p]
+#Hayase
+Huh...?[p]
+Is that...[p]
+#Ogata
+W-Well, it's what you would call a d-date...[p]
+I guess.[p]
+#Hayase
+Huh, but...[p]
+you like Ayame, right...?[p]
+#Ogata
+W-Well, yeah...[p]
+or rather, that's how it was...[p]
+but...[p]
+you see, while I was seeking advice about that...[p]
+I realized my own feelings.[p]
+#Hayase
+Huh...?[p]
+#Ogata
+I realized that my feelings towards Fujino-san were just admiration, and I figured out who I truly love![p]
+#Hayase
+K-Kouhei...[p]
+D-Don't say embarrassing things out loud like that![p]
+#Ogata
+S-Sorry...[p]
+#Hayase
+・・・・・・[p]
+#Ogata
+...[p]
+Y-yeah, I guess this kind of thing is too good to be true...[p]
+Hahaha.[p]
+#Hayase
+...[p]
+Yeah, it's too good to be true.[p]
+#Ogata
+I'm sorry...[p]
+#Hayase
+But...[p]
+I think I'm more suitable for Kouhei than a high-class beauty like Ayame.[p]
+#Ogata
+...[p]
+Eh![p]
+So, will you go out with me!?[p]
+#Hayase
+I-I'll go out with you.[p]
+#Ogata
+Y-Yatta!![p]
+#Hayase
+Idiot...[p]
+I've liked you all along, you know...[p]
+#Ogata
+Huh, did you say something just now?[p]
+#Hayase
+No, more importantly, we have to go to club activities quickly or we'll get scolded.[p]
+#Ogata
+Let's go![p]
+Well then...[p]
+it's Sunday![p]
+#Hayase
+Good luck with practice![p]
 #
 
 [_tb_end_text]
@@ -2274,13 +2811,11 @@
 [chara_hide_all  time="1000"  wait="true"  ]
 [tb_start_text mode=1 ]
 #
-・・・・・・[p]
-なんだぁ？結局あの二人は付き合うことになったのかよ[p]
-けっ、少女漫画みたいな青春しやがって[p]
-緒方のやつ早瀬のあの引き締まったスレンダーボディを独り占めできるとは羨ましいやつめ[p]
-まぁ俺には桐嶋香織という肉便器がいるから許してやろう[p]
-・・・・・・[p]
-・・・[p]
+So...[p]
+in the end, did those two end up dating?[p]
+Geez, they're like something out of a shoujo manga, having such a youthful romance.[p]
+Ogata, that guy, is so lucky to have Hayase's tight and slender body all to himself.[p]
+Well, I have Kaori Kirishima as my own personal flesh toy, so I'll let it slide...[p]
 
 [_tb_end_text]
 
@@ -2289,7 +2824,7 @@
 
 [tb_start_text mode=1 ]
 #
-おいおい、今日は桐嶋を呼び出そうぜ[p]
+Hey, let's call Kirishima out today.[p]
 [_tb_end_text]
 
 [stopbgm  time="100"  ]
@@ -2300,9 +2835,9 @@
 [bg  time="1000"  method="fadeIn"  storage="rouka.jpg"  ]
 [tb_start_text mode=1 ]
 #
-うーん・・・誰もいないなぁ[p]
-・・・・・・[p]
-・・・つまらん[p]
+Hmm...[p]
+there's no one here...[p]
+it's boring.[p]
 [_tb_end_text]
 
 [jump  storage="kitaku.ks"  target=""  ]
@@ -2312,37 +2847,38 @@
 [chara_show  name="木本"  time="1000"  wait="false"  storage="chara/8/game83-1.png"  width="363"  height="854"  left="247"  top="16"  reflect="false"  ]
 [chara_show  name="肉山"  time="1000"  wait="true"  storage="chara/9/game83-2.png"  width="363"  height="854"  left="678"  top="16"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#ピン子
-「お疲れ様。ちゃんと放課後イベントをチェックしてくれてるのね」[p]
-#トン子
-「作者も喜んでるわ」[p]
-#ピン子
-「そんなあなたに悲しいお知らせがあります」[p]
-#トン子
-「放課後イベントはこれで終了です」[p]
-#ピン子
-「これ以降は放課後に校内をうろついても何も起きません」[p]
-#トン子
-「放課後は香織先生の調教に集中してほしいという作者の配慮です」[p]
-#ピン子
-「というかイベント作るのに疲れただけじゃないの？」[p]
-#トン子
-「・・・そうとも言う」[p]
-#ピン子
-「でもこれでお別れじゃないわ」[p]
-#トン子
-「ゲームの最終局面まで進めたらまた会いましょう」[p]
-#ピン子
-「昼間の選択肢に『エンディング』ってコマンドが出たら、また校内をうろついてみて」[p]
-#トン子
-「楽しみに待ってるわ」[p]
-#ピン子
-「それじゃしばらくお別れね」[p]
-#トン子
-「またね」[p]
+#Pinko
+Good job.[p]
+You're properly checking the after-school events, aren't you?[p]
+#Tonko
+The author is also happy.[p]
+#Pinko
+I have some sad news for you.[p]
+#Tonko
+After-school events are now over.[p]
+#Pinko
+After this, nothing will happen even if you wander around the school after class.[p]
+#Tonko
+The author's consideration is for you to focus on Kaori Kirishima's training after school.[p]
+#Pinko
+Or rather, are you not just tired from creating events?[p]
+#Tonko
+...[p]
+I suppose you could say that.[p]
+#Pinko
+But this isn't goodbye.[p]
+#Tonko
+Let's meet again once you progress to the final stage of the game.[p]
+#Pinko
+If the command Ending appears in the daytime choices, try wandering around the school again.[p]
+#Tonko
+I'll be waiting with anticipation.[p]
+#Pinko
+Well then, let's say goodbye for a while.[p]
+#Tonko
+See you later.[p]
 #
-・・・[p]
-・・・・・・[p]
+・・・・・・・・・[p]
 
 [_tb_end_text]
 
@@ -2353,17 +2889,17 @@
 [chara_show  name="木本"  time="1000"  wait="false"  storage="chara/8/game83-1.png"  width="363"  height="854"  left="247"  top="16"  reflect="false"  ]
 [chara_show  name="肉山"  time="1000"  wait="true"  storage="chara/9/game83-2.png"  width="363"  height="854"  left="678"  top="16"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#ピン子
-「お久しぶりね」[p]
-#トン子
-「また会えたわね」[p]
+#Pinko
+Long time no see.[p]
+#Tonko
+We meet again, don't we?[p]
 [_tb_end_text]
 
 *ho340s
 
 [tb_start_text mode=1 ]
-#ピン子
-「なにか私たちに聞きたいことはある？」[p]
+#Pinko
+Is there something you want to ask us?[p]
 #
 [_tb_end_text]
 
@@ -2374,8 +2910,8 @@
 *ho340a
 
 [tb_start_text mode=1 ]
-#ピン子
-「どのエンディングについて聞きたいの？」[p]
+#Pinko
+Which ending do you want to ask about?[p]
 #
 [_tb_end_text]
 
@@ -2387,88 +2923,96 @@
 *ho340a1
 
 [tb_start_text mode=1 ]
-#ピン子
-「エンディング１について聞きたいのね」[p]
-#トン子
-「エンディング１は実は結構見るのが難しいのよね」[p]
-#ピン子
-「そうね。だからズバリ教えちゃうけど、キーになるのは『野外調教』よ」[p]
-#トン子
-「夜中に桐嶋先生を連れまわすアレね」[p]
-#ピン子
-「そう、アレを毎日やっていると、いつもと違うイベントが起きることがあるの」[p]
-#トン子
-「そのイベントを見ることがエンディング１への条件よ」[p]
-#ピン子
-「実はそのイベントはランダムじゃなくて決まった日に起きるの」[p]
-#トン子
-「ヒントは桐嶋先生のパンツよ。昼間に『下着チェック』して〇色のパンツを穿いていたらその放課後に『野外調教』をしてみてね」[p]
-#ピン子
-「成功を祈ってるわ」[p]
+#Pinko
+You want to ask about Ending 1, don't you?[p]
+#Tonko
+Ending 1 is actually quite difficult to see.[p]
+#Pinko
+I see.[p]
+Well, I'll tell you straight up, the key is Outdoor Training.[p]
+#Tonko
+That thing where we take Kirishima-sensei around in the middle of the night.[p]
+#Pinko
+Yes, if you do that every day, there are times when something different happens.[p]
+#Tonko
+Watching that event is the condition for reaching Ending 1.[p]
+#Pinko
+Actually, that event doesn't happen randomly, it occurs on a specific day.[p]
+#Tonko
+The hint is Kirishima-sensei's panties.[p]
+If you check her underwear during the day and she's wearing panties of a certain color, try doing Outdoor Training after school.[p]
+#Pinko
+I'm praying for your success.[p]
 [_tb_end_text]
 
 [jump  storage="hokago.ks"  target="*ho340s"  ]
 *ho340a2
 
 [tb_start_text mode=1 ]
-#ピン子
-「エンディング２について聞きたいのね」[p]
-#トン子
-「あら、エンディング２は一番簡単に見れるエンディングなのにね」[p]
-#ピン子
-「でも真面目な人、慎重な性格の人は一生見れないかも？」[p]
-#トン子
-「え、どういう意味って？ヒントはセックスのラストに出される選択肢よ」[p]
-#ピン子
-「無責任な選択を繰り返せば・・・当然起こることが起こるわね。わかるでしょ？」[p]
-#トン子
-「あくまでセックスの最後に選択肢が出る場合のみだから気をつけて」[p]
-#ピン子
-「健闘を祈ってるわ」[p]
+#Pinko
+You want to ask about Ending 2, don't you?[p]
+#Tonko
+Oh, Ending 2 is actually the easiest ending to see.[p]
+#Pinko
+But serious and cautious people might never be able to see it in their lifetime.[p]
+#Tonko
+Huh, what do you mean?[p]
+The hint is the choice presented at the end of sex.[p]
+#Pinko
+If you keep making irresponsible choices...[p]
+it's only natural that certain things will happen.[p]
+You understand, right?[p]
+#Tonko
+Just be careful, as the choices only appear at the end of sex.[p]
+#Pinko
+I'm praying for your success.[p]
 [_tb_end_text]
 
 [jump  storage="hokago.ks"  target="*ho340s"  ]
 *ho340a3
 
 [tb_start_text mode=1 ]
-#ピン子
-「エンディング３について聞きたいのね」[p]
-#トン子
-「エンディング３は運が悪い人はなかなか見れないかもね」[p]
-#ピン子
-「でもしつこい人はきっと見れるわ」[p]
-#トン子
-「ヒントはここまでね」[p]
-#ピン子
-「え、解らない？よーーく『考えれ』ば判るわよ」[p]
-#トン子
-「頑張ってね」[p]
+#Pinko
+You want to ask about Ending 3, don't you?[p]
+#Tonko
+Ending 3 might be difficult to see for unlucky people.[p]
+#Pinko
+But persistent people will surely be able to see it.[p]
+#Tonko
+The hint ends here.[p]
+#Pinko
+Huh, don't you understand?[p]
+If you think about it carefully, you'll get it.[p]
+#Tonko
+Good luck.[p]
 [_tb_end_text]
 
 [jump  storage="hokago.ks"  target="*ho340s"  ]
 *ho340a4
 
 [tb_start_text mode=1 ]
-#ピン子
-「エンディング４について聞きたいのね」[p]
-#トン子
-「エンディング４の攻略に関しては・・・特にアドバイスは無いわね」[p]
-#ピン子
-「そうね。誰でもいけるエンディングだからね」[p]
-#トン子
-「強いて言えば『ゲームを楽しんで』ってことくらいかしら」[p]
-#ピン子
-「プレイヤーによっては最終段階に来た時点で最初から解放されてる人もいるでしょうね」[p]
-#トン子
-「のんびり屋さんはそうかもね」[p]
+#Pinko
+You want to ask about Ending 4, don't you?[p]
+#Tonko
+Regarding the strategy for Ending 4...[p]
+I don't have any specific advice.[p]
+#Pinko
+That's right.[p]
+It's an ending that anyone can reach.[p]
+#Tonko
+If I had to say, it would be something like Enjoy the game, I suppose.[p]
+#Pinko
+Depending on the player, there may be people who are already unlocked from the beginning when they reach the final stage.[p]
+#Tonko
+Easygoing people might be like that.[p]
 [_tb_end_text]
 
 [jump  storage="hokago.ks"  target="*ho340s"  ]
 *ho340b
 
 [tb_start_text mode=1 ]
-#ピン子
-「いいわよ、なんでも聞いて」[p]
+#Pinko
+Alright, ask me anything.[p]
 [_tb_end_text]
 
 [glink  color="black"  storage="hokago.ks"  size="20"  target="*ho340b1"  x="500"  y="220"  width="170"  height="20"  text="二人について"  ]
@@ -2479,96 +3023,118 @@
 *ho340b1
 
 [tb_start_text mode=1 ]
-#ピン子
-「え～私たちについて聞きたいの～？」[p]
-#トン子
-「やだ～～恥ずかしい～～みたいな～～」[p]
-#ピン子
-「でもここまで来たあなただけには教えちゃおうかな～」[p]
-#トン子
-「ここだけの秘密だよ～～」[p]
-#ピン子
-「右の髪が赤い方がわたし、姉のピン子よ」[p]
-#トン子
-「左の緑髪がわたし、妹のトン子。わたしたちこう見えて双子なの。意外でしょ？」[p]
-#ピン子
-「どこがやねん！誰が見ても双子やないか！」[p]
-#トン子
-「いうてますけども」[p]
-#ピン子
-「わたしが２年生で」[p]
-#トン子
-「わたしが１年生」[p]
-#ピン子
-「なんでやねん！双子や言うてるやろ！」[p]
-#トン子
-「デヘヘ、二人とも２年生ですねん」[p]
-#ピン子
-「ほんまいい加減にしいや」[p]
-#トン子
-「二人とも帰宅部でしてね」[p]
-#ピン子
-「そうね」[p]
-#トン子
-「放課後はよくこうして二人で残ってだべってるの」[p]
-#ピン子
-「この踊り場が定位置ね。ここに来ればだいたい会えるわ」[p]
-#トン子
-「えっ、私たち二人のエッチシーンは無いのかって？」[p]
-「そんなのないわよ」[p]
-#ピン子
-「残念ながらありません。私たちのファンの皆さんごめんなさい」[p]
-#トン子
-「私たちのファンなんているのかしらねぇ」[p]
-#ピン子
-「いや、もしかしたらいるかもしれないじゃない」[p]
-#トン子
-「というかわたしたち・・・プレイヤーにヒント与えるためだけに存在するモブキャラですから・・・」[p]
-#ピン子
-「急にぶっちゃけた！？」[p]
-#トン子
-「最初はグラフィックも無くてね・・・急遽描いてもらったけど顔とか適当だし・・・」[p]
-#ピン子
-「ま、まぁ・・・絵があるだけありがたいと思おうよ、ハハハ」[p]
-#トン子
-「苗字も無いしね・・・」[p]
-#ピン子
-「まぁまぁ」[p]
-#トン子
-「はぁ・・・」[p]
-#ピン子
-「・・・」[p]
-#トン子
-「でもいいんだトン！これからもめげずに頑張るトン！」[p]
-#ピン子
-「急に立ち直った！？しかも語尾なに！？さっきまでそんなの無かったよね！？」[p]
-#トン子
-「キャラ付けよ。こういう地道な努力が大事なのよ。大事なのトン」[p]
-#ピン子
-「努力って・・・なんの努力よ」[p]
-#トン子
-「決まってるでしょ。次回作にも出してもらえるようにアピールよ！アピールするトン！」[p]
-#ピン子
-「た、たくましい・・・！妹ながらそのたくましさには感心するわ！」[p]
-「そうね、私も頑張るわ！いや、頑張るピン！二人で力を合わせて頑張っていくピン！」[p]
-#トン子
-「いやお姉ちゃんの語尾は『ヤンス』で」[p]
-#ピン子
-「嫌だよ！なんであんたがトンでわたしだけヤンスなのよ！」[p]
-#トン子
-「ヤンス顔してるじゃん」[p]
-#ピン子
-「ヤンス顔ってどんな顔だよ！？」[p]
-#トン子
-「小物顔というか貧乏くさいというかドブネズミというか・・・」[p]
-#ピン子
-「あんたおんなじ顔なんだよ！？」[p]
-#トン子
-「あーーそうだった！死にたい！」[p]
-#ピン子
-「ええ加減にしなさい！もうやめさせてもらうわ！」[p]
-#ピン子＆トン子
-「どーもありがとうございましたー！」[p]
+#Pinko
+Oh~ Do you want to ask us something?[p]
+#Tonko
+Nooo~ It's embarrassing~ something like that~[p]
+#Pinko
+But since you've come this far, maybe I'll let you in on a little secret~[p]
+#Tonko
+This is a secret just between us~[p]
+#Pinko
+I'm the one with red hair on the right, my older sister is Pin-ko.[p]
+#Tonko
+The one with green hair on the left is me, Tonko.[p]
+Surprisingly, we may look like it, but we're actually twins.[p]
+Isn't it unexpected?[p]
+#Pinko
+Where is it?![p]
+Anyone can see that we're twins![p]
+#Tonko
+I'm just saying.[p]
+#Pinko
+I'm in my second year.[p]
+#Tonko
+I'm a first-year student.[p]
+#Pinko
+Why are you saying that?![p]
+We're saying we're twins, you know![p]
+#Tonko
+Hehe, both of us are second-year students.[p]
+#Pinko
+Seriously, cut it out.[p]
+#Tonko
+Both of us are in the homecoming club.[p]
+#Pinko
+I see.[p]
+#Tonko
+After school, we often stay behind like this and chat together.[p]
+#Pinko
+This landing is our usual spot.[p]
+If you come here, you can usually find us.[p]
+#Tonko
+Huh, you're asking if there's no sex scene between the two of us?[p]
+There's none of that.[p]
+#Pinko
+Unfortunately, there isn't.[p]
+We're sorry to all of our fans.[p]
+#Tonko
+I wonder if we even have any fans.[p]
+#Pinko
+Well, there might actually be some fans, you know.[p]
+#Tonko
+Or rather, we...[p]
+exist as mob characters solely to give hints to the players...[p]
+#Pinko
+Did you suddenly become so frank!?[p]
+#Tonko
+At first, there were no graphics...[p]
+so we hastily had them drawn, but the faces and everything were just done randomly...[p]
+#Pinko
+W-Well...[p]
+let's just be grateful that there are graphics, hahaha.[p]
+#Tonko
+We don't even have last names...[p]
+#Pinko
+Well, well...[p]
+#Tonko
+*sigh*...[p]
+#Pinko
+・・・[p]
+#Tonko
+But it's okay, Ton![p]
+From now on, I'll do my best without giving up, Ton![p]
+#Pinko
+Did you suddenly become so frank!?[p]
+And what's with the way you're speaking!?[p]
+You didn't talk like that just a moment ago, right!?[p]
+#Tonko
+Character development is important.[p]
+This kind of diligent effort is crucial.[p]
+It's crucial, Ton.[p]
+#Pinko
+Effort...[p]
+what kind of effort?[p]
+#Tonko
+It's already decided, you know.[p]
+I'll appeal to be included in the next work![p]
+I'll appeal, Ton![p]
+#Pinko
+I-I'm impressed by your strength, even though you're my little sister![p]
+Yes, I'll do my best too![p]
+No, Pinko will do her best![p]
+Let's work together and give it our all, Pinko![p]
+#Tonko
+No, big sister's way of speaking ends with yansu.[p]
+#Pinko
+I don't like it![p]
+Why are you Ton and I'm the only one who's Yansu![p]
+#Tonko
+You're making a Yansu face.[p]
+#Pinko
+What kind of face is a Yansu face!?[p]
+#Tonko
+It's more like a petty face, or rather, a poor-looking face, or maybe even a rat...[p]
+#Pinko
+You have the same face as me!?[p]
+#Tonko
+Ahh, that's right![p]
+I want to die![p]
+#Pinko
+Enough already![p]
+I'm going to make you stop![p]
+#Pin and Ton
+Thank you very much![p]
 #
 ・・・[p]
 [_tb_end_text]
@@ -2577,28 +3143,28 @@
 *ho340b2
 
 [tb_start_text mode=1 ]
-#ピン子
-「クイズに挑戦するのね」[p]
-#トン子
-「ゲームに関する問題が出るから正解を選んで答えてね」[p]
-#ピン子
-「これまでのプレイでちゃんと文章を読んで内容を覚えてるか、記憶力と注意力が問われるよ」[p]
+#Pinko
+So you're going to challenge the quiz, huh?[p]
+#Tonko
+Since there will be questions about games, please choose the correct answer and respond.[p]
+#Pinko
+In this quiz, your memory and attention will be tested to see if you have been reading the text and remembering the content properly.[p]
 [_tb_end_text]
 
 [jump  storage="q2.ks"  target=""  ]
 *ho340b3
 
 [tb_start_text mode=1 ]
-#ピン子
-「間違い探しに挑戦するのね」[p]
-#トン子
-「私たち二人って微妙に違うの気づいてた？」[p]
-#ピン子
-「私たちは一見全く同じに見えるけど、実は髪の色以外に７つの違いがあるの」[p]
-#トン子
-「私の方（左）の間違いのある部分をクリックしてね」[p]
-#ピン子
-「全部見つけても特になにもないので、終わったら「終わる」をクリックしてね」[p]
+#Pinko
+So you're going to challenge the spot-the-difference game, huh?[p]
+#Tonko
+Did you notice that we're subtly different?[p]
+#Pinko
+We may look exactly the same at first glance, but there are actually seven differences besides our hair color.[p]
+#Tonko
+Please click on the incorrect part on my side (left).[p]
+#Pinko
+Even if you find them all, there's nothing special, so click Finish when you're done.[p]
 #
 [_tb_end_text]
 
@@ -2622,14 +3188,16 @@
 
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#ピン子
-「正解！眉毛が違いますね」[p]
-#トン子
-「これはイージーだったね」[p]
-#ピン子
-「でもなんでトン子は眉をしかめてるの？」[p]
-#トン子
-「そりゃわたしの方が性格が悪いから・・・って何言わすねん！」[p]
+#Pinko
+Correct![p]
+Our eyebrows are different.[p]
+#Tonko
+This was easy, wasn't it?[p]
+#Pinko
+But why is Tonko frowning?[p]
+#Tonko
+Well, it's because I have a bad personality...[p]
+What are you saying?![p]
 #
 [_tb_end_text]
 
@@ -2638,16 +3206,18 @@
 
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#ピン子
-「そう！髪の毛の裾が微妙に違うわ」[p]
-#トン子
-「これはもう誤差の範囲よね」[p]
-#ピン子
-「そうね、この差に関してはお母さん次第だしね」[p]
-#トン子
-「ちょっと！わたしたちが髪の毛お母さんに切ってもらってるってバレるじゃん！」[p]
-#ピン子
-「あっ・・・！」[p]
+#Pinko
+That's right![p]
+The ends of our hair are subtly different.[p]
+#Tonko
+This is already within the margin of error, right?[p]
+#Pinko
+Yes, when it comes to this difference, it's up to our mother.[p]
+#Tonko
+Hey![p]
+If you say that we get our hair cut by our mother, it will be revealed![p]
+#Pinko
+Ah...![p]
 #
 [_tb_end_text]
 
@@ -2656,16 +3226,18 @@
 
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#ピン子
-「すごい！そう、制服の襟のところの角度がちょっと違います！」[p]
-#トン子
-「良く見つけたねこんなの。虫眼鏡使わないとわからないレベルじゃん」[p]
-#ピン子
-「原画サイズだとまだわかるんだけどね。ゲームだと縮小されるからほぼわからないよ」[p]
-#トン子
-「これを見つけたあなたには『重箱の隅突っつきおじさん』の称号を与えます」[p]
-#ピン子
-「変な称号与えんな！」[p]
+#Pinko
+Amazing![p]
+Yes, the angle of the collar on the uniform is slightly different![p]
+#Tonko
+You found it well.[p]
+It's at a level where you can't tell without using a magnifying glass.[p]
+#Pinko
+I can still tell when it's the original size, but in the game, it's shrunk so I can hardly tell.[p]
+#Tonko
+To the one who found this, I will give you the title of The Corner-Poking Uncle of the Bento Box.[p]
+#Pinko
+Don't give me a weird title![p]
 #
 [_tb_end_text]
 
@@ -2674,16 +3246,19 @@
 
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#ピン子
-「ハイ正解！制服のリボンの長さが違います！」[p]
-#トン子
-「結構難しいのを見つけたね。めざといなー」[p]
-#ピン子
-「めざといってなんか印象良くないね」[p]
-#トン子
-「じゃあ・・・あざとい」[p]
-#ピン子
-「全然意味違うし」[p]
+#Pinko
+Yes, correct![p]
+The length of the ribbon on the uniform is different![p]
+#Tonko
+You found something quite difficult.[p]
+You're observant, aren't you?[p]
+#Pinko
+Being observant doesn't give a good impression, does it?[p]
+#Tonko
+Well...[p]
+that's cunning.[p]
+#Pinko
+It's completely different in meaning.[p]
 #
 [_tb_end_text]
 
@@ -2692,20 +3267,33 @@
 
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#ピン子
-「正解！トン子の方がちょっとだけ胸が小さいんです！」[p]
-#トン子
-「うぉぉぉぉぉい！ウソでしょ！？そんなことないよね！？ちゃんと見てよ！」[p]
-#ピン子
-「認めたくない気持ちはわかるけどね・・・。現実を受け入れなさいトン子」[p]
-#トン子
-「ほ、本当だ・・・知らなかった・・・。なんで一卵性の双子なのに・・・同じもの毎日食べてるのに・・・差が出るんだよぉ！」[p]
-#ピン子
-「ふ・・・でも胸が大きいのも良いことばっかじゃないよ？肩はこるしさぁ・・・かわいいブラがなかったりしてさ」[p]
-#トン子
-「ほんの少しの差だろ！なに巨乳ぶってんだ！」[p]
-#ピン子
-「ちなみに制服の影の違いも胸の大きさの影響なのでこれに含まれます」[p]
+#Pinko
+Correct![p]
+Tonko's breasts are slightly smaller![p]
+#Tonko
+Whoa![p]
+You're kidding, right!?[p]
+That can't be true, right!?[p]
+Look closely![p]
+#Pinko
+I understand the feeling of not wanting to admit it...[p]
+but accept reality, Tonko.[p]
+#Tonko
+I-I can't believe it...[p]
+I didn't know...[p]
+Even though we're identical twins...[p]
+and we eat the same thing every day...[p]
+why is there a difference?![p]
+#Pinko
+Well...[p]
+but having big breasts isn't always a good thing, you know?[p]
+It can be tiring on the shoulders...[p]
+and sometimes there's no cute bra available.[p]
+#Tonko
+It's just a small difference![p]
+Why are you acting like you have big breasts![p]
+#Pinko
+By the way, the difference in the shadow of our uniforms is also influenced by the size of our breasts, so that's included in this.[p]
 #
 [_tb_end_text]
 
@@ -2714,16 +3302,18 @@
 
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#ピン子
-「そう！制服の袖口がちょっと違いました～！」[p]
-#トン子
-「こんなのよく気付くねぇ」[p]
-#ピン子
-「観察力がすごいのね」[p]
-#トン子
-「きっと電車の中とかでも女の人をジロジロ見てるんだろうね」[p]
-#ピン子
-「イヤなこと言うなよ！してないよ多分！」[p]
+#Pinko
+That's right![p]
+The cuffs of our uniforms were slightly different~![p]
+#Tonko
+You noticed something like this well.[p]
+#Pinko
+Your observation skills are amazing.[p]
+#Tonko
+They're probably staring at women on the train and stuff.[p]
+#Pinko
+Don't say unpleasant things![p]
+I haven't done anything, probably![p]
 #
 [_tb_end_text]
 
@@ -2732,16 +3322,19 @@
 
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#ピン子
-「正解！スカートの裾がちょっと違うわ」[p]
-#トン子
-「ちょっと、どこ見てんのよ！スケベ！」[p]
-#ピン子
-「いや、間違い探しってそういうものだから！」[p]
-#トン子
-「でもこんなゲーム買ってるんだからスケベなのは間違いないよね？」[p]
-#ピン子
-「うっ・・・反論できない」[p]
+#Pinko
+Correct![p]
+The hem of our skirts is slightly different.[p]
+#Tonko
+Hey, where are you looking?![p]
+Pervert![p]
+#Pinko
+No, finding mistakes is just how it is with this game![p]
+#Tonko
+But if you're buying a game like this, there's no doubt you're a pervert, right?[p]
+#Pinko
+Ugh...[p]
+I can't argue back.[p]
 #
 [_tb_end_text]
 
@@ -2755,28 +3348,34 @@
 [chara_show  name="木本"  time="1000"  wait="false"  storage="chara/8/game83-1.png"  width="363"  height="854"  left="247"  top="16"  reflect="false"  ]
 [chara_show  name="肉山"  time="1000"  wait="true"  storage="chara/9/game83-2.png"  width="363"  height="854"  left="678"  top="16"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#ピン子
-「お疲れ様でした～」[p]
-#トン子
-「どう？全部見つけられた？」[p]
-#ピン子
-「私たちって結構違うってわかったでしょ？」[p]
-#トン子
-「一卵性の双子っていっても別の人間だからね。十何年も生きてたら差が出てくるのよ」[p]
-#ピン子
-「性格だって違うしね。それを解ってもらうためのゲームでした」[p]
-#トン子
-「ていうかティラノビルダーの機能を使う練習に作っただけだけどね」[p]
-#ピン子
-「そうだったの！？」[p]
-#トン子
-「作ってみてわかったのは・・・カーソルが指になるから簡単にわかっちゃうってことね」[p]
-#ピン子
-「まぁ、間違い探し用の機能じゃないからね・・・。でもアイデア次第では色々使えそうじゃない？エッチシーンで体を触るとか、探偵モノで「調べる」コマンドで使うとか」[p]
-#トン子
-「そうね、フタコブラクダのこぶを揉んで小さくするとか、貯金箱に炊き立てのお米を詰め込むとかね」[p]
-#ピン子
-「発想が独特だな！」[p]
+#Pinko
+Good work~[p]
+#Tonko
+How about it?[p]
+Did you find them all?[p]
+#Pinko
+You realized that we're quite different, right?[p]
+#Tonko
+Even if we're identical twins, we're still different individuals.[p]
+Differences start to show after living for so many years.[p]
+#Pinko
+Our personalities are different too.[p]
+It was a game to make you understand that.[p]
+#Tonko
+Actually, I just made it as practice using the functions of TyranoBuilder.[p]
+#Pinko
+Is that so?![p]
+#Tonko
+What I realized by making it...[p]
+is that because the cursor becomes a finger, it's easy to understand.[p]
+#Pinko
+Well, it's not a function for finding mistakes...[p]
+But depending on the idea, it could be used for various things, right?[p]
+Like touching the body in erotic scenes, or using it for investigation commands in detective stories.[p]
+#Tonko
+Yeah, like rubbing the hump of a two-humped camel to make it smaller, or stuffing freshly cooked rice into a piggy bank.[p]
+#Pinko
+Your ideas are unique![p]
 #
 ・・・[p]
 [_tb_end_text]
@@ -2785,10 +3384,11 @@
 *ho340c
 
 [tb_start_text mode=1 ]
-#ピン子
-「あら、もう行っちゃうの？」[p]
-#トン子
-「さようなら。またいつでも来てね」[p]
+#Pinko
+Oh, are you leaving already?[p]
+#Tonko
+Goodbye.[p]
+Come back anytime.[p]
 #
 [_tb_end_text]
 
@@ -2796,10 +3396,12 @@
 *music
 
 [tb_start_text mode=1 ]
-#ピン子
-「音楽を聴くのね。このゲームのBGMはほとんどがフリーBGM配布サイトのDOVA-SYNDROME様から拝借しております」[p]
-#トン子
-「作曲者の皆様ありがとうございます！それではどうぞ！」[p]
+#Pinko
+Oh, you're listening to music.[p]
+The BGM in this game is mostly borrowed from the free BGM distribution site DOVA-SYNDROME.[p]
+#Tonko
+Thank you to all the composers![p]
+Well then, here you go![p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -2926,8 +3528,8 @@
 [stopbgm  time="1000"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="いつもの放課後.mp3"  ]
 [tb_start_text mode=1 ]
-#ピン子
-「音楽鑑賞を終わるのね」[p]
+#Pinko
+Are you finishing listening to music?[p]
 [_tb_end_text]
 
 [jump  storage="hokago.ks"  target="*ho340s"  ]
@@ -2935,7 +3537,7 @@
 
 [tb_start_text mode=1 ]
 #
-桐嶋を呼び出して調教しようぜ[p]
+Let's call Kaori Kirishima and train her.[p]
 [_tb_end_text]
 
 [stopbgm  time="100"  ]

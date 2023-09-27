@@ -2,7 +2,7 @@
 
 [tb_start_text mode=1 ]
 #
-さぁて、どうするか？[p]
+Well, what should we do?[p]
 [_tb_end_text]
 
 [glink  color="black"  storage="play9.ks"  size="20"  text="アナルセックス"  y="130"  width="160"  height="20"  x="500"  target="*p1"  ]
@@ -22,72 +22,101 @@
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Indomitable.mp3"  ]
 [tb_start_text mode=1 ]
 #
-ズプッ！ヌプッ！ズプッ！[p]
-#香織
-「アゥゥ・・・ヒッ♥・・・アァンッ♥」[p]
-#肉山
-「ククク、すっかりアナルが気に入ったようだな」[p]
+*moaning sounds*[p]
+#Kaori
+Ahh...[p]
+Aann♥[p]
+#Nikuyama
+Hehehe, it seems like they've really taken a liking to anal.[p]
 #
-ズプッ！ヌチュッ！ズプッ！[p]
-#香織
-「イヤァ・・・ッ・・・お尻・・・なんて・・・ンハァッ♥」[p]
-#肉山
-「排泄の穴まで性処理に使われてどんな気分だ？興奮してるんだろうがこのドスケベが！」[p]
+*Squelch![p]
+* *Slurp![p]
+*[p]
+#Kaori
+Ahh...[p]
+No...[p]
+my butt...[p]
+Nhaa♥[p]
+#Nikuyama
+How does it feel to be used for sexual pleasure all the way to your excretory hole?[p]
+This pervert must be excited![p]
 #
-ズプッ！ヌプッ！ズプッ！[p]
-#香織
-「クゥ・・・ッ・・・ハァッ♥そ、そんなこと・・・ンッ・・・アヒッ♥」[p]
-#肉山
-「オラ、アナルでイっちまえ・・・っ！」[p]
+*Squelch![p]
+* *Slurp![p]
+*[p]
+#Kaori
+Ku...[p]
+Ahh...[p]
+Haah♥ Th-there's no way...[p]
+Ahh♥[p]
+#Nikuyama
+I'm gonna make you come with anal...![p]
 #
-ズプッ！ズプッ！ズプッ！ズプッ！[p]
-#香織
-「アヒァイィーーッ♥アッ・・・だ、ダメェ―ーーーーーッ♥」[p]
+*Squelch![p]
+* *Squelch![p]
+* *Squelch![p]
+*[p]
+#Kaori
+Ahh...[p]
+Stopppp♥[p]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game173-2.jpg"  ]
 [tb_start_text mode=1 ]
 #
-ドプッッ！！[p]
-#香織
-「アァァッ！・・・熱・・・っ・・・ンンッ♥」[p]
-#肉山
-「うぉっ・・・搾り取られる・・・っ」[p]
+*[p]
+#Kaori
+Ahhh...[p]
+nghh♥[p]
+#Nikuyama
+Whoa...[p]
+being squeezed out...[p]
 #
-ビュビュビュッ・・・ッ！[p]
-#香織
-「ンンンッ♥・・・お尻の中に・・・いっぱい・・・アフゥッ♥」[p]
-#肉山
-「フゥ・・・出た出た・・・エロいケツ穴しやがって」[p]
+*[p]
+#Kaori
+Nnnn♥...[p]
+Inside my butt...[p]
+Ahh♥[p]
+#Nikuyama
+Fuu...[p]
+I came...[p]
+You have such a sexy asshole.[p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 [_tb_end_text]
 
 [stopbgm  time="1000"  fadeout="true"  ]
 [bg  time="1000"  method="crossfade"  storage="game154-5.jpg"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Grease_Slide_Trap.mp3"  ]
 [tb_start_text mode=1 ]
-#肉山
-「おら、お前のウンコで汚れたチンポをきれいにしろ」[p]
-#香織
-「は、はい・・・チュブッ・・・ンッ・・・レロレロレロッ」[p]
-#肉山
-「どうだ、自分のウンコの味は？クククク」[p]
-#香織
-「チュバッ・・・ンムッ・・・レロレロレロッ・・・チュプッ」[p]
-#肉山
-「・・・きれいになったか？」[p]
-#香織
-「レロレロッ・・・チュポッ・・・はい・・・」[p]
-#肉山
-「よーし、それじゃもう一回アナルで可愛がってやる。ケツを出せっ」[p]
-#香織
-「アッ・・・そ、そんな・・・」[p]
+#Nikuyama
+Hey, clean my dick that got dirty with your poop.[p]
+#Kaori
+Y-Yes...[p]
+*squelch*...[p]
+*lick lick lick*[p]
+#Nikuyama
+Hehehehe[p]
+#Kaori
+*Squelch*...[p]
+*Mmm*...[p]
+*Suck*[p]
+#Nikuyama
+...[p]
+Did it become clean?[p]
+#Kaori
+*Lick lick*...[p]
+*Suck*...[p]
+Yes...[p]
+#Nikuyama
+Alright, then I'll take care of you again with your anus.[p]
+Show me your butt.[p]
+#Kaori
+Ah...[p]
+Th-that...[p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 
 [_tb_end_text]
 
@@ -97,15 +126,20 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Indomitable.mp3"  ]
 [tb_start_text mode=1 ]
-#肉山
-「オラッ、アナルでイきやがれ・・・っ！」[p]
+#Nikuyama
+Ora, ikuyagare with your anus...![p]
 #
-ヌチュッ！ズプッ！ズポッ！[p]
-#香織
-「アヒィーーーーッ♥イ・・・イきますぅーーーっ♥アナルで・・・イきますぅー－－－－－ッ♥♥」[p]
+*Squelch![p]
+* *Splash![p]
+*[p]
+#Kaori
+Ahhhh![p]
+I'm...[p]
+I'm coming![p]
+In my anus...[p]
+I'm coming![p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -114,17 +148,23 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Grease_Slide_Trap.mp3"  ]
 [tb_start_text mode=1 ]
-#肉山
-「ふう・・・結局アナルで３発も出しちまったぜ。おい、挨拶を忘れるなよ」[p]
-#香織
-「ど、ドスケベな香織の・・・お尻の穴を・・・お、オチンポで・・・みっちりと教育していただいて・・・ありがとうございました・・・っ」[p]
-#肉山
-「まったく女教師のくせにスケベな肛門しやがって。これからも俺がチンポで管理してやるから感謝しろよ」[p]
-#香織
-「く・・・はい・・・ありがとうございます・・・っ」[p]
+#Nikuyama
+Phew...[p]
+In the end, I came three times in your anus.[p]
+Hey, don't forget to say hello.[p]
+#Kaori
+Th-thank you very much for thoroughly educating the lewd hole of Kaori's...[p]
+butt with your...[p]
+penis...[p]
+#Nikuyama
+Seriously, even though you're a female teacher, you have such a perverted anus.[p]
+Be grateful that I'll continue to manage it with my penis from now on.[p]
+#Kaori
+Uhh...[p]
+Yes...[p]
+Thank you very much...[p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -132,14 +172,14 @@
 [chara_show  name="桐嶋"  time="1000"  wait="true"  storage="chara/1/game23.png"  width="367"  height="864"  left="457"  top="5"  reflect="false"  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
-#肉山
-「よし、今日の調教は終わりだ。お疲れさん」[p]
-「もう帰っていいぞ。明日もたっぷりと調教してやるからな」[p]
-#香織
-「失礼します・・・」[p]
+#Nikuyama
+Alright, today's training is over.[p]
+Good job, you can go home now.[p]
+I'll make sure to train you thoroughly again tomorrow.[p]
+#Kaori
+Excuse me...[p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 
 [_tb_end_text]
 
@@ -148,14 +188,14 @@
 *p2
 
 [tb_start_text mode=1 ]
-#肉山
-「よし、散歩に出かけるぞ」[p]
-#香織
-「ま、またですか・・・」[p]
-#肉山
-「今日こそは誰かに見つかるかもな、クククク」[p]
-#香織
-「うぅ・・・」[p]
+#Nikuyama
+Alright, let's go for a walk.[p]
+#Kaori
+A-Again...?[p]
+#Nikuyama
+Today might be the day someone catches us, hehehe.[p]
+#Kaori
+Ugh...[p]
 [_tb_end_text]
 
 [jump  storage="play9.ks"  target="*p2f"  cond="f.pan==2"  ]
@@ -167,18 +207,26 @@
 [chara_hide_all  time="1000"  wait="true"  ]
 [bg  time="1000"  method="crossfade"  storage="game233.jpg"  ]
 [tb_start_text mode=1 ]
-#肉山
-「散歩の前にはやっぱりコレをしておかないとな」[p]
-#香織
-「アッ・・・イヤァ・・・ンヒッ・・・ッ！」[p]
-#肉山
-「大サービスの1リットルだ、ムヒヒヒ」[p]
-#香織
-「う・・・く・・・苦しい・・・ンハァッ」[p]
-#肉山
-「漏らさないようにアナルプラグで栓をしておいてやるからな。これで勝手にウンコはできないぞ、グヒヒ」[p]
-#香織
-「あぁ・・・ハゥ・・・ッ」[p]
+#Nikuyama
+Before our walk, we definitely have to do this.[p]
+#Kaori
+Ah...[p]
+No...[p]
+Ahh...![p]
+#Nikuyama
+It's a big service, one liter, muhihihi.[p]
+#Kaori
+U...[p]
+ku...[p]
+it's...[p]
+hard...[p]
+nghh...[p]
+#Nikuyama
+I'll plug you with an anal plug so you won't leak.[p]
+With this, you won't be able to poop on your own, muhihi.[p]
+#Kaori
+Ah...[p]
+Hah...[p]
 
 [_tb_end_text]
 
@@ -188,26 +236,41 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="30"  time="1000"  loop="true"  storage="Grease_Slide_Trap.mp3"  ]
 [tb_start_text mode=1 ]
-#肉山
-「おら、もっとケツを上げろ」[p]
+#Nikuyama
+Hey, move your butt more.[p]
 #
-ペシッ！[p]
-#香織
-「アンッ♥・・・お、お尻を・・・叩かないで・・・ッ」[p]
-#肉山
-「いつも大勢の生徒でにぎわっている校舎を素っ裸で首輪をつけて犬のように歩かされる気分はどうだ？ククク」[p]
-#香織
-「く・・・ンッ・・・お、お腹が・・・ハァッ」[p]
-#肉山
-「おっと、腹が苦しくてそれどころじゃないか。ハハハ」[p]
-#香織
-「く・・・早く・・・だ・・・出させて・・・」[p]
-#肉山
-「はやくウンコがしたいか？ん？」[p]
-#香織
-「は、はい・・・ウンチ・・・したいです・・・っ」[p]
-#肉山
-「さーて、どうするかなぁ？」[p]
+Peshi![p]
+#Kaori
+Ahh...[p]
+D-Don't...[p]
+don't spank my...[p]
+butt...[p]
+#Nikuyama
+How does it feel to walk around the school building, which is always bustling with students, completely naked and wearing a collar, like a dog?[p]
+Hehehe.[p]
+#Kaori
+Ku...[p]
+Nn...[p]
+My...[p]
+my stomach...[p]
+Haahh...[p]
+#Nikuyama
+Oh, my stomach hurts so I can't focus on that.[p]
+Hahaha.[p]
+#Kaori
+H...[p]
+hurry...[p]
+let me...[p]
+cum...[p]
+#Nikuyama
+Do you want to poop quickly?[p]
+Hm?[p]
+#Kaori
+Y-Yes...[p]
+I...[p]
+want to poop...[p]
+#Nikuyama
+Well, what should we do now?[p]
 [_tb_end_text]
 
 [glink  color="black"  storage="play9.ks"  size="20"  text="懇願させる"  x="500"  y="360"  width="160"  height="20"  target="*p2a1"  ]
@@ -216,43 +279,59 @@
 *p2a1
 
 [tb_start_text mode=1 ]
-#肉山
-「ウンコがしたかったらちゃんとお願いしないとなぁ。どうお願いすればいいかわかってるな？香織」[p]
-#香織
-「く・・・っ」[p]
-「な、中庭で・・・臭いウンチを・・・ブリブリするところを・・・撮影してくださいませ・・・ご主人様・・・っ」[p]
-#肉山
-「ほぉ、トイレじゃなくて中庭でウンコしたいのか？」[p]
-#香織
-「は、はい・・・中庭でさせてください・・・」[p]
-#肉山
-「しかもウンコするところを撮影してほしいだなんて、変態だな！グハハハ」[p]
-#香織
-「く・・・はい・・・変態です・・・ンハァッ♥」[p]
-#肉山
-「よし、それじゃ中庭でウンコさせてやるか」[p]
-#香織
-「あ、ありがとうございます・・・っ」[p]
+#Nikuyama
+If you want to poop, you better ask properly.[p]
+Do you know how to ask?[p]
+Kaori.[p]
+#Kaori
+P-Please...[p]
+m-master...[p]
+please film me...[p]
+in the courtyard...[p]
+as I...[p]
+release a smelly poop...[p]
+#Nikuyama
+Oh, you want to poop in the courtyard instead of the bathroom?[p]
+#Kaori
+Y-Yes...[p]
+Please let me do it in the courtyard...[p]
+#Nikuyama
+And you're even asking me to film you while you poop, you pervert![p]
+Guhahaha.[p]
+#Kaori
+Y-Yes...[p]
+Nhahh♥[p]
+#Nikuyama
+Alright, then I'll let you poop in the courtyard.[p]
+#Kaori
+Th-Thank you...[p]
 [_tb_end_text]
 
 [jump  storage="play9.ks"  target="*p2a3"  ]
 *p2a2
 
 [tb_start_text mode=1 ]
-#肉山
-「ダメだ。まだウンコはお預けだ」[p]
-#香織
-「そ、そんな・・・っ！」[p]
-#肉山
-「代わりに金玉を舐めさせてやろう」[p]
-#香織
-「な・・・なにを・・・」[p]
-#肉山
-「なんだ俺の金玉を舐めるのが嫌なのか？ウンコしたくないんだな？ん？」[p]
-#香織
-「い、いえ・・・な、舐めたいです・・・た、玉を舐めさせてください・・・っ」[p]
-#肉山
-「そうだろうそうだろう。好きなだけ舐めていいぞ」[p]
+#Nikuyama
+No, you can't.[p]
+You'll have to hold your poop for now.[p]
+#Kaori
+Th-That's...![p]
+#Nikuyama
+Instead, I'll let you lick my balls.[p]
+#Kaori
+W-What...[p]
+#Nikuyama
+What, you don't want to lick my balls?[p]
+You don't want to poop, huh?[p]
+Hm?[p]
+#Kaori
+N-No...[p]
+I-I want to...[p]
+l-lick them...[p]
+P-Please let me lick your balls...[p]
+#Nikuyama
+That's right, that's right.[p]
+You can lick as much as you want.[p]
 [_tb_end_text]
 
 [stopbgm  time="1000"  fadeout="true"  ]
@@ -260,39 +339,61 @@
 [playbgm  volume="60"  time="1000"  loop="true"  storage="マダムの口紅.mp3"  ]
 [tb_cg  id="158"  ]
 [tb_start_text mode=1 ]
-#香織
-「レロレロレロレロッ・・・チュピッ・・・レロンッ♥」[p]
-#肉山
-「そうだ、丁寧に舐めろよ。貴重な精子が入ってるんだからな」[p]
-#香織
-「は、はい・・・チュプッ・・・レロレロレロッ♥・・・ウゲェッ」[p]
-#肉山
-「どうした、いっぱい汗をかいていい味が出てるだろう、ククク」[p]
-#香織
-「ペロペロペロッ・・・う・・・チュバッ・・・レロレロンッ♥」[p]
-#肉山
-「あの桐嶋香織がウンコしたさに男の汗臭い玉袋を必死でしゃぶってるのを生徒たちが見たらどんな顔をするだろうなぁ、ククク」[p]
-#香織
-「レロ・・・ハァウッ・・・お、お腹が・・・っ」[p]
-#肉山
-「おい、舌が怠けてるぞ。気合を入れて舐めないといつまででもやらせるからな」[p]
-#香織
-「は、はいっ・・・レロレロレロレロレロッ・・・チュバッ♥チュバッ♥」[p]
-#肉山
-「ウハハハハ、いいぞその調子だ」[p]
-#香織
-「レロレロッ♥・・・チュパッ・・・チュムッ♥・・・レロレロレロレロレロッ」[p]
-「ハァッ・・・ハァッ・・・チュバッ♥レロレロレロンッ♥・・・ンヒッ」[p]
-#肉山
-「よーし、まぁいいだろう。そろそろウンコさせてやるぞ」[p]
-#香織
-「チュバッ・・・あ、ありがとうございます・・・っ」[p]
-#肉山
-「中庭に行くぞ。おっと、まさかトイレでしたいなんて言わないよな？」[p]
-#香織
-「い、いえっ・・・中庭で・・・したいです・・・っ」[p]
-#肉山
-「そうだろうそうだろう。お前は変態だもんな、ウハハハハ」[p]
+#Kaori
+Lero lero lero lero...[p]
+lerong♥[p]
+#Nikuyama
+That's right, lick it carefully.[p]
+There's precious semen inside.[p]
+#Kaori
+Y-Yes...[p]
+*sucking sound* *licking sound* ♥...[p]
+Ughh...[p]
+#Nikuyama
+What's wrong?[p]
+You're sweating so much, it must taste good, hehehe.[p]
+#Kaori
+Lick, lick, lick...[p]
+*sucking sound* *licking sound* ♥[p]
+#Nikuyama
+I wonder what kind of expression the students would make if they saw Kaori Kirishima desperately sucking on my sweaty balls because she wants to poop, hehehe.[p]
+#Kaori
+Lick...[p]
+Haa...[p]
+My, my stomach...[p]
+#Nikuyama
+Hey, your tongue is slacking off.[p]
+If you don't put some effort into licking, I'll make you do it forever.[p]
+#Kaori
+Y-Yes...[p]
+Chupi♥ Chupi♥[p]
+#Nikuyama
+Uhahaha, that's the way to go.[p]
+#Kaori
+Lick, lick♥...[p]
+Suck...[p]
+slurp♥...[p]
+Lick, lick, lick, lick, lick, haaah...[p]
+haaah...[p]
+slurp♥...[p]
+nghh[p]
+#Nikuyama
+Alright, well, it's fine.[p]
+I'll let you poop soon.[p]
+#Kaori
+Chubaa...[p]
+Th-thank you...[p]
+#Nikuyama
+Let's go to the courtyard.[p]
+Oh, you wouldn't happen to want to use the restroom, would you?[p]
+#Kaori
+N-No...[p]
+I want to do it...[p]
+in the courtyard...[p]
+#Nikuyama
+That's right, isn't it?[p]
+You're a pervert, after all.[p]
+Uhahaha.[p]
 [_tb_end_text]
 
 *p2a3
@@ -303,57 +404,88 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="60"  time="1000"  loop="true"  storage="Indomitable.mp3"  ]
 [tb_start_text mode=1 ]
-#肉山
-「よし、カメラに向かって挨拶しろ」[p]
-#香織
-「く・・・き、桐嶋香織です・・・これから・・・ウンチをするので・・・どうぞご覧ください・・・っ」[p]
-#肉山
-「声が小さい」[p]
+#Nikuyama
+Alright, greet the camera.[p]
+#Kaori
+Ugh...[p]
+I-I'm Kaori Kirishima...[p]
+From now on...[p]
+I'm going to...[p]
+poop, so...[p]
+please watch...[p]
+#Nikuyama
+Your voice is small.[p]
 #
-ペチンッ！[p]
-#香織
-「アンッッ♥く・・・桐嶋香織です・・・っ！これから・・・ウンチをしますので皆様どうぞご覧ください・・・っ！」[p]
-#肉山
-「よーし、これからプラグを外してやるが、すぐに漏らすなよ。漏らしたらまた浣腸するからな」[p]
-#香織
-「は、はい・・・っ」[p]
+*[p]
+#Kaori
+Ahhh...[p]
+I'm Kaori Kirishima...[p]
+From now on...[p]
+I'm going to...[p]
+poop, so please watch...![p]
+#Nikuyama
+Alright, I'm going to remove the plug now, but don't leak right away.[p]
+If you leak, I'll give you an enema again.[p]
+#Kaori
+Y-Yes...[p]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game183-2.jpg"  ]
 [tb_start_text mode=1 ]
 #
-ズポンッ[p]
-#香織
-「ヒッ！・・・ぐ・・・ハァウッ・・・ッ！」[p]
-#肉山
-「まだだぞ。まだ出すなよ」[p]
-#香織
-「ヒギッ・・・む、無理・・・です・・・っ・・・も、もう・・・出ちゃ・・・うぅ・・・ッ」[p]
-#肉山
-「肛門に力を入れろっ」[p]
-#香織
-「グヒィッ・・・！ギ・・・ンハァッ・・・ハグゥゥゥ・・・ア・・・アヒッ」[p]
-#肉山
-「よし、クソしていいぞ」[p]
+*sound of fabric being pulled down*[p]
+#Kaori
+Hii!...[p]
+Gu...[p]
+Haauu...![p]
+#Nikuyama
+Not yet.[p]
+Don't release it yet.[p]
+#Kaori
+Hii...[p]
+I-It's impossible...[p]
+I...[p]
+I'm already...[p]
+going to...[p]
+come out...[p]
+ugh...[p]
+#Nikuyama
+Tighten your anus.[p]
+#Kaori
+Guhii...![p]
+Gi...[p]
+nhaa...[p]
+haguuu...[p]
+a...[p]
+ahi.[p]
+#Nikuyama
+Alright, you can poop.[p]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game183-3.jpg"  ]
 [tb_start_text mode=1 ]
 #
-ブビュビュビュビュッ！！[p]
-#香織
-「・・・ッ！ンンッ・・・－－－－ッ♥」[p]
-#肉山
-「ウオッ！すげえ勢いだな！２ｍは飛んでるぞ！ギャハハハ」[p]
+Bubyu byu byu byu byu![p]
+#Kaori
+...[p]
+Nn![p]
+Ahh...![p]
+#Nikuyama
+Whoa![p]
+It's flying with incredible force![p]
+It's jumping 2 meters![p]
+Gyahaha![p]
 #
-ブビビビビッブリュブリュブリュッッ・・・！[p]
-#香織
-「アァッ・・・ッ・・・あぁ・・・見ないでぇ・・・っ」[p]
-#肉山
-「カメラできっちりと撮ってるからな。おお、臭え！ヒャハハハ」[p]
+Bubyu byu byu byu byu![p]
+#Kaori
+Ahh...[p]
+Don't look...[p]
+#Nikuyama
+I'm capturing it perfectly with the camera.[p]
+Oh, it stinks![p]
+Hyahaha![p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 
 
 
@@ -363,52 +495,75 @@
 [bg  time="1000"  method="crossfade"  storage="game188-1.jpg"  ]
 [playbgm  volume="60"  time="1000"  loop="true"  storage="music54.mp3"  ]
 [tb_start_text mode=1 ]
-#肉山
-「そら、ウンコを我慢したご褒美にお待ちかねのチンポをくれてやるぞ」[p]
+#Nikuyama
+Alright, as a reward for holding in your poop, I'll give you the eagerly awaited dick.[p]
 #
-ズプッ！[p]
-#香織
-「アァンッ♥」[p]
+*fart sound*[p]
+#Kaori
+Ahh♥[p]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game188-2.jpg"  ]
 [tb_start_text mode=1 ]
 #
-パンッ！パンッ！パンッ！パンッ！[p]
-#香織
-「アンッ♥・・・ンンッ・・・ンハァッ♥」[p]
-#肉山
-「外で家畜のように犯されてどんな気分だ？興奮してるんだろうが、オラッ」[p]
+*Spank![p]
+Spank![p]
+Spank![p]
+*[p]
+#Kaori
+Ahh♥...[p]
+Unhaa♥[p]
+#Nikuyama
+How does it feel to be violated like livestock outside?[p]
+You must be excited, huh?[p]
 #
-パンッ！パンッ！パンッ！パンッ！[p]
-#香織
-「アヒッ♥・・・こ、興奮なんて・・・ンンッ・・・ハァンンッ♥」[p]
-#肉山
-「嘘つけ、でかい声で喘ぎやがって！誰かに聞かれたらどうするんだ？人が来ちまうぞ？クククク」[p]
+*Spank![p]
+Spank![p]
+Spank![p]
+*[p]
+#Kaori
+Ahh♥...[p]
+I-I'm getting excited...[p]
+Unhaa♥[p]
+#Nikuyama
+Don't lie, moaning so loudly![p]
+What if someone hears?[p]
+People might come![p]
+Kukukuku.[p]
 #
-パンッ！パンッ！パンッ！パンッ！[p]
-#香織
-「ンンッ・・・イヤァッ・・・ヒッ♥・・・く・・・アヒィー－ッ♥」[p]
-#肉山
-「たっぷり中に出してやるからな。オラッ」[p]
+*Spank![p]
+Spank![p]
+Spank![p]
+*[p]
+#Kaori
+Nn...[p]
+Iyaa...[p]
+Hii♥...[p]
+Ahiiii♥[p]
+#Nikuyama
+I'm going to cum inside you plenty.[p]
+Ora.[p]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game188-3.jpg"  ]
 [tb_start_text mode=1 ]
 #
-ドピュッッ！！[p]
-#香織
-「ンンーーーーーーッ♥・・・アァッ・・・ンヒィーーーッ♥[p]
-#肉山
-「オラッ、孕め雌牛・・・っ！」[p]
+Dopuッッ!![p]
+#Kaori
+Nnnn...[p]
+Ahh...[p]
+Nhihhhh♥...[p]
+#Nikuyama
+Ora, impregnate you, female cow...![p]
 #
-ビュビュビュビュ・・・ッ[p]
-#香織
-「ンハァッ♥・・・アァ・・・奥に・・・出てる・・・ハフゥッ♥」[p]
+*[p]
+#Kaori
+Unhaa♥...[p]
+Ahh...[p]
+Hafuu♥[p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 [_tb_end_text]
 
 [jump  storage="play9.ks"  target="*p2e"  ]
@@ -421,67 +576,103 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="30"  time="1000"  loop="true"  storage="Grease_Slide_Trap.mp3"  ]
 [tb_start_text mode=1 ]
-#肉山
-「おら、もっと尻を上げろ」[p]
+#Nikuyama
+Raise your butt higher.[p]
 #
-ペチッ！[p]
-#香織
-「アンッ♥お、お尻を叩かないで・・・っ」[p]
-#肉山
-「ククク、どうだ？いつもは生徒が大勢歩いてる学園内を素っ裸で首輪をつけられて動物のように歩かされる気分は？」[p]
-#香織
-「く・・・っ」[p]
-#肉山
-「おい、ご主人様が聞いてるんだぞ。質問に答えろよ」[p]
+*[p]
+#Kaori
+Ahn♥ D-Don't spank my butt...[p]
+#Nikuyama
+Hehehe, how does it feel?[p]
+Walking around the school campus, where there are usually many students, completely naked with a collar around your neck, being made to walk like an animal?[p]
+#Kaori
+Ku...[p]
+#Nikuyama
+Hey, your master is listening.[p]
+Answer the question.[p]
 #
-ベチッ！[p]
-#香織
-「アンッッ♥く・・・悔しいです・・・っ」[p]
-#肉山
-「悔しいだけか？悔しくて悔しくて興奮してるんだろうがこのドスケベが！」[p]
+*[p]
+#Kaori
+Unhh...[p]
+It's frustrating...[p]
+#Nikuyama
+Is it just frustration?[p]
+You're frustrated and excited, aren't you, you perverted slut![p]
 #
-ペチンッ！[p]
-#香織
-「アンッ♥だ、誰が・・・興奮なんか・・・っ」[p]
-#肉山
-「嘘つけ。まだプライドが捨てきれないのか？さっさと自分がマゾの変態なことを認めて正直になれよ」[p]
-「本当は俺の性奴隷になりたいんだろう？『肉山様の性奴隷にしてください』って言っちまえよ」[p]
-#香織
-「だ、誰が・・・。あなたみたいな卑劣な男の奴隷になるなんて・・・死んでもお断りです・・・っ！」[p]
-#肉山
-「フン、強情な女だ。だが、絶対にお前の口から奴隷にしてくださいと言わせてやるからな、ムヒヒヒ」[p]
-#香織
-「絶対に・・・私は屈しないわ・・・っ」[p]
-#肉山
-（ギャハハハ、もうとっくに自分が性奴隷になってるってことに気づいてないのが笑えるぜ！）[p]
-「生意気なやつめ。その生意気な口で玉を舐めさせてやる！」[p]
+*[p]
+#Kaori
+Ahn♥ Who...[p]
+is...[p]
+excited...[p]
+#Nikuyama
+Don't lie.[p]
+Can't you completely abandon your pride yet?[p]
+Just admit that you're a masochistic pervert and be honest.[p]
+Deep down, you want to become my sex slave, don't you?[p]
+Just say, Please make me your sex slave, Nikuyama-sama.[p]
+#Kaori
+W-Who...[p]
+would...[p]
+never become a slave to a despicable man like you...[p]
+I would rather die than accept...![p]
+#Nikuyama
+Hmph, you're a stubborn woman.[p]
+But I'll make sure to make you say, Please make me your slave, no matter what.[p]
+Muhuhu.[p]
+#Kaori
+I will never...[p]
+submit...[p]
+#Nikuyama
+(Gahaha, it's laughable that you haven't realized you've already become a sex slave![p]
+You arrogant brat.[p]
+)[p]
 [_tb_end_text]
 
 [stopbgm  time="1000"  fadeout="true"  ]
 [bg  time="1000"  method="crossfade"  storage="game158.jpg"  ]
 [playbgm  volume="60"  time="1000"  loop="true"  storage="マダムの口紅.mp3"  ]
 [tb_start_text mode=1 ]
-#香織
-「ンッ・・・チュッ♥・・・ペロペロッ♥」[p]
-#肉山
-「おら、しっかりと心を込めて舐めろよメス豚」[p]
-#香織
-「くっ・・・チュバッ♥・・・レロレロレロッ・・・チュムッ♥」[p]
-#肉山
-「どうだ、一日汗をかいた玉袋は美味いか？」[p]
-#香織
-「レロレロレロッ・・・ンッ・・・苦くて・・・臭くて・・・最低の味よっ・・・チュブッ♥」[p]
-#肉山
-「ククク、あの生意気な桐嶋香織が素っ裸で跪いて俺の玉袋をしゃぶってやがる。最高の気分だぜ、ムヒヒヒ」[p]
-#香織
-「く・・・チュバッ♥・・・ンッ・・・お、覚えてなさい・・・調教プログラムが終わって自由になったら・・・レロレロレロッ♥」[p]
-#肉山
-「おお？仕返しする気か？気の強い女だぜ・・・よーし、もう１０分金玉をしゃぶらせてやるぞ。気合を入れて舐めろよ」[p]
-#香織
-「く・・・はいっ・・・チュバッ♥レロレロレロ・・・ンムッ・・・チュパッ♥」[p]
+#Kaori
+Unh...[p]
+*lick*[p]
+#Nikuyama
+Hey, lick it properly with all your heart, you female pig.[p]
+#Kaori
+*gulp*...[p]
+*kiss*...[p]
+*slurp*[p]
+#Nikuyama
+How about it?[p]
+Does the sweaty ball sack taste good after a day of sweating?[p]
+#Kaori
+Lero lero lero...[p]
+ngh...[p]
+It's bitter...[p]
+and smelly...[p]
+chu bu♥[p]
+#Nikuyama
+Kukuku, that arrogant Kaori Kirishima is kneeling naked and sucking on my balls.[p]
+It feels amazing, muhihihi.[p]
+#Kaori
+K-Ku...[p]
+Chu-ba♥...[p]
+Nngh...[p]
+R-Remember...[p]
+Once the training program is over and I'm free...[p]
+Lero lero lero♥[p]
+#Nikuyama
+Oh?[p]
+You're feeling vengeful?[p]
+You're a strong-willed person...[p]
+Alright, I'll let you suck on my balls for another 10 minutes.[p]
+Put some effort into it and lick them.[p]
+#Kaori
+Kuh...[p]
+Yes...[p]
+Chu-ba♥ Lero lero lero...[p]
+Chupa♥[p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -491,7 +682,7 @@
 [playbgm  volume="30"  time="1000"  loop="true"  storage="Grease_Slide_Trap.mp3"  ]
 [tb_start_text mode=1 ]
 #
-さてとどこへ行くかな？[p]
+Now, where should I go?[p]
 [_tb_end_text]
 
 [glink  color="black"  storage="play9.ks"  size="20"  text="体育館"  height="20"  width="100"  y="360"  x="520"  target="*p2b1"  ]
@@ -504,18 +695,22 @@
 [chara_show  name="桐嶋"  time="1000"  wait="true"  storage="chara/1/game51.png"  width="375"  height="882"  left="412"  top="13"  reflect="false"  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
-#肉山
-「誰もいない体育館は広すぎて不気味だな」[p]
-#香織
-「・・・・・・」[p]
-#肉山
-「よし、新体操の演技をやれ」[p]
-#香織
-「えっ・・・こ、ここでですか？」[p]
-#肉山
-「当たり前だろう。スッポンポンで新体操を踊るんだ。手を抜いたらお仕置きだからな」[p]
-#香織
-「く・・・はい・・・」[p]
+#Nikuyama
+The empty gymnasium is too big and creepy.[p]
+#Kaori
+・・・・・・[p]
+#Nikuyama
+Alright, let's do a rhythmic gymnastics performance.[p]
+#Kaori
+Huh...[p]
+H-Here?[p]
+#Nikuyama
+Of course.[p]
+You're going to dance rhythmic gymnastics butt naked.[p]
+If you slack off, there will be punishment.[p]
+#Kaori
+Kuh...[p]
+Yes...[p]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -526,106 +721,161 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="60"  time="1000"  loop="true"  storage="マダムの口紅.mp3"  ]
 [tb_start_text mode=1 ]
-#香織
-「・・・ンッ・・・ハァッ」[p]
-#肉山
-「おい、本気でやれと言っただろう。新体操と言ったら笑顔じゃないのか。笑顔でやれ」[p]
-#香織
-「は、はい・・・っ・・・ニコッ」[p]
-#肉山
-「いいぞ。おら、もと脚を上げろ」[p]
-#香織
-「クッ・・・ハァッ・・・」[p]
-#肉山
-「全校生徒が見てると思って演技しろよ。みんなに尻の穴まで全部見てもらう気持ちでおっぴろげろ」[p]
-#香織
-「ンハァッ・・・ンッ・・・」[p]
-#肉山
-「おら、笑顔を忘れてるぞ。『みんな私のオマンコを見て！』って感じで踊れ！」[p]
-#香織
-「そ、そんな・・・アァッ・・・フゥッ♥」[p]
-#肉山
-「口に出して言ってみろ。『私のドスケベなオマンコとアナルを見て！』って」[p]
-#香織
-「アァッ・・・わ、わたしの・・・ドスケベなお・・・おまんこと・・・アナルを・・・見てぇ・・・っ♥」[p]
-#肉山
-「いいぞ！全校生徒が見てるぞ！グハハハハ！」[p]
+#Kaori
+...[p]
+Nn...[p]
+Haah...[p]
+#Nikuyama
+Hey, I told you to do it seriously.[p]
+When it comes to rhythmic gymnastics, shouldn't you be smiling?[p]
+Do it with a smile.[p]
+#Kaori
+*smiles*[p]
+#Nikuyama
+Good.[p]
+Now, raise your leg higher.[p]
+#Kaori
+Kuh...[p]
+Haah...[p]
+#Nikuyama
+Act as if all the students in the school are watching.[p]
+Open up wide with the feeling that everyone will see everything, even your butt hole.[p]
+#Kaori
+Nhaa...[p]
+Nn...[p]
+#Nikuyama
+Hey, you've forgotten to smile.[p]
+Dance as if saying Everyone, look at my pussy![p]
+#Kaori
+Th-that...[p]
+Fuu ♥[p]
+#Nikuyama
+Say it out loud.[p]
+Look at my naughty pussy and asshole![p]
+#Kaori
+Ahh...[p]
+I-I want you to...[p]
+look at my...[p]
+naughty pussy and...[p]
+♥[p]
+#Nikuyama
+Good![p]
+All the students are watching![p]
+Guhahaha![p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
 [bg  time="1000"  method="crossfade"  storage="game144-1.jpg"  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
-#香織
-「ジュプッ・・・ジュポッ・・・♥」[p]
-#肉山
-「ご褒美のチンポだ。思う存分しゃぶっていいぞ、グヒヒ」[p]
-#香織
-「クッ・・・チュバッ♥・・・レロレロレロッ・・・♥」[p]
-#肉山
-「なに睨んでるんだ？反抗的なふりしやがって。本当はチンポ大好きなくせに、ムヒヒヒ」[p]
-#香織
-「ンムッ・・・レロレロレロッ♥・・・だ、誰が・・・ンチュッ♥」[p]
-#肉山
-「ククク、お前はザーメンを搾り取ることに集中すればいいんだよ」[p]
-#香織
-「く・・・っ」[p]
+#Kaori
+*Squish...[p]
+♥*[p]
+#Nikuyama
+It's a reward for you.[p]
+You can suck it as much as you want, hehe.[p]
+#Kaori
+*Kuh...[p]
+Chubaa ♥...[p]
+♥*[p]
+#Nikuyama
+What are you glaring at?[p]
+Acting rebellious, huh?[p]
+You actually love cock, don't you?[p]
+Muhuhu.[p]
+#Kaori
+Mmm...[p]
+Lick, lick, lick...[p]
+♥...[p]
+nchu ♥[p]
+#Nikuyama
+Kukuku, you should focus on milking out the semen.[p]
+#Kaori
+Ku...[p]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game144-2.jpg"  ]
 [tb_start_text mode=1 ]
-#香織
-「ジュポッ！ジュプッ！チュバッ！」[p]
-#肉山
-「お、いいぞ。その調子だ。気合が入ってきたな」[p]
-#香織
-「チュブッ！ジュプッ！ズチュッ♥」[p]
-#肉山
-「あのお堅いインテリ女教師がこんなにおしゃぶり上手になるとはな。まぁ生まれついてのドスケベだから元々素質はあったわけだが」[p]
-#香織
-「チュブッ！ジュプッ！ジュポッ！レロレロレロレロッ♥」[p]
-#肉山
-「オホッすごいな。そんなにザーメンが早く飲みたいか」[p]
-#香織
-「チュムッ♥・・・早く・・・終わらせたいだけです・・・っ・・・レロレロレロッ・・・チュバッ♥」[p]
-#肉山
-「ククク、そうかそうか。しかし俺様のチンポはそう簡単には・・・」[p]
-#香織
-「ジュプッ♥ジュポッ♥チュバッ・・・レロレロレロッ♥・・・ンチューーッ♥」[p]
-#肉山
-「オホッ！？こ、これはたまらん・・・っ・・・チンポが蕩けそうだ・・・っ」[p]
-#香織
-「ジュプッ♥チュムッ♥レロレロレロッ♥ジュポッ♥ジュポジュポジュポッッ♥」[p]
-#肉山
-「おお・・・で、出る・・・っ」[p]
+#Kaori
+*Squish...[p]
+Squelch...[p]
+*[p]
+#Nikuyama
+Oh, good.[p]
+Keep it up.[p]
+You're getting into it.[p]
+#Kaori
+Chubaa![p]
+Zu chu ♥[p]
+#Nikuyama
+Who would have thought that strict, intellectual female teacher would become so skilled at giving blowjobs.[p]
+Well, they were born a pervert, so they must have had the talent from the beginning.[p]
+#Kaori
+Chubu![p]
+Jupu![p]
+Lero lero lero lero lero ♥[p]
+#Nikuyama
+Oh, impressive.[p]
+Do you want to drink semen that badly?[p]
+#Kaori
+Chum ♥...[p]
+I just want to finish quickly...[p]
+Chubaa ♥[p]
+#Nikuyama
+Kukuku, I see, I see.[p]
+However, my dick isn't that easy to...[p]
+#Kaori
+Jupu ♥ Jupo ♥ Chubaa...[p]
+Nchuuu ♥[p]
+#Nikuyama
+Ohh!?[p]
+Th-This is irresistible...[p]
+My cock is about to melt...[p]
+#Kaori
+Jupu ♥ Chum ♥ Lero lero lero lero ♥ Jupo ♥ Jupo jupo jupo ♥[p]
+#Nikuyama
+Oh...[p]
+I'm about to cum...[p]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game144-3.jpg"  ]
 [tb_start_text mode=1 ]
 #
-ドピュッッ！！[p]
-#香織
-「ンッ・・・チューーーッ♥・・・ゴクッ♥」[p]
-#肉山
-「オホゥッ・・・搾り取られる・・・っ」[p]
-#香織
-「チューーッ・・・ゴクッ♥ジュルジュルジュルッ・・・ゴクンッ♥」[p]
-#肉山
-「オォ・・・たまらん・・・ハフゥ」[p]
-#香織
-「チュルチュルッ・・・ゴクッ♥・・・ゴクッ♥・・・チュプッ♥」[p]
-「レロレロレロッ・・・チュムッ♥・・・ンッ・・・レロレロレロッ♥」[p]
-#肉山
-「ふぅ・・・なんてフェラテクだよ。商売女顔負けだぜ」[p]
-#香織
-「レロレロレロッ・・・チュポッ♥」[p]
-「・・・美味しいザーメンを飲ませていただいてありがとうございました」[p]
-#肉山
-「うむ、気持ちよかったぞ。チンポに奉仕するという姿勢がよかったぞ。だいぶ性奴隷として成長してきたな」[p]
+Dopu~!![p]
+#Kaori
+Nn...[p]
+Gokku ♥[p]
+#Nikuyama
+Ohh...[p]
+I'm being squeezed...[p]
+#Kaori
+Chuuu...[p]
+Gokun ♥[p]
+#Nikuyama
+Ohh...[p]
+Haaah[p]
+#Kaori
+Churuchuru...[p]
+Gokku ♥...[p]
+Gokku ♥...[p]
+Chuppu ♥ Lero lero lero...[p]
+Chummu ♥...[p]
+Lero lero lero ♥[p]
+#Nikuyama
+Phew...[p]
+What amazing blowjob skills.[p]
+They're better than a professional.[p]
+#Kaori
+Lero lero lero...[p]
+Chupo ♥...[p]
+Thank you for letting me drink your delicious semen.[p]
+#Nikuyama
+Yes, it felt good.[p]
+Your attitude of serving my cock was good.[p]
+You have grown quite a bit as a sex slave.[p]
 
 
 [_tb_end_text]
@@ -635,15 +885,16 @@
 [playbgm  volume="30"  time="1000"  loop="true"  storage="Grease_Slide_Trap.mp3"  ]
 [chara_show  name="桐嶋"  time="1000"  wait="true"  storage="chara/1/game51.png"  width="399"  height="939"  left="408"  top="-3"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#香織
-「私は性奴隷になんかなりません・・・っ。早く終わらせたかっただけです・・・」[p]
-#肉山
-「ククク、いじめて欲しくて生意気な態度を取ってるんだな。よしよし、教官室に戻ってたっぷりチンポで可愛がってやるよ」[p]
-#香織
-「く・・・っ」[p]
+#Kaori
+I don't want to become a sex slave...[p]
+I just wanted it to end quickly...[p]
+#Nikuyama
+Hehehe, you're acting all sassy because you want to be bullied, huh?[p]
+Alright, alright, I'll take you back to the instructor's office and give you plenty of love with my cock.[p]
+#Kaori
+Ku...[p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 [_tb_end_text]
 
 [jump  storage="play9.ks"  target="*p2e"  ]
@@ -655,175 +906,246 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="60"  time="1000"  loop="true"  storage="Indomitable.mp3"  ]
 [tb_start_text mode=1 ]
-#肉山
-「ちょっと休憩するか。ここに繋いで・・・と」[p]
-#香織
-「クッ・・・休むなら座らせて・・・」[p]
-#肉山
-「ダメだ。家畜は家畜らしくしておけ」[p]
-#香織
-「わ、私は家畜なんかじゃ・・・っ」[p]
-#肉山
-「お、反抗的だな。デカいケツしやがって」サワサワ[p]
-#香織
-「く・・・アンッ・・・♥お、犯すなら・・・さっさと終わらせて・・・っ」[p]
-#肉山
-「おいおいずいぶんと生意気な口を聞くじゃないか。そんなこと言って早くチンポが欲しいだけなんだろう？」[p]
-#香織
-「だ、誰が・・・」[p]
+#Nikuyama
+Let's take a break.[p]
+Stay connected here...[p]
+and...[p]
+#Kaori
+Ku...[p]
+If we're taking a break, let me sit down...[p]
+#Nikuyama
+No, you should behave like a livestock.[p]
+#Kaori
+I-I'm not just some livestock...[p]
+#Nikuyama
+Oh, you're being defiant.[p]
+*caresses*[p]
+#Kaori
+Ku...[p]
+Ahh...[p]
+If you're going to violate me...[p]
+please finish it quickly...[p]
+#Nikuyama
+Hey hey, you're speaking quite boldly, aren't you?[p]
+Are you saying those things just because you want my cock quickly?[p]
+#Kaori
+W-Who...[p]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game183-5.jpg"  ]
 [tb_start_text mode=1 ]
-#肉山
-「嘘をつけ！」[p]
+#Nikuyama
+You're lying![p]
 #
-ベチンッ！[p]
-#香織
-「アンッ！？痛いっ・・・！」[p]
+Hard![p]
+#Kaori
+Ahh![p]
+It hurts...![p]
 [_tb_end_text]
 
 [bg  time="100"  method="crossfade"  storage="game183-4.jpg"  ]
 [tb_start_text mode=1 ]
-#肉山
-「ちゃんとチンポが欲しいって言ってみろ」[p]
-#香織
-「ち、チンポなんて欲しく・・・」[p]
+#Nikuyama
+Say that you want my cock properly.[p]
+#Kaori
+I-I don't want...[p]
+a cock...[p]
 [_tb_end_text]
 
 [bg  time="100"  method="crossfade"  storage="game183-5.jpg"  ]
 [tb_start_text mode=1 ]
 #
-パンッ！[p]
-#香織
-「アヒッ！お、お尻を打たないで・・・っ」[p]
+*[p]
+#Kaori
+Ahh![p]
+D-Don't hit my butt...[p]
 [_tb_end_text]
 
 [bg  time="100"  method="crossfade"  storage="game183-4.jpg"  ]
 [tb_start_text mode=1 ]
-#肉山
-「チンポが欲しいんだろう？」[p]
-#香織
-「く・・・は、はい・・・欲しいです・・・」[p]
-#肉山
-「そうだろうが。ドスケベ女が強がるなよ」[p]
-#香織
-「く・・・っ」[p]
-#肉山
-「だがそう簡単にチンポがもらえると思うなよ。欲しかったらちゃんとおねだりするんだ」[p]
-#香織
-「お、おねだり・・・？なんでそんなことを・・・」[p]
+#Nikuyama
+You want a cock, don't you?[p]
+#Kaori
+Y-Yes...[p]
+I...[p]
+want it...[p]
+#Nikuyama
+That's right.[p]
+Don't resist, you horny woman.[p]
+#Kaori
+Ugh...[p]
+#Nikuyama
+But don't think you can easily get a cock.[p]
+If you want it, ask for it properly.[p]
+#Kaori
+B-Begging...?[p]
+Why would I do something like that...?[p]
 
 [_tb_end_text]
 
 [bg  time="100"  method="crossfade"  storage="game183-5.jpg"  ]
 [tb_start_text mode=1 ]
 #
-ベチンッ！！[p]
-#香織
-「アヒィッ！？あ・・・し、しますっ・・・しますから・・・」[p]
-「お、オチンポを・・・ください・・・っ」[p]
+*[p]
+#Kaori
+Ahh!?[p]
+I-I...[p]
+I'll do it...[p]
+I'll do it, so...[p]
+p-please...[p]
+give me...[p]
+a c-cock...[p]
 
 [_tb_end_text]
 
 [bg  time="100"  method="crossfade"  storage="game183-5.jpg"  ]
 [tb_start_text mode=1 ]
 #
-ペチィッ！！[p]
-#香織
-「アンンッ♥痛・・・っ！」[p]
-#肉山
-「そんなおねだりでチンポがもらえると思ってるのか！甘えるな！」[p]
-#香織
-「クゥッ・・・す、すいません・・・」[p]
-「ど、ドスケベな香織に・・・に、肉山様のたくましいおチンポをくださいませ・・・っ」[p]
+*[p]
+#Kaori
+Ahh![p]
+It hurts...![p]
+#Nikuyama
+Do you think you can get a cock with such begging?![p]
+Don't be spoiled![p]
+#Kaori
+*Gasp*...[p]
+I-I'm sorry...[p]
+P-Please...[p]
+give me...[p]
+N-Nikuyama-sama's strong cock...[p]
 #
-ベチンッ！！[p]
-#香織
-「アヒィッ♥」[p]
-#肉山
-「３０点！全然心が籠ってない！もっとチンポが欲しい気持ちをぶつけてこい！」[p]
-#香織
-「わ、わかりましたから・・・っ！・・・え、えっと・・・」[p]
-「ど、ドスケベな香織のオマンコを・・・肉山様のおチンポでたっぷりとかわいがってくださいませぇっ・・・お願いします・・・っ！」[p]
-#肉山
-「ダメだダメだ！」[p]
+*[p]
+#Kaori
+♥[p]
+#Nikuyama
+30 points![p]
+Your heart isn't in it at all![p]
+Pour your desire for more cock into it![p]
+#Kaori
+O-Okay...![p]
+U-Um...[p]
+P-Please...[p]
+take good care of Kaori's naughty pussy with Nikuyama-sama's cock...[p]
+Please...![p]
+#Nikuyama
+No, no![p]
 #
-バチンッ！！[p]
-#香織
-「ンヒィッ♥」[p]
-#肉山
-「チンポが欲しいという必死さが伝わってこないぞ！ドスケベ女らしくもっとガッついておねだりしろっ！」[p]
+*[p]
+#Kaori
+Nhyi ♥[p]
+#Nikuyama
+I can't feel the desperation of wanting a cock from you![p]
+Be more like a horny woman and beg more aggressively![p]
 
 
 [_tb_end_text]
 
 [bg  time="100"  method="crossfade"  storage="game183-4.jpg"  ]
 [tb_start_text mode=1 ]
-#香織
-「い、いい加減にして！なんで私がそんなこと言わないといけないの！」[p]
-「暴力で心まで従わせられると思ったら大間違いよ・・・っ！」[p]
-#肉山
-「なんだとぉ～・・・？」[p]
-「ククク、家畜が自分の立場を忘れちまったようだなぁ。もう一度身体に思い知らせてやるぞ」[p]
-#香織
-「私は家畜なんかじゃないわ！尻を叩かれたくらいで・・・」[p]
+#Kaori
+S-Stop it already![p]
+Why do I have to say such things?![p]
+You're completely mistaken if you think you can make me obey you with violence...![p]
+#Nikuyama
+What was that...?[p]
+Kukuku, it seems like this livestock has forgotten their place.[p]
+I'll make them remember it in their body once again.[p]
+#Kaori
+I'm not some livestock![p]
+Just because my butt was slapped...[p]
 [_tb_end_text]
 
 [bg  time="100"  method="crossfade"  storage="game183-6.jpg"  ]
 [tb_start_text mode=1 ]
 #
-パンッ！ベチンッ！ビシィッ！[p]
-#香織
-「アヒッ！？アンッ♥アァンーッ♥」[p]
-#肉山
-「生意気なメスめ！お仕置きだ！オラッ！」[p]
+*smack![p]
+* *throb![p]
+*[p]
+#Kaori
+Ahn ♥ Aaannn ♥[p]
+#Nikuyama
+You insolent bitch![p]
+It's punishment time![p]
+Take this![p]
 #
-バチンッ！バシッ！ベチィッ！[p]
-#香織
-「アァッ♥や、やめ・・・っ・・・アヒッ♥痛・・・ッッ♥」[p]
-#肉山
-「オラッ、叩きがいのあるデカイ尻しやがって！オラッ！」[p]
+*smack![p]
+* *thwack![p]
+*[p]
+#Kaori
+Ahh ♥ S-Stop...[p]
+it...[p]
+Ahh ♥[p]
+#Nikuyama
+Hey, you've got a big butt that's worth spanking![p]
+Hey![p]
 #
-バチッ！ベチッ！パンッ！[p]
-#香織
-「ヒィッ♥も、もう・・・アヒッ♥や、やめ・・・っ・・・アンンッ♥」[p]
-#肉山
-「オラッ、自分の立場を思い知ったか！？」[p]
+*smack![p]
+* *thwack![p]
+*[p]
+#Kaori
+Hii...[p]
+M-Mou...[p]
+Ahh...[p]
+Stop...[p]
+Ahh...[p]
+Ahnn...[p]
+#Nikuyama
+Did you realize your position!?[p]
 #
-バチィッ！ベシィッ！パンッッ！パンッッ！[p]
-#香織
-「アヒィッ♥・・・わ、わかりましたからぁ・・・ッ♥アヒィッ♥もう、やめてくださいーーッ♥」[p]
+*smack![p]
+* *thwack![p]
+* *spank![p]
+*[p]
+#Kaori
+Ahh ♥...[p]
+I-I understand, so please...[p]
+Ahh ♥ Please, stop...[p]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game183-7.jpg"  ]
 [tb_cg  id="183"  ]
 [tb_start_text mode=1 ]
-#肉山
-「どうした？暴力には屈しないんじゃないのか？ん？」[p]
-#香織
-「くっ・・・あ、謝りますから・・・もう打たないでください・・・っ」[p]
-#肉山
-「家畜が生意気な態度をとるとどうなるかわかったか？」[p]
-#香織
-「くっ・・・わ、わかりました・・・っ」[p]
-#肉山
-「なんだ、まだ文句がありそうだな？ん？」[p]
-#香織
-「い、いえっ・・・そんなことはありません・・・っ」[p]
-#肉山
-「それじゃもう一回チンポのおねだりをしてみろ。心からの言葉でだぞ」ナデナデ[p]
-#香織
-「ンッ♥・・・は、はい・・・」[p]
-「ドスケベな香織は・・・肉山様のオチンポが欲しくて欲しくて我慢できないんですぅっ♥」[p]
-「早く香織のオマンコを肉山様のたくましいおチンポでズポズポしてドスケベな性根を叩き直してくださいませぇ♥♥」[p]
-#肉山
-「グハハハハ、プライドを捨てて全力おねだりしやがった！ヒヒヒヒ！恥ずかしくないのかよ！」[p]
-#香織
-「く・・・あなたがしろと言ったんでしょう・・・っ！」[p]
-#肉山
-「ククク、そんなに尻叩きが効いたか？よしよしお望み通りズポズポしてやるぜ。たくましい俺様のチンポでな」[p]
+#Nikuyama
+What's wrong?[p]
+Aren't you supposed to be resistant to violence?[p]
+Hm?[p]
+#Kaori
+Ugh...[p]
+I-I apologize...[p]
+Please, don't hit me anymore...[p]
+#Nikuyama
+Do you understand what happens when livestock like you show an insolent attitude?[p]
+#Kaori
+Ugh...[p]
+I-I understand...[p]
+#Nikuyama
+What's this, do you still have something to complain about?[p]
+Hm?[p]
+#Kaori
+N-No...[p]
+There's nothing like that...[p]
+#Nikuyama
+Then, ask for my cock again.[p]
+Say it with all your heart, while I stroke you.[p]
+#Kaori
+Nn ♥...[p]
+Y-Yes...[p]
+Lewd Kaori...[p]
+Kaori can't resist anymore...[p]
+Please, quickly penetrate Kaori's pussy with Nikuyama-sama's strong cock and correct Kaori's naughty nature ♥♥[p]
+#Nikuyama
+Guhahaha, you're begging with all your might, throwing away your pride![p]
+Hehehe![p]
+Aren't you ashamed?[p]
+#Kaori
+Y-...[p]
+You told me to do it, right...?![p]
+#Nikuyama
+Hehehe, did spanking your butt have that much of an effect?[p]
+Alright, alright, I'll penetrate you just as you wished.[p]
+With my strong cock...[p]
 
 [_tb_end_text]
 
@@ -834,52 +1156,74 @@
 [playbgm  volume="60"  time="1000"  loop="true"  storage="music54.mp3"  ]
 [tb_start_text mode=1 ]
 #
-ズプッ！[p]
-#香織
-「アンッ♥」[p]
-#肉山
-「ほれ、お待ちかねのチンポだぞ。よく味わえよっ」[p]
-#香織
-「ンハァッ・・・ンンッ・・・アンンッ♥」[p]
+*[p]
+#Kaori
+Ahn ♥[p]
+#Nikuyama
+Here, it's the eagerly awaited cock.[p]
+Savor it well.[p]
+#Kaori
+Nhaa...[p]
+Ahn ♥[p]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game188-2.jpg"  ]
 [tb_start_text mode=1 ]
 #
-パンッ！パンッ！パンッ！パンッ！[p]
-#香織
-「アンッ♥・・・ンンッ・・・ンハァッ♥」[p]
-#肉山
-「外で家畜のように犯されてどんな気分だ？興奮してるんだろうが、オラッ」[p]
+*Spank![p]
+* *Spank![p]
+* *Spank![p]
+*[p]
+#Kaori
+Ahn ♥...[p]
+Nhaa ♥[p]
+#Nikuyama
+How does it feel to be violated like a livestock outside?[p]
+You must be excited, huh?[p]
 #
-パンッ！パンッ！パンッ！パンッ！[p]
-#香織
-「アヒッ♥・・・こ、興奮なんて・・・ンンッ・・・ハァンンッ♥」[p]
-#肉山
-「嘘つけ、マンコキュウキュウ締め付けやがって！悦びが隠しきれてねえんだよメス豚！」[p]
+*Spank![p]
+* *Spank![p]
+* *Spank![p]
+*[p]
+#Kaori
+Ahh ♥...[p]
+I-I'm getting excited...[p]
+Haanng ♥[p]
+#Nikuyama
+Don't lie, your pussy is squeezing so tight![p]
+Your pleasure can't be hidden, you female pig![p]
 #
-パンッ！パンッ！パンッ！パンッ！[p]
-#香織
-「ンンッ・・・イヤァッ・・・ヒッ♥・・・く・・・アヒィー－ッ♥」[p]
-#肉山
-「たっぷり中に出して孕ませてやるっ。オラッ」[p]
+*Spank![p]
+* *Spank![p]
+* *Spank![p]
+*[p]
+#Kaori
+Nn...[p]
+Iya...[p]
+Hi ♥...[p]
+Ahiiii ♥[p]
+#Nikuyama
+I'll cum inside you plenty and impregnate you.[p]
+Ora![p]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game188-3.jpg"  ]
 [tb_start_text mode=1 ]
 #
-ドピュッッ！！[p]
-#香織
-「ンンーーーーーーッ♥・・・アァッ・・・ンヒィーーーッ♥[p]
-#肉山
-「オラッ、種付けだ・・・っ！」[p]
+Dopuッッ!![p]
+#Kaori
+Nnnn...[p]
+Nhihhhh ♥[p]
+#Nikuyama
+Ora, it's time for impregnation...![p]
 #
-ビュビュビュビュ・・・ッ[p]
-#香織
-「ンハァッ♥・・・アァ・・・妊娠・・・しちゃう・・・アフゥッ♥」[p]
+*[p]
+#Kaori
+Nhaa ♥...[p]
+Aa...[p]
+Afu ♥[p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 [_tb_end_text]
 
 *p2e
@@ -892,27 +1236,33 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Grease_Slide_Trap.mp3"  ]
 [tb_start_text mode=1 ]
-#肉山
-「ふう、もうこんな時間か。調教に熱が入ってしまったな」[p]
-「お前もだいぶ楽しんでたようだな、香織？」[p]
-#香織
-「・・・もう調教プログラムは終わったはずです。気安く呼ばないでください・・・」[p]
-#肉山
-「おっと失礼、そうでしたな桐嶋先生」[p]
-「まだ正式に私の肉便器になったわけではなかったですな、ムヒヒヒ」[p]
-#香織
-「そんなもの永久になるつもりはありません・・・っ」[p]
-#肉山
-「ククク、そうですか。今日はもう帰っていいですよ」[p]
-#香織
-「・・・失礼します」[p]
+#Nikuyama
+Phew, it's already this late.[p]
+I got really into training.[p]
+It seems like you were enjoying yourself quite a bit too, Kaori.[p]
+#Kaori
+...[p]
+The training program should be over by now.[p]
+Please don't call me so casually...[p]
+#Nikuyama
+Oh, my apologies.[p]
+That's right, Kaori-sensei hasn't officially become my flesh toilet yet, muhihihi.[p]
+#Kaori
+I don't intend for something like that to last forever...[p]
+#Nikuyama
+Hehehe, is that so?[p]
+You can go home now.[p]
+#Kaori
+...[p]
+Excuse me.[p]
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
 [tb_start_text mode=1 ]
 #
-ふう、やっぱり野外調教は刺激があって最高だな[p]
-あんまりやるといつか誰かに見つかりそうだが・・・でもやめられねえぜ[p]
+Phew, outdoor training is really stimulating and the best.[p]
+Although if we do it too much, someone might find us...[p]
+But I can't stop.[p]
 [_tb_end_text]
 
 [jump  storage="kitaku.ks"  target=""  ]
@@ -926,39 +1276,54 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="30"  time="1000"  loop="true"  storage="Grease_Slide_Trap.mp3"  ]
 [tb_start_text mode=1 ]
-#肉山
-「もっと尻を上げて歩け」[p]
+#Nikuyama
+Walk with your butt raised higher.[p]
 #
-ペシッ！[p]
-#香織
-「アンッ・・・お尻を叩かないで・・・」[p]
-#肉山
-「ククク、どんな気分だ？普段生徒たちであふれてる廊下をマンコもケツの穴も丸見えの格好で歩いてる気分は？首輪をつけて四つん這いで犬みたいに歩いてる気分はよ？」[p]
-#香織
-「く・・・ど、どうってことないわ・・・」[p]
-#肉山
-「本当か？想像してみろよ、全校生徒が見ている中を俺に曳かれてこのみじめな姿で歩くところを」[p]
-#香織
-「く・・・ハァッ」[p]
-#肉山
-「あの凛として気高かった桐嶋先生が、嫌われ者のセクハラ体育教師に首輪をつけられて裸で引き回されているのを見て生徒たちはどう思うだろうな？」[p]
-「みんなすぐに理解するだろう。誰が勝者で誰が敗者か、誰がご主人様で誰が奴隷か、一目瞭然だ。クククク」[p]
-#香織
-「くっ・・・あぁ・・・わ、わたしは・・・ンンッ♥」[p]
-#肉山
-「おいおい、想像で興奮してるじゃねえか。このドスケベ犬が！」[p]
+Peshi![p]
+#Kaori
+Ahh...[p]
+Please don't spank my butt...[p]
+#Nikuyama
+Hehehe, how does it feel?[p]
+Walking down the hallway that's usually filled with students, with your pussy and butt hole fully exposed?[p]
+How does it feel to walk on all fours like a dog, wearing a collar?[p]
+#Kaori
+Ugh...[p]
+It's, it's nothing...[p]
+#Nikuyama
+Is that true?[p]
+Imagine this, being dragged by me in front of all the students, walking in this miserable state.[p]
+#Kaori
+*panting*[p]
+#Nikuyama
+I wonder what the students would think when they see the dignified and noble Kirishima-sensei, being dragged around naked with a collar by the despised sexual harassment gym teacher?[p]
+They would understand immediately.[p]
+It would be clear who the winner and loser is, who the master and slave is.[p]
+Hehehehe.[p]
+#Kaori
+*panting* ...[p]
+Ahh...[p]
+Nnghh ♥[p]
+#Nikuyama
+Hey hey, don't get excited just from imagining it.[p]
+You perverted dog![p]
 #
-ベシッ！[p]
-#香織
-「アヒッ♥・・・こ、興奮なんか・・・」[p]
-#肉山
-「うそつけ。マンコからよだれが垂れそうになってるじゃねえか。お前はやぱりマゾの変態なんだよ」[p]
-#香織
-「そ、そんな・・・私は・・・くっ」[p]
-#男の声
-「おや・・・誰かいるんですか？」[p]
-#肉山
-「！？」[p]
+Peshi![p]
+#Kaori
+Ahh ♥...[p]
+I-I'm not excited or anything...[p]
+#Nikuyama
+Don't lie.[p]
+It looks like drool is about to drip from your pussy.[p]
+You really are a perverted masochist, aren't you?[p]
+#Kaori
+Th-that...[p]
+ugh[p]
+#Male voice
+Oh...[p]
+Is someone there?[p]
+#Nikuyama
+！？[p]
 
 [_tb_end_text]
 
@@ -966,10 +1331,11 @@
 [chara_show  name="教頭"  time="1000"  wait="true"  storage="chara/6/game49-2.png"  width="680"  height="1600"  left="592"  top="2"  reflect="false"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="烈火翔ける.mp3"  ]
 [tb_start_text mode=1 ]
-#香織
-「キャァァ！？」[p]
-#教頭
-「え・・・っ！？き、き、桐嶋先生・・・！？」[p]
+#Kaori
+Kyaaa!?[p]
+#Vice Principal
+Eh...!?[p]
+K-Kaori Kirishima-sensei...!?[p]
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
@@ -977,111 +1343,153 @@
 [chara_show  name="桐嶋"  time="1000"  wait="false"  storage="chara/1/game45.png"  width="388"  height="913"  left="234"  top="15"  reflect="false"  ]
 [chara_show  name="教頭"  time="1000"  wait="true"  storage="chara/6/game49-2.png"  width="403"  height="948"  left="773"  top="11"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#教頭
-「桐嶋先生と・・・肉山先生・・・こ、これは一体どういうことですか・・・！？」[p]
-#香織
-「こ、これは・・・」[p]
-#肉山
-「きょ、教頭、これには事情がありまして・・・」[p]
-#教頭
-「事情って・・・学園内でこんな・・・は、は、破廉恥な・・・せ、説明をしてください・・・！」[p]
-#肉山
-（落ち着け・・・教頭は洗脳が効く体質だ。うまくごまかせるはず！）[p]
-「前に私が桐嶋先生のカウンセリングをしていると言いましたよね」[p]
-#教頭
-「ええ・・・それは聞いていましたが・・・」[p]
-#香織
-「・・・・・・」[p]
-#肉山
-「実は桐嶋先生の心の問題というのは『露出願望』だったんですよ」[p]
-#教頭
-「ろ、露出願望・・・？」[p]
-#香織
-「なっ・・・！？」[p]
-#肉山
-「そうなんです。衆人の前で裸になったり、恥ずかしい姿を見られたいという願望が彼女にはあるんです」[p]
+#Vice Principal
+Kirishima-sensei and...[p]
+Nikuyama-sensei...[p]
+W-What on earth is going on here...!?[p]
+#Kaori
+Th-this is...[p]
+#Nikuyama
+V-Vice Principal, there is a reason behind this...[p]
+#Vice Principal
+What is the situation...?[p]
+Something like this happening within the school...[p]
+It's, it's indecent...[p]
+P-Please explain...![p]
+#Nikuyama
+(Calm down...[p]
+The Vice Principal is easily swayed.[p]
+I should be able to deceive them![p]
+) Didn't I mention before that I was counseling Kirishima-sensei?[p]
+#Vice Principal
+Yes...[p]
+I had heard about that...[p]
+#Kaori
+・・・・・・[p]
+#Nikuyama
+Actually, the issue with Kirishima-sensei's heart is a exhibitionism desire.[p]
+#Vice Principal
+E-Exhibitionism desire...?[p]
+#Kaori
+Ngh...!?[p]
+#Nikuyama
+That's right.[p]
+She has a desire to be naked in front of others and be seen in embarrassing situations.[p]
 [_tb_end_text]
 
 [tb_image_show  time="1000"  storage="default/game200.png"  width="297"  height="264"  x="486"  y="287"  _clickable_img=""  name="img_205"  ]
 [tb_image_hide  time="1000"  ]
 [tb_start_text mode=1 ]
-#教頭
-「そ、そうなんですか桐嶋先生・・・？」[p]
-#香織
-「えっ・・・そ、それは・・・」[p]
-#肉山
-「桐嶋先生、見つかってしまった以上正直に話しましょう」[p]
-#香織
-「う・・・」[p]
+#Vice Principal
+I-Is that true, Kirishima-sensei...?[p]
+#Kaori
+Eh...[p]
+Th-That is...[p]
+#Nikuyama
+Kirishima-sensei, now that we've been found out, let's be honest and talk about it.[p]
+#Kaori
+Ugh...[p]
 [_tb_end_text]
 
 [chara_mod  name="桐嶋"  time="600"  cross="true"  storage="chara/1/game46.png"  ]
 [tb_start_text mode=1 ]
-#香織
-「じ、実は・・・そうなんです・・・」[p]
-#教頭
-「な、なるほど・・・桐嶋先生がそんな性癖を持っていたなんて・・・」[p]
-「ああ、それであんなきわどい服装で登校したりしていたんですね」[p]
-#香織
-「は、はい・・・そうなんです・・・」[p]
-#肉山
-「それでですね、私が相談を受けてカウンセリングをしていたんですが、どうにも露出の欲求が高まってしまって時々授業中に裸になってしまいたいという衝動にかられるというんです」[p]
-#教頭
-「そ、そんなことをしたら大問題ですよ」[p]
-#肉山
-「そうなんです。ですからガス抜きをするためにこうやって夜中に裸で校内を徘徊していたんです。少しでも変態的な性欲を抑えるために」[p]
+#Kaori
+A-Actually...[p]
+that's true...[p]
+#Vice Principal
+I see...[p]
+So Kirishima-sensei had such a fetish...[p]
+[p]
+#Kaori
+Y-Yes...[p]
+that's right...[p]
+#Nikuyama
+So, you see, I was counseling her after receiving a consultation, but her exhibitionism desire has been increasing and she sometimes feels the urge to get naked during class.[p]
+#Vice Principal
+I-If you do something like that, it will be a big problem.[p]
+#Nikuyama
+That's right.[p]
+So, in order to relieve her sexual desires, she was wandering around the school naked at night like this.[p]
+It was to suppress her perverted sexual urges even a little bit.[p]
 [_tb_end_text]
 
 [tb_image_show  time="1000"  storage="default/game200.png"  width="355"  height="315"  x="479"  y="227"  _clickable_img=""  name="img_210"  ]
 [tb_image_hide  time="1000"  ]
 [tb_start_text mode=1 ]
-#教頭
-「な、なるほど・・・事情は分かりましたが・・・」[p]
-「で、でもなんで首輪をつけて犬の様な格好をしていたんですか？これも一種の性的嗜好で・・・？」[p]
-#肉山
-「そうなんですよ。ただ裸を見られるだけでなく犬の様に首輪をつけられたいという本人の要望でして。ねえ桐嶋先生」[p]
-#香織
-「えっ・・・く・・・そ、そうなんです・・・っ」[p]
-#教頭
-「なるほど・・・桐嶋先生にそんな性癖が・・・ゴクリ」[p]
-#香織
-「・・・っ」[p]
-#肉山
-「というわけで教頭、なんとか見なかったことにしていただくわけにいきませんかね？」[p]
-#教頭
-「し、しかし・・・いくら心に問題を抱えているとはいえ、このような行為を見逃すわけには・・・。万一世間にバレたら大事になってしまう・・・」[p]
-#肉山
-（クソ・・・洗脳で状況は納得させられたが、このまま見逃してはくれないか・・・。こうなったら・・・）[p]
-「教頭先生、もしよかったら桐嶋先生の心の治療に協力していただけませんか？」[p]
-#教頭
-「え・・・協力？一体何を・・・」[p]
-#肉山
-「桐嶋先生の欲求不満の解消を手伝ってほしいんですよ・・・ペニスによる直接的な治療を・・・（ニヤリ）」[p]
-#教頭
-「ぺ、ペニス・・・！？そ、それって・・・」[p]
-#肉山
-「セックスですよ。この後いつも中庭でセックスをして桐嶋先生の欲求不満を解消してあげているんですが、今回は教頭先生にお願いできないかと・・・」[p]
-#香織
-「えっ・・・そ、そんな・・・！？」[p]
-#教頭
-「そ、そ、そ、そ、そんなこと・・・で、で、できるわけないでしょう！き、桐嶋先生と・・・せ、せ、セックスだなんて・・・！」[p]
-#肉山
-「人助けだと思ってそこをなんとか・・・ほら、桐嶋先生からもお願いして」[p]
-#香織
-「く・・・あ、あの・・・教頭先生・・・」[p]
-#教頭
-「な、な、なんですか・・・桐嶋先生・・・」[p]
-#香織
-「きょ、教頭先生のぺ・・・ペニスで私のいやらしい身体を・・・慰めていただけませんか？」[p]
-#教頭
-「ハァゥ・・・・ッ！？そ、そんな・・・本当に・・・？」[p]
-#香織
-「お、お願いします教頭先生・・・お、オチンポでかわいがってください・・・っ」[p]
-#教頭
-「ハ、ハヒィッッッ！」[p]
+#Vice Principal
+I-I see...[p]
+I understand the situation, but...[p]
+um, why were you wearing a collar and dressed like a dog?[p]
+Was that also a kind of sexual preference...?[p]
+#Nikuyama
+That's right.[p]
+It was the person's own request to not only be seen naked, but also to be wearing a collar like a dog.[p]
+Right, Kirishima-sensei?[p]
+#Kaori
+Eh...[p]
+I-I see...[p]
+t-that's right...[p]
+#Vice Principal
+I see...[p]
+*gulp*[p]
+#Kaori
+...[p]
+#Nikuyama
+So, Vice Principal, is there any way we can't just pretend we didn't see anything?[p]
+#Vice Principal
+H-However...[p]
+even if she has some issues in her heart, we can't just overlook this kind of behavior...[p]
+If it were to be exposed to the public, it would become a big problem...[p]
+#Nikuyama
+(Damn...[p]
+I was convinced by brainwashing, but can't you just let this slide...?[p]
+If it comes to this...[p]
+) Vice Principal, if it's possible, could you please cooperate in treating Kirishima-sensei's mental state?[p]
+#Vice Principal
+Eh...[p]
+Cooperation?[p]
+What exactly...[p]
+#Nikuyama
+I want you to help relieve Kirishima-sensei's sexual frustration...[p]
+(smirks)[p]
+#Vice Principal
+P-Penis...!?[p]
+Th-That means...[p]
+#Nikuyama
+It's sex.[p]
+After this, we always have sex in the courtyard to relieve Kirishima-sensei's sexual frustration.[p]
+But this time, I was wondering if I could ask the Vice Principal for help...[p]
+#Kaori
+Eh...[p]
+S-So, something like that...!?[p]
+#Vice Principal
+Th-th-th-th-there's no way we can do something like that![p]
+H-having s-s-sex with K-Kirishima-sensei...![p]
+#Nikuyama
+I think of it as helping someone...[p]
+Come on, let's ask Kirishima-sensei for help too.[p]
+#Kaori
+Uhh...[p]
+Umm, Vice Principal...[p]
+#Vice Principal
+W-What is it...[p]
+Kirishima-sensei...[p]
+#Kaori
+V-Vice Principal, could you please comfort my lewd body with your...[p]
+penis?[p]
+#Vice Principal
+Haa...!?[p]
+Is that...[p]
+really...?[p]
+#Kaori
+P-Please, Vice Principal...[p]
+T-Take care of me with your...[p]
+penis...[p]
+#Vice Principal
+H-Ha...[p]
+Haahhh...[p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -1092,39 +1500,86 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="60"  time="1000"  loop="true"  storage="Indomitable.mp3"  ]
 [tb_start_text mode=1 ]
-#教頭
-「き、桐嶋君・・・っ！あぁ・・・っ・・・桐嶋君っ！！」[p]
+#Vice Principal
+K-Kirishima-kun...[p]
+Ahh...[p]
+Kirishima-kun!![p]
 #
-パン！パン！パン！[p]
-#香織
-「アンッ♥教頭・・・アッ・・・イヤァ・・・アヒッ♥」[p]
-#教頭
-「ま、真面目で優秀な・・・教師である君が・・・！こんな・・・こんないやらしい女だったとは・・・！なんということだ・・・！」[p]
+Pan![p]
+Pan![p]
+Pan![p]
+#Kaori
+Ahh...[p]
+Vice Principal...[p]
+Ahh...[p]
+Nooo...[p]
+Ahh♥[p]
+#Vice Principal
+Y-You, who is a serious and excellent...[p]
+teacher...![p]
+To think that you...[p]
+you were such a...[p]
+such a lewd woman...![p]
+What on earth...![p]
 #
-パン！パン！パン！[p]
-#香織
-「く・・・ハァンッ♥・・・わ、わたしは・・・ンンッ・・・アァンッ♥」[p]
-#教頭
-「ハァッ・・・けしからんっ・・・なんてけしからん身体だ・・・！ま、前々からこうやって犯してやりたいと思ってたんだ・・・このけしからん身体を・・・！ウヒヒヒっ！」[p]
+Pan![p]
+Pan![p]
+Pan![p]
+#Kaori
+Kuh...[p]
+Haan♥...[p]
+I-I...[p]
+Aahh♥[p]
+#Vice Principal
+Haa...[p]
+This is outrageous...[p]
+What an indecent body...![p]
+Well, I've been wanting to violate you like this for a long time...[p]
+This indecent body of yours...![p]
+Uhuhuhu![p]
 #
-パン！パン！パン！[p]
-#香織
-「アァンッ♥・・・そ、そんな・・・アンッ・・・ンハァッ♥」[p]
-#教頭
-「おぉう・・・たまらん・・・っ！女教師と・・・セックス・・・！神聖な学び舎で・・・！なんという背徳感・・・！ムホォォォォ！」[p]
+Pan![p]
+Pan![p]
+Pan![p]
+#Kaori
+Ahh♥...[p]
+Th-that...[p]
+Unhaa♥[p]
+#Vice Principal
+Ohh...[p]
+I can't resist...[p]
+Sex with a female teacher...![p]
+In this sacred school...![p]
+What a sense of immorality...![p]
+Muhooo![p]
 #
-パンッ！パンッ！パンッ！パンッ！[p]
-#香織
-「アヒィッ♥・・・アンッ♥・・・ンンーッ♥」[p]
-#教頭
-「ハァッ・・・たまらんっ・・・！ハァッ・・・たまらんっ・・・！オォオ・・・桐嶋君・・・！桐嶋君・・・っ！！」[p]
+Pan![p]
+Pan![p]
+Pan![p]
+Pan![p]
+#Kaori
+Ahh...[p]
+Ahh...[p]
+Ahh♥[p]
+#Vice Principal
+Haa...[p]
+I can't resist...![p]
+Haa...[p]
+I can't resist...![p]
+Ohh...[p]
+Kirishima-kun...![p]
+Kirishima-kun...!![p]
 #
-パンッ！パンッ！パンッ！パンッ！[p]
-#香織
-「アァッ・・・ンンーーーッ♥・・・アヒィーーーーーーッ♥」[p]
+Pan![p]
+Pan![p]
+Pan![p]
+Pan![p]
+#Kaori
+Ahh...[p]
+Unn...[p]
+Ahiiiiii♥[p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 
 [_tb_end_text]
 
@@ -1136,47 +1591,69 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="30"  time="1000"  loop="true"  storage="Grease_Slide_Trap.mp3"  ]
 [tb_start_text mode=1 ]
-#教頭
-「い、勢いでついヤってしまったが・・・とんでもないことをしてしまったんじゃ・・・だ、大丈夫なんだろうね肉山君？」[p]
-#肉山
-「大丈夫ですよ教頭、これはセラピーの一環ですからね。医療行為ですよ」[p]
-#教頭
-「い、医療行為・・・そ、そうか、医療行為か！わ、わたしは何も悪いことをしていない・・・そうだね？」[p]
-#肉山
-「もちろんです。本人も同意の上ですから。ですよね桐嶋先生？」[p]
-#香織
-「え・・・」[p]
+#Vice Principal
+I-I did it in the heat of the moment...[p]
+I've done something outrageous...[p]
+I-I hope you're okay, Nikuyama-kun?[p]
+#Nikuyama
+Don't worry, Vice Principal.[p]
+This is part of therapy.[p]
+It's a medical procedure.[p]
+#Vice Principal
+A-a medical procedure...[p]
+I-is that so, a medical procedure![p]
+I-I haven't done anything wrong...[p]
+right?[p]
+#Nikuyama
+Of course.[p]
+It's with their consent.[p]
+Right, Kirishima-sensei?[p]
+#Kaori
+Eh...[p]
 
 [_tb_end_text]
 
 [chara_mod  name="桐嶋"  time="600"  cross="true"  storage="chara/1/game46.png"  ]
 [tb_start_text mode=1 ]
-#香織
-「は、はい。わたしから・・・お願いしたことですから・・・」[p]
+#Kaori
+Y-Yes.[p]
+It's because I...[p]
+asked for it...[p]
 
 [_tb_end_text]
 
 [chara_mod  name="教頭"  time="600"  cross="true"  storage="chara/6/game49-3.png"  ]
 [tb_start_text mode=1 ]
-#教頭
-「そ、そうだよ！桐嶋君からお願いされて私は手伝っただけだ。・・・私は何もやましいことはしていない！ハハハハ」[p]
-#肉山
-「とはいえこの事が他人に漏れると面倒なことになりますから。内密にお願いしますよ、お互いのためにも」[p]
-#教頭
-「あ、ああ、もちろんだとも。このことは誰にも知られてはいけないからな。我々だけの秘密だ」[p]
-#肉山
-「助かります。変な噂が広まっては桐嶋先生も困りますからね。これからもセラピーは必要なわけですし、ねえ桐嶋先生」[p]
-#香織
-「は、はい・・・」[p]
-#教頭
-「ああ、これからもその・・・セラピーにもし人手が必要な時はいつでも私は協力を惜しまんよ、ウム」[p]
-#肉山
-「そうですね。桐嶋先生の性欲が手に負えないときは教頭の手を借りるかもしれません。クククク」[p]
-#香織
-「・・・っ」[p]
+#Vice Principal
+Y-Yes![p]
+I just helped because Kirishima-kun asked me to...[p]
+I haven't done anything wrong![p]
+Hahaha.[p]
+#Nikuyama
+However, if this matter were to leak to others, it would become troublesome.[p]
+Let's keep it a secret, for the sake of both of us.[p]
+#Vice Principal
+Ah, yes, of course.[p]
+This matter must not be known by anyone.[p]
+It should remain our secret.[p]
+#Nikuyama
+It would be helpful.[p]
+If strange rumors were to spread, it would also be troublesome for Kirishima-sensei.[p]
+Since therapy is still necessary from now on, right, Kirishima-sensei?[p]
+#Kaori
+Y-Yes...[p]
+#Vice Principal
+Ah, from now on...[p]
+if there is ever a need for assistance in that...[p]
+therapy, I will always be willing to help, um.[p]
+#Nikuyama
+Yes, that's right.[p]
+When Kirishima-sensei's sexual desire becomes uncontrollable, they might need to rely on the Vice Principal's help.[p]
+Hehehehe.[p]
+#Kaori
+...[p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 
 
 [_tb_end_text]
@@ -1189,43 +1666,52 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Grease_Slide_Trap.mp3"  ]
 [tb_start_text mode=1 ]
-#肉山
-「ふう・・・教頭に見つかった時はどうなることかと思ったが、なんとか誤魔化すことができたな」[p]
-#香織
-「な、なんであんな嘘を・・・」[p]
-#肉山
-「淫乱症の矯正で奴隷調教してるところだと答えた方がよかったか？露出狂の方がまだマシだろうが」[p]
-#香織
-「く・・・」[p]
-#肉山
-「前からお前がこの体育教官室に毎日通ってることについて、カウンセリングをしていると言って誤魔化していたから、その流れでああ言うしかなかったんだ」[p]
-「お前だってチンポ狂いのドスケベ女だってことがバレるよりも良かっただろうが」[p]
-#香織
-「で、でも・・・なにも教頭にまで・・・身体を・・・」[p]
-#肉山
-「ああやって教頭にも参加させることによって口止めにもなるんだよ」[p]
-#香織
-「く・・・だからって・・・」[p]
-#肉山
-「なんだ、俺以外の男に抱かれるのが嫌だったか？ククク」[p]
-#香織
-「そ、そんなわけないでしょう！誰があなたなんか・・・！」[p]
-#肉山
-「それで、教頭のチンポはどうだったんだ？歳の割には頑張ってたようだが、まぁ俺のモノには及ばないだろう？ん？」[p]
-#香織
-「そ、そんなこと知りません・・・！」[p]
-「もう調教は終わったんでしょう。私は帰ります！」[p]
+#Nikuyama
+Phew...[p]
+I was worried about what would happen if the Vice Principal found out, but I managed to deceive them somehow.[p]
+#Kaori
+W-Why did I tell such a lie...[p]
+#Nikuyama
+Should I have answered that I'm training them as a slave for correcting their nymphomania?[p]
+Being an exhibitionist would still be better, right?[p]
+#Kaori
+Ugh...[p]
+#Nikuyama
+I had been covering up the fact that you've been coming to this gym instructor's office every day by saying that we were doing counseling.[p]
+So, in that flow, I had no choice but to say that.[p]
+It's better than having it exposed that you're a horny slut who's obsessed with dicks, isn't it?[p]
+#Kaori
+B-But...[p]
+to go as far as involving the Vice Principal...[p]
+with my body...[p]
+#Nikuyama
+By involving the Vice Principal like that, it also serves as a way to keep them quiet.[p]
+#Kaori
+Ugh...[p]
+But even so...[p]
+#Nikuyama
+Hehehe[p]
+#Kaori
+Th-That's not true![p]
+Who would want someone like you...![p]
+#Nikuyama
+So, how was the Vice Principal's dick?[p]
+It seemed like they were trying their best for their age, but well, it probably doesn't compare to mine, right?[p]
+Hm?[p]
+#Kaori
+I-I don't know anything like that...![p]
+The training is already over, right?[p]
+I'm going home![p]
 
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
 [tb_start_text mode=1 ]
 #
-ふう・・・やれやれ。しかし見つかったのが洗脳の効きやすい教頭で助かったぜ[p]
-まぁ自分の保身しか考えてない爺さんだから秘密が漏れる心配はないだろう[p]
-とりあえずこれからは野外調教も気を付けながらやらないとな[p]
-・・・・・・[p]
-・・・[p]
+Phew...[p]
+Well, it's a relief that the one who found out was the Vice Principal, who is easily susceptible to brainwashing.[p]
+Since they only care about their own self-preservation, I don't have to worry about the secret being leaked.[p]
+Anyway, from now on, I'll have to be careful with outdoor training...[p]
 [_tb_end_text]
 
 [tb_eval  exp="f.e1=1"  name="e1"  cmd="="  op="t"  val="1"  val_2="undefined"  ]
@@ -1241,47 +1727,57 @@
 [chara_show  name="桐嶋"  time="1000"  wait="false"  storage="chara/1/game45.png"  width="383"  height="901"  left="195"  top="27"  reflect="false"  ]
 [chara_show  name="教頭"  time="1000"  wait="true"  storage="chara/6/game49-3.png"  width="409"  height="963"  left="723"  top="8"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#肉山
-「どうもお待たせしました教頭」[p]
-#教頭
-「ウフフフ、待ちかねましたよ。肉山先生」[p]
-#香織
-「・・・」[p]
-#教頭
-「桐嶋先生、今日は私がご主人様ですよ。それじゃ夜の散歩とまいりましょうか。ムフフフフ」[p]
-#香織
-「は、はい・・・」[p]
-#
-・・・・・・[p]
+#Nikuyama
+Sorry to keep you waiting, Vice Principal.[p]
+#Vice Principal
+Hehehe, I've been waiting for you, Mr.[p]
+Nikuyama.[p]
+#Kaori
 ・・・[p]
+#Vice Principal
+Kirishima-sensei, today I am your master.[p]
+Shall we go for a nighttime stroll then?[p]
+Mufufufu.[p]
+#Kaori
+Y-Yes...[p]
+#
+・・・・・・・・・[p]
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
 [bg  time="1000"  method="crossfade"  storage="game159-1.jpg"  ]
 [tb_start_text mode=1 ]
-#教頭
-「ムフフフフ、肛門まで丸見えだ。気分はどうですか桐嶋先生？」[p]
-#香織
-「は、はい教頭・・・こ、興奮しています・・・」[p]
-#教頭
-「まったく、桐嶋先生がこんな露出狂の変態だなんて思いもよりませんでしたよ。我々の前では澄ました顔をしてたくせに」[p]
-#香織
-「も、申し訳ありません教頭先生・・・」[p]
-#教頭
-「私はねぇ、君が赴任して来た時からずっと一度でいいから抱いてみたいと思っていたんだよ。君のこのムチムチの身体をねぇ」サワサワ[p]
-#香織
-「アンッ・・・♥」[p]
-#教頭
-「しかし教頭という立場上そんなことはできるはずがない。夢想の中で君を何度犯したことか・・・」[p]
-#香織
-「ンッ・・・く・・・」[p]
-#教頭
-「それがまさかこんな形で夢が叶うとはねぇ・・・。あぁ・・・もうたまらんっ！中庭に行くぞっ！」[p]
-#香織
-「あぁ・・・っ」[p]
+#Vice Principal
+Mufufufu, your butt is completely exposed.[p]
+How does it feel, Kirishima-sensei?[p]
+#Kaori
+Y-Yes, Vice Principal...[p]
+I-I'm excited...[p]
+#Vice Principal
+I never imagined that Kirishima-sensei would be such an exhibitionist pervert.[p]
+They always put on a composed face in front of us.[p]
+#Kaori
+I-I'm sorry, Vice Principal...[p]
+#Vice Principal
+You know, ever since you came here, I've always wanted to have you in my arms at least once.[p]
+I want to touch your plump body gently.[p]
+#Kaori
+♥[p]
+#Vice Principal
+However, as the Vice Principal, I shouldn't be able to do such a thing.[p]
+How many times have I violated you in my dreams...[p]
+#Kaori
+Nn...[p]
+ku...[p]
+#Vice Principal
+I never imagined that my dream would come true in this way...[p]
+Ahh...[p]
+I can't resist anymore![p]
+Let's go to the courtyard![p]
+#Kaori
+Ahh...[p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -1291,30 +1787,53 @@
 [playbgm  volume="60"  time="1000"  loop="true"  storage="Indomitable.mp3"  ]
 [tb_start_text mode=1 ]
 #
-パン！パン！パン！[p]
-#香織
-「アァッ・・・ンンッ♥・・・ハァッ♥」[p]
-#教頭
-「ハァッ・・・たまらんな！何度抱いても抱き飽きん・・・！フォォォ！」[p]
+Pan![p]
+Pan![p]
+Pan![p]
+#Kaori
+Ahh...[p]
+haa♥[p]
+#Vice Principal
+Haa...[p]
+I can't resist anymore![p]
+No matter how many times I hold you, I can't get enough...[p]
+Fooh![p]
 #
-パン！パン！パン！[p]
-#香織
-「アヒッ♥・・・アフゥッ・・・ンンッ♥」[p]
-#教頭
-「どうだ？私のチンポは気持ちいいか？ん？」[p]
+Pan![p]
+Pan![p]
+Pan![p]
+#Kaori
+Ahh...[p]
+♥...[p]
+nnn♥[p]
+#Vice Principal
+How is it?[p]
+Does my dick feel good?[p]
+Hm?[p]
 #
-パン！パン！パン！[p]
-#香織
-「ンンッ♥・・・き、気持ち・・・いいですっ・・・アンンーーッ♥」[p]
-#教頭
-「この淫乱教師め・・・！けしからん！けしからんぞぉ・・・ムオオオッ！」[p]
+Pan![p]
+Pan![p]
+Pan![p]
+#Kaori
+Nngh...[p]
+It feels...[p]
+so good...[p]
+Ahhh...[p]
+#Vice Principal
+This lewd teacher...![p]
+It's outrageous![p]
+It's so...[p]
+mmmph![p]
 #
-パン！パン！パン！パンッ！[p]
-#香織
-「アヒィッ♥・・・ンンッ・・・アハァーーーーッ♥」[p]
+Pan![p]
+Pan![p]
+Pan![p]
+Pan![p]
+#Kaori
+Ahh...[p]
+haa♥[p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -1325,21 +1844,30 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="30"  time="1000"  loop="true"  storage="Grease_Slide_Trap.mp3"  ]
 [tb_start_text mode=1 ]
-#教頭
-「ふう・・・どうだね桐嶋君？私のチンポは欲求不満の解消に役立ったかね？ん？」[p]
-#香織
-「は、はい・・・き、気持ちよかったです・・・」[p]
-#教頭
-「そうかねそうかね。私の方も満足させてもらったよ、ムフフフフ」[p]
-#肉山
-「それはよかった。桐嶋先生の精神もこれでしばらくは落ち着くでしょう」[p]
-#教頭
-「またいつでも協力してあげますからね。この年なんで毎日というわけにはいきませんが」[p]
-#香織
-「は、はい・・・ありがとうございました・・・」[p]
+#Vice Principal
+Haa...[p]
+How about it, Kirishima?[p]
+Did my dick help relieve your sexual frustration?[p]
+Hm?[p]
+#Kaori
+Y-Yes...[p]
+It...[p]
+felt good...[p]
+#Vice Principal
+Is that so?[p]
+Is that so?[p]
+I also got satisfied, hehehehe.[p]
+#Nikuyama
+That's good.[p]
+With this, Kirishima-sensei's mind should calm down for a while.[p]
+#Vice Principal
+I'll help you anytime.[p]
+Because of my age, I can't do it every day though.[p]
+#Kaori
+Y-Yes...[p]
+Thank you very much...[p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 
 [_tb_end_text]
 
@@ -1351,14 +1879,15 @@
 *p3
 
 [tb_start_text mode=1 ]
-#肉山
-「今日は写真部の撮影モデルをやってもらいますよ」[p]
-#香織
-「またですか・・・」[p]
-#肉山
-「これも調教プログラムの一環ですよ。あくまで桐嶋先生自身がコスプレモデルをやりたがっている演技を忘れないように」[p]
-#香織
-「わ、わかってます・・・」[p]
+#Nikuyama
+Today, you'll be the model for the photography club.[p]
+#Kaori
+Again...[p]
+#Nikuyama
+This is also part of the training program.[p]
+Don't forget that it's Kaori-sensei herself who wants to act as a cosplay model.[p]
+#Kaori
+Y-Yes, I understand...[p]
 #
 [_tb_end_text]
 
@@ -1370,64 +1899,81 @@
 [playbgm  volume="100"  time="1000"  loop="true"  storage="マダムの口紅.mp3"  ]
 [tb_start_text mode=1 ]
 #
-パシャッ！パシャッ！[p]
+*Snap![p]
+*[p]
 [_tb_end_text]
 
 [chara_show  name="田端"  time="1000"  wait="true"  storage="chara/7/game43-3.png"  width="425"  height="810"  left="812"  top="21"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#田端
-「いやぁ、また桐嶋先生をモデルに撮影会ができるなんて最高だなぁ！」[p]
-#肉山
-「桐嶋先生の方からまたやりたいって言ってくれてな。前回の撮影で写真を撮られる快感を覚えてしまったそうだ」[p]
-#香織
-「そ、そうなの。癖になっちゃって・・・」[p]
-#田端
-「僕らでよかったらいつでも撮りますよ！桐嶋先生なら人気コスプレイヤーにも引けを取りませんから。なぁキモ」[p]
-#木本
-「う、うん。衣装はまだまだあるし・・・全部着てもらいたいなぁブフフフ」[p]
-#香織
-「あ、ありがとう・・・うれしいわ」[p]
+#Tabata
+Oh, being able to have a photo shoot with Kirishima-sensei as the model again is the best![p]
+#Nikuyama
+It seems that Kirishima-sensei herself said she wants to do it again.[p]
+She experienced the pleasure of being photographed during the previous shoot.[p]
+#Kaori
+Y-Yes, it has become a habit...[p]
+#Tabata
+If you're okay with us, we can take pictures anytime![p]
+Kirishima-sensei can rival even popular cosplayers.[p]
+Right, Nikuyama?[p]
+#Kimoto
+Y-Yeah.[p]
+There are still plenty of costumes...[p]
+I want them to wear all of them, hehehe.[p]
+#Kaori
+Th-Thank you...[p]
+I'm happy.[p]
 #
-パシャッ！パシャッ！[p]
-#田端
-「いいですよ！そのポーズ最高！」[p]
+*Snap![p]
+*[p]
+#Tabata
+It's fine![p]
+That pose is the best![p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game264-2.jpg"  ]
 [tb_start_text mode=1 ]
-#田端
-「もっとお尻を突き出して！そうそう！」[p]
+#Tabata
+Stick your butt out more![p]
+That's it![p]
 #
-パシャッ！パシャッ！[p]
-#香織
-「こ、こうかしら・・・？」[p]
-#田端
-「そうそう、もっと挑発するような表情で！」[p]
+*Snap![p]
+*[p]
+#Kaori
+I wonder if this is okay...?[p]
+#Tabata
+Yes, yes, with a more provocative expression![p]
 #
-パシャッ！パシャッ！[p]
-・・・・・・[p]
-・・・[p]
+*Snap![p]
+* *Snap![p]
+* ・・・・・・・・・[p]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game264-3.jpg"  ]
 [tb_start_text mode=1 ]
-#木本
-「や、やっぱり入らなかったですねこの衣装・・・」[p]
-#香織
-「え、ええ・・・ごめんなさい太くって・・・でもこの衣装好きだから・・・」[p]
-#田端
-「いや最高ですよ！オリジナルよりこっちのほうがずっとエロ・・・いや素敵ですよ！ハァハァ」[p]
+#Kimoto
+Y-Yeah, as I thought, this costume doesn't fit...[p]
+#Kaori
+U-um...[p]
+I'm sorry, it's too tight...[p]
+but I like this costume...[p]
+#Tabata
+No, it's the best![p]
+This one is much more erotic...[p]
+*panting*[p]
 #
-パシャッ！パシャッ！[p]
-#香織
-「そ、そう・・・それならよかったわ・・・」（あぁ・・・ほとんど裸の写真撮られてる・・・ンッ♥）[p]
+*Snap![p]
+*[p]
+#Kaori
+Y-Yes...[p]
+If that's the case, then it's fine...[p]
+(Ah...[p]
+Nn♥)[p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
@@ -1435,54 +1981,87 @@
 [tb_cg  id="264"  ]
 [tb_start_text mode=1 ]
 #
-パシャッ！パシャッ！[p]
-#香織
-「ん・・・これ・・・ちゃんと隠れてるわよね・・・？」[p]
+*Snap![p]
+*[p]
+#Kaori
+Hmm...[p]
+Am I properly hidden...?[p]
 
 [_tb_end_text]
 
 [chara_show  name="田端"  time="1000"  wait="true"  storage="chara/7/game43-3.png"  width="436"  height="830"  left="848"  top="-1"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#田端
-「だ、大丈夫ですよ！ちゃんと隠れてますから・・・ハァハァッ」[p]
-#木本
-「フォォ・・・！実写版アイーシャ・・・いや完全に本物越え！ハァハァハァッ・・・」[p]
-#肉山
-「大丈夫ですか桐嶋先生？こんな大胆な衣装・・・イヤなら断ってもいいんですよ？」[p]
-#香織
-「い、いえ・・・大丈夫です。か、カワイイ衣装だし・・・どんどん撮ってね」[p]
-#田端
-「も、もちろんです！フォーーッ！」[p]
+#Tabata
+I-I'm fine![p]
+*panting*[p]
+#Kimoto
+Whoa...![p]
+Live-action version of Aisha...[p]
+no, it surpasses the real thing completely![p]
+Haa haa haa...[p]
+#Nikuyama
+Are you okay, Kirishima-sensei?[p]
+This bold costume...[p]
+If you don't like it, you can refuse, you know?[p]
+#Kaori
+N-No...[p]
+I'm fine.[p]
+It's a c-cute costume...[p]
+Please keep taking pictures.[p]
+#Tabata
+O-Of course![p]
+Foooooo![p]
 #
-パシャッ！パシャッ！パシャッ！[p]
-#香織
-（あぁ・・・きっと露出狂の変態だと思われてるんでしょうね・・・こんな格好で・・・）[p]
-（乳首は半分見えちゃってるし・・・アソコはかろうじて割れ目が隠れてるだけ・・・こんな写真生徒たちに見られたらおしまいだわ・・・）[p]
-#木本
-「勝利ポーズのアニメーションみたいに、ちょっと腰を左右にクネクネ振ってみてもらえますか？」[p]
-#香織
-「え、腰を・・・？でも身体を揺らしたら乳首が・・・」[p]
-#肉山
-（ジロッ）[p]
-#香織
-「わ、わかったわ。こ、こんな感じかしら・・・」フリッフリッ[p]
-#木本
-「そうですそうです！おおっ完璧だ！フォォォ！」[p]
-#田端
-「おお！すげえ！！」[p]
+*Snap![p]
+* *Snap![p]
+*[p]
+#Kaori
+(Ah...[p]
+I'm sure they think I'm a perverted exhibitionist...[p]
+dressed like this...[p]
+) (Half of my nipples are visible...[p]
+and my crotch is barely covered by the slit...[p]
+)[p]
+#Kimoto
+Can you try shaking your hips from side to side like the victory pose animation?[p]
+#Kaori
+Eh, shake my hips...?[p]
+But if I move my body, my nipples will...[p]
+#Nikuyama
+(Gulp)[p]
+#Kaori
+O-Okay, I got it.[p]
+*sways hips*[p]
+#Kimoto
+That's right, that's right![p]
+Oh, it's perfect![p]
+Foooo![p]
+#Tabata
+Oh![p]
+Amazing!![p]
 #
-パシャッ！パシャッ！パシャッ！パシャッ！[p]
-#香織
-「んっ・・・ち、乳首が見えちゃう・・・っ」[p]
-#田端
-「うおおおおおっ！」[p]
+*Snap![p]
+* *Snap![p]
+* *Snap![p]
+*[p]
+#Kaori
+Nn...[p]
+M-My nipples are visible...[p]
+#Tabata
+Woooh![p]
 #
-パシャッ！パシャッ！パシャッ！パシャッ！[p]
-#香織
-（あぁ・・・体の奥が・・・熱くなって・・・ハァッ♥・・・は、早く終わって・・・）[p]
+*Snap![p]
+* *Snap![p]
+* *Snap![p]
+*[p]
+#Kaori
+(Ah...[p]
+My body feels...[p]
+hot...[p]
+Haah♥...[p]
+)[p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -1492,25 +2071,31 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Grease_Slide_Trap.mp3"  ]
 [tb_start_text mode=1 ]
-#肉山
-「ククク、エロいコスチュームで写真撮られてだいぶ興奮してたようだな」[p]
-#香織
-「こ、興奮なんて・・・ンッ♥して・・・ません・・・っ・・・アンッ♥」[p]
+#Nikuyama
+Hehehe, it seems you were quite excited being photographed in that erotic costume.[p]
+#Kaori
+I-I'm not...[p]
+excited...[p]
+Ahh♥...[p]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game193-2.jpg"  ]
 [tb_start_text mode=1 ]
-#肉山
-「嘘つけっ！じゃあなんでこんなにマンコ濡らしてるんだよ！」[p]
-#香織
-「アヒッ♥そ、それは・・・アンンッ♥」[p]
-#肉山
-「まったく、とんだ露出狂の変態だ。たっぷりとチンポでお仕置きしてやるからな。覚悟しろよ」[p]
-#香織
-「ンンッ・・・は、はい・・・っ・・・ンハァッ♥」[p]
+#Nikuyama
+Don't lie![p]
+Then why is your pussy so wet like this![p]
+#Kaori
+Unnh♥[p]
+#Nikuyama
+Geez, you're such an exhibitionist pervert.[p]
+I'm going to punish you thoroughly with my cock.[p]
+Be prepared.[p]
+#Kaori
+Nn...[p]
+H-Hai...[p]
+Haah♥[p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -1520,17 +2105,18 @@
 *p4
 
 [tb_start_text mode=1 ]
-#肉山
-「さて、今日も体育館で運動するぞ」[p]
-#香織
-「えっ！？あ、あれはもう嫌です・・・っ」[p]
-#肉山
-「ダメだ。性奴隷たるもの体型維持も大事だからな。さっさとレオタードに着替えろ」[p]
-#香織
-「く・・・はい・・・」[p]
+#Nikuyama
+Well, let's exercise in the gymnasium today.[p]
+#Kaori
+Eh!?[p]
+Ah, I-I don't want to do that anymore...[p]
+#Nikuyama
+No, as a sex slave, it's important to maintain your physique.[p]
+Hurry up and change into a leotard.[p]
+#Kaori
+Y-Yes...[p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -1541,20 +2127,25 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="いつもの放課後.mp3"  ]
 [tb_start_text mode=1 ]
-#卓球部員
-「あっ、肉山先生！・・・と桐嶋先生・・・」[p]
-#肉山
-「今日もちょっと隅の方を使わせてもらうぞ」[p]
-#柔道部員
-「お、押忍！」[p]
-#香織
-「ご、ごめんなさいね。最近運動不足だから・・・」[p]
-#柔道部員
-「いえっ、どうぞご自由にお使いくださいっ！」[p]
-#肉山
-「それじゃ始めますか」[p]
-#香織
-「は、はい・・・」[p]
+#Table tennis club member
+Ah, Mr.[p]
+Nikuyama![p]
+...[p]
+and Ms.[p]
+Kirishima...[p]
+#Nikuyama
+Today, I'll be using the corner again.[p]
+#Judo Club Member
+Oh, Osu![p]
+#Kaori
+S-Sorry.[p]
+Lately, I haven't been getting enough exercise...[p]
+#Judo Club Member
+Oh no, please feel free to use it![p]
+#Nikuyama
+Shall we begin then?[p]
+#Kaori
+Y-Yes...[p]
 
 [_tb_end_text]
 
@@ -1563,38 +2154,59 @@
 [bg  time="1000"  method="crossfade"  storage="game241-1.jpg"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="マダムの口紅.mp3"  ]
 [tb_start_text mode=1 ]
-#柔道部員
-（うおお！やっぱすげえ桐嶋先生の身体・・・！女子の身体とは色気のレベルが違うぜ！）[p]
-#卓球部員
-（あのムチムチな尻・・・エロすぎるだろ！オッパイもブルンブルン揺れて・・・たまらねー－－！）[p]
-#香織
-「く・・・ハァッ」[p]
-（あぁ・・・みんなに見られてるわ・・・こんな恥ずかしい格好で・・・）[p]
-#肉山
-「いいですよ。もっと脚上がるんじゃないですか？」[p]
-#香織
-「は、はい・・・ンッ」[p]
-#バスケ部員
-（おぉお！すげえ食い込み・・・！もう見えちゃってるんじゃないのかこれ！？）[p]
-#柔道部員
-（これって完全にエロ水着だよな・・・？でも桐嶋先生がレオタードだって言ってるから新体操ではこれが普通なのかな・・・まぁこっちとしては大歓迎だけど！）[p]
-#香織
-（あぁ・・・みんなの視線で・・・身体が・・・熱い・・・ンッ♥）[p]
-#肉山
-「ほら、そこでＹ字バランス！」[p]
-#香織
-「は、はいっ・・・ンッ♥」[p]
-#男子たち
-「オォォォ！！」[p]
-#香織
-（アンッ・・・こんなに股間を開いたら・・・見えちゃう・・・ンハァッ♥）[p]
-#肉山
-「キープしてキープして・・・いいですよ、ムフフフ」[p]
-#香織
-（アッ・・・ダメッ・・・アソコからお汁が垂れちゃう・・・っ・・・ドスケベの変態だってバレちゃうぅ・・・ンンーーーッ♥）[p]
+#Judo Club Member
+(Wow![p]
+As expected, Kirishima-sensei's body is amazing...![p]
+)[p]
+#Table tennis club member
+(That plump butt...[p]
+it's too erotic![p]
+And her breasts are bouncing...[p]
+)[p]
+#Kaori
+*panting* (Ah...[p]
+everyone is watching me...[p]
+)[p]
+#Nikuyama
+It's fine.[p]
+Why don't you raise your legs higher?[p]
+#Kaori
+*moans*[p]
+#Basketball Club Member
+(Oh![p]
+Such a deep wedgie...![p]
+)[p]
+#Judo Club Member
+(This is definitely a full-on erotic swimsuit, right...?[p]
+But since Kirishima-sensei said it's a leotard, maybe this is normal in rhythmic gymnastics...[p]
+)[p]
+#Kaori
+(Ah...[p]
+with everyone's gaze...[p]
+my body...[p]
+Nn♥)[p]
+#Nikuyama
+Now, do the Y-balance there![p]
+#Kaori
+Nn♥[p]
+#Boys
+Oooo!![p]
+#Kaori
+(Ah...[p]
+if I spread my crotch like this...[p]
+Nhaa♥)[p]
+#Nikuyama
+Keep it up...[p]
+keep it up...[p]
+it's fine, hehehe.[p]
+#Kaori
+(Ah...[p]
+No...[p]
+My juices are dripping from down there...[p]
+I'm such a perverted slut...[p]
+Nnngggghhh♥)[p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -1604,19 +2216,22 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="いつもの放課後.mp3"  ]
 [tb_start_text mode=1 ]
-#肉山
-「今日はこのくらいにしておきましょうか桐嶋先生」[p]
-#香織
-「は、はい・・・」[p]
-#肉山
-「それじゃいつものようにそこの体育用具倉庫でストレッチして帰りましょうか」[p]
-「運動後のケアは大事ですからね。私がしっかりとほぐしてあげますよ、グフフフ」[p]
-#香織
-「はい・・・お願いします・・・」[p]
-#肉山
-「それじゃ行きましょう。お前らちゃんと練習を続けるんだぞ」[p]
-#柔道部員
-「お、押忍・・・！」[p]
+#Nikuyama
+Shall we stop here for today, Kirishima-sensei?[p]
+#Kaori
+Y-Yes...[p]
+#Nikuyama
+Well then, shall we stretch in the equipment storage room as usual and go home?[p]
+Taking care of our bodies after exercise is important, you know.[p]
+I'll make sure to loosen you up properly, hehehe.[p]
+#Kaori
+Yes...[p]
+Please...[p]
+#Nikuyama
+Well then, let's go.[p]
+You guys better keep practicing properly.[p]
+#Judo Club Member
+Oh, Osu...![p]
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
@@ -1624,56 +2239,82 @@
 [bg  time="1000"  method="crossfade"  storage="game144-4.jpg"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="マダムの口紅.mp3"  ]
 [tb_start_text mode=1 ]
-#香織
-「ジュプッ・・・チュバッ♥」[p]
-#肉山
-「ククク、やっぱり見られて興奮しやがって。最後の方は完全にスケベな顔になってたぞ」[p]
-#香織
-「チュブッ・・・そ、そんな・・・ンチュッ・・・レロレロレロ・・・ッ♥」[p]
-#肉山
-「股間にシミまで作りやがって。あいつらにもバレてたんじゃねえか？ククク」[p]
-#香織
-「チュパッ・・・う、うそ・・・あぁ・・・チュムッ・・・レロレロレロンッ♥」[p]
-#肉山
-「ストレッチってのも怪しまれてるかもな。今も外で聞き耳立ててるかもしれないぞ。もたもたしてると誰か入ってきちゃうかもな、グヒヒ」[p]
-#香織
-「チュバッ・・・レロレロレロッ♥く・・・早く・・・イってください・・・チュバッ♥」[p]
-#肉山
-「早く終わらせたかったら気合入れてしゃぶれよ」[p]
-#香織
-「く・・・ジュプッ♥チュバッ♥レロレロレロッ♥チューーッ♥」[p]
+#Kaori
+Suck♥*[p]
+#Nikuyama
+Hehehe, you're getting excited from being watched, aren't you?[p]
+Towards the end, your face completely turned into a perverted expression.[p]
+#Kaori
+*Squish...[p]
+Suck...[p]
+Like that...[p]
+Nchu...[p]
+♥*[p]
+#Nikuyama
+You even made a stain in your crotch.[p]
+Did those guys notice too?[p]
+Hehehe.[p]
+#Kaori
+*Squish...[p]
+Suck...[p]
+N-No...[p]
+Ahh...[p]
+Lick...[p]
+Lick...[p]
+♥*[p]
+#Nikuyama
+They might suspect something about the stretching.[p]
+They might be eavesdropping on us even now.[p]
+If we take too long, someone might come in, hehehe.[p]
+#Kaori
+*Squish...[p]
+Suck...[p]
+Lick lick lick...[p]
+♥ Please...[p]
+come quickly...[p]
+*[p]
+#Nikuyama
+If you want to finish quickly, put some effort into sucking.[p]
+#Kaori
+Juppu♥ Chubba♥ Lero lero lero♥ Chuuu♥*[p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game144-5.jpg"  ]
 [tb_start_text mode=1 ]
-#肉山
-「う・・・出すぞ・・・っ」[p]
+#Nikuyama
+I...[p]
+I'm going to cum...[p]
 #
-ドピュッ！！[p]
-#香織
-「ンムッ・・・ンンッ・・・ゴクンッ♥チュウッ・・・ゴクッ♥」[p]
-#肉山
-「おほぉ・・・たまらん・・・っ」[p]
+Dopu!![p]
+#Kaori
+Mmm...[p]
+*Gulp* ♥ *Kiss* *Gulp* ♥[p]
+#Nikuyama
+Ohh...[p]
+I can't take it anymore...[p]
 #
-ビュビュビュ・・・ッ[p]
-#香織
-「チュッ・・・ゴクッ♥ンッ・・・クチュッ・・・アムッ♥・・・ゴクリ」[p]
-「お、美味しいザーメンを飲ませていただいてありがとうございました・・・っ」[p]
-#肉山
-「ふぅ・・・すっきりしたぜ」[p]
-「やっぱりドスケベ女教師に体育用具倉庫でしゃぶらせるのは格別だな」[p]
-#香織
-「く・・・っ」[p]
-#肉山
-「よし、それじゃ体育教官室に戻ってみっちり可愛がってやるとするか。お前も体が疼いてしょうがないだろうからな、ククク」[p]
-#香織
-「は、はい・・・」[p]
+Bububu...[p]
+#Kaori
+*Chu...[p]
+Gokun♥...[p]
+Kuchu...[p]
+Amu♥...[p]
+*[p]
+#Nikuyama
+Phew...[p]
+It feels refreshing.[p]
+Having a perverted female teacher suck me off in the equipment storage room is truly exceptional.[p]
+#Kaori
+Ku...[p]
+#Nikuyama
+Alright, then let's go back to the physical education instructor's office and take good care of you.[p]
+Your body must be itching for it too, hehehe.[p]
+#Kaori
+Y-Yes...[p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -1683,14 +2324,15 @@
 *p5
 
 [tb_start_text mode=1 ]
-#肉山
-「今日はもう帰っていいですよ」[p]
-#香織
-「えっ・・・？」[p]
-#肉山
-「その代わり明日は出かけずに家に居てくださいね」[p]
-#香織
-「あ・・・はい・・・」[p]
+#Nikuyama
+You can go home for today.[p]
+#Kaori
+Huh...?[p]
+#Nikuyama
+Instead, please stay at home tomorrow and don't go out.[p]
+#Kaori
+Ah...[p]
+Yes...[p]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -1700,8 +2342,9 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="いつものカフェで待ち合わせ_2.mp3"  ]
 [tb_start_text mode=1 ]
-#肉山
-「さて、今日は休日だが・・・どうするかな？」[p]
+#Nikuyama
+Well, it's a holiday today...[p]
+I wonder what should we do?[p]
 [_tb_end_text]
 
 [glink  color="black"  storage="play9.ks"  size="20"  text="香織を呼び出す"  width="140"  height="20"  y="360"  x="490"  target="*p5a"  ]
@@ -1711,33 +2354,40 @@
 
 [tb_start_text mode=1 ]
 #
-よし、香織を呼び出すか[p]
+Alright, should I call Kaori?[p]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
 [chara_show  name="桐嶋"  time="1000"  wait="true"  storage="chara/1/game13.png"  width="357"  height="840"  left="438"  top="12"  reflect="false"  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
-#香織
-「く・・・休日に呼び出さないでください。私にも私生活ってものが・・・」[p]
-#肉山
-「やかましい。ドスケベ女に私生活なんぞ無い。さっさと全裸になって挨拶しろ」[p]
-#香織
-「く・・・」[p]
+#Kaori
+Please don't call me on my day off.[p]
+I also have a personal life...[p]
+#Nikuyama
+Shut up.[p]
+A perverted woman like you doesn't have a personal life.[p]
+Hurry up and greet me while being completely naked.[p]
+#Kaori
+Ugh...[p]
 [_tb_end_text]
 
 [chara_mod  name="桐嶋"  time="600"  cross="true"  storage="chara/1/game51.png"  ]
 [tb_start_text mode=1 ]
-#香織
-「きょ、今日は休日にもかかわらず時間を割いていただいてありがとうございます・・・。一日みっちりとオチンポでご指導お願いいたします・・・」[p]
-#肉山
-「今日は足腰立たなくなるまでみっちりとチンポ調教してやるからな。覚悟しろよ、ウヒヒヒ」[p]
-#香織
-「く・・・はい・・・」[p]
-#肉山
-「よし、とりあえずレイプしてやる。来いっ！」[p]
-#香織
-「キャァッ！？」[p]
+#Kaori
+Th-Thank you for taking the time on a holiday...[p]
+Please guide me thoroughly with your penis all day...[p]
+#Nikuyama
+Today, I'm going to thoroughly train your dick until you can't stand anymore.[p]
+Be prepared, hehehe.[p]
+#Kaori
+Ugh...[p]
+Yes...[p]
+#Nikuyama
+Alright, for now I'll rape you.[p]
+Come here![p]
+#Kaori
+Kyaaah!?[p]
 #
 [_tb_end_text]
 
@@ -1747,32 +2397,51 @@
 [playbgm  volume="100"  time="1000"  loop="true"  storage="music54.mp3"  ]
 [tb_start_text mode=1 ]
 #
-パンッ！パンッ！パンッ！[p]
-#香織
-「アンッ♥アンッ♥・・・ンンッ・・・アヒッ♥」[p]
-#肉山
-「ククク、朝から無料のデリヘル最高だぜ」[p]
+*Slap![p]
+* *Slap![p]
+*[p]
+#Kaori
+Ahh♥ Ahh♥ ...[p]
+Ahh♥[p]
+#Nikuyama
+Hehehe, free delivery health service is the best from the morning.[p]
 #
-パンッ！パンッ！パンッ！[p]
-#香織
-「アンッ♥ンハァッ・・・アァッ・・・ンヒィッ♥」[p]
-#肉山
-「お前みたいなドスケベ女教師を一匹飼ってると性処理に困らねえからいいぜ、ムヒヒヒヒ」[p]
-#香織
-「アッ♥・・・い、イヤッ・・・ンッ♥・・・アヒィ♥」[p]
-#肉山
-「オラッ、なんか言ってみろメス豚。レイプが気持ち良すぎて言葉が出ないか？ギャハハハ」[p]
-#香織
-「ンンッ♥・・・き、気持ちよくなんか・・・アンッ♥・・・く・・・アヒッ♥」[p]
-#肉山
-「嘘つけ！もうイきそうなくせしやがって、なに強がってんだ、オラッ！」[p]
+*Slap![p]
+* *Slap![p]
+*[p]
+#Kaori
+Ahh♥ Unhahh...[p]
+Nhihh♥[p]
+#Nikuyama
+It's great to have a perverted female teacher like you as a pet, so I don't have to worry about sexual release.[p]
+Muhihihihi.[p]
+#Kaori
+Ahh♥...[p]
+No, stop...[p]
+Ahii♥[p]
+#Nikuyama
+Hey, say something, you female pig.[p]
+Gyahaha[p]
+#Kaori
+Nngh...[p]
+It feels...[p]
+good...[p]
+Ahh...[p]
+Ahh♥[p]
+#Nikuyama
+Liar![p]
+You're about to cum, so stop pretending and acting tough, damn it![p]
 #
-パンッ！パンッ！パンッ！パンッ！[p]
-#香織
-「アンンッ♥・・・クッ・・・アヒィッ♥・・・ンンーーーーーッ♥」[p]
+*Slap![p]
+* *Slap![p]
+* *Slap![p]
+*[p]
+#Kaori
+Ahh♥...[p]
+Ku...[p]
+Nnnnghhh♥[p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -1781,37 +2450,46 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="いつものカフェで待ち合わせ_2.mp3"  ]
 [tb_start_text mode=1 ]
-#肉山
-「おら、しっかり掃除しろよ。手を抜いたらお仕置きだぞ」[p]
-#香織
-「く・・・わかってます・・・」[p]
-#肉山
-「なんだその返事は。『はい、ご主人様』だろうが」[p]
+#Nikuyama
+Hey, clean properly.[p]
+If you slack off, there will be punishment.[p]
+#Kaori
+I...[p]
+understand...[p]
+#Nikuyama
+What kind of response is that?[p]
+It should be Yes, Master.[p]
 #
-ペチッ！[p]
-#香織
-「アンッ・・・は、はいご主人様・・・っ」[p]
-#肉山
-「なんだその顔は。不満でもあるのか？」[p]
-#香織
-「な、なんで私がこんなことを・・・」[p]
-#肉山
-「休日を使ってドスケベ女をチンポ教育してやってるんだぞ。感謝の気持ちを込めて掃除くらいするのは当然だろうが」[p]
-#香織
-「く・・・っ」[p]
-#肉山
-「お前みたいな生意気な女教師に男に奉仕する喜びを教えてやるのも俺の仕事だからな。これも教育の一環だ、わかったか」[p]
-#香織
-「く・・・なにが教育よ・・・」[p]
-#肉山
-「口答えするな！」[p]
+*[p]
+#Kaori
+Ahn...[p]
+Y-Yes, Master...[p]
+#Nikuyama
+What's with that face?[p]
+Do you have a complaint?[p]
+#Kaori
+W-Why am I doing something like this...[p]
+#Nikuyama
+I'm using my day off to give a dirty girl some cock education.[p]
+It's only natural for her to show gratitude by doing some cleaning, right?[p]
+#Kaori
+Ku...[p]
+#Nikuyama
+It's my job to teach arrogant female teachers like you the joy of serving a man.[p]
+This is also part of your education, understood?[p]
+#Kaori
+Ku...[p]
+What kind of education is this...[p]
+#Nikuyama
+Don't talk back![p]
 #
-ベチンッ！[p]
-#香織
-「アンッ！・・・く・・・申し訳ありません、ご主人様・・・っ」[p]
+*[p]
+#Kaori
+Ahn...[p]
+Kuh...[p]
+I-I'm sorry, Master...[p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -1819,20 +2497,25 @@
 [chara_show  name="桐嶋"  time="1000"  wait="true"  storage="chara/1/game51.png"  width="393"  height="925"  left="445"  top="11"  reflect="false"  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
-#香織
-「そ、掃除終わりました・・・っ」[p]
-#肉山
-「ふむ、だいぶきれいになったじゃないか。やっぱり掃除は女にやらせるのが一番だな」[p]
-#香織
-「・・・・・・」[p]
-#肉山
-「しかし時間がかかりすぎだ。もっとスピーディーに仕事をこなさないと一人前の奴隷にはなれないぞ」[p]
-#香織
-「く・・・申し訳ありません・・・っ」[p]
-#肉山
-「まぁいい。労働の褒美にチンポをくれてやろう。尻を出せ」[p]
-#香織
-「は、はい・・・」[p]
+#Kaori
+I-I finished cleaning...[p]
+#Nikuyama
+Hmmm, it's become quite clean, hasn't it?[p]
+As expected, having women do the cleaning is the best.[p]
+#Kaori
+・・・・・・[p]
+#Nikuyama
+However, it's taking too much time.[p]
+You need to work more quickly if you want to become a proper slave.[p]
+#Kaori
+I...[p]
+I'm sorry...[p]
+#Nikuyama
+Well, fine.[p]
+As a reward for your labor, I'll give you my cock.[p]
+Show me your butt.[p]
+#Kaori
+Y-Yes...[p]
 #
 [_tb_end_text]
 
@@ -1844,26 +2527,43 @@
 [playbgm  volume="100"  time="1000"  loop="true"  storage="music54.mp3"  ]
 [tb_start_text mode=1 ]
 #
-パンッ！パンッ！パンッ！[p]
-#香織
-「アヒィッ♥ンンッ・・・ハァッ♥・・・アンッ♥」[p]
-#肉山
-「おい、レイプしてやってるんだから喘いでばかりいないでちょっとは抵抗してみせろよ。オラッ」[p]
+*[p]
+#Kaori
+Ahh...[p]
+Nnghh...[p]
+Haa...[p]
+Ahh...[p]
+#Nikuyama
+Hey, since I'm raping you, don't just moan, show me a little resistance.[p]
 #
-パンッ！パンッ！パンッ！パンッ！[p]
-#香織
-「く・・・ンンッ・・・イヤァ・・・アンッ♥・・・アヒィッ♥」[p]
-#肉山
-「ククク、やっぱり生意気な女はチンポで教育するのが一番だな」[p]
+*Slap![p]
+* *Slap![p]
+* *Slap![p]
+*[p]
+#Kaori
+Kuh...[p]
+Nnn...[p]
+Noo...[p]
+Ahh...[p]
+Ahn...[p]
+Ahh...[p]
+#Nikuyama
+Hehehe, it seems that the best way to discipline a cheeky woman is with my cock.[p]
 #
-パンッ！パンッ！パンッ！パンッ！[p]
-#香織
-「アンッ♥アンッ♥アンンッ♥・・・ハァッ・・・イ、イちゃうぅ・・・っ♥」[p]
-#肉山
-「今後の人生、二度とチンポに逆らえないように体にみっちりと教え込んでやるぞ、グハハハ」[p]
+*Slap![p]
+* *Slap![p]
+* *Slap![p]
+*[p]
+#Kaori
+Ahh...[p]
+Ahh...[p]
+Ahh...[p]
+Haa...[p]
+♥[p]
+#Nikuyama
+I will teach your body thoroughly so that you can never defy my cock again in your future life, Guhahaha.[p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 
 [_tb_end_text]
 
@@ -1874,16 +2574,17 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Radio.mp3"  ]
 [tb_start_text mode=1 ]
-#香織
-「ほ、本日は・・・長時間・・・おチンポで調教していただき・・・ありがとうございました・・・っ」[p]
-#肉山
-「おう、一日ドスケベ女の相手をして疲れたぜ。帰っていいぞ」[p]
-「明日も学園で調教してやるからな。覚悟しておけよ」[p]
-#香織
-「はい・・・お疲れさまでした・・・」[p]
+#Kaori
+Th-thank you very much for training me with your penis for a long time today...[p]
+#Nikuyama
+Hey, I'm tired from spending the whole day with a horny woman.[p]
+You can go home now, but be prepared because I'll train you at school again tomorrow.[p]
+Be ready for it.[p]
+#Kaori
+Yes...[p]
+Thank you for your hard work...[p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
@@ -1892,7 +2593,7 @@
 
 [tb_start_text mode=1 ]
 #
-よし、香織の家に行こうぜ[p]
+Let's go to Kaori's house.[p]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -1900,33 +2601,38 @@
 [chara_show  name="桐嶋"  time="1000"  wait="true"  storage="chara/1/game25.png"  width="360"  height="847"  left="448"  top="7"  reflect="false"  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
-#香織
-「休日に家まで来ないでください・・・」[p]
-#肉山
-「休日だろうがお前は俺の管理下にあるんだ。ドスケベ女を自由にさせておいたら何をするかわからんからな」[p]
-#香織
-「そんなこと・・・っ」[p]
-#肉山
-「おい、ボケっとするな」[p]
-#香織
-「えっ・・・？」[p]
-#肉山
-「もう調教は始まってるんだ。さっさと全裸になって挨拶をしろ」[p]
-#香織
-「く・・・はい・・・」[p]
+#Kaori
+Please don't come to my house on my day off...[p]
+#Nikuyama
+It's your day off, but you are under my control.[p]
+I don't know what you'll do if I let a horny woman like you roam freely.[p]
+#Kaori
+No way...[p]
+#Nikuyama
+Hey, don't space out.[p]
+#Kaori
+Huh...?[p]
+#Nikuyama
+The training has already begun.[p]
+Hurry up and take off all your clothes and greet me.[p]
+#Kaori
+Ugh...[p]
+Yes...[p]
 [_tb_end_text]
 
 [mask  time="300"  effect="fadeIn"  color="0x000000"  ]
 [chara_mod  name="桐嶋"  time="600"  cross="true"  storage="chara/1/game51.png"  ]
 [mask_off  time="300"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
-#香織
-「よ、ようこそおいでくださいました・・・。休日にわざわざご足労をしていただき申し訳ありません・・・」[p]
-「今日は一日ドスケベな香織を・・・みっちりと調教してくださいませ・・・っ」[p]
-#肉山
-「よし、とりあえず一発犯してやるからケツを出せっ」[p]
-#香織
-「キャァッ！？」[p]
+#Kaori
+W-Welcome...[p]
+Thank you for coming all the way here on my day off...[p]
+I apologize for the inconvenience...[p]
+Please spend the whole day training and disciplining the naughty side of me...[p]
+#Nikuyama
+Alright, for now, I'll give you a good spanking, so show me your butt.[p]
+#Kaori
+Kyaa!?[p]
 
 [_tb_end_text]
 
@@ -1938,24 +2644,40 @@
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Indomitable.mp3"  ]
 [tb_start_text mode=1 ]
 #
-パンッ！パンッ！パンッ！[p]
-#香織
-「アンッ♥・・・ンンッ・・・ら、乱暴にしないでぇ・・・アンッッ♥」[p]
-#肉山
-「うるせえ。生意気女はレイプで躾けしてやるっ、オラッ！」[p]
+*Spank![p]
+* *Spank![p]
+*[p]
+#Kaori
+Ahh...[p]
+Ahh...[p]
+Please don't be rough...[p]
+Ahh...[p]
+#Nikuyama
+Shut up.[p]
+I'll discipline this insolent girl with rape, ora![p]
 #
-パンッ！パンッ！パンッ！[p]
-#香織
-「アヒッ♥ハァンッ・・・アンッ♥アァンーーッ♥」[p]
-#肉山
-「レイプされてアンアン甘い声で鳴きやがって・・・教師として恥ずかし無いのか、オラッ！」[p]
+*Spank![p]
+* *Spank![p]
+*[p]
+#Kaori
+Ahh...[p]
+Haa...[p]
+Ahn...[p]
+Aaahhh...[p]
+#Nikuyama
+You're moaning with sweet voices while being raped...[p]
+Aren't you ashamed as a teacher, ora![p]
 #
-パンッ！パンッ！パンッ！パンッ！[p]
-#香織
-「く・・・ンンッ♥・・・ハァッ・・・アヒィーーッ♥」[p]
+*Spank![p]
+* *Spank![p]
+* *Spank![p]
+*[p]
+#Kaori
+K...[p]
+Nn♥...[p]
+Ahiiii♥[p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 
 [_tb_end_text]
 
@@ -1965,22 +2687,27 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="いつものカフェで待ち合わせ_2.mp3"  ]
 [tb_start_text mode=1 ]
-#肉山
-「ああー腹が減った。飯はまだかよ？」[p]
-#香織
-「い、今作ってますから・・・もう少し待ってください」[p]
-#肉山
-「ぐずぐずするなよ。お前をレイプ調教して腹ペコなんだからな」[p]
-#香織
-「く・・・なんで私がこんなことを・・・」[p]
-#肉山
-「なんだ、文句でもあるのか？」[p]
-#香織
-「い、いえ・・・」[p]
-#肉山
-「さっさと作れ。でも味が悪かったらお仕置きだからな」[p]
-#香織
-「く・・・はい・・・」[p]
+#Nikuyama
+Ahh, I'm hungry.[p]
+Is the food not ready yet?[p]
+#Kaori
+I-I'm cooking right now...[p]
+Please wait a little longer.[p]
+#Nikuyama
+Don't be so slow.[p]
+I'm hungry and I'm going to discipline you with rape.[p]
+#Kaori
+W-Why am I doing something like this...[p]
+#Nikuyama
+What, do you have a complaint?[p]
+#Kaori
+N-No...[p]
+#Nikuyama
+Hurry up and make it.[p]
+But if the taste is bad, I'll punish you.[p]
+#Kaori
+K...[p]
+Yes...[p]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -1989,29 +2716,46 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="マダムの口紅.mp3"  ]
 [tb_start_text mode=1 ]
-#肉山
-「ムシャムシャ・・・ふむ、なかなか美味いじゃねえか」[p]
-#香織
-「ジュポッ・・・チュバッ・・・あ、ありがとうございます・・・ンムッ」[p]
-#肉山
-「作った当人にチンポをしゃぶらせながら食うと一段と美味く感じるぜ、ムフフフ」[p]
-#香織
-「ンチュッ・・・レロレロッ・・・チュバッ・・・」[p]
-#肉山
-「バクバクバク・・・料理もフェラチオも気持ちが大事だからな。相手を喜ばせようという気持ちが。わかるか？」[p]
-#香織
-「く・・・チュバッ・・・レロレロレロッ・・・はい・・・」[p]
-#肉山
-「チンポで犯してもらうこと、男に奉仕することが女の幸せだからな。ムシャムシャ・・・今日は最高に幸せだろう、おい？」[p]
-#香織
-「チュバッ・・・し、幸せなわけないでしょう・・・っ・・・レロレロレロッ・・・チュバッ♥」[p]
-#肉山
-「ククク、素直じゃないやつめ。よしよし、食い終わったらまたたっぷりとチンポで可愛がってやるからな、モグモグモグ」[p]
-#香織
-「く・・・チュプッ・・・レロレロレロッ・・・ジュプッ♥」[p]
+#Nikuyama
+*Munch munch*...[p]
+Hm, this is pretty tasty, isn't it?[p]
+#Kaori
+*Sucking sounds*...[p]
+Mmm[p]
+#Nikuyama
+It tastes even better when you suck my dick while eating, hehehe.[p]
+#Kaori
+*Munch*...[p]
+*Lick*...[p]
+*Suck*...[p]
+#Nikuyama
+*Munch munch munch*...[p]
+Both cooking and fellatio are about the feeling.[p]
+The desire to please the other person.[p]
+Do you understand?[p]
+#Kaori
+*Mmm...[p]
+*Suck*...[p]
+*Lick*...[p]
+Yes...[p]
+#Nikuyama
+Being fucked with a dick and serving men is a woman's happiness.[p]
+*Munch munch*...[p]
+Today, you must be the happiest, right?[p]
+#Kaori
+*Suck*...[p]
+Th-There's no way I could be happy...[p]
+*Lick*...[p]
+*Suck* ♥[p]
+#Nikuyama
+Hehehe, you're such a disobedient one.[p]
+Good, good, once you finish eating, I'll take care of you with my cock again, munch munch munch.[p]
+#Kaori
+K...[p]
+*Suck*...[p]
+*Suck* ♥[p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 
 [_tb_end_text]
 
@@ -2022,23 +2766,34 @@
 [playbgm  volume="100"  time="1000"  loop="true"  storage="music54.mp3"  ]
 [tb_start_text mode=1 ]
 #
-ヌチュッ・・・ズプッ・・・[p]
-#香織
-「ンッ・・・ハァッ♥・・・アンッ・・・フゥッ」[p]
-#肉山
-「ほれ、しっかり腰を動かせ。でっかいケツを上下させろ」[p]
-#香織
-「く・・・はい・・・っ・・・アンッ・・・ンハァッ♥」[p]
+*Sucking sounds*...[p]
+*Slurp*...[p]
+#Kaori
+Nn...[p]
+Haa ♥...[p]
+Fuu[p]
+#Nikuyama
+Come on, move your hips properly.[p]
+Shake that big butt up and down.[p]
+#Kaori
+Kuh...[p]
+Yes...[p]
+Ahh...[p]
+Unh...[p]
+Haahh ♥[p]
 #
-ズプッ・・・ヌチュッ・・・ヌプッ[p]
-#肉山
-「自分だけ気持ちよくなってんじゃねえぞメス豚。オナホになったつもりでチンポをしごかんかい」[p]
-#香織
-「く・・・ンッ・・・は、はい・・・アンッ♥アフゥッ♥」[p]
+*Slurp*[p]
+#Nikuyama
+Don't just pleasure yourself, you female pig.[p]
+Pretend you're a sex toy and jerk off my cock.[p]
+#Kaori
+Kuh...[p]
+Nn...[p]
+Yes...[p]
+Ahh ♥ Ahfu ♥[p]
 #
-ズプッ！ヌプッ！ズプッ！[p]
-・・・・・・[p]
-・・・[p]
+*Sucking sounds*...[p]
+*Slurp*...[p]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -2048,23 +2803,31 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Radio.mp3"  ]
 [tb_start_text mode=1 ]
-#香織
-「きょ、今日は・・・長い時間おチンポで・・・ご指導くださって・・・ありがとうございました・・・っ」[p]
-#肉山
-「ふむ、それだけか？」[p]
-#香織
-「ど、ドスケベな香織を・・・おチンポで何度もイかせていただいて・・・レイプして・・・中出ししまくっていただいて・・・ありがとうございました・・・っ」[p]
-#肉山
-「うむ、まぁいいだろう。今日その身体に叩き込まれたことを忘れるなよ」[p]
-#香織
-「は、はい・・・っ」[p]
-#肉山
-「よし、じゃあ俺はもう帰るからな。明日からも学園でみっちり調教してやるから覚悟しておけ」[p]
-#香織
-「はいっ・・・お、お疲れさまでした・・・っ」[p]
+#Kaori
+T-today...[p]
+Thank you for guiding me with your...[p]
+penis for such a long time...[p]
+#Nikuyama
+Hmmm, is that all?[p]
+#Kaori
+Th-thank you for making the lewd me...[p]
+cum multiple times with your...[p]
+penis...[p]
+raping me...[p]
+and filling me up with your cum...[p]
+#Nikuyama
+Well, I guess it's fine.[p]
+Don't forget what you've been pounded into today.[p]
+#Kaori
+Y-Yes...[p]
+#Nikuyama
+Alright, then I'm going home now.[p]
+Be prepared, because starting tomorrow, I'll thoroughly train you at school.[p]
+#Kaori
+Yes...[p]
+Th-thank you for your hard work...[p]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・・・・[p]
 [_tb_end_text]
 
 [jump  storage="kitaku.ks"  target="*k1"  ]

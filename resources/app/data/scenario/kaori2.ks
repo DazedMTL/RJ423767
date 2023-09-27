@@ -14,7 +14,7 @@
 [chara_show  name="桐嶋"  time="1000"  wait="true"  storage="chara/1/game51.png"  width="394"  height="927"  left="426"  top="-3"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #
-さあ、どうする？[p]
+So, what do we do?[p]
 [_tb_end_text]
 
 [glink  color="black"  storage="play7.ks"  size="20"  text="調教１"  x="470"  y="360"  width="200"  height="20"  ]
@@ -29,7 +29,7 @@
 [chara_show  name="桐嶋"  time="1000"  wait="true"  storage="chara/1/game23.png"  width="370"  height="871"  left="433"  top="12"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #
-どうする？[p]
+What should we do?[p]
 [_tb_end_text]
 
 [glink  color="black"  storage="play7.ks"  size="20"  text="調教１"  x="520"  y="360"  width="110"  height="20"  ]
@@ -43,7 +43,7 @@
 [chara_hide_all  time="1000"  wait="true"  ]
 [chara_show  name="桐嶋"  time="1000"  wait="true"  storage="chara/1/game13.png"  width="360"  height="847"  left="469"  top="23"  reflect="false"  ]
 [tb_start_text mode=1 ]
-どうする？[p]
+What should we do?[p]
 [_tb_end_text]
 
 [glink  color="black"  storage="play6.ks"  size="20"  text="調教１"  x="611"  y="433"  width=""  height=""  _clickable_img=""  ]
@@ -53,7 +53,8 @@
 [jump  storage="kaori2.ks"  target="*k80"  cond="f.ss==80"  ]
 [tb_start_text mode=1 ]
 #
-まだ放課後に香織を呼び出すことはできない。昼間に呼び出そうぜ[p]
+I can't call Kaori out after school yet.[p]
+Let's call her out during the day.[p]
 
 [_tb_end_text]
 
@@ -62,23 +63,24 @@
 
 [tb_start_text mode=1 ]
 #
-まだ呼び出せない[p]
-家に帰るかな・・・ん？[p]
-外で男子生徒がなにやらしゃべっているな[p]
-#男子生徒Ａ
-「おまえ彼女とどこまでいった？」[p]
-#男子生徒Ｂ
-「まだＡまで。お前は？」[p]
-#男子生徒Ａ
-「俺はＢまでいったぜ」[p]
+They can't call Kaori out yet, so they're wondering if they should go home...[p]
+Hm?[p]
+It looks like some male students are talking outside.[p]
+#Male Student A
+How far have you gone with your girlfriend?[p]
+#Male Student B
+Only up to A.[p]
+What about you?[p]
+#Male Student A
+I've gone all the way to B.[p]
 #
-・・・[p]
-・・・・・・[p]
-恋愛のABCか・・・死語かと思っていたが今時のガキもまだ使うんだな[p]
-ABC・・・Ａがキス、Ｂがペッティング、Ｃが本番って意味だ[p]
-キスをして乳を揉んだら女の方も準備万端ってことだな[p]
-なるほど、ABCか・・・[p]
-・・・[p]
+............[p]
+The ABC of love, huh...[p]
+I thought it was an outdated term, but even kids these days still use it.[p]
+ABC...[p]
+A stands for kissing, B stands for petting, and C stands for the real deal.[p]
+So if you kiss and grope her breasts, it means the girl is ready for everything.[p]
+I see, the ABC method....[p]
 [_tb_end_text]
 
 [jump  storage="kitaku.ks"  target=""  ]
